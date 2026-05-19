@@ -1,0 +1,54 @@
+---
+title: "<Firm Name> TRA"
+# Multi-TRA firms: "<Firm Name> TRA (<TRA-id>)"
+# Beneficiary-side files: "<Firm Name> TRA (<role> at <obligor>)"
+author: "tra-build-timeline skill"
+date: <YYYY-MM-DD>  # date this file was written
+company-names: ["<Firm 1>"]
+# All public-company entities involved. Duplicates allowed when one CIK had multiple names across its life
+# (SPAC rename, post-merger rename). One entry per name; CIKs list mirrors order one-to-one.
+CIKs: ["0001234567"]
+# Always quote each CIK string to preserve leading zeros. Same order as company-names.
+status: Ongoing  # Ongoing | Terminated | Unknown
+creation-date: <YYYY-MM-DD>  # TRA execution date
+termination-date:
+# Blank when status is Ongoing or Unknown. YYYY-MM-DD when Terminated.
+tax-asset-type: [Basis Step-Up]
+# ALWAYS a list, even with one entry. One or more of: Basis Step-Up, NOL, Other tax credit.
+# Capital losses are tagged NOL. Section 197 amortization is tagged Basis Step-Up.
+sharing-ratio: "85%"
+# Simple percent string. Aggregate caps, per-tranche structure, et cetera go in `notes`.
+parallel-tras: []
+# Always present. List other TRA IDs at this firm; empty list when this is the only TRA.
+role: PubCo
+# PubCo | Beneficiary | Acquirer | Financing-arm
+trigger-event-type: IPO
+# IPO | Asset purchase | Merger | SPAC business combination | Plan of reorganization |
+# Spin-off | Up-C transition | Section 162 issuance | JV formation | Other
+counterparty-type: pre-IPO holders
+# Optional. pre-IPO holders | M&A sellers | founder vehicle | named individual |
+# transfer-agent book-entry | plan-of-reorganization trustee | Other
+notes:
+# Optional. Maximum 3 lines. Use for aggregate caps, per-tranche structures, off-EDGAR docket pointers,
+# valuation-allowance quirks, predecessor-name notes for shared CIKs. Longer narrative goes in Explanation.
+---
+
+## TRA Timeline
+
+#### <Origination phase grouping>
+
+- <YYYY-MM-DD>: <one-line description of the operative event>
+
+#### <Material event grouping (only if a material event occurred)>
+
+- <YYYY-MM-DD>: <one-line description>
+
+#### <Termination phase grouping (only if status is Terminated)>
+
+- <YYYY-MM-DD>: <one-line description>
+
+## Explanation
+
+<Three to five sentences. Lead with the trigger event and the contract's economic
+terms; cover any material amendments; close with the end-of-life state. End with
+"See `contract_log.md` for the full filing-by-filing record.">

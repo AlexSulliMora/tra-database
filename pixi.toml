@@ -1,0 +1,19 @@
+[workspace]
+name = "research"
+version = "0.1.0"
+description = "Shared Python environment for ~/research/* sub-projects"
+authors = ["Alex Sullivan <sullivancas@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[dependencies]
+python = ">=3.11"
+polars = ">=1.0"
+xlsxwriter = ">=3.1"
+openpyxl = ">=3.1"
+fastexcel = "*"
+pyarrow = ">=15.0"
+pytest = ">=8.0"
+jupyterlab = ">=4.0"
+ipykernel = ">=6.0"
+httpx = ">=0.28.1,<0.29"

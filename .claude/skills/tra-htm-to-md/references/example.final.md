@@ -1,0 +1,780 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.6**
+
+**Execution Copy**
+
+# TAX RECEIVABLE AGREEMENT
+
+This TAX RECEIVABLE AGREEMENT (this "Agreement"), dated as of March 21, 2012, and effective as of the Effective Date (as herein defined) by and among Vantiv, Inc., a Delaware corporation ("Vantiv"), Fifth Third Bank, a bank chartered under the laws of the State of Ohio ("Fifth Third Bank"), and FTPS Partners, LLC, a Delaware limited liability company ("FTPS" and, collectively with Fifth Third Bank, "Fifth Third").
+
+WHEREAS, Fifth Third holds as of immediately prior to the Reorganization 48,933,183 Class B Units (the "Class B Units") of Vantiv Holding, LLC, a Delaware limited liability company ("Holding") and a warrant (as amended from time to time in accordance with its terms, and any new warrants issued for all or any part of such warrant, the "Warrant") which entitles its holder to acquire 1,221,516 Class C Non-Voting Units (the "Class C Units", and together with Class B Units, the "Put Units") of Holding;
+
+WHEREAS, on March 21, 2012, the parties entered into that certain Second Amended and Restated Limited Liability Company Agreement of Holding, by and among Vantiv, Fifth Third Bank, FTPS, and Holding, dated the date hereof (as amended from time to time in accordance with its terms, the "Amended LLC Agreement"), agreeing to, among other things, modify the capital structure of Holding (the "Reorganization");
+
+WHEREAS, in connection with the Reorganization, Fifth Third will receive the right to transfer, subject to certain conditions, a portion of its Put Units to Vantiv or Holding at specified times in exchange for cash (or, at Vantiv's option, Class A Common Stock, par value $0.00001 per share, of Vantiv, on a one-for-one basis) pursuant to the terms of a certain Exchange Agreement among Vantiv, Holding, Fifth Third Bank, FTPS and such other holders of Put Units from time to time party thereto (as amended from time to time in accordance with its terms, the "Exchange Agreement," and each exchange pursuant thereto, including in connection with the IPO, as described below, an "Exchange");
+
+WHEREAS, Exchanges shall be effected pursuant to Section 2.1 of the Exchange Agreement via the transfer by a Put Holder (as defined herein) of Put Units to Vantiv or Holding in transactions that may result in the recognition of gain or loss for Federal Income Tax purposes by such Put Holder, as described herein;
+
+WHEREAS, on November 9, 2011, Vantiv filed that certain Form S-1 Registration Statement under the Securities Act of 1933, as amended (the "Registration Statement") indicating its intention to offer a certain number of shares of its Class A Common Stock to the public in an initial public offering (the "IPO");
+
+WHEREAS, in connection with the IPO and pursuant to the Exchange Agreement, Vantiv may purchase from Fifth Third a certain number of Class B Units,
+
+and such purchase may result in the recognition of gain or loss for Federal Income Tax purposes by Fifth Third;
+
+WHEREAS, Holding currently has in effect, and intends to continue to have in effect, an election under Section 754 of the Internal Revenue Code of 1986, as amended (the "Code"), for each Taxable Year (as defined below) in which an Exchange occurs, which election is intended to result in an adjustment to Vantiv's share of the tax basis of the assets owned by Holding at the time of such Exchange (such assets and any asset whose tax basis is determined, in whole or in part, by reference to the adjusted basis of any such asset, the "Original Assets") by reason of the Exchange and the receipt of payments under this Agreement;
+
+WHEREAS, the income, gain, loss, expense and other Tax (as defined herein) items of: (i) Holding solely with respect to Vantiv may be affected by the Basis Adjustment (as defined herein) and (ii) Vantiv may be affected by the Imputed Interest (as defined herein); and
+
+WHEREAS, the parties to this Agreement desire to make certain arrangements with respect to the effect of the Basis Adjustment and Imputed Interest on the actual liability for Covered Taxes (as defined herein) of Vantiv.
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+### Section 1.01: Definitions {#section-1-01}
+
+.  As used in this Agreement, the terms set forth in this [Article I](#article-i) shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined).
+
+Accounting Firm
+:   means, as of any time, the accounting firm that prepares the Federal income Tax Returns of Vantiv, so long as such firm is nationally recognized as being expert in Tax matters.
+
+Additional TRA
+:   is defined in [Section 3.01](#section-3-01)(b) of this Agreement.
+
+Advent Stockholders
+:   means collectively, Advent International GPE VI Limited Partnership, GPE VI FT Co-Investment Limited Partnership, Advent International GPE VI-A Limited Partnership, Advent International GPE VI-B Limited Partnership, Advent International GPE VI-C Limited Partnership, Advent International GPE VI-D Limited Partnership, Advent International GPE VI-E Limited Partnership, Advent International GPE VI-F Limited Partnership, Advent International GPE VI-G Limited Partnership, Advent Partners GPE VI 2008 Limited Partnership, Advent Partners GPE VI 2009
+
+    Limited Partnership, Advent Partners GPE VI-A Limited Partnership, Gary Lee Patsley Retained Annuity Trust No.1, and Pamela H. Patsley Retained Annuity Trust No. 1.
+
+Agreed Rate
+:   means for any day, a rate per annum equal to the Prime Rate in effect on such day plus 2% per annum.
+
+Agreement
+:   is defined in the preamble.
+
+Amended LLC Agreement
+:   is defined in the recitals.
+
+Applicable Treasury Rate
+:   means a rate equal to the yield to maturity as of the date an Early Termination Notice is delivered of United States Treasury securities with a constant maturity (the "Applicable Maturity") (as compiled and published in the most recent Federal Reserve Statistical Release H 15 (519)) equal to (a) if such Early Termination Notice is delivered prior to the fifth anniversary of the Closing Date, 10 years, (b) if such Early Termination Notice is delivered on or after the fifth anniversary of the Closing Date but prior to the fifteenth anniversary of the Closing Date, the number of years from the date such Early Termination Notice is delivered through the fifteenth anniversary of the Closing Date, or (c) if such Early Termination Notice is delivered on or after the fifteenth anniversary of the Closing Date, two years.  If there are no United States Treasury securities with a constant maturity equal to the Applicable Maturity, the yield to maturity shall be interpolated from the United States Treasury securities with constant maturities that are most nearly longer than and shorter than the Applicable Maturity.
+
+Audit Committee
+:   means the audit committee of Vantiv.
+
+Bankruptcy Code
+:   means Title 11 of the United States Code.
+
+Basis Adjustment
+:   means the increase or decrease in the tax basis of an Original Asset under Sections 732 or 1012 of the Code (in situations where, as a result of one or more Exchanges, Holding becomes an entity that is disregarded as separate from its owner for tax purposes), or Sections 743(b) and 754 of the Code (in situations where, following an Exchange, Holding remains in existence as an entity for tax purposes) and the comparable sections of U.S. state, local and foreign income and franchise Tax laws (as calculated under [Section 2.01](#section-2-01)(a) of this Agreement) as a result of an Exchange. To the extent permitted by law, any amount paid pursuant to this Agreement shall be taken into account in computing such Basis Adjustments. For the avoidance of doubt, payments under this Agreement shall not be treated as resulting in a Basis Adjustment to the extent such payments are treated as Imputed Interest.
+
+Board
+:   means the board of directors of Vantiv.
+
+Business Day
+:   means any day of the year other than a Saturday, a Sunday or any other day on which banking institutions in Ohio are required or authorized by law to close.
+
+Change Notice
+:   is defined in [Section 4.01](#section-4-01) of this Agreement.
+
+Change of Control
+:   has the same meaning as the term "Change of Control" as defined in the Loan Agreement.
+
+Class A Common Stock
+:   means the issued and outstanding Class A Common Stock, par value $0.01 per share, of Vantiv.
+
+Class B Units
+:   is defined in the recitals.
+
+Class C Units
+:   is defined in the recitals.
+
+Code
+:   is defined in the recitals.
+
+Covered Taxable Year
+:   means any Taxable Year of Vantiv ending on or after the IPO Date and on or before the end of the first Taxable Year ending after all Put Units have been transferred to Vantiv and in which all related Tax benefits have either been utilized or have expired.
+
+Covered Tax Benefits
+:   for any Covered Taxable Year means 85% of the Realized Tax Benefits (defined below).
+
+Covered Tax Detriments
+:   for any Covered Taxable Year means 85% of the Realized Tax Detriment (defined below).
+
+Covered Taxes
+:   means Federal Income Taxes and state, local and foreign income and franchise Taxes.
+
+Default Rate
+:   means LIBOR plus 500 basis points.
+
+Determination
+:   shall have the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of state, local or foreign income or franchise Tax law, as applicable; provided, however that such term shall be deemed to include any settlement as to which Fifth Third has consented pursuant to [Section 7.01](#section-7-01).
+
+Draft Loan Agreement
+:   is defined in [Section 8.14](#section-8-14) of this Agreement.
+
+Early Termination Notice
+:   is defined in [Section 5.02](#section-5-02) of this Agreement.
+
+Early Termination Payment
+:   is defined in [Section 5.01](#section-5-01)(a) of this Agreement.
+
+Early Termination Rate
+:   means the Applicable Treasury Rate.
+
+Effective Date
+:   is defined in the Exchange Agreement.
+
+Excess Payment
+:   is defined in [Section 3.03](#section-3-03)(a) of this Agreement.
+
+Exchange
+:   is defined in the recitals. For the avoidance of doubt, an Exchange includes (i) Exchanges effected pursuant to Section 2.1 of the Exchange Agreement via the transfer by a Put Holder of Put Units to Vantiv and (ii) Vantiv's purchase from Fifth Third of a certain number of Class B Units in connection with the IPO.
+
+Exchange Agreement
+:   is defined in the recitals.
+
+Exchange Basis Schedule
+:   is defined in [Section 2.01](#section-2-01)(b) of this Agreement.
+
+Federal Income Tax
+:   means any tax imposed under Subtitle A of the Code or any other provision of U.S. Federal income tax law (including, without limitation, the taxes imposed by Sections 1, 11, 55, 59A, and 1201(a) of the Code), and any interest, additions to tax or penalties applicable or related to such tax.
+
+Fifth Third
+:   is defined in the preamble.
+
+Fifth Third Bank
+:   is defined in the preamble.
+
+Fixed and Determinable Amount
+:   is defined in [Section 2.01](#section-2-01)(d) of this Agreement.
+
+FTPS
+:   is defined in the preamble.
+
+Governmental Entity
+:   means any federal, state, local, provincial or foreign government or any court of competent jurisdiction, administrative agency or commission or other governmental authority or instrumentality, whether domestic or foreign.
+
+Holding
+:   is defined in the recitals.
+
+Hypothetical Tax Basis
+:   means, with respect to any asset at any time, the tax basis that such asset would have had at such time if no Basis Adjustment had been made.
+
+Hypothetical Tax Liability
+:   means, with respect to any Covered Taxable Year, the liability for Covered Taxes of Vantiv (or Holding, but only with respect to Taxes imposed on Holding and allocable to Vantiv) using the same methods, elections, conventions and similar practices used on Vantiv's and Holding's actual Tax Returns but using the Hypothetical Tax Basis instead of the tax basis of the Original Assets and excluding any deduction attributable to the Imputed Interest.
+
+Imputed Interest
+:   shall mean any interest imputed under Section 1272, 1274 or 483 or other provision of the Code (or any successor Federal Income Tax statute) and the similar section of the applicable state, local or foreign income or franchise Tax law with respect to Vantiv's payment obligations under this Agreement.
+
+IPO
+:   is defined in the recitals.
+
+IPO Date
+:   means March 27, 2012.
+
+IRS
+:   means the U.S. Internal Revenue Service.
+
+LIBOR
+:   means for each month (or portion thereof) during any period, an interest rate per annum equal to the rate per annum reported, on the date two calendar days prior to the first day of such month, on Reuters Screen LIBOR01 Page (or if such screen shall cease to be publicly available, as reported by any other publicly available source of such market rate) for London interbank offered rates for United States dollar deposits for such month (or portion thereof).
+
+Loan Agreement
+:   means that certain Loan Agreement among Vantiv, LLC, a Delaware limited liability company, as Borrower, Various Lenders and various other parties defined therein, dated as of March 27, 2012, as may be amended, modified, replaced or refinanced from time to time (unless otherwise indicated).
+
+Market Value
+:   means the closing price of the Class A Common Stock on the applicable date of the Exchange on the national securities exchange or interdealer quotation system on which such Class A Common Stock are then traded or listed, as reported by the Wall Street Journal; provided that if the closing price is not reported by the Wall Street Journal for the applicable date of the Exchange, then the Market Value shall mean the closing price of the Class A Common Stock on the Business Day immediately preceding such date of Exchange on the national securities exchange or interdealer quotation system on which such Class A Common Stock are then traded or listed, as reported by the Wall Street Journal; provided further, that if the Class A Common Stock are not then listed on a national securities exchange or interdealer quotation system, "Market Value" shall mean the cash consideration paid for Class A Common Stock, or the fair market value of the other property delivered for Class A Common Stock, as determined by the Board in good faith.
+
+National Expert
+:   is defined in [Section 8.09](#section-8-09) of this Agreement.
+
+NPC
+:   means NPC Group, Inc., a Delaware corporation.
+
+NPC TRA
+:   means that certain Tax Receivable Agreement, dated as of March 21, 2012 by and among Vantiv, Fifth Third Bank, a bank chartered under the laws of the State of Ohio, FTPS Partners, LLC, a Delaware limited liability company, Advent Stockholders, Advent International Corporation, a Delaware Corporation and JPDN Enterprises, LLC, a Delaware limited liability company.
+
+Original Assets
+:   is defined in the recitals.
+
+Payment Date
+:   means any date on which a payment is required to be made pursuant to this Agreement.
+
+Person
+:   means an individual, a corporation, a partnership, an association, a limited liability company, a joint venture, a Government Entity, a trust or other entity or organization.
+
+Prime Rate
+:   shall mean the rate of interest per annum announced from time to time by Credit Suisse as its prime rate in effect at its principal office in New York City; each change in the Prime Rate shall be effective as of the opening of business on the date such change is announced as being effective.  The Prime Rate is a reference rate and does not necessarily represent the lowest or best rate actually available.
+
+Proceeding
+:   is defined in [Section 8.08](#section-8-08) of this Agreement.
+
+Proposed Early Termination Payment
+:   is defined in [Section 5.02](#section-5-02) of this Agreement.
+
+Put Holder
+:   means (a) Fifth Third Bank, (b) FTPS, (c) any Person to whom Fifth Third Bank or FTPS has transferred a Put Unit in a Transfer permitted by the Amended LLC Agreement, and (d) any Person who acquires a Put Unit through valid exercise of the Warrant.
+
+Put Units
+:   is defined in the recitals.
+
+Realized Tax Benefit
+:   means, for a Covered Taxable Year, the excess, if any of the Hypothetical Tax Liability for such Covered Taxable Year over the actual liability for Covered Taxes of Vantiv (or Holding, but only with respect to Taxes imposed on Holding and allocable to Vantiv) for such Covered Taxable Year using a "with and without" methodology (for the avoidance of doubt, taking into account [Section 8.10](#section-8-10)(c)). To the extent permitted by law, any amount paid pursuant to this Agreement shall be taken into account in computing the Realized Tax Benefit.  If all or a portion of the actual tax liability for Covered Taxes for the Covered Taxable Year arises as a result of an audit by a Taxing Authority of any Covered Taxable Year, such liability shall not be included in determining the Realized Tax Benefit or Realized Tax Detriment unless and until there has been a Determination.
+
+Realized Tax Detriment
+:   means, for a Covered Taxable Year, the excess, if any, of the actual liability for Covered Taxes of Vantiv (or Holding, but only with respect to Taxes imposed on Holding and allocable to Vantiv) for such Covered Taxable Year over the Hypothetical Tax Liability for such Covered Taxable Year using a "with and without" methodology (for the avoidance of doubt, taking into account [Section 8.10](#section-8-10)(c)). To the extent permitted by law, any amount paid pursuant to this Agreement shall be taken into account in computing the Realized Tax Detriment.  If all or a portion of the actual tax liability for Covered Taxes for the Covered Taxable Year arises as a result of an audit by a Taxing Authority of any Covered Taxable Year, such liability shall not be included in determining the Realized Tax Benefit or Realized Tax Detriment unless and until there has been a Determination.
+
+Reconciliation Procedures
+:   shall mean those procedures set forth in [Section 8.09](#section-8-09) of this Agreement.
+
+Registration Statement
+:   is defined in the recitals.
+
+Reorganization
+:   is defined in the recitals.
+
+Residual Tax Distribution Amount
+:   means, for any taxable year, the aggregate amount of the Quarterly Distributions (as defined in the Amended LLC Agreement) made to Vantiv to date during such year less the amount reasonably expected to be necessary to pay Vantiv's tax liability in respect of its ownership interest in Holding to date for such year.
+
+Revised Schedule
+:   is defined in [Section 2.01](#section-2-01)(e).
+
+Revised Tax Schedule
+:   is defined in [Section 3.03](#section-3-03)(a).
+
+Scheduled Termination Date
+:   shall mean the date on which this Agreement would terminate in the absence of an Early Termination Notice (or such other date mutually agreed to by the parties).
+
+Schedule
+:   means any Exchange Basis Schedule or Tax Schedule.
+
+Senior Obligations
+:   is defined in [Section 6.01](#section-6-01) of this Agreement.
+
+Short-fall
+:   is defined in [Section 3.03](#section-3-03)(a) of this Agreement.
+
+Subsidiary
+:   means, as of the relevant date of determination, with respect to any Person, any corporation or other Person of which 50% or more of the voting power of the outstanding voting equity securities or 50% or more of the outstanding economic equity interest is held, directly or indirectly, by such Person.
+
+Tax
+:   or "Taxes" means  (i) all forms of taxation or duties imposed, or required to be collected or withheld, including, without limitation, charges, together with any related interest, penalties or other additional amounts, (ii) liability for the payment of any amount of the type described in the preceding clause (i) as a result of being a member of an affiliated, consolidated, combined or unitary group, and (iii) liability for the payment of any amounts as a result of being party to any tax sharing agreement (other than this Agreement) or as a result of any express or implied obligation to indemnify any other person with respect to the payment of any amount described in the immediately preceding clauses (i) or (ii) (other than an obligation to indemnify under this Agreement).
+
+Tax Schedule
+:   is defined in [Section 2.01](#section-2-01)(c).
+
+Taxable Year
+:   means a taxable year as defined in Section 441(b) of the Code or comparable section of state, local or foreign income or franchise Tax law, as applicable (and, therefore, for the avoidance of doubt, may include a period of less than 12 months for which a Tax Return is made).
+
+Tax Benefit Payment
+:   is defined in [Section 3.01](#section-3-01)(b) of this Agreement.
+
+Taxing Authority
+:   means the IRS and any other state, local, foreign or other Governmental Entity responsible for the administration of Taxes.
+
+Tax Return
+:   means any return, filing, report, questionnaire, information statement or other document required to be filed, including amended returns that may be filed, for any taxable period with any Taxing Authority (whether or not a payment is required to be made with respect to such filing).
+
+Treasury Regulations
+:   means the final, temporary and proposed regulations under the Code promulgated from time to time (including corresponding provisions of succeeding provisions) as in effect for the relevant taxable period.
+
+Vantiv
+:   is defined in the preamble.
+
+Vantiv, LLC
+:   means Vantiv, LLC, a Delaware limited liability company.
+
+Valuation Assumptions
+:   means, as of an Early Termination Date, the assumptions that (1) in each Taxable Year ending on or after such Early Termination Date, Vantiv will have taxable income sufficient to fully use the deductions arising from any Basis Adjustment or Imputed Interest during such Taxable Year, (2) the Federal Income Tax rates and state, local and foreign income tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date, (3) any loss carryovers generated by the Basis Adjustment or the Imputed Interest and available as of the date of the Early Termination Notice will be utilized by Vantiv on a pro rata basis from the Early Termination Date through the scheduled expiration date of such loss carryovers, (4) any non-amortizable assets will be disposed of on the fifteenth anniversary of the earlier of the Basis Adjustment and the Early Termination Date, provided, that in the event of a Change of Control, but only pursuant to the terms of [Section 3.02](#section-3-02) hereof, non-amortizable assets shall be deemed disposed of at the earlier of (i) the time of sale of the relevant asset or (ii) as generally provided in this Valuation Assumption (4), and (5) if, at the Early Termination Date, there are Put Units that have not been Exchanged, [Section 2.01](#section-2-01)(a) shall be read to include the Market Value of the Class A Shares and the amount of cash that would be transferred if the Exchange occurred on the Early Termination Date.
+
+Vantiv Payment
+:   is defined in [Section 6.01](#section-6-01) of this Agreement.
+
+Warrant
+:   is defined in the recitals.
+
+## ARTICLE II: DETERMINATION OF REALIZED TAX BENEFIT OR REALIZED TAX DETRIMENT {#article-ii}
+
+### Section 2.01 {#section-2-01}
+
+(a) Basis Adjustment. Vantiv and Holding, on the one hand, and Fifth Third, on the other hand, acknowledge that, as a result of an Exchange, Vantiv's basis in the applicable Original Assets shall be increased by the excess, if any, of (i) the sum of (x) the Market Value of the Class A Common Stock, cash or other consideration transferred to Fifth Third pursuant to the Exchange as payment for the exchanged Put Units, plus (y) the amount of payments made pursuant to this Agreement with respect to such Exchange plus (z) the amount of debt allocated to the Put Units acquired pursuant to such Exchange over (ii) Vantiv's share of the basis of the Original Assets immediately after the Exchange attributable to the Put Units exchanged, determined as if (x) Holding remains in existence as an entity for tax purposes, and (y) Holding has not made the election provided by Section 754 of the Code. For the avoidance of doubt, payments under this Agreement shall not be treated as resulting in a Basis Adjustment to the extent such payments are treated as Imputed Interest.
+
+(b) Exchange Basis Schedule. Within 60 calendar days after the filing of the U.S. Federal income Tax Return of Vantiv for a Covered Taxable Year, Vantiv shall deliver to Fifth Third a schedule substantially in the form of Exhibit A attached hereto (the "Exchange Basis Schedule") that shows, in reasonable detail, for purposes of Taxes, (i) the actual unadjusted tax basis of the Original Assets as of each applicable date of Exchange, (ii) the Basis Adjustment with respect to the Original Assets as a result of the Exchanges effected in such Taxable Year, calculated in the aggregate, (iii) the period or periods, if any, over which the Original Assets are amortizable and/or depreciable and (iv) the period or periods, if any, over which each Basis Adjustment is amortizable and/or depreciable (which, for non-amortizable assets shall be based on the Valuation Assumptions).
+
+(c) Tax Schedule.  Within 45 calendar days after the filing of the U.S. Federal income Tax Return of Vantiv for a Covered Taxable Year, but not later than November 1st of the year immediately following such Covered Taxable Year, Vantiv shall provide to Fifth Third a schedule substantially in the form of Exhibit B attached hereto (the "Tax Schedule") showing, in reasonable detail, the computation of the Covered Tax Benefit (if any), the Covered Tax Detriment (if any) and the Tax Benefit Payment (determined in accordance with [Section 3.01](#section-3-01)(b)) (if any) for such Covered Taxable Year.
+
+(d) Procedure. Each time Vantiv delivers to Fifth Third an applicable Schedule under this Agreement, including any Revised Schedule delivered pursuant to [Section 2.01](#section-2-01)(e), Vantiv shall also (i) deliver work papers providing reasonable detail regarding the computation of such items and (ii) allow Fifth Third reasonable access during normal business hours at no cost to the appropriate representatives at Vantiv and its Subsidiaries in connection with its review of the applicable Schedule and workpapers. Subject to the other provisions of this Agreement, the items reflected on a Schedule shall become final 30 calendar days after delivery of such Schedule to Fifth Third unless Fifth Third, during such 30 calendar days period, provides Vantiv with written notice of a material objection thereto made in good faith. If the parties, negotiating in good faith, are unable to successfully resolve the issues raised in such notice within 15 calendar days, Vantiv and Fifth Third shall employ the Reconciliation Procedures; provided that, if the
+
+issues raised in such notice are not resolved by December 15th of the year immediately following the relevant Covered Taxable Year, then the amount proposed by Vantiv shall be considered fixed and determinable (the "Fixed and Determinable Amount").
+
+(e) Revised Schedule.  Notwithstanding that the Covered Tax Benefit (if any), the Covered Tax Detriment (if any), the Tax Benefit Payment (if any) for a Covered Taxable Year and items with respect to an Exchange Basis Schedule may have become final under [Section 2.01](#section-2-01)(d), such items shall be revised to the extent necessary to reflect (i) a Determination, (ii) material inaccuracies in the original computation as a result of factual information that was not previously taken into account, (iii) a material change attributable to a carryback or carryforward of a loss or other tax item, (iv) a material change attributable to an amended Tax Return filed for such Covered Taxable Year or (v) to comply with the expert's determination under the Reconciliation Procedures (such Schedules, a "Revised Schedule").
+
+(f) Applicable Principles.  It is the intention of the parties for Vantiv to pay Fifth Third 85% of the additional Covered Taxes that Vantiv would have been required to pay on Tax Returns that have actually been filed but for (i) the difference between the tax basis in the Original Assets and the Hypothetical Tax Basis and (ii) any deduction attributable to the Imputed Interest, and this Agreement shall be interpreted in accordance with such intention. Such amount shall be determined using a "with and without" methodology. Carryovers or carrybacks of any tax item shall be considered to be subject to the rules of the Code (or any successor Federal Income Tax statute) and the Treasury Regulations or the appropriate provisions of state, local and foreign income and franchise Tax law, as applicable, governing the use, limitation and expiration of carryovers or carrybacks of the relevant type. If a carryover or carryback of any Tax item includes a portion that is attributable to the Basis Adjustment and another portion that is not, such portions shall be considered to be used in the order determined using such "with and without" methodology.
+
+## ARTICLE III: TAX BENEFIT PAYMENTS {#article-iii}
+
+### Section 3.01: Payments {#section-3-01}
+
+(a) Within 3 Business Days of the Tax Schedule for any Covered Taxable Year becoming final under [Section 2.01](#section-2-01)(d), or, at Vantiv's option, on January 5th of the second year immediately following such Covered Taxable Year (or, if January 5th falls on a weekend, the Monday following January 5th), Vantiv shall pay to Fifth Third an amount equal to the Tax Benefit Payment (determined in accordance with [Section 3.01](#section-3-01)(b)); provided, however, that if the Tax Schedule for any Covered Taxable Year has not become final by December 15th of the year immediately following the relevant Covered Taxable Year, Vantiv shall pay to Fifth Third the Fixed and Determinable Amount by January 5th of the second year immediately following such Covered Taxable Year (or, if January 5th falls on a weekend, the Monday following January 5th).  If a payment is made
+
+prior to the Tax Schedule for any Covered Taxable Year becoming finalized pursuant to the immediately preceding sentence, within 3 Business Days of finalization of such Tax Schedule Vantiv shall pay to Fifth Third the excess, if any, of the Tax Benefit Payment indicated on such final Tax Schedule over the Fixed and Determinable Amount.  Each Tax Benefit Payment shall be made by wire transfer of immediately available funds to the bank accounts of Fifth Third previously designated by such parties to Vantiv.
+
+(b) A "Tax Benefit Payment" shall equal, with respect to any Covered Taxable Year, the amount of Covered Tax Benefits, if any, for a Covered Taxable Year;
+
+increased by:
+
+(1) the interest calculated at the Agreed Rate from the due date (without extensions) for filing the Federal income Tax Return with respect to Covered Taxes for such Covered Taxable Year) until the Payment Date (for the avoidance of doubt, such interest shall be treated as additional consideration for the Exchange); and
+
+(2) any increase in the Covered Tax Benefit or reduction in the Covered Tax Detriment that has become final under [Section 2.01](#section-2-01)(d);
+
+and decreased, but without duplication of amount reimbursed pursuant to [Section 3.03](#section-3-03), by:
+
+(3) any Covered Tax Detriment for a previous Covered Taxable Year; and
+
+(4) any decrease in the Covered Tax Benefit or increase in the Covered Tax Detriment that has become final under [Section 2.01](#section-2-01)(d);
+
+provided, however, that (i) the amounts described in [Section 3.01](#section-3-01)(b)(2), (3) and (4) above shall not be taken into account in determining a Tax Benefit Payment attributable to any Covered Taxable Year to the extent of such amounts that were taken into account in determining any Tax Benefit Payment in a preceding Covered Taxable Year, (ii) the amounts described in [Section 3.01](#section-3-01)(b)(3) and (4) above shall not be taken into account in determining a Tax Benefit Payment attributable to any Covered Taxable Year to the extent such amounts actually reduced (but not below zero) the Tax Benefit Payment actually made by Vantiv for a previously Covered Taxable Year and (iii) for the avoidance of doubt, Fifth Third shall not be obligated to return any portion of any previously made Tax Benefit Payment; and provided further that in calculating the Tax Benefit Payment if, for any Covered Taxable Year, Vantiv is a party to any other agreement (other than the NPC TRA in any Covered Taxable Year when NPC does not file a consolidated Tax Return with Vantiv) pursuant to which Vantiv is obligated to make payments to another party to such agreement the amount of which is determined based on certain Tax benefits available to Vantiv (an "Additional TRA"), the amount of
+
+the Realized Tax Benefit under this Agreement shall equal the Pro-Rata Realized Tax Benefit.  For purposes of this paragraph:
+
+"Hypothetical Additional TRA Tax Benefits" shall mean the aggregate amount of relevant Tax benefits calculated under each Additional TRA for purposes of determining amounts owed under such agreements and calculated, in each case, without regard to the existence of this Agreement or any other Additional TRA;
+
+"Hypothetical Realized Tax Benefits" shall mean the Realized Tax Benefits under this Agreement calculated without regard to the existence of tax benefits covered under any Additional TRA;
+
+"Pro-Rata Realized Tax Benefit" shall mean the product of (i) the aggregate amount of relevant Tax benefits calculated under this Agreement and all other Additional TRAs for purposes of determining amounts owed under such agreements but not in excess of the amount of such benefit actually realized by Vantiv (or Holding, but only with respect to Taxes imposed on Holding and allocable to Vantiv) multiplied by (ii) the TRA Ratio; and
+
+"TRA Ratio" shall mean a fraction, the numerator of which is the Hypothetical Realized Tax Benefits and the denominator of which is the sum of the Hypothetical Realized Tax Benefits and the Hypothetical Additional TRA Tax Benefits.
+
+### Section 3.02: Change of Control {#section-3-02}
+
+.  Notwithstanding [Section 3.01](#section-3-01), in the event of a Change of Control, if Vantiv had an obligation to make payments pursuant to [Section 3.01](#section-3-01)(a) of this Agreement in either of the two Taxable Years immediately preceding to the Change of Control, for each Taxable Year ending on or after the date of a Change of Control, all Tax Benefit Payments, whether paid with respect to Put Units that were exchanged (i) prior to the date of such Change of Control or (ii) on or after the date of such Change of Control, shall be calculated by using Valuation Assumptions (1), (3), and (4), substituting in each case the terms "the date on which a Change of Control becomes effective" for "Early Termination Date".
+
+### Section 3.03: Increase or Decrease in Future Payments {#section-3-03}
+
+(a) In the event that a Tax Schedule is revised pursuant to [Section 2.01](#section-2-01)(e) (a "Revised Tax Schedule") for any Covered Taxable Year reflecting a decrease in the Realized Tax Benefit for such year (including, without limitation, by reason of net operating loss carryovers or carrybacks) and payments have previously been made based on the higher Realized Tax Benefit (either such excess, an "Excess Payment"), future payments, if any, to be made under [Section 3.01](#section-3-01) shall be reduced by the amount of the Excess Payment until such Excess Payment has effectively been repaid. For the avoidance of doubt, if future payments are insufficient to repay any Excess Payment (a "Short-fall"), Fifth Third shall have no obligation to repay to Vantiv any such Short-fall.
+
+(b) Within 3 Business Days of the delivery of a Revised Tax Schedule to Fifth Third for any Covered Taxable Year, the Company shall pay to Fifth Third an amount equal to the excess, if any, of (x) the amount such person is entitled to receive under this Agreement in respect of the relevant Covered Taxable Year (based on such Amended Tax Benefit Schedule) over (y) the cumulative amount the person actually received in respect of such Covered Taxable Year pursuant to this Agreement.
+
+### Section 3.04: No Duplicative Payments {#section-3-04}
+
+.  No duplicative payment of any amount (including interest) will be required under this Agreement.
+
+## ARTICLE IV
+
+### Section 4.01: Change Notices {#section-4-01}
+
+.  If Vantiv, Holding, or any of their respective Subsidiaries receives a 30-day letter, a final audit report, a statutory notice of deficiency or similar written notice from any Taxing Authority with respect to the Tax treatment of any Exchange (a "Change Notice"), which, if sustained, would result in (i) a reduction in the amount of Realized Tax Benefit with respect to a Covered Taxable Year preceding the taxable year in which the Change Notice is received or (ii) a reduction in the amount of Tax Benefit Payments Vantiv will be required to pay to Fifth Third with respect to Covered Taxable Years after and including the taxable year in which the Change Notice is received, prompt written notice shall be given to Fifth Third.
+
+## ARTICLE V: TERMINATION {#article-v}
+
+### Section 5.01: Early Termination and Breach of Agreement {#section-5-01}
+
+(a) Vantiv may terminate this Agreement with the approval by a majority of the directors of Vantiv by paying to Fifth Third an agreed value of payments remaining to be made under this Agreement (the "Early Termination Payment") as of the date of the Early Termination Notice (as defined below). The Early Termination Payment as of the date of an Early Termination Notice (as defined below) shall equal the present value, discounted at the Early Termination Rate, of all Tax Benefit Payments that would be required to be paid by Vantiv to Fifth Third during the period from the date of the Early Termination Notice through the Scheduled Termination Date (taking into account the impact of the Early Termination Payment) assuming the Valuation Assumptions are applied.  Upon payment of the Early Termination Payment by Vantiv, Vantiv shall have no further payment obligations under this Agreement, other than for any (a) Tax Benefit Payment agreed to by Vantiv and Fifth Third as due and payable but unpaid as of the Early Termination Notice and (b) any Tax Benefit Payment due for the Covered Taxable Year ending with or including the date of the Early Termination Notice (except to the
+
+extent that the amount described in clause (a) or (b) is included in the Early Termination Payment).
+
+(b) In the event that Vantiv materially breaches any of its material obligations under this Agreement, whether as a result of failure to make any material payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under the Bankruptcy Code, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but shall not be limited to, (1) the Early Termination Payment calculated as if an Early Termination Notice had been delivered on the date of a breach, (2) any Tax Benefit Payment agreed to by Vantiv and Fifth Third as due and payable but unpaid as of the date of a breach, and (3) any Tax Benefit Payment due for the Taxable Year ending with or including the date of a breach. Notwithstanding the foregoing, in the event that Vantiv breaches this Agreement, Fifth Third shall be entitled to elect to receive the amounts set forth in clauses (1), (2) and (3) above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within three months of the date such payment is due shall be deemed to be a breach of a material obligation under this Agreement for all purposes of this Agreement, and that it will not be considered to be a breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within three months of the date such payment is due. In the case of a breach of a material obligation other than an obligation to make a payment, Vantiv will not be considered to have breached such obligation for purposes of this [Section 5.01](#section-5-01)(b) until Vantiv shall have been provided a reasonable opportunity to cure such breach (if capable of cure) and shall have failed to cure such breach.
+
+(c) Vantiv, Holding and Fifth Third hereby acknowledge that, as of the date of this Agreement, the aggregate value of the Tax Benefit Payments cannot reasonably be ascertained for Federal Income Tax or other applicable Tax purposes.
+
+### Section 5.02: Early Termination Notice {#section-5-02}
+
+.  If Vantiv chooses to request early termination under [Section 5.01](#section-5-01) above, Vantiv shall deliver to Fifth Third a notice (the "Early Termination Notice") specifying Vantiv's intention to request early termination and showing in reasonable detail its calculation of the Early Termination Payment (the "Proposed Early Termination Payment"). At the time Vantiv delivers the Early Termination Notice to Fifth Third, Vantiv shall (a) deliver to Fifth Third schedules and work papers providing reasonable detail regarding the calculation of the Proposed Early Termination Payment and a letter from a nationally recognized accounting firm supporting such calculation and (b) allow Fifth Third reasonable access during normal business hours at no cost to the appropriate representatives at Vantiv and its Subsidiaries and such accounting firm (and the Accounting Firm) in connection with its review of such calculation. Within 30 calendar days after receiving such calculation, Fifth Third shall notify Vantiv whether it agrees to or objects to the Proposed Early Termination Payment. The Proposed Early Termination Payment shall become final and binding on the parties if Fifth Third agrees in writing to the value of the Proposed Early Termination
+
+Payment within such 30 day period (or such shorter period as may be mutually agreed in writing by the parties). If Fifth Third objects, and Fifth Third and Vantiv, for any reason, cannot agree upon the value of the Early Termination Payment within 30 calendar days following Vantiv's receipt of Fifth Third's objection, Vantiv and Fifth Third shall employ the Reconciliation Procedures as described in [Section 8.09](#section-8-09) of this Agreement. For the avoidance of doubt, Vantiv shall have no obligation to request early termination under [Section 5.01](#section-5-01).
+
+### Section 5.03: Payment upon Early Termination {#section-5-03}
+
+.  Within 10 calendar days of an agreement between Fifth Third and Vantiv as to the value of the Early Termination Payment, Vantiv shall pay to Fifth Third an amount equal to the Early Termination Payment. Such payment shall be made by wire transfer of immediately available funds to a bank account designated by Fifth Third.
+
+### Section 5.04: No Other Right of Early Termination {#section-5-04}
+
+.  For the avoidance of doubt, Fifth Third shall not be entitled to cause an early termination of this Agreement.
+
+## ARTICLE VI: SUBORDINATION AND LATE PAYMENTS {#article-vi}
+
+### Section 6.01: Subordination {#section-6-01}
+
+.  Notwithstanding any other provision of this Agreement to the contrary, any Tax Benefit Payment or Early Termination Payment required to be made by Vantiv to Fifth Third under this Agreement (a "Vantiv Payment") shall rank subordinate and junior in right of payment to any principal, interest or other amounts due and payable in respect of any debt of Vantiv ("Senior Obligations") and shall rank pari passu with all current or future unsecured obligations of Vantiv that are not Senior Obligations. For the avoidance of doubt, no Tax Benefit Payment or Early Termination Payment in excess of the Residual Tax Distribution Amount shall be made by Vantiv to Fifth Third if a distribution by Holding to Vantiv in connection with such payment would be prohibited under Section 6.18(k) of the Loan Agreement.  For the further avoidance of doubt, any payment not made due to the preceding sentence shall not be deemed a breach under [Section 5.01](#section-5-01)(b) of this Agreement unless and until such payment remains unpaid three months after the earliest of (a) the date the Event of Default (as such term is defined in the Loan Agreement and used in Section 6.18(k) of the Loan Agreement) has been waived in accordance with the terms of the Loan Agreement and the borrower is otherwise in pro forma compliance with the covenants set forth in Section 6.22 of the Loan Agreement, (b) the Termination Date (as defined in the Loan Agreement) has occurred, or (c) if payment was prohibited because of the Pro Forma Basis (as defined in the Loan Agreement) covenant, the date such covenants in Section 6.22 of the Loan Agreement are complied with so long as no other Event of Default exists.
+
+### Section 6.02: Late Payments by Vantiv {#section-6-02}
+
+.  The amount of all or any portion of a Vantiv Payment not made to Fifth Third when due under the terms of this Agreement shall be payable together with any interest thereon, computed at the Default Rate and commencing from the date on which such Vantiv Payment was due and payable.
+
+## ARTICLE VII: NO DISPUTES; CONSISTENCY; COOPERATION {#article-vii}
+
+### Section 7.01: Fifth Third Participation in Vantiv Tax Matters {#section-7-01}
+
+.  Except as otherwise provided herein, Vantiv shall have full responsibility for, and sole discretion over, all Tax matters concerning Vantiv, Holding and their respective Subsidiaries, including, without limitation, the preparation, filing or amending of any Tax Return and defending, contesting or settling any issue pertaining to Taxes. Notwithstanding the foregoing, Vantiv shall notify Fifth Third of, and keep Fifth Third reasonably informed with respect to, and Fifth Third shall have the right to participate in (at its own expense) and monitor (but, for the avoidance of doubt, not to control) the portion of any audit of Vantiv, Holding and their respective Subsidiaries, as applicable, by a Taxing Authority the outcome of which is reasonably expected to affect Fifth Third's rights under this Agreement. Vantiv shall provide to Fifth Third reasonable opportunity to provide information and other input to Vantiv and its advisors concerning the conduct of any such portion of such audits.
+
+### Section 7.02: Consistency {#section-7-02}
+
+. Except upon the advice of a nationally recognized accounting firm, and except for items that are explicitly described as "deemed" or in similar manner by the terms of this Agreement, Fifth Third and Vantiv, on their own behalf and on behalf of each of their respective affiliates, agree to report and cause to be reported for all purposes, including federal, state, local and foreign tax purposes and financial reporting purposes, all tax-related items (including without limitation the Basis Adjustment and each Tax Benefit Payment) in a manner consistent with that specified by Vantiv in any Schedule required to be provided by or on behalf of Vantiv under this Agreement. Any dispute concerning the Accounting Firm's advice shall be subject to the terms of [Section 8.09](#section-8-09).
+
+### Section 7.03: Cooperation {#section-7-03}
+
+.  Fifth Third shall (and shall cause its affiliates to) (a) furnish to Vantiv in a timely manner such information, documents and other materials as Vantiv may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending any audit, examination or controversy with any Taxing Authority, (b) make its employees available to Vantiv and its representatives to provide explanations of documents and materials and such other information as Vantiv or its representative may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter.
+
+## ARTICLE VIII: GENERAL PROVISIONS {#article-viii}
+
+### Section 8.01: Notices {#section-8-01}
+
+.  All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given and received (a) on the date of delivery if delivered personally, or by facsimile upon confirmation of transmission by the sender's fax machine if sent on a Business Day (or otherwise on the next Business Day) or (b) on the first Business Day following the date of dispatch if delivered by a recognized next-day courier service. All notices hereunder shall be delivered as set forth in Schedule A, or pursuant to such other instructions as may be designated in writing by the party to receive such notice. Any party may change its address or fax number by giving the other party written notice of its new address or fax number in the manner set forth above.
+
+### Section 8.02: Counterparts {#section-8-02}
+
+.  This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart.
+
+### Section 8.03: Entire Agreement; No Third Party Beneficiaries {#section-8-03}
+
+.  This Agreement constitutes the entire agreement and supersedes all prior agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof. This Agreement shall be binding upon and inure solely to the benefit of each party hereto and their respective successors and permitted assigns, and nothing in this Agreement, express or implied, is intended to or shall confer upon any other Person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+### Section 8.04: Governing Law {#section-8-04}
+
+.  This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware without giving effect to applicable principles of conflict of laws.
+
+### Section 8.05: Severability {#section-8-05}
+
+.  If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+### Section 8.06: Successors; Assignment; Amendments {#section-8-06}
+
+.  Fifth Third may not assign this Agreement to any person without the prior written consent of Vantiv and the Audit Committee, which consent shall not be unreasonably withheld, conditioned or delayed; provided, however, Fifth Third may pledge some or all of its rights, interests or entitlements under this Agreement to any U.S. money center bank in connection with a bona fide loan or other indebtedness; provided further, however, that Fifth Third may, without the prior written consent of Vantiv, assign its rights to any of a) a wholly owned Subsidiary of Fifth Third, b) an entity taxed as a partnership, disregarded entity, grantor trust or other flow-through entity for Federal Income Tax purposes that is controlled by Fifth Third, or c) any Person to which Fifth Third transfers the Warrant (but only with respect to the Put Units associated with the Warrant). Vantiv may not assign any of their rights, interests or entitlements under this Agreement without the consent of Fifth Third, not to be unreasonably withheld or delayed; provided, however, that Vantiv may assign its rights to a wholly-owned subsidiary of Vantiv without the prior written consent of Fifth Third; provided, further, however, that no such assignment shall relieve Fifth Third or Vantiv of any of its obligations hereunder. Subject to each of the two immediately preceding sentences, this Agreement will be binding upon, inure to the benefit of and be enforceable by, the parties and their respective successors and assigns including any acquirer of all or substantially all of the assets of Vantiv. Any amendment to this Agreement will be subject to approval by a majority of the independent directors of Vantiv, provided, however, that [Section 6.01](#section-6-01) of this Agreement shall not be amended, changed or modified in such a manner that is materially adverse to the interests of the Lenders (as such term is defined in the Loan Agreement), each of which shall be a third party beneficiary of this Agreement solely for purposes of this last sentence in [Section 8.06](#section-8-06).
+
+### Section 8.07: Titles and Subtitles {#section-8-07}
+
+. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+### Section 8.08: Submission to Jurisdiction; Waivers {#section-8-08}
+
+.  With respect to any suit, action or proceeding relating to this Agreement (collectively, a "Proceeding"), each party to this Agreement irrevocably (a) consents and submits to the exclusive jurisdiction of the courts of the States of New York and Delaware and any court of the U.S. located in the Borough of Manhattan in New York City or the State of Delaware; (b) waives any objection which such party may have at any time to the laying of venue of any Proceeding brought in any such court, waives any claim that such Proceeding has been brought in an inconvenient forum and further waives the right to object, with respect to such Proceeding, that such court does not have jurisdiction over such party; (c) consents to the service of process at the address set forth for notices in [Section 8.01](#section-8-01) herein; provided, however, that such manner of service of process shall not preclude the service of process in any other manner permitted under applicable law; and (d) waives, to the fullest extent permitted by applicable law, any and all rights to trial by jury in connection with any Proceeding.
+
+### Section 8.09: Reconciliation {#section-8-09}
+
+.  In the event that Vantiv and Fifth Third are unable to resolve a disagreement within the relevant period designated in this Agreement, the matter shall be submitted for determination to a nationally recognized expert in the particular area of disagreement employed by a nationally recognized accounting firm or a law firm (other than the Accounting Firm), which expert is mutually acceptable to all parties and the Audit Committee (the "National Expert"). Any costs of the National Expert shall be borne equally by Vantiv and Fifth Third.  If the matter is not resolved before any payment that is the subject of a disagreement is due or any Tax Return reflecting the subject of a disagreement is due, such payment shall be made on the date prescribed by this Agreement in the amount proposed by Vantiv and such Tax Return shall be filed as prepared by Vantiv, subject to adjustment or amendment upon resolution. The determinations of the National Expert pursuant to this [Section 8.09](#section-8-09) shall be binding on Vantiv, Holding, Fifth Third and their respective Subsidiaries absent manifest error.
+
+### Section 8.10: Admission of Vantiv into a Consolidated Group; Transfers of Corporate Assets {#section-8-10}
+
+(a) If Vantiv becomes a member of an affiliated or consolidated group of corporations that files a consolidated income tax return pursuant to Sections 1501 et seq. of the Code or any corresponding provisions of state, local or foreign law, then: (i) the provisions of this Agreement shall be applied with respect to the group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments and other applicable items hereunder shall be computed with reference to the consolidated taxable income of the group as a whole.
+
+(b) If any entity that is obligated to make a Vantiv Payment hereunder transfers one or more assets to a corporation, other than a corporation that is an Affiliate (as such term is defined in the Exchange Agreement) of the transferor, with which such entity does not file a consolidated tax return pursuant to Section 1501 of the Code, such entity, for purposes of calculating the amount of any Vantiv Payment (e.g., calculating the gross income of the entity and determining the Realized Tax Benefit or Realized Tax Detriment of such entity) due hereunder, shall be treated as having disposed of such asset in a fully taxable transaction on the date of such transfer. The consideration deemed to be received by such entity shall be equal to the fair market value of the money or other property received for the transferred asset, plus without duplication (i) the amount of debt to which such asset is subject, in the case of a transfer of an encumbered asset or (ii) the amount of debt allocated to such asset, in the case of a transfer of a partnership interest.
+
+(c) If any entity that is obligated to make a Vantiv Payment hereunder transfers one or more assets to a corporation that is an Affiliate (as such term is defined in the Exchange Agreement) of the transferor with which such entity does not file a consolidated tax return pursuant to Section 1501 of the Code, such entity, for purposes of calculating the amount of any Vantiv Payment (e.g., calculating the gross income of the entity and determining the Realized Tax Benefit of such entity) due hereunder, shall be treated as having retained and not transferred such asset.
+
+### Section 8.11: Partnership Agreement {#section-8-11}
+
+. This Agreement shall be treated as part of the partnership agreement of Holding as described in Section 761(c) of the Code, and Sections 1.704-1(b)(2)(ii)(h) and 1.761-1(c) of the Treasury Regulations.
+
+### Section 8.12: Withholding {#section-8-12}
+
+. Vantiv shall be entitled to deduct and withhold from any payment payable pursuant to this Agreement such amounts as Vantiv is required to deduct and withhold with respect to the making of such payment under the Code, the Treasury Regulations, or any provision of state, local or foreign tax law. To the extent that amounts are so withheld and paid over to the appropriate Taxing Authority by Vantiv, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to Fifth Third.
+
+### Section 8.13: No More Favorable Terms {#section-8-13}
+
+.  No Additional TRA shall provide terms that are more favorable to the person or its affiliates that is a party to such Additional TRA than those provided to Fifth Third under this Agreement.  In the event that an Additional TRA contains, or is amended to contain, terms that are more favorable to such person than those available to Fifth Third under this Agreement, Vantiv shall offer to amend this Agreement in order to make such more favorable terms available to Fifth Third.
+
+### Section 8.14: Credit Agreement {#section-8-14}
+
+. Vantiv will not cause or permit (i) any changes to the form of the Loan Agreement attached hereto as [Exhibit C](#exhibit-c) ("Draft Loan Agreement"), and/or (ii) any amendment to the Loan Agreement, in either case if such change or amendment relates to payments in connection with either Quarterly Distributions or Tax Receivable Agreements (as such terms are defined in the Draft Loan Agreement) and would be adverse to the rights of Fifth Third under this Agreement without the consent of Fifth Third.  For the avoidance of doubt, the Draft Loan Agreement shall be treated as binding and in full effect solely for purposes of determining pursuant to the preceding sentence whether a change to such agreement would be adverse to the rights of Fifth Third under this Agreement.
+
+IN WITNESS WHEREOF, Vantiv and Fifth Third have duly executed this Agreement as of the date first written above.
+
+Vantiv, Inc.
+
+By:
+
+/s/ Charles D. Drucker
+
+Name:
+
+Charles D. Drucker
+
+Title:
+
+President and Chief Executive Officer
+
+Address:
+
+Vantiv, Inc
+
+8500 Governor's Hill Drive
+
+Symmes Township, OH 45249
+
+Attention: General Counsel
+
+Fifth Third Bank By:
+
+/s/ Greg D. Carmichael
+
+Name:
+
+Greg D. Carmichael
+
+Title:
+
+EVP & Chief Operating Officer By:
+
+/s/ Paul L. Reynolds
+
+Name:
+
+Paul L. Reynolds
+
+Title:
+
+EVP, Secretary and Chief Risk Officer
+
+Address:
+
+Fifth Third Bank
+
+38 Fountain Square Plaza
+
+Cincinnati, OH 45263
+
+Attention: Paul Reynolds
+
+FTPS Partners, LLC By:
+
+/s/ Paul L. Reynolds
+
+Name:
+
+Paul L. Reynolds
+
+Title:
+
+Executive Vice President
+
+Address:
+
+FTPS Partners, LLC c/o Fifth Third Bank
+
+38 Fountain Square Plaza
+
+Cincinnati, OH 45263
+
+Attention: Paul Reynolds
+
+## Schedule A
+
+**Notices**
+
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+| If to Vantiv:                               |                       | Vantiv, Inc.\                                       |
+|                                             |                       | 8500 Governor's Hill Drive\                         |
+|                                             |                       | Symmes Township, Ohio 45249\                        |
+|                                             |                       | Attention: General Counsel                          |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+|                                             |                       |                                                     |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+| With a copy to:                             |                       | Weil, Gotshal & Manges LLP\                         |
+|                                             |                       | 100 Federal Street, 34th Floor\                     |
+|                                             |                       | Boston, Massachusetts 02110\                        |
+|                                             |                       | Facsimile No.: (617) 772-8333\                      |
+|                                             |                       | Attention: Marilyn French, Esq.                     |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+|                                             |                       |                                                     |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+| If to Fifth Third Bank or FTPS Partners LLC |                       | Fifth Third Bank\                                   |
+|                                             |                       | 38 Fountain Square Plaza\                           |
+|                                             |                       | Cincinnati, OH 45263\                               |
+|                                             |                       | Facsimile No.: (513) 534-6757\                      |
+|                                             |                       | Email: paul.reynolds@53.com\                        |
+|                                             |                       | Attention: Paul Reynolds                            |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+|                                             |                       |                                                     |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+| With a copy to:                             |                       | Sullivan & Cromwell LLP\                            |
+|                                             |                       | 125 Broad Street\                                   |
+|                                             |                       | New York, New York 10004\                           |
+|                                             |                       | Facsimile No.: (212) 558- 3588\                     |
+|                                             |                       | Email: korrya@sullcrom.com and gladina@sullcrom.com |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+|                                             |                       | Attention: Alexandra D. Korry, Esq. and             |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+|                                             |                       | Andrew R. Gladin, Esq.                              |
++---------------------------------------------+-----------------------+-----------------------------------------------------+
+
+## Exhibit A
+
+**Vantiv, Inc.**
+
+**TAX RECEIVABLE AGREEMENT**
+
+**\[Exchange Date\] Exchange Basis Schedule**
+
+**\[Partner A\]**
+
+<table data-border="0" data-cellpadding="0" data-cellspacing="0" style="border-collapse:collapse;width:100.0%;" width="100%">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p><strong> </strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td colspan="3" style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 26.5%" data-valign="bottom" width="26%"><p><strong>Unadjusted Basis</strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td colspan="3" style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 26.5%" data-valign="bottom" width="26%"><p><strong>Basis Adjustment</strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+</tr>
+<tr class="even">
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p><strong>Original Assets</strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>Unadjusted<br />
+Basis</strong></p></td>
+<td style="border: none; border-top: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: none; border-top: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>Recovery<br />
+Period</strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>Basis<br />
+Adjustment</strong></p></td>
+<td style="border: none; border-top: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: none; border-top: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>Recovery<br />
+Period</strong></p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+</tr>
+<tr class="odd">
+<td style="border: none; padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+</tr>
+<tr class="even">
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p>Other Property</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+</tr>
+<tr class="odd">
+<td style="padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p>NPC Stock</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+</tr>
+<tr class="even">
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p>Depreciable Assets</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+</tr>
+<tr class="odd">
+<td style="padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p>Intangible Assets</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+<td style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p>[        ]</p></td>
+<td style="padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p> </p></td>
+</tr>
+<tr class="even">
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 39.5%" data-valign="bottom" width="39%"><p><strong>Total Original Assets</strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>[</strong>        <strong>]</strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong>[</strong>        <strong>]</strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 0in 0in; width: 12.0%" data-valign="bottom" width="12%"><p><strong> </strong></p></td>
+<td data-bgcolor="#CCEEFF" style="background: #CCEEFF; padding: 0in 0in 0in 0in; width: 2.5%" data-valign="bottom" width="2%"><p><strong> </strong></p></td>
+</tr>
+</tbody>
+</table>
+
+## Exhibit B
+
+**Vantiv, Inc.**
+
+**TAX RECEIVABLE AGREEMENT**
+
+**\[Year\] Tax Schedule**
+
+**\[Partner A\]**
+
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| ** **                                                      | ** **     | **Actual**           | ** **     | **Proforma**         | ** **     |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| ** **                                                      | ** **     | **Per \[Year\]\      | ** **     | **Without\           | ** **     |
+|                                                            |           | Tax Returns**        |           | Basis\               |           |
+|                                                            |           |                      |           | Adjustment\          |           |
+|                                                            |           |                      |           | and Imputed\         |           |
+|                                                            |           |                      |           | Interest**           |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Taxable Income                                             |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+|                                                            |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Tax Liability                                              |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Foreign                                                    |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Federal                                                    |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| State & Local (net of Credit)                              |           | \[        \]         |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| **Total Tax Liability**                                    | ** **     | **\[**        **\]** |           | **\[**        **\]** | ** **     |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+|                                                            |           |                      |           |                      |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Realized Tax Benefit (Detriment)                           |           |                      |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Covered Percentage of Realized Tax Benefit (Detriment)     |           |                      |           |                      | \%        |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| **Covered Tax Benefit (Detriment)**                        | ** **     | ** **                | ** **     | **\[**        **\]** | ** **     |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+|                                                            |           |                      |           |                      |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| Projected Interest at Agreed Rate through \[Payment Date\] |           |                      |           | \[        \]         |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+|                                                            |           |                      |           |                      |           |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+| **Total Tax Benefit Payment Due**                          | ** **     | ** **                | ** **     | **\[**        **\]** | ** **     |
++------------------------------------------------------------+-----------+----------------------+-----------+----------------------+-----------+
+
+## Exhibit C: -Draft Loan Agreement {#exhibit-c}

@@ -1,0 +1,11 @@
+# Local caches (regenerable; out of repo)
+.pixi/
+.tra_history_cache/
+sec-data-pqt/
+
+# TRA corpus (321 firm directories; regenerable from EDGAR pipeline)
+TRA-contracts/
+
+# Python bytecode
+__pycache__/
+*.pyc

@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>TRA Database</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
+  <style>
+    :root {
+      --fg: #1a1a1a;
+      --muted: #6c757d;
+      --bg: #ffffff;
+      --line: #dee2e6;
+      --accent: #1f77b4;
+      --ongoing: #2ca02c;
+      --terminated: #555;
+      --unknown: #d97706;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: var(--fg); background: var(--bg); }
+    header { border-bottom: 1px solid var(--line); padding: 0.5em 1em; display: flex; align-items: baseline; gap: 1.5em; }
+    header h1 { margin: 0; font-size: 1.1em; }
+    nav { display: flex; gap: 0.25em; }
+    nav button { background: transparent; border: none; padding: 0.5em 0.75em; cursor: pointer; font: inherit; color: var(--muted); border-bottom: 2px solid transparent; }
+    nav button.active { color: var(--fg); border-bottom-color: var(--accent); }
+    nav button:hover { color: var(--fg); }
+    main { padding: 1em; }
+    .page { display: none; }
+    .page.active { display: block; }
+    .toolbar { display: flex; flex-wrap: wrap; gap: 1.5em; align-items: center; margin-bottom: 1em; padding: 0.5em 0.75em; background: #f8f9fa; border: 1px solid var(--line); border-radius: 4px; }
+    .toolbar label { font-size: 0.9em; color: var(--muted); }
+    .toolbar input, .toolbar select { font: inherit; padding: 0.25em 0.5em; }
+    .radios label { display: inline-flex; align-items: center; gap: 0.25em; margin-right: 1em; color: var(--fg); cursor: pointer; }
+    .valueboxes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-bottom: 1em; }
+    .valuebox { padding: 1em 1.25em; border-radius: 4px; color: white; }
+    .valuebox .title { font-size: 0.95em; opacity: 0.9; }
+    .valuebox .value { font-size: 2em; font-weight: 600; margin-top: 0.25em; }
+    .vb-ongoing { background: var(--ongoing); }
+    .vb-terminated { background: var(--terminated); }
+    .vb-unknown { background: var(--unknown); }
+    .layout-split { display: grid; grid-template-columns: 1fr 1fr; gap: 1em; }
+    .table-wrap { max-height: 480px; overflow: auto; border: 1px solid var(--line); border-radius: 4px; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.85em; }
+    th, td { padding: 0.4em 0.6em; text-align: left; border-bottom: 1px solid var(--line); white-space: nowrap; }
+    th { position: sticky; top: 0; background: #f8f9fa; cursor: pointer; user-select: none; }
+    th.sorted-asc::after { content: " ▲"; color: var(--accent); }
+    th.sorted-desc::after { content: " ▼"; color: var(--accent); }
+    tbody tr { cursor: pointer; }
+    tbody tr:hover { background: #f1f3f5; }
+    tbody tr.selected { background: #e7f1ff; }
+    td.empty { color: var(--muted); }
+    .detail-card { margin-top: 1em; padding: 0.75em 1em; border: 1px solid var(--line); border-radius: 4px; background: #fbfbfb; }
+    .detail-card .placeholder { color: var(--muted); font-style: italic; }
+    .detail-card .title-line { font-size: 1.05em; font-weight: 600; margin-bottom: 0.25em; }
+    .detail-card .meta-line { font-size: 0.9em; color: var(--muted); margin-bottom: 0.4em; }
+    .detail-card .notes { font-size: 0.9em; font-style: italic; color: #444; margin-bottom: 0.5em; }
+    .vega-container { width: 100%; }
+    .stub { padding: 2em; color: var(--muted); }
+    .stub h2 { color: var(--fg); margin-top: 0; }
+    .row-2col { display: grid; grid-template-columns: 1fr 1fr; gap: 1em; margin-top: 1em; }
+    .chart-card { border: 1px solid var(--line); border-radius: 4px; padding: 0.5em; }
+    .chart-card h3 { margin: 0.25em 0.5em 0.5em; font-size: 1em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>TRA Database</h1>
+    <nav id="tabs">
+      <button data-page="status" class="active">Status as-of</button>
+      <button data-page="time">Time evolution</button>
+      <button data-page="liab">Liabilities</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="page-status" class="page active">
+      <div class="toolbar">
+        <label>As-of date <input type="date" id="asof-input"></label>
+        <div class="radios">
+          <label><input type="radio" name="status-bucket" value="Ongoing" checked> Ongoing</label>
+          <label><input type="radio" name="status-bucket" value="Terminated"> Terminated</label>
+          <label><input type="radio" name="status-bucket" value="Unknown"> Unknown</label>
+          <label><input type="radio" name="status-bucket" value="All"> All</label>
+        </div>
+      </div>
+
+      <div class="valueboxes">
+        <div class="valuebox vb-ongoing"><div class="title">Ongoing as of date</div><div class="value" id="vb-ongoing">—</div></div>
+        <div class="valuebox vb-terminated"><div class="title">Terminated as of date</div><div class="value" id="vb-terminated">—</div></div>
+        <div class="valuebox vb-unknown"><div class="title">Unknown status as of date</div><div class="value" id="vb-unknown">—</div></div>
+      </div>
+
+      <div class="table-wrap">
+        <table id="status-table">
+          <thead><tr id="status-thead"></tr></thead>
+          <tbody id="status-tbody"></tbody>
+        </table>
+      </div>
+
+      <div class="detail-card" id="detail-card">
+        <div class="placeholder">Select a row above to view that TRA's timeline.</div>
+      </div>
+    </section>
+
+    <section id="page-time" class="page">
+      <div class="toolbar">
+        <label>Stack by
+          <select id="stack-dim">
+            <option value="trigger_event_type" selected>Trigger event type</option>
+            <option value="counterparty_type">Counterparty type</option>
+            <option value="role">Role</option>
+            <option value="status">Status (latest)</option>
+            <option value="tax_asset_types">Tax asset type</option>
+            <option value="vintage_year">Vintage year</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="chart-card">
+        <h3>Active TRAs over time</h3>
+        <div class="vega-container" id="vega-stock"></div>
+      </div>
+
+      <div class="row-2col">
+        <div class="chart-card">
+          <h3>Originations per year</h3>
+          <div class="vega-container" id="vega-origs"></div>
+        </div>
+        <div class="chart-card">
+          <h3>Terminations per year</h3>
+          <div class="vega-container" id="vega-terms"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="page-liab" class="page">
+      <div class="stub">
+        <h2>Aggregate carrying values — placeholder</h2>
+        <p>This page will house aggregate-liability views once <code>carrying_values.csv</code> is rebuilt.
+        S6 was deferred when <code>contract_log.md</code> and <code>filing_notes.md</code> went missing
+        from the corpus; the panel needs <code>tra-process-filings</code> re-run after a re-pull from
+        EDGAR before we can extract per-filing carrying values.</p>
+        <p>Planned charts:</p>
+        <ul>
+          <li>Aggregate TRA liability over time, stacked by firm or by trigger-event-type</li>
+          <li>Top-N firms by liability with a date slider</li>
+          <li>Liability vs. age scatter, colored by trigger-event-type</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <script id="tras-data" type="application/json">__TRAS_JSON__</script>
+  <script id="events-data" type="application/json">__EVENTS_JSON__</script>
+  <script id="stock-data" type="application/json">__STOCK_JSON__</script>
+
+  <script>
+  (function () {
+    "use strict";
+
+    const TRAS    = JSON.parse(document.getElementById("tras-data").textContent);
+    const EVENTS  = JSON.parse(document.getElementById("events-data").textContent);
+    const STOCK   = JSON.parse(document.getElementById("stock-data").textContent);
+
+    // Parse date strings up front, keep the raw for display.
+    const parseISO = (s) => (s && s.length) ? new Date(s + "T00:00:00Z") : null;
+    TRAS.forEach(t => {
+      t._cd  = parseISO(t.creation_date);
+      t._td  = parseISO(t.termination_date);
+      t._led = parseISO(t.last_event_date);
+    });
+    EVENTS.forEach(e => { e._d = parseISO(e.date); });
+
+    // --- Page nav ---------------------------------------------------------
+    document.querySelectorAll("#tabs button").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll("#tabs button").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
+        document.getElementById("page-" + btn.dataset.page).classList.add("active");
+        // Vega charts need a re-render after becoming visible if they were
+        // rendered while hidden (they pick width from container which is 0
+        // when display:none).
+        if (btn.dataset.page === "time") renderTimeCharts();
+      });
+    });
+
+    // --- Status logic -----------------------------------------------------
+    // creation_date > D                          -> "Not yet created"
+    // termination_date populated:                   Ongoing until that date, Terminated after
+    // no termination_date, status=="Ongoing"     -> Ongoing forever
+    // no termination_date, status=="Unknown"     -> Ongoing through last_event_date,
+    //                                                Unknown after (the last event marks
+    //                                                where our visibility ends)
+    // no termination_date, status=="Terminated"  -> Unknown over entire history
+    //                                                (abandoned-form-of-TRA: terminated by
+    //                                                record but no termination event)
+    function statusAsOf(t, d) {
+      if (!t._cd || t._cd > d) return "Not yet created";
+      if (t._td) return t._td <= d ? "Terminated" : "Ongoing";
+      if (t.status === "Terminated") return "Unknown";
+      if (t.status === "Unknown") {
+        if (t._led && d <= t._led) return "Ongoing";
+        return "Unknown";
+      }
+      return t.status || "Unknown";
+    }
+
+    // --- Status table ----------------------------------------------------
+    const TABLE_COLS = [
+      {key: "status",             label: "Status"},
+      {key: "title",              label: "Title"},
+      {key: "creation_date",      label: "Created"},
+      {key: "termination_date",   label: "Terminated"},
+      {key: "trigger_event_type", label: "Trigger"},
+      {key: "counterparty_type",  label: "Counterparty"},
+      {key: "role",               label: "Role"},
+      {key: "sharing_ratio",      label: "Share"},
+      {key: "tax_asset_types",    label: "Tax asset"},
+      {key: "parallel_tras",      label: "Parallel TRAs"},
+    ];
+
+    const tableState = {
+      asof: null,
+      bucket: "Ongoing",
+      sortKey: "creation_date",
+      sortDesc: true,
+      rows: [],
+      selected: null,
+    };
+
+    function rebuildTableRows() {
+      const d = tableState.asof;
+      const bucket = tableState.bucket;
+      const rows = [];
+      const counts = {Ongoing: 0, Terminated: 0, Unknown: 0};
+      for (const t of TRAS) {
+        if (!t._cd || t._cd > d) continue;
+        const s = statusAsOf(t, d);
+        if (counts[s] != null) counts[s] += 1;
+        if (bucket === "All" || s === bucket) {
+          rows.push({...t, status_asof: s});
+        }
+      }
+      rows.sort((a, b) => {
+        const ka = a[tableState.sortKey] ?? "";
+        const kb = b[tableState.sortKey] ?? "";
+        if (ka < kb) return tableState.sortDesc ? 1 : -1;
+        if (ka > kb) return tableState.sortDesc ? -1 : 1;
+        return 0;
+      });
+      tableState.rows = rows;
+      // Refresh value boxes.
+      document.getElementById("vb-ongoing").textContent = counts.Ongoing;
+      document.getElementById("vb-terminated").textContent = counts.Terminated;
+      document.getElementById("vb-unknown").textContent = counts.Unknown;
+    }
+
+    function renderTable() {
+      const thead = document.getElementById("status-thead");
+      thead.innerHTML = "";
+      for (const col of TABLE_COLS) {
+        const th = document.createElement("th");
+        th.textContent = col.label;
+        if (col.key === tableState.sortKey) {
+          th.classList.add(tableState.sortDesc ? "sorted-desc" : "sorted-asc");
+        }
+        th.addEventListener("click", () => {
+          if (tableState.sortKey === col.key) {
+            tableState.sortDesc = !tableState.sortDesc;
+          } else {
+            tableState.sortKey = col.key;
+            tableState.sortDesc = true;
+          }
+          rebuildTableRows();
+          renderTable();
+        });
+        thead.appendChild(th);
+      }
+      const tbody = document.getElementById("status-tbody");
+      tbody.innerHTML = "";
+      for (const r of tableState.rows) {
+        const tr = document.createElement("tr");
+        if (tableState.selected && tableState.selected.firm_slug === r.firm_slug && tableState.selected.tra_id === r.tra_id) {
+          tr.classList.add("selected");
+        }
+        for (const col of TABLE_COLS) {
+          const td = document.createElement("td");
+          const v = col.key === "status" ? r.status_asof : r[col.key];
+          if (v === "" || v == null) {
+            td.classList.add("empty");
+            td.textContent = "—";
+          } else {
+            td.textContent = v;
+          }
+          tr.appendChild(td);
+        }
+        tr.addEventListener("click", () => {
+          tableState.selected = r;
+          renderTable();
+          renderDetail(r);
+        });
+        tbody.appendChild(tr);
+      }
+    }
+
+    // --- Per-TRA detail panel --------------------------------------------
+    function renderDetail(tra) {
+      const card = document.getElementById("detail-card");
+      const card_events = EVENTS.filter(e => e.firm_slug === tra.firm_slug && e.tra_id === tra.tra_id);
+      const meta = [
+        tra.creation_date ? "Created " + tra.creation_date : null,
+        tra.termination_date ? "Terminated " + tra.termination_date : null,
+        tra.trigger_event_type,
+        tra.counterparty_type,
+        tra.sharing_ratio ? "sharing " + tra.sharing_ratio : null,
+      ].filter(x => x && x !== "").join(" · ");
+      card.innerHTML =
+        '<div class="title-line">' + escapeHtml(tra.title || "(untitled)") + '</div>' +
+        '<div class="meta-line">' + escapeHtml(tra.firm_slug + " / " + tra.tra_id + " · " + meta) + '</div>' +
+        (tra.notes ? '<div class="notes">' + escapeHtml(tra.notes) + '</div>' : '') +
+        '<div id="detail-chart" class="vega-container"></div>';
+
+      const groups = [...new Set(card_events.map(e => e.event_group))];
+      // Per-group min/max for the span bars. A single-date group still gets
+      // a thin bar (we widen to a 14-day floor for visibility).
+      const dayMs = 86400000;
+      const minBarMs = 14 * dayMs;
+      const spans = groups.map(g => {
+        const dates = card_events.filter(e => e.event_group === g).map(e => e._d.getTime());
+        let lo = Math.min(...dates), hi = Math.max(...dates);
+        if (hi - lo < minBarMs) {
+          const mid = (lo + hi) / 2;
+          lo = mid - minBarMs / 2;
+          hi = mid + minBarMs / 2;
+        }
+        return {event_group: g, lo: new Date(lo), hi: new Date(hi)};
+      });
+      const xAxis = {
+        title: null,
+        grid: true,
+        format: "%b %Y",
+        labelOverlap: "greedy",
+        tickCount: "year",
+        gridDash: [3, 3],
+      };
+      const spec = {
+        $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+        width: "container",
+        height: Math.max(140, 50 + 32 * groups.length),
+        padding: 5,
+        config: {axisX: {labelFontSize: 11, tickColor: "#999"}},
+        data: {values: card_events},
+        layer: [
+          {
+            data: {values: spans},
+            mark: {type: "bar", height: 14, opacity: 0.55, cornerRadius: 3},
+            encoding: {
+              x:  {field: "lo", type: "temporal", axis: xAxis},
+              x2: {field: "hi"},
+              y:  {field: "event_group", type: "nominal", axis: {title: null, labelLimit: 220}, sort: groups},
+              color: {field: "event_group", type: "nominal", legend: null},
+            },
+          },
+          {
+            mark: {type: "circle", size: 80, stroke: "white", strokeWidth: 1},
+            encoding: {
+              x: {field: "date", type: "temporal"},
+              y: {field: "event_group", type: "nominal", sort: groups},
+              color: {field: "event_group", type: "nominal", legend: null},
+              tooltip: [
+                {field: "date", type: "temporal", title: "Date"},
+                {field: "event_group", title: "Group"},
+                {field: "description", title: "Event"},
+              ],
+            },
+          },
+          tra._cd ? {
+            data: {values: [{x: tra.creation_date}]},
+            mark: {type: "rule", color: "#2ca02c", strokeWidth: 2.5},
+            encoding: {x: {field: "x", type: "temporal"}},
+          } : null,
+          tra._td ? {
+            data: {values: [{x: tra.termination_date}]},
+            mark: {type: "rule", color: "#d62728", strokeWidth: 2.5},
+            encoding: {x: {field: "x", type: "temporal"}},
+          } : null,
+        ].filter(x => x),
+        resolve: {scale: {x: "shared", y: "shared"}},
+      };
+      vegaEmbed("#detail-chart", spec, {actions: false}).catch(console.error);
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    // --- Time-evolution charts -------------------------------------------
+    // Compute a per-TRA group value for a given dimension. Mirrors the
+    // semantics used by the Python stock builder: tax_asset_types is the
+    // pipe-joined list (we explode for the bar charts), vintage_year is the
+    // year of creation_date.
+    function traGroupValues(t, dim) {
+      if (dim === "tax_asset_types") {
+        return (t.tax_asset_types || "").split("|").map(s => s.trim()).filter(s => s.length);
+      }
+      if (dim === "vintage_year") {
+        return t._cd ? [String(t._cd.getUTCFullYear())] : [];
+      }
+      const v = t[dim];
+      return [(v == null || v === "") ? "(unknown)" : v];
+    }
+
+    // Look up the stable rank assigned by the Python builder for a given
+    // dimension. Falls back to alphabetical if a group is missing (e.g. for
+    // ad-hoc derivations on the bar charts).
+    const RANK_BY_DIM = {};
+    for (const r of STOCK) {
+      if (!RANK_BY_DIM[r.dimension]) RANK_BY_DIM[r.dimension] = {};
+      RANK_BY_DIM[r.dimension][r.group_value] = r.rank;
+    }
+    function rankFor(dim, value) {
+      const m = RANK_BY_DIM[dim];
+      if (m && m[value] != null) return m[value];
+      return 9999;
+    }
+    function sortedDomain(dim, values) {
+      return [...new Set(values)].sort(
+        (a, b) => rankFor(dim, a) - rankFor(dim, b) || a.localeCompare(b)
+      );
+    }
+
+    function renderTimeCharts() {
+      const dim = document.getElementById("stack-dim").value;
+      const dimLabel = document.querySelector(`#stack-dim option[value="${dim}"]`).textContent;
+      const scheme = dim === "vintage_year" ? "viridis" : "tableau10";
+
+      const stock_view = STOCK.filter(d => d.dimension === dim);
+      const stockDomain = sortedDomain(dim, stock_view.map(d => d.group_value));
+
+      const stockSpec = {
+        $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+        width: "container",
+        height: 360,
+        data: {values: stock_view},
+        mark: {type: "area", tooltip: true, interpolate: "step-after"},
+        encoding: {
+          x: {field: "date", type: "temporal", axis: {title: null, grid: true}},
+          y: {aggregate: "sum", field: "count", type: "quantitative", title: "Active TRAs", stack: "zero"},
+          color: {field: "group_value", type: "nominal", title: dimLabel, scale: {domain: stockDomain, scheme: scheme}},
+          order: {field: "rank", type: "quantitative", sort: "ascending"},
+          tooltip: [
+            {field: "date", type: "temporal"},
+            {field: "group_value", title: dimLabel},
+            {field: "count", type: "quantitative"},
+          ],
+        },
+      };
+      vegaEmbed("#vega-stock", stockSpec, {actions: false}).catch(console.error);
+
+      // Originations / terminations: explode multi-valued dims and pull the
+      // same domain ordering so colors and stacks match the stock chart.
+      const origs = [];
+      const terms = [];
+      for (const t of TRAS) {
+        const groups = traGroupValues(t, dim);
+        if (t._cd) {
+          for (const g of groups) origs.push({year: t._cd.getUTCFullYear(), group_value: g});
+        }
+        if (t._td) {
+          for (const g of groups) terms.push({year: t._td.getUTCFullYear(), group_value: g});
+        }
+      }
+      const flowDomain = sortedDomain(dim, [...origs, ...terms].map(r => r.group_value));
+
+      const flowEncoding = {
+        x: {field: "year", type: "ordinal", axis: {title: null, labelAngle: 0}},
+        y: {aggregate: "count", type: "quantitative", title: "Count"},
+        color: {field: "group_value", type: "nominal", title: dimLabel, scale: {domain: flowDomain, scheme: scheme}},
+        order: {field: "_rank", type: "quantitative", sort: "ascending"},
+        tooltip: [
+          {field: "year"},
+          {field: "group_value", title: dimLabel},
+          {aggregate: "count", title: "Count"},
+        ],
+      };
+      const annotatedOrigs = origs.map(r => ({...r, _rank: rankFor(dim, r.group_value)}));
+      const annotatedTerms = terms.map(r => ({...r, _rank: rankFor(dim, r.group_value)}));
+
+      vegaEmbed("#vega-origs", {
+        $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+        width: "container", height: 260,
+        data: {values: annotatedOrigs}, mark: "bar", encoding: flowEncoding,
+      }, {actions: false}).catch(console.error);
+
+      vegaEmbed("#vega-terms", {
+        $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+        width: "container", height: 260,
+        data: {values: annotatedTerms}, mark: "bar", encoding: flowEncoding,
+      }, {actions: false}).catch(console.error);
+    }
+
+    document.getElementById("stack-dim").addEventListener("change", renderTimeCharts);
+
+    // --- Wire-up ----------------------------------------------------------
+    const todayISO = new Date().toISOString().slice(0, 10);
+    const asofInput = document.getElementById("asof-input");
+    asofInput.value = todayISO;
+    tableState.asof = parseISO(todayISO);
+
+    asofInput.addEventListener("change", () => {
+      tableState.asof = parseISO(asofInput.value);
+      tableState.selected = null;
+      rebuildTableRows();
+      renderTable();
+      document.getElementById("detail-card").innerHTML =
+        '<div class="placeholder">Select a row above to view that TRA\'s timeline.</div>';
+    });
+
+    document.querySelectorAll('input[name="status-bucket"]').forEach(el => {
+      el.addEventListener("change", () => {
+        tableState.bucket = el.value;
+        rebuildTableRows();
+        renderTable();
+      });
+    });
+
+    rebuildTableRows();
+    renderTable();
+  })();
+  </script>
+</body>
+</html>
