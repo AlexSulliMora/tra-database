@@ -1,0 +1,36 @@
+---
+title: "HMH Holding Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["HMH Holding Inc."]
+CIKs: ["0002021880"]
+status: Ongoing
+creation-date: 2026-04-02
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Up-C-like structure with Netherlands operating company HMH Holding B.V.
+  rather than a Delaware LLC. Beneficiaries are Baker Hughes Holdings LLC and
+  the Akastor/Mercury HoldCo entities; covers B.V. basis step-ups plus pre-IPO
+  Mercury HoldCo Inc. U.S. NOLs realized via the Hybrid Redemption Right.
+---
+
+## TRA Timeline
+
+#### Pre-IPO drafting
+
+- 2024-08-26: Initial form-of TRA filed as Exhibit 10.1 to S-1/A
+- 2025-05-20: Revised form-of TRA filed with S-1/A; adds Section 2.09 (Relative Fair Market Value Determinations); otherwise identical contract structure
+
+#### IPO and TRA execution
+
+- 2026-04-02: Executed TRA dated as of IPO close, 85% of net cash tax savings to Baker Hughes Holdings, Akastor AS, Mercury HoldCo AS, and Mercury HoldCo Inc.; filed as Exhibit 10.1 to the IPO close 8-K
+
+## Explanation
+
+HMH Holding Inc. executed its Tax Receivable Agreement at the April 2, 2026 IPO, committing to pay the Principal Stockholders (Baker Hughes Holdings LLC and the Akastor/Mercury HoldCo group) 85% of the cash tax savings from three asset categories: basis step-ups on the public company's acquisitions of HMH Holding B.V. Non-Voting Shares and Mercury US shares, utilization of Mercury HoldCo Inc.'s pre-IPO U.S. net operating losses on a Hybrid Redemption, and imputed interest and additional basis arising from TRA payments. The structure is Up-C-like but uses a Netherlands B.V. as the operating vehicle in place of a Delaware LLC; mechanics, payment percentage, and termination provisions otherwise track the standard pattern. The TRA is in force as of the post-IPO 8-K with no amendments or material events yet on file. See `contract_log.md` for the full filing-by-filing record.

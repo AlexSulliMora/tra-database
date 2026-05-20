@@ -1,0 +1,37 @@
+---
+title: "Legence Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Legence Corp."]
+CIKs: ["0002052568"]
+status: Ongoing
+creation-date: 2025-09-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Blackstone-affiliated TRA Members. Liability $208.838M at Mar 31 2026;
+  $181.533M valuation allowance on related DTAs.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-08-15: Form-of TRA filed as S-1 Exhibit 10.13 (preamble date blank)
+- 2025-09-11: Corporate Reorganization into Up-C structure; IPO closes; TRA executed by Legence Corp., Legence Parent LLC, and Legence Parent II LLC
+- 2025-09-15: IPO-close 8-K files the executed TRA as Exhibit 10.2
+
+#### Post-IPO balance evolution
+
+- 2025-11-14: First post-IPO 10-Q (Q3 2025) records initial TRA liability of $146.474M
+- 2026-03-30: First 10-K records $207.448M liability at YE2025; $2.914M remeasurement charge for state-rate changes
+- 2026-05-14: Q1 2026 10-Q records $208.838M liability, with $5.112M of additional liability from Q1 LGN B Unit exchanges
+
+## Explanation
+
+Legence Corp. completed its Up-C IPO on September 11, 2025 and entered into the TRA the same day with Legence Parent LLC and Legence Parent II LLC (the pre-IPO holding entities through which Blackstone-affiliated investors and other Legacy Owners hold their interests in Legence Holdings LLC), agreeing to pay 85% of net cash tax savings from three categories of attributes: the allocable share of existing tax basis acquired at IPO, future basis step-ups from exchanges of LGN B Units for Class A common stock, and basis arising from TRA payments themselves. The initial liability of $146.474M at September 30, 2025 grew to $207.448M at year-end 2025 and $208.838M at March 31, 2026, driven by post-IPO LGN B Unit exchanges that add Exchange Basis attributes to the contract's coverage. A $181.533M valuation allowance is recorded against the related deferred tax assets, reflecting that most of the underlying tax benefits are not yet expected to be realized. The TRA remains in force with no amendments, terminations, or change-of-control events since execution. See `contract_log.md` for the full filing-by-filing record.

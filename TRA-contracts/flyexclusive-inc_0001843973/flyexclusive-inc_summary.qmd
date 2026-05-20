@@ -1,0 +1,35 @@
+---
+title: "flyExclusive, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["EG Acquisition Corp.", "flyExclusive, Inc."]
+CIKs: ["0001843973", "0001843973"]
+status: Ongoing
+creation-date: 2023-12-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders are Thomas James Segrave, Jr. and four custodial trusts (LG, ML, LM, TJ).
+  Maximum-ETP disclosure was $7M (12/31/2024), $6.1M (12/31/2025), ~$15.0M (3/31/2026);
+  no liability has been recognized. Pending Jet.AI SpinCo merger has flyExclusive as
+  the acquirer/surviving issuer and is not a Change of Control under the TRA.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-10-17: Equity Purchase Agreement signed; form-of TRA embedded as Annex F
+- 2022-10-18: 8-K Item 1.01 filings; form-of TRA filed
+- 2023-11-13: Form-of TRA re-filed as Annex G to the DEFM14A
+- 2023-12-27: Business combination closes; EG Acquisition Corp. redomiciles and renames to flyExclusive, Inc.; executed TRA dated December 27, 2023
+- 2024-01-03: Executed TRA filed as Exhibit 10.3 to closing 8-K
+
+## Explanation
+
+flyExclusive, Inc. went public on December 27, 2023 through the EG Acquisition Corp. SPAC business combination with LGM Enterprises, LLC and committed to pay the pre-business-combination LGM members (Thomas James Segrave, Jr. and four custodial trusts) 85% of cash tax savings from Section 754 basis step-ups on LGM Common Unit repurchases and exchanges, plus imputed interest deductions. No TRA liability has been recognized because no Early Termination Event is probable; the Company has disclosed only a contingent maximum-ETP figure ($7M at 12/31/2024, $6.1M at 12/31/2025, approximately $15.0M at 3/31/2026, the latter increase attributable to a larger Q1 2026 tax-attribute base). The pending Jet.AI SpinCo merger contemplated in the 2025-2026 S-4/A filings has flyExclusive as the surviving issuer and is not a Change of Control under the TRA. The contract remains in force with no amendments, restatements, or terminations on file. See `contract_log.md` for the full filing-by-filing record.

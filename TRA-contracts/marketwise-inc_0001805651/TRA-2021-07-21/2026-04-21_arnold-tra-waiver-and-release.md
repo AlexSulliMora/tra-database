@@ -1,0 +1,130 @@
+---
+title: "SETTLEMENT AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+# SETTLEMENT AGREEMENT
+
+This Settlement Agreement and Release (the "Settlement Agreement") is made and entered into as of April 21, 2026, by and among Mark P. Arnold ("Arnold") and JAMA 2021, LLC ("JAMA") (collectively, the "Arnold Parties"), on the one hand, and MarketWise, LLC and MarketWise, Inc. (collectively, "MarketWise" and with Arnold and JAMA, the "Parties"), on the other.
+
+WHEREAS, Arnold became Chief Executive Officer of S&A Holdings (2013) LLC in July 2017;
+
+WHEREAS, in or about June of 2020, S&A Holdings (2013) LLC (the predecessor to Beacon Street Group, LLC) and Arnold entered into an employment agreement effective as of December 1, 2019 (the "Employment Agreement");
+
+WHEREAS, on March 1, 2021, Ascendant Digital Acquisition Corp. ("Ascendant"), Beacon Street Group, LLC (the predecessor to MarketWise), the Members of Beacon Street Group, LLC, and Shareholder Representative Services LLC entered into a Business Combination Agreement (the "Business Combination Agreement"). On July 21, 2021, the transactions contemplated under the Business Combination Agreement closed (the "Ascendant Transaction") and the combined public company was renamed MarketWise, Inc.;
+
+WHEREAS, in May 2021, Beacon Street Group LLC changed its name to MarketWise, LLC;
+
+WHEREAS, on July 21, 2021, MarketWise, LLC and the members of MarketWise, LLC (which included Arnold) adopted the Third Amended and Restated Limited Liability Company Agreement (the "Third Amended and Restated Operating Agreement");
+
+WHEREAS, on July 21, 2021, MarketWise, Inc., MarketWise, LLC and the Members of MarketWise, LLC (which included Arnold) entered into a tax receivable agreement (the "Tax Receivable Agreement" or "TRA");
+
+WHEREAS, on November 22, 2022, Arnold resigned from his position as CEO and entered into a letter agreement and release with MarketWise, Inc. and MarketWise, LLC, dated November 17, 2022 (the "Letter Agreement");
+
+WHEREAS, on November 22, 2024, Arnold filed with the American Arbitration Association (the "AAA") an arbitration demand against MarketWise, captioned Mark Arnold v. MarketWise, LLC and MarketWise, Inc., AAA Case Number 01-24-0008-8562 (the "Arbitration");
+
+WHEREAS, on February 20, 2025, MarketWise sued Arnold in the Delaware Court of Chancery, seeking injunctive relief enjoining Arnold from prosecuting his claims against MarketWise in the Arbitration, captioned MarketWise, LLC and MarketWise, Inc. v. Mark Arnold, C.A. No. 2025-0193-LM (Del. Ch.) (the "Delaware Action");
+
+WHEREAS, on April 3, 2026, Arnold filed in the Delaware Court of Chancery a verified complaint for advancement against MarketWise, seeking advancement of his fees and expenses advanced in the Arbitration, captioned Mark Arnold v. MarketWise, LLC and MarketWise, Inc., C.A. No. 2026-0450-DG (Del. Ch.) (the "Advancement Action");
+
+WHEREAS, JAMA owns 102,998 Common Units of MarketWise, LLC and corresponding shares of MarketWise, Inc. Class B Common Stock, and Arnold owns 417,869 Common Units of MarketWise, LLC and corresponding shares of MarketWise, Inc. Class B Common Stock, collectively representing the Arnold Parties' total ownership of MarketWise securities (collectively, the "Arnold Securities");
+
+WHEREAS, the Parties desire to waive and release any and all known and unknown claims they may have against the other, and end any and all legal disputes among them, including without limitation arising out of the Arnold Securities, Arbitration, the Delaware Action, and the Advancement Action, and desire to enter into this Settlement Agreement to do so;
+
+NOW, THEREFORE, for and in consideration of the representations, obligations and releases set forth in this Settlement Agreement, the receipt and sufficiency of which are hereby acknowledged for the purposes of this settlement, and for other valuable consideration, the Parties, intending to be bound, agree as follows:
+
+1)Settlement Terms.
+
+a)The Settlement Payment. Within two (2) business days of the execution of this Settlement Agreement, MarketWise will wire $12,160,000 to Arnold (the "Settlement Payment") using the wiring instructions on record with MarketWise for the Arnold Parties. The effective date of this Settlement Agreement (the "Effective Date") shall be Arnold's receipt of the Settlement Payment. The Settlement Payment is good and valuable consideration for:
+
+i)MarketWise's redemption and cancellation of Arnold Parties' Common Units of MarketWise, LLC and cancellation of the corresponding shares of Class B Common Stock in MarketWise, Inc. as set forth in this Settlement Agreement which the Arnold Parties accept as payment in full for such Common Units of MarketWise, LLC and cancellation of the corresponding shares of Class B Common Stock in MarketWise, Inc.;
+
+ii)The termination of all of the Arnold Parties' rights under the TRA and the Arnold Parties' waiver and release of their rights and obligations under the TRA as set forth in this Settlement Agreement, which the Arnold Parties accept as payment in full for all of their rights under the TRA;
+
+iii)Certain contingent tax indemnifications of Arnold by MarketWise; and
+
+iv)The Parties' mutual general release of claims set forth in this Settlement Agreement.
+
+2)Redemption and Cancellation Of Common Units and Cancellation of Class B Common Stock. Upon the Effective Date, MarketWise, LLC will redeem and cancel the 102,998 Common Units of MarketWise, LLC owned by JAMA and the 417,869 Common Units of MarketWise, LLC owned by Arnold (collectively, the "Common Units"), and cancel all corresponding shares of MarketWise, Inc. Class B Common Stock. Upon the redemption and cancellation of the Common Units and the cancellation of all corresponding shares of MarketWise, Inc. Class B Common Stock, the Arnold Parties will cease to be members or partners of MarketWise, LLC, and shall have no further rights or obligations under the organizational documents of MarketWise, Inc. or MarketWise, LLC (other than any rights associated with Class A Common Stock currently held by the Arnold Parties), including without limitation the Third Amended and Restated Operating Agreement, and have no further claim to the Common Units or corresponding shares of MarketWise, Inc. Class B Common Stock, or any economic or legal rights to the Common Units or corresponding shares of MarketWise, Inc. Class B Common Stock, including without limitation the ability to redeem or convert such Common Units and corresponding shares of MarketWise, Inc. Class B Common Stock into securities of MarketWise, Inc. For the avoidance of doubt, upon the Effective Date, the Arnold Parties shall have no rights to and shall make no attempt to vote on any matter presented to the holders of MarketWise, Inc. Class B Common Stock or Common Units of MarketWise, LLC. For the avoidance of doubt, this redemption and cancellation of Common Units and corresponding cancellation of shares of MarketWise, Inc. Class B Common Stock shall have no effect on the JAMA's existing ownership of converted Class A Common Stock.
+
+3)Representations and Warranties of Arnold Parties Concerning the Common Units. The Arnold Parties hereby represent and warrant to MarketWise, Inc. and MarketWise, LLC that:
+
+a)The Arnold Parties are the lawful owners of their respective Common Units, free and clear of all liens, security interests, claims and other encumbrances of (or in favor of) any other person or entity. Prior to the Effective Date, the Arnold Parties own good, valid and marketable title to their respective Common Units, free and clear of all encumbrances, and the Arnold Parties are aware of nothing that would prevent MarketWise from taking all actions necessary to redeem and cancel the Common Units.
+
+b)The execution, delivery and performance by the Arnold Parties of this Settlement Agreement, the fulfillment of and the compliance with the respective terms and provisions hereof, and the consummation of the transactions contemplated hereby, do not and will not (i) conflict with, or violate any provision of, any law or any order, rule or regulation of any court or governmental authority, or (ii) conflict with, or result in any breach of, or constitute a default under, any instrument, contract, agreement or other document to which the Arnold Parties are a party or by which the Arnold Parties are bound or any of the Common Units are subject.
+
+c)No consent or acquiescence of any person or entity not party to this Settlement Agreement, which has not been obtained heretofore, is required with respect to any aspect of the execution, delivery or performance of this Settlement Agreement by the Arnold Parties with respect to the Common Units.
+
+d)The Arnold Parties are not relying on any statements or information provided by MarketWise or any of their agents in determining whether the Settlement Payment, or any portion thereof, is a fair price for the Common Units, and do not reflect the price at which the Common Units might be sold in another transaction as of the date hereof or hereafter.
+
+e)No person is or will become entitled to receive any brokerage or finder's fee, advisory fee or other similar payment as a result of this Settlement Agreement by virtue of having been engaged by or acted on behalf of any of any of the Parties.
+
+4)Termination and Release of TRA Rights by Arnold Parties. Without limiting the generality of the releases set forth elsewhere in this Settlement Agreement, the Arnold Parties, on their own behalf and on behalf of their respective successors, predecessors, affiliates, trusts, trustees, heirs, beneficiaries, family members, agents, representatives, attorneys, bankers, advisors, accountants, sureties, and/or insurers (the "Arnold Releasing Parties"), hereby forever fully, irrevocably, and unconditionally release, relinquish, waive, and terminate all of their right, title, and interest in, to, and under the TRA (capitalized terms used in this Section 4 but not otherwise defined in this Agreement shall have their respective meanings ascribed to them in the TRA), and hereby forever fully, irrevocably, and unconditionally release and discharge MarketWise, Inc. and MarketWise, LLC, and their respective successors, predecessors, subsidiaries, affiliates, parents, members, partners, principals, assigns, employees, agents, accountants, representatives, officers, directors, managers, attorneys, sureties, and/or insurers (the "MarketWise Released Parties") from any and all obligations, liabilities, and claims arising out of or related to the TRA, including without limitation all rights, benefits, privileges, and entitlements arising out of or related to the TRA, whether known or unknown, suspected or unsuspected, anticipated or unanticipated and whether now existing or hereafter accruing, which rights include but are not limited to (i) the rights to receive any Payments, including any Tax Benefit Payments under Article III of the TRA and any Early Termination Payments under Article IV of the TRA, (ii) the rights to participate in the MarketWise, Inc. or MarketWise, LLC's tax matters under Section 6.1 of the TRA, and (iii) all rights arising under or in connection with any Joinder Agreement executed by or on behalf of Arnold or JAMA in connection with the TRA (collectively, the "Released TRA Rights"). Such release and termination shall be effective as of the Effective Date. From and after the Effective Date, the Arnold Releasing Parties shall have no further right, title, interest, or entitlement in or to the Released TRA Rights or the TRA, and the MarketWise Released Parties shall have no further obligation or liability to the Arnold Releasing Parties under or in connection with the TRA.
+
+5)Mutual General Releases. Upon the Effective Date, in addition to all other releases provided in this Settlement Agreement, the following releases shall be effective immediately:
+
+a)General Release by MarketWise. In consideration for the covenants and agreements set forth in this Settlement Agreement, the receipt and sufficiency of which are hereby acknowledged, MarketWise, LLC and MarketWise, Inc., on their own behalf and on behalf of their respective successors, predecessors, subsidiaries, affiliates, parents, members, partners, principals, assigns, employees, agents, accountants, representatives, officers, directors, managers, attorneys, sureties, and/or insurers (the "MarketWise Releasing Parties"), hereby forever release and discharge, as of the Effective Date, the Arnold Parties and their respective successors, predecessors, affiliates, trusts, trustees, heirs, beneficiaries, family members, agents, representatives, attorneys, bankers, advisors, accountants, sureties, and/or insurers (the "Arnold Released Parties") from any and all past or present claims, demands, causes of action, lawsuits, debts, accounts, dues, reckonings, bonds, bills, covenants, contracts, controversies, agreements, promises, variances, trespasses, extends, executions, sums of money, damages (whether compensatory, punitive or otherwise), costs, expenses (including attorneys' fees and costs), judgments, assertions of liability or other obligations of any type or nature whatsoever, whether at law or in equity, known, suspected, or Unknown Claims (defined below), asserted or not asserted, foreseen or unforeseen, direct or derivative, individual or representative, vested or contingent, accrued or unaccrued, under the laws of any jurisdiction (including, but not limited to, federal and state statutes and constitutions, and common law under the law of the United States or any other place whose law might apply), arising at any time from the beginning of time through the Effective Date, including but not limited to those relating to, arising from, or in any way connected to, relating to, concerning or touching on any claims that were raised or could have been raised in connection with the Employment Agreement, the Letter Agreement, the Ascendant Transaction, Arnold's performance or duties of Chief Executive Officer of MarketWise Inc. or MarketWise LLC or as a member of the board of directors or board of managers or as a manager of MarketWise Inc. or MarketWise, LLC or any of their predecessors or subsidiaries, Arnold's involvement with MarketWise in any capacity including, but not limited to, as an employee, officer, director or equity holder, Arnold's severance payments pursuant to the Employment Agreement and Letter Agreement, Arnold's and JAMA's ownership of equity in MarketWise, LLC or MarketWise, Inc., the Arbitration (including but not limited to any counterclaims and defenses that were raised or could have been raised in connection with the Arbitration), the Delaware Action and the Advancement Action. Notwithstanding the foregoing, the rights and obligations created by or memorialized in this Settlement Agreement are not released.
+
+b)General Release by Arnold Parties. In consideration for the covenants and agreements set forth in this Settlement Agreement, the receipt and sufficiency of which are hereby acknowledged, the Arnold Releasing Parties hereby forever release and discharge, as of the Effective Date, the MarketWise Released Parties from any and all present or past claims, demands, causes of action, lawsuits, debts, accounts, dues, reckonings, bonds, bills, covenants, contracts, controversies, agreements, promises, variances, trespasses, extends, executions, sums of money, damages (whether compensatory, punitive or otherwise), costs, expenses (including attorneys' fees and costs), judgments, assertions of liability or other obligations of any type or nature whatsoever, whether at law or in equity, known, suspected or Unknown Claims (defined below), asserted or not asserted, foreseen or unforeseen, direct or derivative, individual or representative, vested or contingent, accrued or unaccrued, under the laws of any jurisdiction (including, but not limited to, federal and state statutes and constitutions, and common law under the law of the United States or any other place whose law might apply), arising at any time from the beginning of time through the Effective Date, including but not limited to those relating to, arising from, or in any way connected to, relating to, concerning or touching on any claims that were raised or could have been raised in connection with the Employment Agreement, the Letter Agreement, the Ascendant Transaction, Arnold's performance or duties of Chief Executive Officer of MarketWise Inc. or MarketWise LLC or as a member of the board of directors or board of managers or as a manager of MarketWise Inc. or MarketWise, LLC or any of their predecessors or subsidiaries, Arnold's involvement with MarketWise in any capacity including, but not limited to, as an employee, officer, director or equity holder, Arnold's severance payments pursuant to the Employment Agreement and Letter Agreement, Arnold's and JAMA's ownership of equity in MarketWise, LLC or MarketWise, Inc., the Arbitration (including but not limited to any counterclaims and defenses that were raised or could have been raised in connection with the Arbitration), the Delaware Action and the Advancement Action. Notwithstanding the foregoing, the rights and obligations created by or memorialized in this Settlement Agreement are not released.
+
+c)"Unknown Claims" means any claim that the Parties do not know or suspect exists in their favor at the time of the release of the settled claims, including without limitation those which, if known, might have affected the decision to enter into this Settlement Agreement. In connection with the foregoing general release, the Parties hereby acknowledge Section 1542 of the California Civil Code and knowingly agree to waive and relinquish any and all rights and benefits they may have under Section 1542 or the laws of any jurisdiction that are similar to Section 1542, which provides:
+
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.
+
+6)Dismissal of Arbitration and Advancement Action. Within one (1) business day of the execution of this Settlement Agreement, the Parties shall inform the panel in the Arbitration that they have reached a definitive settlement and shall request that the hearing in the Arbitration be removed from the calendar. Within two (2) business days of the Effective Date, Arnold shall file a Notice of Voluntary Dismissal of the Arbitration, with prejudice, in the form attached hereto as Exhibit A. Within two (2) business days of the Effective Date, Arnold shall file a Notice of Voluntary Dismissal of the Advancement Action, with prejudice, in the form attached hereto as Exhibit B.
+
+7)No Admission. It is understood and agreed by the Parties that this Settlement Agreement is entered into in compromise and should not be construed as an admission of any kind by any of the Parties with respect to any allegation, fact, liability or fault. The Parties have denied, and continue to deny, that they have committed any breach of duty or violation of any other law or contract or engaged in any of the acts alleged in the Arbitration, any counterclaims or defenses that were raised or that could have been raised in connection with the Arbitration, the Delaware Action, and/or the Advancement Action. The Parties are entering into this Settlement Agreement solely to eliminate the burden, expense and uncertainties inherent in further litigation. This Settlement Agreement shall not be offered or received into evidence in any action or proceeding (except an action to enforce this Settlement Agreement).
+
+8)Further Assurances. The Parties each agree that each will, upon request at any time after the date hereof and without further consideration, execute and deliver such other documents and instruments and take such other action as may reasonably be requested to carry out more effectively the purpose and intent of this Settlement Agreement.
+
+9)Authority. The undersigned individuals executing this Settlement Agreement represent and warrant that they have the authority from their companies, client, and respective law firms as the case may be to enter into this Settlement Agreement and bind their company, client, and respective law firms thereto, and that they have the authority to take appropriate action required or permitted to be taken pursuant to this Settlement Agreement to effectuate its terms. MarketWise, Inc. and MarketWise, LLC represent and warrant that their respective boards of directors and boards of managers have approved the entry into this Settlement Agreement.
+
+10)Severability. The Parties acknowledge that the purpose of this Settlement Agreement is to settle a dispute between the Parties and release claims. In the event that any provision or portion of this Settlement Agreement is found to be void, invalid or unenforceable for any reason, the Parties will continue to interpret this Settlement Agreement to accomplish the stated purpose and all other provisions shall remain unaffected to the extent permitted by law.
+
+11)Execution in Counterparts. This Settlement Agreement may be executed in counterparts by the signatories hereto, including by e-mail, and as so executed shall constitute one agreement.
+
+12)Amendment; Waiver. This Settlement Agreement may not be terminated, amended or modified in any way except by written instrument signed by all Parties. No waiver of any provision of this Settlement Agreement shall be deemed to constitute a waiver of any other provision hereof, whether or not similar, nor shall such waiver constitute a continuing waiver.
+
+13)Entire Agreement; No Third-Party Beneficiaries. Each Party severally acknowledges that no promise, inducement or agreement not expressed herein has been made to it or him; that this Settlement Agreement contains the entire agreement between the Arnold Parties and MarketWise and supersedes and replaces any and all prior oral or written agreements or understandings between the Arnold Parties and MarketWise with respect to the subject matter herein; provided, however that Sections 3(b) and (c), 4(c) and (d), 8, 11, 15, 16, and 19-26 of the Employment Agreement survive and are not released by the releases set forth herein; that Section 6 of the Stipulated Confidentiality Order in the Arbitration survives and is not released by the releases set forth herein; and that, except as expressly provided herein, there are no third-party beneficiaries to this Settlement Agreement.
+
+14)Agreement Binding on Predecessors, Successors and Related Parties. This Settlement Agreement shall be binding upon and inure to the benefit of, and enforceable against, the Parties and any of their respective predecessors, parents, subsidiaries, affiliates, heirs, trustees, executors, administrators, beneficiaries, and successors.
+
+15)Expenses. All costs, fees and expenses incurred in connection with the institution, prosecution, litigation and settlement of the Arbitration, the Delaware Action, and/or the Advancement Action shall be paid by the Party incurring such cost, fee or expense.
+
+16)Construction. The Parties have jointly drafted this Settlement Agreement, and thus it should not be construed against any one of the Parties.
+
+17)Governing Law; Jurisdiction. This Settlement Agreement and any dispute, claim or controversy arising out of or relating to this Settlement Agreement shall be interpreted, construed and governed by and in accordance with the laws of the State of Maryland without regard to the conflicts of laws, rules or principles thereof (or any other jurisdiction) to the extent that such laws, rules or principles would direct a matter to another jurisdiction. Each Party hereby waives on behalf of itself and its successors any and all right to argue in any legal proceeding arising out of or relating to this Settlement Agreement that the choice of Maryland law provision is or has become unreasonable. The Parties agree that the Circuit Courts of Baltimore County, Maryland shall retain exclusive jurisdiction over the enforcement of any and all disputes between the Parties arising out of or relating to this Settlement Agreement. The Parties consent to service of the complaint and/or counterclaim in any such dispute by hand delivery upon their respective undersigned counsel.
+
+\[REMAINDER OF PAGE LEFT BLANK; SIGNATURES ON FOLLOWING PAGE\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Mark P. Arnold
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ MarketWise, LLC By: Dr. David Eifri Title: Chief Executive Officer
+
+Mark P. Arnold
+
+MarketWise, LLC
+
+By: Dr. David Eifrig
+
+Title: Chief Executive Officer
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Mark P. Arnold
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ MarketWise, LLC By: Dr. David Eifri Title: Chief Executive Officer
+
+Jama 2021, LLC
+
+MarketWise, Inc.
+
+By: Mark P. Arnold
+
+By: Dr. David Eifrig
+
+Title: Managing Member
+
+Title: Chief Executive Officer

@@ -1,0 +1,43 @@
+---
+title: "RCS Capital Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["RCS Capital Corporation", "Aretec Group, Inc."]
+CIKs: ["0001568832", "0001568832"]
+status: Terminated
+termination-date: 2016-05-23
+creation-date: 2013-06-10
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Zero TRA liability throughout life. April 2014 Cetera-related Section 351
+  exchange foreclosed payments. Manual verification needed on whether the
+  Plan Supplement specifically rejected the TRA; in re RCS Capital Corp.,
+  Case No. 16-10223 (MFW), Bankr. D. Del. CIK continues as Aretec Group post-emergence.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-05-21: S-1/A Amendment No. 4 files form-of TRA as exhibit 10.6
+- 2013-06-10: Up-C IPO closes; TRA executed between RCS Capital, RCAP Holdings (the economic beneficiary), and the operating subsidiaries (Realty Capital Securities, RCS Advisory Services, American National Stock Transfer), paying 85% of net tax benefit
+- 2013-08-02: 10-Q for the quarter ended June 30 files the executed TRA as exhibit 10.6
+
+#### Section 351 exchange forecloses payments
+
+- 2014-04-28: Cetera acquisition closes; RCAP Holdings exchanges substantially all Operating Subsidiaries Units for Class A common stock as a tax-free Section 351 contribution, generating no basis step-up and therefore no TRA payments
+
+#### Chapter 11 and equity extinguishment
+
+- 2016-01-31: RCS Capital and the First Wave Debtors file Chapter 11 petitions in the District of Delaware (Case No. 16-10223)
+- 2016-05-19: Confirmation Order entered on the Fourth Amended Joint Plan of Reorganization
+- 2016-05-23: Plan Effective Date; all prepetition common and preferred stock deemed discharged, cancelled, and extinguished, collapsing the Up-C exchange mechanism. RCS Capital emerges privately held as Aretec Group, Inc. (same CIK).
+
+## Explanation
+
+RCS Capital's Up-C IPO on June 10, 2013 created a TRA paying 85% of cash tax savings from Section 754 basis step-ups to RCAP Holdings (the economic beneficiary) on exchanges of Operating Subsidiaries Group Units for Class A shares. No amendments were filed. The April 28, 2014 Cetera acquisition restructuring had RCAP Holdings exchange substantially all of its Operating Subsidiaries Units as a tax-free Section 351 contribution, producing no basis step-up and effectively foreclosing any TRA payable for the life of the contract. RCS Capital filed Chapter 11 on January 31, 2016; the May 19, 2016 Confirmation Order and the May 23, 2016 Effective Date discharged and cancelled all prepetition equity, eliminating the Up-C exchange mechanism that underpinned the TRA. The Plan's default treatment assumed executory contracts unless specifically rejected on the Plan Supplement schedule; whether the TRA itself was named is not visible from EDGAR, but the contract had zero liability throughout its life and its economic substance was extinguished on the Effective Date. See `contract_log.md` for the full filing-by-filing record and the manual-verification flag on the Plan Supplement.

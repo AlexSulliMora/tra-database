@@ -1,0 +1,42 @@
+---
+title: "DreamWorks Animation SKG, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["DreamWorks Animation SKG, Inc."]
+CIKs: ["0001297401"]
+status: Unknown
+creation-date: 2004-10-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Sole TRA beneficiary is DW Investment II, Inc. (Paul Allen vehicle). Directory name uses
+  "-llc" but registrant is the SKG, Inc. PubCo. Comcast merger closed August 22, 2016;
+  post-close TRA fate not visible in directory (lives under Comcast CIK 0001166691).
+---
+
+## TRA Timeline
+
+#### Origination at Up-C IPO
+
+- 2004-10-12: Form-of TRA filed as Exhibit 10.8 to S-1/A No. 3
+- 2004-10-27: TRA executed at IPO close (Vulcan Transaction immediately preceded the IPO; DWI II contributed DWA LLC interest to DWA in Section 351 transaction; Section 754 election produced basis step-up amortizing over ~15 years)
+- 2005-03-28: Executed TRA filed as Exhibit 10.9 to the FY2004 10-K
+
+#### Payment activity
+
+- 2009 to 2013: Cumulative payments to DWI II of approximately $115M visible across 10-K disclosures; TRA liability declined from $329.6M (2010) to $262.3M (2013)
+- 2014-FY: Valuation allowance recorded on underlying deferred tax assets, suppressing further accrual; contract still in force
+
+#### Comcast merger
+
+- 2016-04-28: Merger Agreement with Comcast filed; Section 6.1(b)(viii)(A)(B) restricts DWA from exercising any termination right under the TRA during merger pendency
+- 2016-08-22: Comcast merger closes; closing 8-K reports termination of debt instruments but does not mention the TRA; DWA deregisters shortly after
+
+## Explanation
+
+This TRA originated at DreamWorks Animation's October 2004 Up-C IPO and obligated DWA to pay DW Investment II, Inc. (a Washington S-corp controlled by Paul Allen) 85% of cash tax savings realized on Section 754 basis step-ups arising from the Vulcan Transaction plus imputed-interest deductions, amortizing over approximately 15 years. No amendments or restatements were ever filed. The April 2016 merger agreement with Comcast preserved the TRA as a surviving obligation and restricted DWA from triggering an Early Termination Payment during merger pendency, but the August 22, 2016 closing 8-K does not address the TRA's ultimate fate. Whether Comcast settled, terminated, or retained the contract post-close is not visible under DWA's CIK; the dispositive disclosure would live under Comcast's CIK (0001166691). A 2014 valuation allowance suppressed further accrual but did not terminate the contract. Status is `Unknown` rather than `Ongoing` because the post-merger fate cannot be confirmed from this directory. See `contract_log.md` for the full filing record.

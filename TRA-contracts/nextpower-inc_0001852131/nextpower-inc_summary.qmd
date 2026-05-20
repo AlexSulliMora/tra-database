@@ -1,0 +1,40 @@
+---
+title: "Nextracker Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Nextracker Inc."]
+CIKs: ["0001852131"]
+status: Ongoing
+creation-date: 2023-02-13
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Directory slug "nextpower-inc" mislabels the firm; this CIK is Nextracker
+  Inc. TRA Side Letter directs 50% of payments on Specified Tax Attributes
+  to Yuma. First cash payments began FY 2025 ($15.5M); $27.4M cumulative
+  through nine months ended 2025-12-31.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2023-01-24: S-1/A files form-of TRA as Exhibit 10.3 and form-of TRA Side Letter as Exhibit 10.4 (85% sharing of net realized tax benefits from Section 754 basis adjustments on Exchanges, Blocker Pre-Merger NOLs, Blocker Transferred Basis, Blocker Basis Adjustments, Common Basis, and imputed interest)
+- 2023-02-13: TRA executed at IPO close with Yuma, Inc., Yuma Subsidiary, Inc., TPG Rise Flash, L.P., and three TPG Rise Climate affiliates; no separate executed exhibit filed on EDGAR
+
+#### Spin-off and beneficiary assignment
+
+- 2024-01-02: Flex-to-shareholder spin-off completes; prior to the Spin Transactions, Yuma and Yuma Sub assigned their TRA rights to a remaining Flex affiliate (permitted assignment under Section 7.5; not an amendment)
+
+#### First material cash payments
+
+- 2025: Nextracker begins TRA cash payments in fiscal 2025 ($15.5M during the fiscal year); cumulative cash TRA payment of $27.4M disclosed during the nine months ended 2025-12-31
+
+## Explanation
+
+Nextracker Inc. completed an Up-C IPO out of Flex Ltd. on February 13, 2023 and executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net realized U.S. federal, state, and local tax benefits attributable to Section 754 basis adjustments from future Exchanges of LLC Interests, Blocker Pre-Merger NOLs, Blocker Transferred Basis and Basis Adjustments, Common Basis, and imputed interest, to Flex's Yuma entities and four TPG Rise Climate/Flash affiliates. A contemporaneous TRA Side Letter, treated as part of the TRA, directs 50% of payments on certain Specified Tax Attributes (basis on TPG Rise Flash's February 2022 Series A Preferred Unit purchase) to a Yuma-designated account. Before the January 2024 Flex spin-off, Yuma assigned its TRA rights to another Flex affiliate under Section 7.5 (transferee mechanic, not an amendment). The contract is in force; cash payments began in fiscal 2025 with $27.4M cumulative through nine months ended December 31, 2025. See `contract_log.md` for the full filing-by-filing record.

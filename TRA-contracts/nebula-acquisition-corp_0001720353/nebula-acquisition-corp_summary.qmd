@@ -1,0 +1,36 @@
+---
+title: "Nebula Acquisition Corporation TRA (predecessor to Open Lending)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Nebula Acquisition Corporation", "Open Lending Corporation"]
+CIKs: ["0001720353", "0001806201"]
+status: Ongoing
+creation-date: 2020-06-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Nebula was the SPAC predecessor; the executed TRA lives under successor
+  CIK 0001806201 (Open Lending Corporation). The directory only carries
+  the Form-of TRA embedded as Exhibit F to the BCA.
+---
+
+## TRA Timeline
+
+#### Business Combination Agreement with Open Lending
+
+- 2020-01-06: 8-K announces BCA with Open Lending, LLC; Form-of TRA embedded as Exhibit F to the BCA (85% sharing of net realized tax benefits from Section 754/734/743 basis adjustments at the Second Merger plus inherited tax attributes via Blocker contribution)
+- 2020-03-18: 8-K reports Amendment No. 1 and Waiver to the BCA; no changes to the Form-of TRA
+- 2020-05-22: DEFM14A circulated with the same Form-of TRA attached as an annex
+
+#### Merger close and CIK handoff
+
+- 2020-06-10: Merger closes; Nebula merges into a subsidiary of Nebula Parent Corp. (renamed Open Lending Corporation); Form 25-NSE filed for delisting; the executed TRA is filed under the successor CIK
+
+## Explanation
+
+Nebula Acquisition Corporation was a Delaware SPAC that signed a Business Combination Agreement with Open Lending, LLC on January 5, 2020, contemplating a Tax Receivable Agreement at closing under which the successor PubCo would pay 85% of net realized tax benefits from Section 734/743/754 basis adjustments arising in the Second Merger plus the inherited tax attributes that the Blocker (BRP Hold 11, Inc.) carried into the Blocker Contribution, to Open Lending's pre-close unitholders and the Blocker Holder. The merger closed June 10, 2020 and Nebula Parent Corp. was renamed Open Lending Corporation; this directory carries only the Form-of TRA filed as Exhibit F to the BCA. The executed TRA and all subsequent periodic TRA disclosure live under the successor CIK 0001806201; see `../open-lending-corp_0001806201/open-lending-corp_summary.qmd` for the post-close history. See `contract_log.md` for the full filing-by-filing record on the Nebula CIK.

@@ -1,0 +1,44 @@
+---
+title: "The J.G. Wentworth Company TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["JGWPT Holdings Inc.", "The J.G. Wentworth Company"]
+CIKs: ["0001580185", "0001580185"]
+status: Terminated
+creation-date: 2013-11-14
+termination-date: 2018-01-25
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via Chapter 11 plan of reorganization (Case No. 17-12914-KJC, D. Del.),
+  not via on-EDGAR amendment. Aggregate TRA claim of approximately $160.1M
+  discharged for 161,961 New Class A shares, 141,384 New Class B shares, and
+  $4.8M cash on the January 25, 2018 Plan effective date.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-11-04: Form-of TRA filed as Exhibit 10.2 to S-1/A
+- 2013-11-14: Executed TRA dated as of IPO close, 85% of Realized Tax Benefit to JLL, Candlewood, R3, RBS, DLJ, PGHI, and individual Principals
+- 2013-12-23: Executed TRA filed as Exhibit 10.2 to the first 10-Q
+
+#### Blocker merger (beneficiary expansion without amendment)
+
+- 2014-10-07: JGW Holdings, Inc. ("Blocker") merger consummated under Section 9.10(b)-(c) of the JGWPT Holdings LLC Agreement; the original TRA's existing terms cause PubCo to succeed to Blocker tax attributes and add JLL Holders to the beneficiary pool by operation of the contract, with no amendment
+
+#### Chapter 11 termination
+
+- 2017-11-09: Restructuring Support Agreement signed with Term Lenders and Consenting Members contemplating TRA claims being extinguished under a pre-packaged plan
+- 2017-12-01: Disclosure Statement and pre-packaged Plan filed for solicitation
+- 2017-12-12: Chapter 11 petitions filed (Orchard Acquisition Company, LLC et al., Case No. 17-12914-KJC, D. Del.); filing constitutes a Material Breach under the TRA, accelerating all obligations with an aggregate claim of approximately $160.1M
+- 2018-01-25: Plan Effective Date; TRA claims discharged for 161,961 New Class A shares, 141,384 New Class B shares, and $4.8M cash; TRA extinguished
+
+## Explanation
+
+The J.G. Wentworth Company executed its Tax Receivable Agreement at the November 2013 Up-C IPO, committing to pay 85% of the cash tax savings on Section 754 basis step-ups (from exchanges of JGWPT Holdings Common Interests for Class A or Class C common stock), pre-IPO tax assets, and tax attributes succeeded via downstream subsidiary mergers to JLL, Candlewood, R3, RBS, DLJ, PGHI, and several individual Principals. The October 2014 Blocker merger added JLL Holders to the beneficiary pool by operation of the TRA's existing Section 9.10(b)-(c) succession terms without a contract amendment. In November-December 2017 the company executed a Restructuring Support Agreement and filed a pre-packaged Chapter 11 plan; the December 12, 2017 petition constituted a Material Breach under the TRA, accelerating all obligations into an aggregate $160.1M claim that was discharged on the January 25, 2018 Plan effective date for 161,961 New Class A shares, 141,384 New Class B shares, and $4.8M cash. The TRA was extinguished as a matter of law via the plan of reorganization, not via an on-EDGAR amendment. See `contract_log.md` for the full filing-by-filing record; the operative legal documents live on the bankruptcy docket.

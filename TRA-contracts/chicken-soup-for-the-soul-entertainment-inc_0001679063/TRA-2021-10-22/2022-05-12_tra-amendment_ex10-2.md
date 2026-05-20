@@ -1,0 +1,150 @@
+---
+title: "AMENDMENT TO TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.2**
+
+Execution Version
+
+# AMENDMENT TO TAX RECEIVABLE AGREEMENT
+
+This Tax Receivable Agreement Amendment (the "Agreement") is entered into as of May 10, 2022, by and among Redbox Entertainment Inc., a Delaware corporation ("**Redbox**"), as successor to Seaport Global Acquisition Corp., a Delaware corporation, Chicken Soup for the Soul Entertainment, Inc., a Delaware corporation ("**Parent**"), Redwood Holdco, LP, a Delaware limited partnership (the "**TRA Holder**"), and Redwood Intermediate, LLC, a Delaware limited liability company ("**OpCo**") (such persons, collectively, the "**Parties**").
+
+## RECITALS
+
+WHEREAS, Redbox, the TRA Holder, and Opco are parties to that certain Fourth Amended and Restated Limited Liability Company Agreement of Redwood Intermediate, LLC, dated as of October 22, 2021 (the "**Opco LLC Agreement**"), pursuant to which the parties thereto provided, upon notice therefor by a Member (as defined in the Opco LLC Agreement), for the exchange with Opco of membership interests representing Class A Common Units of Opco held by the TRA Holder, together with shares of Class B Common Stock, par value $0.0001 per share, of Redbox, and its successors held by the TRA Holder, for shares of Class A Common Stock, par value $0.0001 per share, of Redbox or for cash;
+
+WHEREAS, Redbox, the TRA Holder, and Opco (the "**TRA Parties**") are parties to that certain Tax Receivable Agreement, dated as of October 22, 2021 (the "**TRA**");
+
+WHEREAS, Redbox and Parent are, among others, parties to the Merger Agreement dated as of May 10, 2022 (the "**Merger Agreement**"), pursuant to which at the Effective Time (as defined in the Merger Agreement), (A) the merger (the "**First Company Merger**") of Merger Sub Inc. (as defined in the Merger Agreement) with and into the Company, with Redbox continuing as the surviving entity (the "**Surviving Corporation**"); and (B) simultaneously with the First Company Merger, the merger (the "**Opco Merger**") of Opco Merger Sub LLC (as defined in the Merger Agreement) with and into Opco, with Opco continuing as the surviving entity (the "**Opco Surviving Company**") ; and (C) immediately following the First Company Merger and Opco Merger, the merger (the "**Second Company Merger**" and, together with the First Company Merger and the Opco Merger, the "**Mergers**") of the Surviving Corporation with and into Merger Sub LLC, with Merger Sub LLC continuing as the surviving entity;
+
+WHEREAS, Redbox desires to terminate the contingent obligations that otherwise would be owed to the TRA Holder under the TRA, and the TRA Holder agrees to the termination of its contingent rights under the TRA and to release Redbox from all of its contingent obligations under the TRA, and the TRA Holder voluntarily agrees to the termination of its contingent rights under the TRA without receipt of any payment or other consideration therefor;
+
+WHEREAS, the Parties hereto intend for the TRA Parties to terminate the TRA;
+
+WHEREAS, [Article IV](#article-iv) of the TRA provides, *inter alia*, for an Early Termination Payment (and certain other amounts) payable by Redbox or any member of any Consolidated Tax Return of which Redbox (or a successor thereto) is a member, where appropriate (collectively, the "**Corporate Taxpayer**"), in the event of a Change of Control unless otherwise waived in writing by the TRA Holder;
+
+WHEREAS, in connection with that certain Voting and Support Agreement, dated April 15, 2022 (the "**Voting and Support Agreement**"), the TRA Holder executed a Waiver Under Tax Receivable Agreement, dated as of April 15, 2022 (the "**Waiver**"), accepted by Redbox and Opco, pursuant to such Waiver, and in accordance with its terms, the TRA Holder permanently and irrevocably waived certain rights under the TRA including, compliance with Section 4.1(c) of the TRA to the extent such section would result in any obligation of the Corporate Taxpayer arising upon any Change of Control that results solely from a change pursuant to subsection (iv) of the definition of "Change of Control" of the TRA (*i.e*., a change in the membership of the board of directors of Redbox);
+
+WHEREAS, pursuant to the Voting and Support Agreement, the TRA Holder and Redbox agreed, in connection with the consummation of a transaction that satisfies certain conditions (a "**Transaction**"), to (i) terminate the TRA solely upon the consummation of such Transaction, (ii) waive all claims under the TRA with such waiver being effective solely upon the consummation of such Transaction, and (iii) execute and deliver any further documents and instruments and take all actions necessary to effectuate the termination of the TRA (including any necessary consent or action by Opco) without any claim against, or liability to Redbox;
+
+WHEREAS, concurrently herewith, Redbox and Parent are entering into the Merger Agreement, which upon consummation, otherwise would be expected to constitute a Transaction within the meaning of Section 1(a)(i) of the Voting and Support Agreement (such Transaction, or any similar acquisition or transaction with Parent, the "**CSSE Transaction**");
+
+WHEREAS, unless the TRA is terminated or the obligations under the TRA are otherwise waived in writing by the TRA Holder, the consummation of the CSSE Transaction would be expected to give rise to a Change of Control as defined under subsection (i), (ii) or (iii) of the definition of Change of Control of the TRA and otherwise may have resulted in an Early Termination Payment and other obligations of the Corporate Taxpayer pursuant to the TRA;
+
+WHEREAS, pursuant to Section 7.6(b) of the TRA, no provision of the TRA may be amended unless such amendment is approved in writing by each of (i) the executive committee of the Board or, if such executive committee does not exist, the Board and (ii) the TRA Holder;
+
+WHEREAS, in connection with the CSSE Transaction, each of the Board and the TRA Holder has approved the execution by the TRA Parties of this Agreement which constitutes an amendment to the TRA; and
+
+WHEREAS, the TRA Parties desire to amend the TRA pursuant to its terms to provide that (i) the TRA will be terminated in its entirety upon the consummation of the CSSE Transaction, (ii) all claims under the TRA will be waived with such waiver being effective upon the consummation of such CSSE Transaction, (iii) no party shall have any obligations under the TRA in connection with the CSSE Transaction or arising thereafter, specifically including but not limited to any obligation of the Corporate Taxpayer to make any Early Termination Payment, or for the avoidance of doubt, any other payment under [Article IV](#article-iv) of the TRA with respect to a Change of Control, in connection therewith, and (iv) the parties shall execute and deliver any further documents and instruments, if any, and take all actions necessary to effectuate the termination of the TRA (including any necessary consent or action by Opco) without any claim against, or liability to, Redbox or Parent.
+
+NOW, THEREFORE, in consideration of the promises and the mutual agreements and covenants hereinafter set forth, and for other valuable consideration (including the consideration provided under the Merger Agreement), the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+1.1            Definitions; References. Unless otherwise specifically defined herein, each capitalized term used herein but not otherwise defined herein shall have the meaning assigned to such term in the TRA. To the extent there is a conflict or inconsistency between the terms of this Agreement and the terms of the TRA (prior to giving effect to this Agreement), the terms of this Agreement shall govern and control.
+
+## ARTICLE II: TRA TERMINATION AND WAIVER {#article-ii}
+
+2.1            TRA Termination and Waiver. The Parties hereto agree that the following events shall occur without the requirement for any further action by any of the Parties hereto. The parties agree that, immediately prior to the Effective Time (as defined in the Merger Agreement), the TRA shall be terminated in its entirety as a result of and upon the consummation of the CSSE Transaction at no cost to the TRA Holder, Redbox, Parent or any of their respective Affiliates and shall be of no further force or effect, and no party shall have any further obligations under the TRA for any reason (including, without limitation, any obligations of the Corporate Taxpayer to make any Early Termination Payment or other payment to the TRA Holder or any other party in connection with the CSSE Transaction pursuant to the TRA), and the TRA Holder hereby waives, releases, remises and forever discharges the Corporate Taxpayer, its Affiliates and their respective shareholders, directors, officers and employees from any obligations under the TRA, including as a result of past, present or future actions or events.
+
+2.2            The TRA Holder hereby acknowledges and agrees that it is foregoing substantial economic, financial and pecuniary benefits from terminating the TRA pursuant to this Agreement and it is doing so voluntarily and with a full understanding that it is foregoing such benefits without receipt of any payments or other consideration therefor.
+
+## ARTICLE III: AGREEMENT TERMINATION {#article-iii}
+
+3.1            Agreement Termination. This Agreement shall remain in effect unless the Merger Agreement is terminated in accordance with its terms. This Agreement automatically shall terminate and be of no force and effect upon the termination of the Merger Agreement pursuant to its terms. For the avoidance of doubt, the termination of this Agreement shall not constitute a termination of the TRA and upon a termination of this Agreement pursuant to this Section 3.1 the TRA shall (subject to the Waiver) continue in full force and effect in accordance with its terms as if this Agreement had never been executed and delivered.
+
+## ARTICLE IV: REPRESENTATIONS AND WARRANTIES OF THE CORPORATE TAXPAYER {#article-iv}
+
+4.1            Representations and Warranties of the Corporate Taxpayer. The Corporate Taxpayer represents and warrants to the other parties hereto as follows (which representations and warranties shall survive until the expiration of the applicable statute of limitations):
+
+(a)            Authorization of Transaction. The Corporate Taxpayer has all requisite corporate power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery by the Corporate Taxpayer of this Agreement and the performance by the Corporate Taxpayer of this Agreement and the consummation by the Corporate Taxpayer of the transactions contemplated hereby have been duly and validly authorized by all necessary corporate action on the part of the Corporate Taxpayer. This Agreement has been duly and validly executed and delivered by the Corporate Taxpayer and constitutes a valid and binding obligation of the Corporate Taxpayer, enforceable against the Corporate Taxpayer in accordance with its terms, except as such enforcement may be limited by general equitable principles or by applicable bankruptcy, insolvency, fraudulent transfer, moratorium, or similar laws, legal requirements and judicial decisions from time to time in effect which affect creditors' rights generally.
+
+(b)            Non-contravention. Neither the execution and delivery by the Corporate Taxpayer of this Agreement, nor the consummation by the Corporate Taxpayer of the transactions contemplated hereby, will (i) conflict with or violate any provision of the organizational documents of the Corporate Taxpayer, (ii) require on the part of the Corporate Taxpayer any notice to or filing with, or any permit, authorization, consent or approval of, any governmental entity or (iii) violate any order, writ, injunction, decree, statute, rule or regulation applicable to the Corporate Taxpayer or any of its properties or assets.
+
+(c)            No Additional Representations. The Corporate Taxpayer acknowledges that no person has made any representation or warranty, express or implied, as to the accuracy or completeness of any information regarding the TRA Holder furnished or made available to the Corporate Taxpayer and its representatives except as expressly set forth in this Agreement or the Merger Agreement.
+
+## ARTICLE V: REPRESENTATIONS AND WARRANTIES OF THE TRA HOLDER {#article-v}
+
+5.1            Representations and Warranties of the TRA Holder. The TRA Holder represents and warrants to the other parties hereto as follows (which representations and warranties shall survive until the expiration of the applicable statute of limitations):
+
+(a)            Authorization of Transaction. The TRA Holder has all requisite power and authority (corporate or otherwise) to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery by the TRA Holder of this Agreement and the performance by the TRA Holder of this Agreement and the consummation by the TRA Holder of the transactions contemplated hereby have been duly and validly authorized by all necessary action (corporate or otherwise) on the part of the TRA Holder. This Agreement has been duly and validly executed and delivered by the TRA Holder and constitutes a valid and binding obligation of the TRA Holder and each other person entitled to payment under the TRA, enforceable against the TRA Holder and each other person entitled to payment under the TRA in accordance with its terms, except as such enforcement may be limited by general equitable principles or by applicable bankruptcy, insolvency, fraudulent transfer, moratorium, or similar laws, legal requirements and judicial decisions from time to time in effect which affect creditors' rights generally.
+
+(b)            Non-contravention. Neither the execution and delivery by the TRA Holder of this Agreement, nor the consummation by the TRA Holder of the transactions contemplated hereby, will (i) conflict with or violate any provision of the organizational documents of the TRA Holder, (ii) require on the part of the TRA Holder any notice to or filing with, or any permit, authorization, consent or approval of, any governmental entity or (iii) violate any order, writ, injunction, decree, statute, rule or regulation applicable to the TRA Holder or any of its properties or assets.
+
+(c)            No Additional Representations. The TRA Holder acknowledges that no person has made any representation or warranty, express or implied, as to the accuracy or completeness of any information regarding the Corporate Taxpayer furnished or made available to the TRA Holder and its representatives except as expressly set forth in this Agreement or the Merger Agreement.
+
+\[*The remainder of this page is intentionally blank*\] **IN WITNESS WHEREOF**, the TRA Parties have duly executed this Agreement as of the date first written above.
+
+**TRA Holder**
+
+REDWOOD HOLDCO, LP
+
+By: Redwood Holdco GP, LLC, its general
+
+partner
+
+By: New Outerwall, Inc., its sole member
+
+By: Aspen Parent, Inc., its sole stockholder
+
+By: Outerwall Holdings, LLC, the sole holder of its Class A shares
+
+By: Aspen Parent Holdings, LLC, its majority member
+
+By: AP VIII Aspen Holdings, L.P., its sole member
+
+By: AP VIII Aspen Holdings GP, LLC, its
+
+general partner
+
+By:
+
+/s/ Joseph D. Glatt
+
+Name: Joseph D. Glatt
+
+Title: Vice President
+
+**Redbox**
+
+REDBOX ENTERTAINMENT, INC.
+
+By:
+
+/s/ Galen C. Smith
+
+Name: Galen C. Smith
+
+Title: Chief Executive Officer
+
+**OpCo**
+
+REDWOOD INTERMDIATE, LLC
+
+By:
+
+/s/ Galen C. Smith
+
+Name: Galen C. Smith
+
+Title: President
+
+**Parent**
+
+CHICKEN SOUP FOR THE SOUL ENTERTAINMENT, INC.
+
+By:
+
+/s/ William J. Rouhana, Jr.
+
+Name: William J. Rouhana, Jr.
+
+Title: Chief Executive Officer
+
+\[*Signature Page to Tax Receivable Agreement Amendment*\]

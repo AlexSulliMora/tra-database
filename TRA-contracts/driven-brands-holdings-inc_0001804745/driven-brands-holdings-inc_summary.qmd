@@ -1,0 +1,38 @@
+---
+title: "Driven Brands Holdings Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Driven Brands Holdings Inc."]
+CIKs: ["0001804745"]
+status: Ongoing
+creation-date: 2021-01-16
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Driven Brands is a Delaware C-corp, not a textbook Up-C. TRA covers Pre-IPO and IPO-Related
+  Tax Benefits (pre-IPO consolidated-group tax assets plus IPO-related deductions and basis
+  adjustments). Beneficiaries are predominantly Roark Capital affiliates and senior management.
+---
+
+## TRA Timeline
+
+#### Origination at IPO
+
+- 2020-12-22: Form-of TRA filed as Exhibit 10.14 to S-1
+- 2021-01-16: TRA executed (preamble dated January 16, 2021) between Driven Brands Holdings Inc. and TRA Parties listed on Schedule A (Roark Capital affiliates and senior management); Driven Equity LLC as TRA Party Representative
+- 2021-01-21: Executed TRA filed as Exhibit 10.1 to IPO-close 8-K
+
+#### Ongoing in-force status with payment activity
+
+- 2024-01: First $25M cash TRA payment delivered (initial payment under the contract); total $38M paid in FY2024
+- 2025-02-26: FY2024 10-K reports $134M total TRA liability ($23M current, $111M non-current)
+- 2025-FY through Q3 2025: No additional TRA payments in fiscal 2025 year-to-date
+
+## Explanation
+
+This TRA originated at Driven Brands' January 2021 IPO and is structurally unusual in that Driven Brands is a Delaware C-corp rather than a textbook Up-C; the covered tax assets are Pre-IPO and IPO-Related Tax Benefits (depreciation and amortization deductions and other tax assets relating to pre-IPO periods, plus tax deductions arising in connection with the IPO itself) rather than the typical Section 754 basis step-ups from LLC-unit exchanges. The payment percentage is 85% of cash savings in U.S. and Canadian federal, state, local, and provincial income tax; the principal beneficiaries are Roark Capital affiliates and senior management. The contract has not been amended; FY2024 saw the first cash payments under the TRA ($38M total). The 2024 10-K/A and various credit-agreement and securitization-base-indenture amendments touched the firm's debt structure but did not touch the TRA. See `contract_log.md` for the full filing record.

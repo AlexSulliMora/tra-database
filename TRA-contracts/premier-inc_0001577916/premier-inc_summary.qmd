@@ -1,0 +1,43 @@
+---
+title: "Premier TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Premier, Inc."]
+CIKs: ["0001577916"]
+status: Terminated
+creation-date: 2013-09-25
+termination-date: 2020-08-11
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via Unit Exchange and Tax Receivable Acceleration Agreement
+  concurrent with August 2020 Up-C collapse. Aggregate Early Termination
+  Payment ~$472.6M: ~$10.6M lump-sum to non-electing LPs in September
+  2020; ~$462.9M paid in 18 equal quarterly installments running through
+  quarter ending June 30, 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-08-26: S-1 attaches form-of TRA as Exhibit 10.3
+- 2013-09-25: TRA dated and effective immediately prior to October 1, 2013 IPO close
+- 2013-10-07: Executed TRA filed as Exhibit 10.3 to the IPO 8-K
+
+#### Up-C collapse and TRA acceleration
+
+- 2020-08-11: 8-K announces August 2020 Restructuring; Unit Exchange and Tax Receivable Acceleration Agreement filed as Exhibit 10.1 (form-of); reverse triangular merger collapses dual-class structure; Premier elects Section 4 early termination at $472.6M aggregate Early Termination Payment
+- 2020-09: ~$10.6M lump-sum paid to non-electing LPs (within three business days of finalization)
+
+#### Installment payment runoff
+
+- 2021-Q1 through 2025-Q4 (fiscal): ~$462.9M paid via 18 equal quarterly installments under the Unit Exchange Agreements; final installment in the quarter ending June 30, 2025
+
+## Explanation
+
+Premier, Inc. became the TRA obligor on September 25, 2013, with effect at the October 1, 2013 Up-C IPO close; the beneficiaries were the approximately 180 member-owner hospital systems that held Class B Common Units in Premier LP. The TRA paid each Limited Partner 85% of the cash tax savings Premier realized from Section 754 basis step-ups arising from the Original Sale and from future exchanges of Class B Common Units. No amendments were filed during the contract's life. On August 11, 2020 Premier executed a Unit Exchange and Tax Receivable Acceleration Agreement concurrent with a reverse triangular merger that collapsed the dual-class structure, electing Section 4 early termination at an aggregate Early Termination Payment of approximately $472.6M; member-owners holding more than 99% of administrative-fee weight elected to receive their portion in 18 equal quarterly installments running through the fiscal quarter ending June 30, 2025, while non-electing LPs received their share (~$10.6M aggregate) in a lump sum in September 2020. The 18-quarter runoff has now completed; the TRA itself was extinguished at the August 2020 close, and subsequent quarterly payments were obligations of Premier outside the TRA contract. See `contract_log.md` for the full filing-by-filing record.

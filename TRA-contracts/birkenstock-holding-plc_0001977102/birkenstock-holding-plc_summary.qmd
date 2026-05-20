@@ -1,0 +1,37 @@
+---
+title: "Birkenstock Holding plc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Birkenstock Holding plc"]
+CIKs: ["0001977102"]
+status: Ongoing
+creation-date: 2023-10-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Foreign private issuer (Jersey plc): annual 20-F and interim 6-K rather than 10-K/10-Q.
+  Aggregate expected payments approximately $550M over roughly 13 years (per 424B4 prospectus).
+  Tax attributes span U.S. federal/state/local plus German income and trade tax.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2023-10-10: Tax Receivable Agreement executed between Birkenstock Holding plc and BK LC Lux MidCo S.à r.l. (L Catterton-affiliated Pre-IPO Shareholder).
+- 2023-10-11: NYSE IPO closes.
+- 2023-10-12: 424B4 prospectus describes the TRA terms and the approximately $550M expected aggregate payment over roughly 13 years.
+- 2024-01-18: FY2023 Form 20-F files the executed TRA as Exhibit 4.7.
+
+#### First cash payment
+
+- 2026-03-31: Q2 fiscal 2026 6-K reports the first cash payment under the TRA: EUR 14.6 million during the six months then ended.
+
+## Explanation
+
+The TRA originates from Birkenstock's October 11, 2023 NYSE IPO and obligates Birkenstock Holding plc to pay 85% of certain U.S. and German realized tax savings to BK LC Lux MidCo S.à r.l. (the L Catterton-affiliated Pre-IPO Shareholder), in respect of tax attributes created by MidCo's 2021 acquisition of the BIRKENSTOCK Group. Aggregate expected payments are approximately $550M over roughly 13 years. The contract was contemplated alongside a contemporaneous share buy-back from MidCo and carries standard Early Termination Payment mechanics on change of control or elective acceleration. No amendments or terminations have been filed; the May 2024 credit agreement contains a Permitted Payments carve-out for TRA payments but does not modify the TRA. The first cash payment of EUR 14.6M was made in the six months ended March 31, 2026. See `contract_log.md` for the full filing-by-filing record.

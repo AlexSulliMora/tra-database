@@ -1,0 +1,39 @@
+---
+title: "Change Healthcare Inc. TRA (TRA-2009-08-17-Management)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Emdeon Inc.", "Change Healthcare Holdings, Inc.", "Change Healthcare Inc."]
+CIKs: ["0001444598", "0001444598", "0001756497"]
+status: Terminated
+creation-date: 2009-08-17
+termination-date: 2022-10-03
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2011-11-02-Exchanges", "TRA-2011-11-02-Reorganizations", "TRA-2017-02-28-Change-Healthcare-IPO", "TRA-2017-03-01-McKesson"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: named individual
+notes: >-
+  Legacy Emdeon Up-C management TRA assumed by Change Healthcare Inc. at 2019 IPO.
+  First Amendment Nov 2, 2011 extends "Exchange" to include cash sales to EBS Holdco I/II.
+  Terminated by contractual notice given Oct 3, 2022; not covered by the Jan 5, 2021 Acknowledgment.
+---
+
+## TRA Timeline
+
+#### Original Emdeon-era origination and amendment
+
+- 2009-08-17: Original TRA (Management) executed at Emdeon Up-C IPO between Emdeon Inc. and individual Equity Plan Members
+- 2011-11-02: First Amendment executed at Blackstone going-private merger; extends "Exchange" definition
+
+#### Assumption by Change Healthcare Inc.
+
+- 2019-03-15: TRA and First Amendment filed under Change Healthcare Inc.'s CIK as Exhibits 10.6 and 10.7 to S-1; assumed by Echo / HCIT at 2019 IPO
+
+#### Termination at UnitedHealth merger
+
+- 2022-10-03: At the Effective Time of the UnitedHealth merger, Change Healthcare gave contractual notice of intention to terminate this TRA (along with the McKesson TRA) on the terms set forth in each agreement
+
+## Explanation
+
+This is the management-side legacy Emdeon Up-C TRA, originally executed at Emdeon's August 2009 IPO with Equity Plan Members as beneficiaries and paying 85% of cash tax savings on management basis step-ups. A First Amendment at the November 2011 Blackstone going-private merger extended the "Exchange" definition to capture cash sales of management units to two new acquiring vehicles. The contract was assumed by Change Healthcare Inc. at the 2019 IPO of the McKesson/Blackstone-H&F joint venture and continued in force through the subsequent UnitedHealth merger announcement. Unlike the Sponsor-side TRAs covered by the January 5, 2021 Acknowledgment, this TRA was terminated only at the Effective Time by contractual notice the Company delivered on October 3, 2022. See `contract_log.md` for the full filing record.

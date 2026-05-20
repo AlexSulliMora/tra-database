@@ -1,0 +1,35 @@
+---
+title: "Perella Weinberg Partners TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FinTech Acquisition Corp. IV", "Perella Weinberg Partners"]
+CIKs: ["0001777835", "0001777835"]
+status: Ongoing
+creation-date: 2021-06-24
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA liability grew from $14.1M at 12/31/2021 to $93.5M at 12/31/2025 as
+  Class A Unit exchanges generated incremental Section 754 step-ups. No
+  amendments through 10-Q for period ending March 31, 2026.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-05-27: DEFM14A attaches form-of TRA as Annex G
+- 2021-06-24: FinTech IV / PWP business combination closes with Up-C structure; executed TRA filed as Exhibit 10.2 to the 8-K of June 30, 2021
+
+#### Continuing liability accrual
+
+- 2025-12-31: Liability stands at $93.5M (up from $14.1M at 12/31/2021), reflecting accumulated Class A Unit exchanges and Section 754 step-up amortization
+
+## Explanation
+
+Perella Weinberg Partners became the TRA obligor on June 24, 2021 at the closing of its SPAC combination with FinTech Acquisition Corp. IV, producing an Up-C structure with PWP Holdings LP as the operating partnership and the Investor Limited Partners and Partners of PWP Professional Partners LP as TRA beneficiaries. The TRA pays beneficiaries 85% of the cash tax savings PWP realizes from the de-SPAC transactions, Section 754 basis step-ups arising from future exchanges of PWP OpCo Class A Units for Class A common stock, and TRA-imputed interest. No amendment, restatement, or termination instrument has been filed. The recorded liability has grown from $14.1M at year-end 2021 to $93.5M at year-end 2025 as additional Class A Unit exchanges have generated incremental step-ups, which is expected behavior for an in-force Up-C TRA. Several Limited Partnership Agreement amendments and internal-reorganization filings appear in the record but none amend the TRA itself. See `contract_log.md` for the full filing-by-filing record.

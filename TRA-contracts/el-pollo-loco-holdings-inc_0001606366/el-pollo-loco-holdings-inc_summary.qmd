@@ -1,0 +1,43 @@
+---
+title: "El Pollo Loco Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["El Pollo Loco Holdings, Inc."]
+CIKs: ["0001606366"]
+status: Terminated
+creation-date: 2014-07-30
+termination-date: 2024-12-25
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Non-Up-C single-counterparty TRA with Trimaran Pollo Partners,
+  L.L.C. as Existing Stockholders Representative. May 2024 partial
+  termination via unfiled "TRA Repurchase Agreement" bought out FS
+  Equity portion for $398,895.50; remainder ran off to zero by YE2024.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2014-07-14: Form-of Income Tax Receivable Agreement filed as Ex 10.13 to S-1/A No. 1
+- 2014-07-30: IPO closes; TRA executed between El Pollo Loco Holdings and Trimaran Pollo Partners, L.L.C.
+- 2014-11-03: Executed TRA filed as Ex 10.1 to Q3 2014 10-Q; initial $40.119M liability recorded
+
+#### Partial termination (FS Equity buyout)
+
+- 2024-05-23: Stock Repurchase Agreement and concurrent "TRA Repurchase Agreement" signed with FS Equity Partners V and FS Affiliates V (unfiled)
+- 2024-05-29: FS Equity portion of TRA terminated for $398,895.50; reported via Item 8.01 of 2024-05-23 8-K
+
+#### Full extinguishment
+
+- 2025-03-06: FY2024 10-K confirms zero TRA liability at December 25, 2024; remaining Trimaran-affiliated portion ran off through normal tax-attribute utilization
+- 2026-03-12: FY2025 10-K confirms no TRA income recorded in fiscal 2025
+
+## Explanation
+
+El Pollo Loco Holdings entered into its Income Tax Receivable Agreement at the July 30, 2014 IPO close as a single-counterparty contract with Trimaran Pollo Partners, L.L.C. acting as Existing Stockholders Representative for all pre-IPO holders (Trimaran- and Freeman Spogli-affiliated). Unlike a typical Up-C TRA, the contract pays 85% of cash tax savings from pre-IPO net operating loss carryforwards (and related pre-IPO tax attributes) rather than from exchange-driven basis step-ups. Realized payments were far below the prospectus's $39M-$41M estimate, totaling less than $2M cumulatively. On May 29, 2024 the Company executed an unfiled "TRA Repurchase Agreement" concurrent with a Stock Repurchase Agreement, buying out FS Equity's TRA interest for $398,895.50; the remaining Trimaran-affiliated portion decayed to zero through tax-attribute utilization by December 25, 2024, and the FY2024 10-K confirmed full extinguishment. See `contract_log.md` for the full filing-by-filing record and the verification note on the unfiled TRA Repurchase Agreement.

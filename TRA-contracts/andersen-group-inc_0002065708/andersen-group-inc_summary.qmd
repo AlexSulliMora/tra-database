@@ -1,0 +1,31 @@
+---
+title: "Andersen Group Inc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Andersen Group Inc."]
+CIKs: ["0002065708"]
+status: Ongoing
+creation-date: 2025-12-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Sole TRA counterparty is Andersen Aggregator LLC (pre-IPO Class X Umbrella
+  Unit holders' aggregator). No liability yet recognized as of Q1 2026.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-11-19: S-1/A No. 1 files form-of TRA as Exhibit 10.4 (preamble blank)
+- 2025-12-16: Reorganization closes; TRA executed
+- 2025-12-22: IPO-close 8-K files executed TRA as Exhibit 10.3
+
+## Explanation
+
+Andersen Group Inc.'s Tax Receivable Agreement was executed on December 16, 2025 at the closing of its Up-C IPO, committing PubCo to pay 85% of the cash tax savings it realizes from (i) Section 754 basis step-ups generated when Andersen Aggregator LLC exchanges or redeems Class X Umbrella Units of AT Umbrella LLC for Class A common stock or cash, and (ii) imputed-interest deductions on the TRA payments themselves. Mark L. Vorsatz signed on behalf of all three entity parties. No amendments or terminations appear, and the firm has not yet recognized a TRA liability as of the Q1 2026 10-Q because no qualifying exchanges have produced realized tax benefits yet. See `contract_log.md` for the full filing-by-filing record.

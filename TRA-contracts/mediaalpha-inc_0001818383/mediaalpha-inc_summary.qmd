@@ -1,0 +1,47 @@
+---
+title: "MediaAlpha, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["MediaAlpha, Inc."]
+CIKs: ["0001818383"]
+status: Ongoing
+creation-date: 2020-10-27
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries: White Mountains (Intermediate Holdco NOLs) and Step-Up
+  Participants (Insignia + Senior Executives, Section 754 step-ups).
+  YE2025 liability $131.1M; First Amendment Oct 2023 was LIBOR-to-SOFR.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-10-05: Form-of TRA first filed as S-1 Exhibit 10.3 (WTM party listed as the Luxembourg subsidiary)
+- 2020-10-23: Form-of re-filed in S-1/A No. 3 with WTM party rewritten to the Bermuda parent
+- 2020-10-27: TRA executed at IPO close; 8-K Exhibit 10.2 carries the executed instrument
+
+#### Valuation-allowance period
+
+- 2021-2022: Class A price collapses from ~$60 to single digits; full valuation allowance keeps TRA liability at zero on the balance sheet; contract not amended
+
+#### First Amendment
+
+- 2023-10-01: First Amendment effective; LIBOR-to-SOFR transition (Agreed/Default/Early Termination Rates), state-tax-allocation methodology refinement, governance plumbing (Section 7.18 Participant Representatives); 85% rate, beneficiaries, and attributes unchanged
+
+#### Payment phase resumes
+
+- 2023-Q1: First cash payment of $2.8M (2021 tax year)
+- 2024: Profitability returns; valuation allowance released; YE2024 current portion accrued
+- 2025-12-31: Liability $131.1M
+- 2026-Q1: $7.0M payment (2024 tax year); Mar 31 2026 liability $123.4M
+
+## Explanation
+
+MediaAlpha, Inc. executed the TRA on October 27, 2020 at its Up-C IPO close, agreeing to pay 85% of cash tax savings to two beneficiary sub-groups under distinct attribute pools: White Mountains Insurance Group, Ltd. on utilization of Intermediate Holdco pre-IPO NOLs (plus certain imputed interest), and the Step-Up Participants (Insignia Capital affiliates and Senior Executives including Steven Yi, Eugene Nonko, and Tigran Sinanyan) on Section 732/734(b)/743(b)/755 basis step-ups arising from exchanges of Class B-1 units. The 2021-2022 stock-price collapse drove a full valuation allowance on the related deferred tax assets and zero recorded TRA liability through 2022, but the contract was never amended or terminated in response; the October 1, 2023 First Amendment was an administrative LIBOR-to-SOFR transition with state-tax-allocation refinements and governance plumbing, not a re-pricing. As profitability returned in 2024, MediaAlpha released the valuation allowance, re-determined payments as probable, and the liability re-emerged at full size: $131.1M at YE2025 and $123.4M at March 31, 2026 after a $7.0M Q1 2026 payment for the 2024 tax year. See `contract_log.md` for the full filing-by-filing record.

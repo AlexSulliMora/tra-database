@@ -1,0 +1,45 @@
+---
+title: "Medley Management Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Medley Management Inc."]
+CIKs: ["0001611110"]
+status: Unknown
+creation-date: 2014-09-23
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries include Brook and Seth Taube. Sierra merger termination
+  form-of (2018-2019) never took effect; OpCo Medley LLC entered
+  Chapter 11 March 7 2021. Directory coverage ends July 13 2021.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-08-18: Form-of TRA filed as S-1 Exhibit 10.2
+- 2014-09-23: TRA executed at IPO close between Medley Management Inc. and pre-IPO Medley LLC Unit holders
+- 2014-09-23: IPO 8-K Exhibit 10.3 files the executed instrument
+
+#### Abandoned Sierra merger
+
+- 2018-08-09: Sierra Merger Agreement attaches form-of Termination, Waiver and Lockup Agreement that would terminate the TRA at close
+- 2019-07-29: Amended Sierra Merger Agreement re-attaches the form-of termination instrument
+- 2020-05-05: Sierra merger abandoned; neither termination form-of takes effect
+
+#### Up-C collapse and OpCo bankruptcy
+
+- 2021-01-19: ~98% of vested LLC Units exchanged 1-for-1 for Class A common stock; MDLY estimated ~$42.0M aggregate termination payment if it exercised the right, but did not invoke it
+- 2021-02-03: First Amendment to Medley LLC Fourth A&R LLC Agreement; Medley LLC elects to be treated as a corporation for federal tax purposes
+- 2021-03-07: Medley LLC (OpCo) files Chapter 11; MDLY deconsolidates from the petition date
+- 2021-07-13: NYSE Regulation initiates delisting proceedings for MDLY Class A common stock; directory coverage ends here
+
+## Explanation
+
+Medley Management Inc. executed the TRA on September 23, 2014 at its Up-C IPO close, agreeing to pay the pre-IPO Medley LLC Unit holders (including Brook and Seth Taube) 85% of cash tax savings on Section 754 basis step-ups from exchanges of LLC Units for Class A common stock plus imputed interest, with early-termination present-value discounted at LIBOR + 100bps. The contemplated 2018-2019 Sierra merger would have terminated the TRA at close, but Sierra was abandoned May 5, 2020 and the form-of termination instruments never took effect. On January 19, 2021, holders exchanged approximately 98% of vested LLC Units for Class A common stock, and on March 7, 2021 Medley LLC (the OpCo, not the PubCo) filed Chapter 11; MDLY deconsolidated and faced NYSE delisting proceedings by July 13, 2021. The TRA remained legally an obligation of the PubCo (which had not filed bankruptcy in the coverage window), but the underlying deferred tax assets carried a full valuation allowance and the cash-flow path to monetize them through Medley LLC ended at deconsolidation. The directory ends July 13, 2021, so the contract's ultimate fate (plan-of-reorganization treatment, executory-contract rejection, or contingent survival) is not determinable from the filings reviewed; status is recorded as Unknown. See `contract_log.md` for the full filing-by-filing record.

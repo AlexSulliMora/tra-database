@@ -1,0 +1,32 @@
+---
+title: "Zeo Energy Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ESGEN Acquisition Corporation", "Zeo Energy Corp."]
+CIKs: ["0001865506", "0001865506"]
+status: Ongoing
+creation-date: 2024-03-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Economically dormant: no OpCo Unit exchanges yet, no liability recorded.
+  Hypothetical full-exchange TRA liability estimated at $27.6M (FY2024 10-K);
+  hypothetical early-termination payment approximately $18.6M.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2023-04-19: ESGEN Acquisition Corporation signs Business Combination Agreement with Sunergy Renewables, LLC.
+- 2023-09-18: Form-of TRA filed as Annex G to the initial S-4 (preamble "dated as of [bullet], 2023").
+- 2024-03-13: Business combination closes; ESGEN redomesticates to Delaware and renames to Zeo Energy Corp.; TRA executed between Zeo (PubCo), the former Sunergy equityholders (TRA Holders), and Timothy Bridgewater (Agent); 85% of net cash tax savings on Section 754 basis step-ups from future OpCo Unit exchanges plus imputed interest.
+
+## Explanation
+
+Zeo Energy's TRA was executed on March 13, 2024 at the closing of the ESGEN-Sunergy SPAC business combination, which converted the operating business into a conventional Up-C structure. Zeo Energy Corp. (the former ESGEN, now PubCo) holds the managing-member interest in ESGEN OpCo, LLC, and pays the former Sunergy equityholders 85% of net cash tax savings from Section 754 basis step-ups generated when those holders exchange OpCo Units for Class A Common Stock, plus imputed interest on TRA payments. As of year-end 2025 no exchanges have occurred and no TRA liability has been recorded; the hypothetical full-exchange liability is disclosed at $27.6M and the hypothetical early-termination payment at approximately $18.6M. Zeo's August 2025 Heliogen acquisition and November 2024 Lumio asset purchase are acquirer-side transactions that do not trigger any TRA change-of-control or termination clause. See `contract_log.md` for the full filing-by-filing record.

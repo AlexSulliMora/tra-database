@@ -1,0 +1,37 @@
+---
+title: "Astrea Acquisition Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Astrea Acquisition Corp.", "Lexyl Travel Technologies, LLC"]
+CIKs: ["0001824211", ""]
+status: Terminated
+creation-date: 2021-08-11
+termination-date: 2022-02-13
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only, never executed. Directory date is the date the form-of was
+  first filed (origin_date_unverified). Merger with HotelPlanner.com terminated
+  by mutual agreement; SPAC dissolved December 2022.
+---
+
+## TRA Timeline
+
+#### HotelPlanner.com merger announcement
+
+- 2021-08-11: 8-K reports merger with Lexyl Travel Technologies, LLC (d/b/a HotelPlanner.com); form-of TRA filed as Exhibit 10.1 with blank preamble date
+- 2022-01-28: Definitive merger proxy filed; form-of TRA incorporated by reference
+
+#### Merger termination and SPAC wind-down
+
+- 2022-02-13: Merger Agreement mutually terminated; TRA never executed
+- 2022-12-22: Special meeting authorizes early SPAC termination and trust liquidation
+- 2022-12-29: Form 25-NSE delisting filed; SPAC dissolves
+
+## Explanation
+
+Astrea Acquisition Corp. was a SPAC that signed a merger agreement on August 11, 2021 with Lexyl Travel Technologies (d/b/a HotelPlanner.com) contemplating an Up-C structure with Astrea as PubCo. The form-of Tax Receivable Agreement, filed as Exhibit 10.1 to the announcement 8-K, would have obligated Astrea to pay Pre-Closing Holders 85% of cash tax savings from Section 754 basis step-ups on Common Unit exchanges, blocker-corporation tax attributes, and imputed-interest deductions. The form's preamble date and parties were blank placeholders. The parties mutually terminated the Merger Agreement on February 13, 2022 before any closing, the SPAC failed to identify a replacement target, and Astrea dissolved in December 2022. See `contract_log.md` for the full filing-by-filing record.

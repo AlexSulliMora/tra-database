@@ -1,0 +1,35 @@
+---
+title: "AST SpaceMobile, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["AST SpaceMobile, Inc.", "New Providence Acquisition Corp.", "AST & Science, LLC"]
+CIKs: ["0001780312", "", ""]
+status: Ongoing
+creation-date: 2021-04-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  No TRA liability recognized through FY2025 because of a full valuation allowance
+  against the underlying deferred tax asset ($212.1M at 2024-12-31); the firm
+  has not generated taxable income to use the attributes.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-12-15: 8-K announces the merger between New Providence Acquisition Corp. and AST & Science LLC; TRA described narratively but no form-of attached
+- 2021-04-06: SPAC business combination closes; AST SpaceMobile executes the TRA with AST & Science LLC, Thomas Severson as TRA Holder Representative, and the Existing AST Equityholders; 8-K filed April 12, 2021 carries the executed contract as Exhibit 10.4
+
+#### Subsequent activity
+
+- 2024: Blocker Reorganization Transaction merges Invesat LLC into Antares Technologies LLC, which joins the TRA via the contract's existing joinder mechanism (no amendment filed)
+
+## Explanation
+
+AST SpaceMobile became a public company on April 6, 2021 via the New Providence Acquisition Corp. SPAC business combination, which created an Up-C structure with AST SpaceMobile as PubCo over AST & Science LLC. The TRA executed that day obligates AST SpaceMobile to pay 85% of cash tax savings to the Existing AST Equityholders (including Abel Avellan, Invesat LLC, Vodafone Ventures, Rakuten Mobile, and ATC TRS II) from existing tax basis in AST LLC assets, Section 754 step-ups on Common Unit exchanges, Blocker Reorganization basis adjustments, and deductions from TRA payments themselves. No amendment or restatement has been filed, and no TRA liability has been recognized through FY2025 because a full valuation allowance against the underlying deferred tax assets reflects the firm's history of taxable losses. The 2024 Invesat-to-Antares Blocker Reorganization joined a new beneficiary via the TRA's existing joinder mechanism. See `contract_log.md` for the full filing-by-filing record.

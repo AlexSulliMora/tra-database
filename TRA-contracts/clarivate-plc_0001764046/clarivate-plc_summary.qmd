@@ -1,0 +1,39 @@
+---
+title: "Clarivate plc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Clarivate plc"]
+CIKs: ["0001764046"]
+status: Terminated
+creation-date: 2019-05-10
+termination-date: 2019-11-07
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Negotiated $200M termination payment vs ~$264.6M carrying liability; $64.6M difference booked to equity.
+  Contract documents (Form of TRA, executed TRA, Buyout Agreement) not in this directory; reconstructed
+  from 6-K, 20-F, and 10-K narratives. Form of TRA on EDGAR under F-4/A accession 0001144204-19-021294.
+---
+
+## TRA Timeline
+
+#### Origination at Churchill / Camelot business combination
+
+- 2019-04-25: Form of Tax Receivable Agreement filed as Exhibit 4.7 to F-4/A
+- 2019-05-10: TRA executed with pre-merger Camelot Holdings shareholders (Onex Partners IV and Baring Private Equity Asia)
+- 2019-05-13: Merger of Churchill into Camelot Holdings consummated; Clarivate Analytics plc begins trading May 14, 2019
+- 2019-05-17: 20-F describes initial TRA liability ~$259.8M, potential max ~$517.2M
+
+#### Negotiated buyout and termination
+
+- 2019-08-21: Buyout / Release Agreement executed; announced August 22, 2019; $200M termination payment in exchange for full release of TRA obligations, conditional on financing by year-end
+- 2019-10-31: Refinancing 2019 Transaction completed (new credit facility plus senior secured notes)
+- 2019-11-07: $200M payment delivered; TRA liability reduced from $264.6M carrying value to zero; $64.6M difference booked as adjustment to shareholders' equity
+
+## Explanation
+
+This TRA originated at the May 2019 SPAC business combination between Churchill Capital Corp and Camelot Holdings (Jersey) Limited and obligated Clarivate to pay 85% of cash tax savings on stepped-up basis and NOLs traceable to the 2016 Thomson Reuters carve-out, payable annually in cash beginning 2021. Less than six months after origination, Clarivate negotiated a $200 million buyout with Onex Partners IV (acting as TRA Party Representative) at a roughly 24% discount to the $264.6M carrying liability. The payment was conditioned on Clarivate completing a refinancing for the cash, which it did October 31, 2019; the $200M was paid November 7, 2019 and the TRA terminated. The $64.6M difference between carrying liability and payment was recorded as a gain to shareholders' equity (consistent with related-party-equity-transaction accounting) rather than to earnings. See `contract_log.md` for the full filing record and the cross-reference to `../churchill-capital-corp_0001744895/`.

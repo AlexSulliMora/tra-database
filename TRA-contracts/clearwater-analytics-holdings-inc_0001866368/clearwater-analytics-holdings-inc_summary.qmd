@@ -1,0 +1,42 @@
+---
+title: "Clearwater Analytics Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Clearwater Analytics Holdings, Inc."]
+CIKs: ["0001866368"]
+status: Terminated
+creation-date: 2021-09-28
+termination-date: 2024-12-20
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated by Amendment No. 1 executed Nov 4, 2024 with effectiveness conditional on
+  Unaffiliated Stockholder approval received Dec 20, 2024. $72.5M aggregate settlement, of which
+  ~$69.2M to TRA Parties and ~$3.3M in TRA Bonus Payments to executives.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-09-13: Form-of TRA filed as Exhibit 10.2 to S-1/A
+- 2021-09-28: TRA executed (preamble dated September 28, 2021) at IPO close; pre-IPO sponsors Welsh Carson, Warburg Pincus, and Permira as TRA Parties
+
+#### Termination via Amendment No. 1
+
+- 2024-11-04: Amendment No. 1 to the TRA executed; operative provision substitutes one-time Settlement Payments for all past, current, and future TRA obligations, conditioned on Unaffiliated Stockholder approval and absence of restraining order
+- 2024-11-06: 8-K and Preliminary Proxy filed
+- 2024-11-19: Definitive Proxy filed soliciting Unaffiliated Stockholder approval
+- 2024-12-20: Unaffiliated Stockholder approval obtained at Special Meeting; Amendment No. 1 effective; TRA terminated; Settlement Payments begin
+
+#### Wind-down
+
+- Q1 2025: Final Settlement Payment installment paid; FY2025 10-K shows zero TRA liability
+
+## Explanation
+
+This Up-C TRA originated at the September 2021 IPO between Clearwater Analytics Holdings as Corporate Taxpayer and Welsh Carson, Warburg Pincus, and Permira affiliates as TRA Parties, paying 85% of Cumulative Net Realized Tax Benefit on Pre-Merger NOLs, Blocker Transferred Basis, Section 754 step-ups on later exchanges, TRA Bonus Deductions, and imputed interest. Three years later the parties negotiated a terminating amendment: Amendment No. 1 substitutes a one-time $72.5 million aggregate Settlement Payment (about $69.2M to TRA Parties and $3.3M in TRA Bonus Payments to executives) for all future obligations under the contract. The amendment was conditioned on Unaffiliated Stockholder approval, which was obtained December 20, 2024; settlement payments were made in December 2024 and Q1 2025, after which the TRA liability went to zero. A subsequent acquisition of Enfusion, Inc. and a pending Permira-led going-private merger announced December 2025 are TRA-independent corporate events. See `contract_log.md` for the full filing record.

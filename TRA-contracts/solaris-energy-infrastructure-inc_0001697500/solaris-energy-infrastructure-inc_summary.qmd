@@ -1,0 +1,40 @@
+---
+title: "Solaris Energy Infrastructure TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Solaris Oilfield Infrastructure, Inc.", "Solaris Energy Infrastructure, Inc."]
+CIKs: ["0001697500", "0001697500"]
+status: Ongoing
+creation-date: 2017-05-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  William A. Zartler is a TRA Holder/Agent here (via Solaris Energy Capital, Solaris
+  Sub Manager, Loadcraft Site Services) and also at Aris Water Solutions; confirmed
+  cross-firm beneficiary overlap. Recorded liability $76.3M at 12/31/2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2017-05-04: Form-of TRA filed as Exhibit 10.3 to S-1/A with blank preamble date
+- 2017-05-17: Up-C IPO closes; TRA executed at 85% sharing rate with Yorktown Energy Partners X as Agent, Solaris Sub Manager LLC as Agent, and named TRA Holders including Zartler-controlled vehicles
+- 2017-05-22: Executed TRA filed as Exhibit 10.1 to IPO 8-K
+
+#### Routine maintenance
+
+- 2023-06-27: Amendment No. 1 executed replacing LIBOR-based reference rates (Agreed Rate, Default Rate, Early Termination Rate) with SOFR under the LIBOR Act; no change to economic terms
+
+#### Corporate rebrand and MER acquisition
+
+- 2024-09-11: Mobile Energy Rentals acquisition closes concurrent with the rebrand from Solaris Oilfield Infrastructure to Solaris Energy Infrastructure; MER contributors received Class B stock and LLC units but were not added as TRA Holders
+
+## Explanation
+
+Solaris Oilfield Infrastructure, Inc. (renamed Solaris Energy Infrastructure, Inc. in September 2024) executed a Tax Receivable Agreement on May 17, 2017 at its Up-C IPO close, paying 85% of cumulative net realized tax benefits to Yorktown Energy Partners X, Zartler-controlled vehicles (Solaris Energy Capital, Solaris Sub Manager, Loadcraft Site Services), and other named pre-IPO holders, covering Section 754 basis step-ups from LLC unit exchanges and imputed interest. The only amendment is the June 2023 LIBOR-to-SOFR benchmark transition. The September 2024 Mobile Energy Rentals acquisition added Class B stock and LLC unit holders but did not extend the TRA to those contributors; the rebrand is a name change only with no TRA effect. The TRA remains in force as of the FY2025 10-K with a recorded liability of $76.3M. See `contract_log.md` for the executed text, the LIBOR amendment, and the cross-firm Zartler beneficiary overlap with Aris Water Solutions.

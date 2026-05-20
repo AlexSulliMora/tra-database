@@ -1,0 +1,38 @@
+---
+title: "Focus Financial Partners Inc. TRA (TRA-2018-07-30-PE)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Focus Financial Partners Inc."]
+CIKs: ["0001651052"]
+status: Terminated
+creation-date: 2018-07-30
+termination-date: 2023-08-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2018-07-30-Non-PE"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries are Stone Point, KKR, and Centerbridge funds plus their Blocker corporations.
+  Terminated at the CD&R / Stone Point take-private close via Section 4.2 Change-of-Control
+  acceleration; Stone Point Stockholders and certain management took TRA Notes (promissory
+  notes), all other Holders took cash. Aggregate closing TRA Payoff Amount not separately
+  disclosed in available filings.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and parallel TRA execution
+
+- 2018-06-29: Form-of TRA (PE Holders version) filed as Exhibit 10.2 to S-1/A
+- 2018-07-30: Executed TRA dated July 30, 2018; filed as Exhibit 10.2 to IPO 8-K
+
+#### CD&R / Stone Point go-private termination
+
+- 2023-02-27: TRA Waiver and Exchange Agreement form-of executed concurrent with the CD&R / Stone Point Merger Agreement; effects Section 4.2 Change-of-Control acceleration at close
+- 2023-08-31: Going-private merger closes at $53.00 per Class A share / $4.5B aggregate; PE TRA terminates via Section 4.2 acceleration
+
+## Explanation
+
+Focus Financial Partners Inc. went public on July 30, 2018 in an Up-C IPO and entered two parallel Tax Receivable Agreements: the PE Holders TRA with Stone Point, KKR, and Centerbridge funds plus their Blocker corporations, and the Non-PE Holders TRA with the continuing and former LLC members. The PE TRA committed Focus to pay 85% of cash tax savings from Section 754 basis step-ups on future exchanges plus Blocker Section 743(b) adjustments. The contract was terminated on August 31, 2023, the closing date of the Clayton Dubilier & Rice / Stone Point go-private merger, through Section 4.2 Change-of-Control acceleration; the merger had been conditioned on TRA Waiver and Exchange Agreements dated February 27, 2023 under which Stone Point Stockholders and certain senior leadership members took their portion as TRA Notes (promissory notes) at closing while all other Holders took cash. The aggregate carrying value at June 30, 2023 (the last pre-close periodic disclosure) was $215.0M across both TRAs; the September 14, 2022 CD&R offer letter assumed $216.8M aggregate. The specific closing TRA Payoff Amount split is not separately disclosed in available filings. See `contract_log.md` for the full filing-by-filing record.

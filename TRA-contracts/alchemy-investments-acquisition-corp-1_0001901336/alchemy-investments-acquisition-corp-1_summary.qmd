@@ -1,0 +1,32 @@
+---
+title: "Alchemy Investments Acquisition Corp 1 TRA (form-of, pending Closing)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Alchemy Investments Acquisition Corp 1", "Cartiga Holdings, Inc."]
+CIKs: ["0001901336", "0001901336"]
+status: Unknown
+creation-date: 2025-08-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of only; not yet executed. Cartiga Business Combination expected to
+  close Q1 2026; status will become Ongoing if/when an executed TRA is filed.
+  Origination date is the BCA signing (Priority 2); preamble date is blank.
+---
+
+## TRA Timeline
+
+#### Business Combination Agreement and form-of TRA filing
+
+- 2023-05-09: Alchemy SPAC IPO closes (ALCY; originally VAM Acquisition Corp.)
+- 2025-08-22: Business Combination Agreement with Cartiga, LLC signed; form-of TRA attached as Exhibit 10.5 to BCA-announcing 8-K
+- 2026-Q1: Closing expected; executed TRA pending S-4 effectiveness and Cartiga shareholder approval
+
+## Explanation
+
+Alchemy Investments Acquisition Corp 1 is a Cayman SPAC that, on August 22, 2025, signed a Business Combination Agreement with Cartiga, LLC contemplating a Delaware Up-C structure under which the post-domestication entity (Cartiga Holdings, Inc.) will be the public company and will execute a Tax Receivable Agreement with the rolling Cartiga members at Closing. The form-of TRA filed as Exhibit 10.5 to the BCA-announcing 8-K commits the future PubCo to pay 85% of cash tax benefits realized from Section 754 basis step-ups on future exchanges of Cartiga LLC units (with paired Class B shares) for Class A common stock, plus imputed interest deductions. As of the latest filing in this directory (a 10-K/A filed April 2026), the business combination has not closed; the agreement is unexecuted and the parties and execution date will be set at Closing. The TRA will become operative only on execution; until then, the firm holds a form-of contract rather than a live obligation. See `contract_log.md` for the full filing-by-filing record.

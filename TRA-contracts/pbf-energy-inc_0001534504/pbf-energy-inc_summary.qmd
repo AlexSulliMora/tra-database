@@ -1,0 +1,43 @@
+---
+title: "PBF Energy TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PBF Energy Inc."]
+CIKs: ["0001534504"]
+status: Ongoing
+creation-date: 2012-12-12
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Vanilla Up-C IPO TRA. Year-end 2020 valuation-allowance write-down took
+  the recorded liability transiently to zero during the pandemic; the
+  contract remained in force and the liability rebuilt to $336.6M by 2023.
+  Blackstone and First Reserve fully exchanged their Series A Units in
+  Feb 2015 but retain TRA-beneficiary rights.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-11-19: S-1/A attaches form-of TRA as Exhibit 10.20
+- 2012-12-12: TRA executed at IPO closing (December 18, 2012 IPO close); 8-K filed December 19, 2012 attaches executed TRA as Exhibit 10.2
+
+#### Sponsor monetization without contract change
+
+- 2015-02-06: Blackstone and First Reserve fully exchange remaining 3,804,653 PBF LLC Series A Units in secondary offering; retain TRA-beneficiary rights
+
+#### Valuation allowance write-down and recovery
+
+- 2020-12-31: Pandemic-era losses produce full valuation allowance on underlying deferred tax assets; recorded TRA liability written down to $0
+- 2023-12-31: Liability rebuilt to $336.6M as profitability returns; $43.0M payment for tax year 2022 paid January 2024
+- 2025-01: $130.8M payment (incl. $5.4M interest) for tax year 2023; $168.2M liability at year-end 2025
+
+## Explanation
+
+PBF Energy Inc. became the TRA obligor on December 12, 2012 at the closing of its Up-C IPO, with PBF Energy Company LLC's Members (principally Blackstone, First Reserve, and management) as beneficiaries. The TRA pays beneficiaries 85% of the cumulative net realized tax benefits from Section 743(b) / 754 basis step-ups arising from exchanges of PBF LLC Series A Units for Class A common stock plus TRA-imputed interest; no pre-IPO NOL coverage. No amendment has been filed in the contract's life. The contract has run continuously despite two notable events: Blackstone and First Reserve fully monetized their Class A position in a February 2015 secondary while retaining their TRA-beneficiary rights, and pandemic-era losses produced a full valuation allowance that wrote the recorded liability down to zero at year-end 2020 without terminating the contract. Profitability and basis step-up amortization rebuilt the liability to $336.6M by 2023, with $43.0M and $130.8M cash payments made in the Januaries of 2024 and 2025; the December 31, 2025 liability stands at $168.2M with the next January payment pending. See `contract_log.md` for the full filing-by-filing record.

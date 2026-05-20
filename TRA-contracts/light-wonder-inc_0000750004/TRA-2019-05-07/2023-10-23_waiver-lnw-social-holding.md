@@ -1,0 +1,55 @@
+---
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.3 **
+
+EXECUTION VERSION
+
+**WAIVER**
+
+This Waiver (this "Waiver"), dated as of October 23, 2023, is made in respect of that certain Tax Receivable Agreement, dated as of May 7, 2019 (as amended, restated, supplemented or otherwise modified from time to time, the "TRA"), by and among SciPlay Corporation (the "Company"), SciPlay Parent Company, LLC ("SciPlay Parent") and LNW Social Holding Company I, LLC (collectively with the Company and SciPlay Parent, the "Parties"), as successor in interest to SG Social Holding Company I, LLC and SG Social Holding Company, LLC. Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the TRA.
+
+## RECITALS
+
+WHEREAS, Light & Wonder, Inc., Bern Merger Sub, Inc. ("Merger Sub") and the Company have entered into that certain Agreement and Plan of Merger, dated as of August 8, 2023 (as amended, restated, supplemented or otherwise modified from time to time, the "Merger Agreement"), pursuant to which Merger Sub will merge with and into the Company upon the terms and subject to the conditions set forth therein (the "Merger");
+
+WHEREAS, certain changes to the composition of the board of directors of the Company that are to occur in connection with the consummation of the Merger would constitute a Change of Control under the TRA, and, pursuant to Section 4.1(b) of the TRA, in the event of a Change of Control, the Early Termination Payment would become due and payable in accordance with Section 4.3 of the TRA and the TRA would terminate, as and to the extent provided therein (such effects, the "Change of Control Effects");
+
+WHEREAS, pursuant to Section 7.5(d) of the TRA, the provisions of the TRA may be waived in writing and signed by the Party against whom the waiver is to be effective; and
+
+WHEREAS, the undersigned desires to waive, effective immediately prior to the Effective Time (as defined in the Merger Agreement), any and all of the undersigned's rights and entitlements under, and the effects of, Section 4.1(b) of the TRA resulting from the consummation of the Merger such that the Change of Control Effects do not occur.
+
+NOW THEREFORE, the undersigned hereby agrees as follows:
+
+1.             The undersigned hereby (a) waives, effective immediately prior to the Effective Time, any and all of its rights and entitlements under, and the effects of, Section 4.1(b) of the TRA resulting from the consummation of the Merger and (b) expressly releases the Company from any and all obligations under the TRA that would otherwise arise in connection with the consummation of the Merger.
+
+2.             Except as expressly provided herein, (a) the execution, delivery and performance of this Waiver shall not constitute a waiver of any provision of, or operate as a waiver of any right, power or remedy of any of the Parties under, the TRA and (b) the TRA shall remain in full force and effect in accordance with its terms.
+
+3.             The provisions set forth in Sections 7.4, 7.5(c), 7.6 and 7.7 of the TRA are hereby incorporated herein by reference, *mutatis mutandis*.
+
+\[*Remainder of page intentionally left blank*\] IN WITNESS WHEREOF, the undersigned has executed this Waiver as of the date first written above.
+
+LNW SOCIAL HOLDING COMPANY I, LLC
+
+By:
+
+LNW Social Holding Company II, LLC, its sole member
+
+By:
+
+Light and Wonder International, Inc., its sole member
+
+By:
+
+/s/ James Sottile
+
+Name: James Sottile
+
+Title: Treasurer and Secretary
+
+\[*Signature Page to Waiver*\]

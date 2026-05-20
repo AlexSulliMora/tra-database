@@ -1,0 +1,41 @@
+---
+title: "Expro Group Holdings N.V. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Frank's International N.V.", "Expro Group Holdings N.V."]
+CIKs: ["0001575828", "0001575828"]
+status: Ongoing
+creation-date: 2013-08-14
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Originated as Frank's International N.V. Up-C IPO. The 2021 Amended and Restated TRA
+  added a $15M Closing Date Payment in exchange for waiver of the merger Change-of-Control
+  Early Termination Payment, plus a Deductible threshold and a hard sunset at the 2031
+  Reporting Taxable Year. Contract restructured, not terminated.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-07-15: First form-of TRA filed as Exhibit 10.10 to S-1/A
+- 2013-08-14: Executed TRA filed as Exhibit 10.1 to IPO-close 8-K; Mosing Holdings, Inc. is sole beneficiary
+
+#### 2016 Exchange (contract event, not amendment)
+
+- 2016-08-26: Mosing Holdings converts all FICV LP interests and Series A preferred into Class A common stock, generating the Section 754 basis schedule that anchors all future payments
+
+#### Expro merger and TRA restatement
+
+- 2021-03-10: Amended and Restated TRA executed concurrent with Expro merger agreement; adds $15M Closing Date Payment, Deductible threshold, and 2031 hard sunset
+- 2021-10-01: Expro merger closes; $15M Closing Date Payment paid to Mosing Holdings, LLC; firm renamed Expro Group Holdings N.V.
+
+## Explanation
+
+Frank's International N.V. went public on August 14, 2013 in an Up-C IPO and committed to pay Mosing Holdings 85% of cash tax savings from Section 754 basis step-ups on exchanges of FICV LP interests and Series A preferred stock. Mosing exchanged all of its interests on August 26, 2016, crystallizing the basis schedule that drives the contract. Concurrent with the March 2021 Expro reverse merger, the parties amended and restated the TRA: a $15 million Closing Date Payment at the October 1, 2021 merger close substituted for the Change-of-Control Early Termination Payment, a Deductible threshold was added to ongoing payments, and the contract auto-terminates after the 2031 Reporting Taxable Year payment. The Deductible has not been exceeded in any post-merger year, so no further Tax Benefit Payments have accrued; the contract remains in force through the most recent 10-K. See `contract_log.md` for the full filing-by-filing record.

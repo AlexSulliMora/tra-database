@@ -1,0 +1,44 @@
+---
+title: "Spirit Aviation Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Spirit Airlines, Inc.", "Spirit Aviation Holdings, Inc."]
+CIKs: ["0001498710", "0001498710"]
+status: Terminated
+creation-date: 2011-06-01
+termination-date: 2014-06-17
+tax-asset-type: [NOL, Other tax credit]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Pre-IPO NOL TRA (not Up-C); 90% rate is higher than the 85% Up-C mode. Covered
+  federal NOLs, deferred interest deductions, and AMT credits held as of March
+  31, 2011. Settled via private $7.3M arbitration settlement; no on-EDGAR
+  termination instrument.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2010-09-30: Form-of TRA filed as Exhibit 10.12 to S-1/A with blank preamble date
+- 2011-06-01: IPO closes; TRA executed at 90% sharing rate with Indigo Pacific Partners LLC and OCM FIE LLC as Stockholder Representatives for the Pre-IPO Stockholders, covering federal NOLs, deferred interest deductions, and AMT credits held as of March 31, 2011
+- 2011-12-09: Executed TRA filed as Exhibit 10.12 to post-IPO S-1
+
+#### Settlement of arbitration
+
+- 2012-Q2: First payment of $27.2M for 2011 tax savings plus $0.3M interest
+- 2014-04-07: Stockholder Representatives serve demand for arbitration over NOL utilization calculations
+- 2014-06-17: Negotiated settlement; Spirit pays $7.0M plus $0.3M interest against $5.6M accrued liability, releasing all obligations
+
+#### Bankruptcy and emergence (no TRA effect)
+
+- 2024-11-18: Chapter 11 filed (Case No. 24-11988 (SHL), S.D.N.Y.)
+- 2025-03-12: Plan effective; firm renamed Spirit Aviation Holdings, Inc.; no new TRA created at emergence
+
+## Explanation
+
+Spirit Airlines, Inc. (renamed Spirit Aviation Holdings, Inc. at March 2025 Chapter 11 emergence) executed a Pre-IPO NOL Tax Receivable Agreement on June 1, 2011 at its IPO close, paying 90% of cash tax savings (notably higher than the modal 85% Up-C rate) to Indigo Partners and Oaktree vehicles for federal NOLs, deferred interest deductions, and AMT credits held as of March 31, 2011. After a $27.2M payment in Q2 2012 and subsequent dispute over NOL utilization calculations, the Stockholder Representatives demanded arbitration on April 7, 2014; Spirit settled privately on June 17, 2014 for $7.3M (including interest) against a $5.6M accrued liability, recording the $1.4M excess as other expense and releasing all obligations. No standalone termination instrument was filed on EDGAR; the settlement is documented in the FY2014 10-K Note 18. The 2024 Chapter 11 and March 2025 emergence did not create a new TRA; the contract's economic life ended a decade before the bankruptcy. See `contract_log.md` for the executed text and the settlement documentation.

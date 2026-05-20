@@ -1,0 +1,31 @@
+---
+title: "Bioventus Inc. TRA (TRA-2021-02-16)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bioventus Inc."]
+CIKs: ["0001665988"]
+status: Ongoing
+creation-date: 2021-02-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2016-07-19-never-executed"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Sole Continuing LLC Owner: Smith & Nephew, Inc.
+  No liability has accrued: Smith & Nephew has not exchanged any LLC Interests for Class A common stock through 12/31/2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-02-04: Amendment No. 1 to Form S-1 attaches the form-of TRA as Exhibit 10.1.
+- 2021-02-16: Up-C IPO closes; executed Tax Receivable Agreement dated February 16, 2021 between Bioventus Inc., Bioventus LLC, and Smith & Nephew, Inc.
+- 2021-02-17: 8-K announcing IPO close files the executed TRA as Exhibit 10.2.
+
+## Explanation
+
+The TRA originates from Bioventus's February 16, 2021 Up-C IPO, with Smith & Nephew, Inc. as the sole Continuing LLC Owner and beneficiary. Bioventus pays 85% of cash tax savings on Section 754 basis step-ups arising from redemptions or exchanges of Bioventus LLC interests, plus imputed-interest gross-ups on TRA payments themselves. No amendments, restatements, or terminations have been filed. Through December 31, 2025, Smith & Nephew has not exchanged any LLC Interests for Class A common stock, so no liability has been recorded on the balance sheet; this is a normal Up-C disclosure, not a termination signal. See `contract_log.md` for the full filing-by-filing record.

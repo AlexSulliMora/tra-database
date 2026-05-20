@@ -1,0 +1,43 @@
+---
+title: "Global Brokerage, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Global Brokerage, Inc.", "FXCM Inc."]
+CIKs: ["0001499912"]
+status: Unknown
+creation-date: 2010-12-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Recorded contingent liability written down to $0 in Q1 2015 after the Swiss
+  franc shock; the 2017 prepackaged Chapter 11 plan expressly reinstates the
+  TRA. Bankruptcy docket and post-emergence filings are off-EDGAR (S.D.N.Y.
+  Case 17-13532).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2010-10-15: S-1/A No. 1 files the form-of TRA as Exhibit 10.2
+- 2010-12-01: Up-C IPO closes; TRA executed between FXCM Inc. and the TRA Parties holding units in FXCM Holdings, LLC
+- 2010-12-07: 8-K Item 1.01 attaches the executed TRA as Exhibit 10.3
+
+#### Swiss franc shock and economic extinguishment
+
+- 2015-01-15: Swiss National Bank removes the EUR/CHF floor; FXCM customer accounts go negative and Leucadia extends a $300M emergency loan
+- 2015 Q1: Contingent TRA liability written down to $0 with a $145.1M reversal; $5.4M cash payment made in 2015 for the 2013 tax year under a Leucadia letter-agreement carve-out
+
+#### Restructuring Support Agreement (TRA reinstated)
+
+- 2017-11-10: Prepackaged Chapter 11 Restructuring Support Agreement filed; Article IV(P) expressly reinstates the TRA and the obligations carry through to the Reorganized Debtor
+- 2017-12-11: Global Brokerage files Chapter 11 (S.D.N.Y. Case 17-13532); confirmation order and post-emergence filings are off EDGAR
+
+## Explanation
+
+Global Brokerage's TRA (originally executed under predecessor name FXCM Inc.) began at the December 1, 2010 Up-C IPO and obligates the public company to pay 85% of cumulative net realized tax benefits from Section 754 basis step-ups on exchanges of FXCM Holdings units, plus imputed interest. The January 15, 2015 Swiss franc shock and Leucadia bailout drove a valuation-allowance assessment that wrote the recorded contingent liability to zero in Q1 2015 with a $145.1M gain; only $5.4M (2013 tax year) and $0.2M (2014 tax year) of cash payments were ever made. The November 10, 2017 prepackaged Chapter 11 plan explicitly reinstates the TRA under the Reorganized Debtor, but the confirmation order and any post-emergence filings exit the EDGAR universe with the bankruptcy. Status set to Unknown because the post-emergence fate of the TRA cannot be determined from SEC filings alone. See `contract_log.md` for the full filing record and the bankruptcy-docket pointers.

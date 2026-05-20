@@ -1,0 +1,39 @@
+---
+title: "Yesway, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Yesway, Inc."]
+CIKs: ["0001859836"]
+status: Ongoing
+creation-date: 2026-04-21
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  2021 S-1 cycle described the same Up-C structure but never filed the form-of
+  TRA and lapsed without effectiveness. 2025-26 re-filing landed the executed
+  TRA at the April 21, 2026 IPO close (IPO priced at $20.00/share for 14M
+  Class A shares; close April 23, 2026). Blocker Covered Tax Assets include
+  acquired tax basis from Blocker Mergers; tagged as Basis Step-Up plus NOL
+  to cover any acquired loss carryforwards.
+---
+
+## TRA Timeline
+
+#### 2021 IPO attempt (no TRA filed)
+
+- 2021-09-21: Initial S-1 describes Up-C structure and forthcoming TRA; Exhibit 10.1 marked "To be filed by amendment" but never filed before the registration lapsed.
+
+#### Up-C IPO and TRA execution
+
+- 2026-03-27: Form-of TRA filed as Exhibit 10.1 to S-1 (preamble date "[ · ], 2026"; Exhibit B Net Tax Benefit Splits schedule populated).
+- 2026-04-21: TRA executed between Yesway, Inc., BW Ultimate Parent, LLC, the TRA Parties (Continuing Equity Owners and Brookwood-affiliated former Blocker Shareholders), and the Brookwood Nominee; 85% of Cumulative Net Realized Tax Benefit on Blocker Covered Tax Assets and Exchange Covered Tax Assets.
+- 2026-04-23: IPO closes at $20.00/share for 14M Class A shares (executed TRA filed as Exhibit 10.1 to the IPO-closing 8-K).
+
+## Explanation
+
+Yesway's TRA was executed on April 21, 2026 at the firm's Up-C IPO close. Yesway, Inc. pays the Continuing Equity Owners of BW Ultimate Parent, LLC and the Brookwood-affiliated former Blocker Shareholders 85% of its Cumulative Net Realized Tax Benefit from two attribute categories: Blocker Covered Tax Assets (the Corporation's share of Blocker basis acquired via the Blocker Mergers, plus any acquired loss attributes) and Exchange Covered Tax Assets (Section 754/743(b)/734(b) basis step-ups from future Exchanges or Redemptions of Parent Units), plus imputed-interest deductions on TRA payments. The contract carries standard Up-C early-termination, change-of-control, and divestiture acceleration provisions under Article IV. Yesway had attempted the same Up-C IPO in 2021 with the same Brookwood sponsor structure; that registration lapsed without filing an exhibit form of the TRA and without effectiveness, and the 2025-26 cycle was a clean re-filing under a new registration number. See `contract_log.md` for the full filing-by-filing record.

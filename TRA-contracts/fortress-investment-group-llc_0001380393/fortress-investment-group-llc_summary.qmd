@@ -1,0 +1,39 @@
+---
+title: "Fortress Investment Group LLC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Fortress Investment Group LLC"]
+CIKs: ["0001380393"]
+status: Unknown
+creation-date: 2007-01-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: named individual
+notes: >-
+  Five Principals (Briger, Edens, Kauffman, Nardone, Novogratz). 2017 Waiver caps three
+  signing Principals at fixed dollar amounts ($154.3M aggregate); Kauffman and Novogratz
+  retain uncapped rights. Initial liability $390M at IPO; $244.7M at September 30, 2017.
+  Fortress deregistered after SoftBank close on 2017-12-27; subsequent performance off-EDGAR.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-01-17: Original TRA executed (preamble date per Amended and Restated preamble recital); filed as Exhibit 10.3 to S-1/A on January 19, 2007
+- 2007-02-01: Amended and Restated TRA executed; filed as Exhibit 10.3 to S-1/A on February 2, 2007
+- 2007-02-13: IPO closes; A&R TRA becomes operative contract
+
+#### SoftBank merger and TRA Waiver
+
+- 2017-02-14: Waiver Agreement executed concurrent with SoftBank merger; three Principals (Briger, Edens, Nardone) waive Change-of-Control rights and accept fixed dollar caps (aggregate $154.3M); Kauffman and Novogratz unaffected
+- 2017-12-27: SoftBank merger closes; TRA remains in force with three signing Principals subject to caps
+- 2017-12-28: Last filing on EDGAR; Fortress subsequently deregistered
+
+## Explanation
+
+Fortress Investment Group LLC went public on February 13, 2007 in an Up-C IPO and committed to pay its five Principals (Peter Briger Jr., Wesley Edens, Robert Kauffman, Randal Nardone, Michael Novogratz) 85% of cash tax savings realized by the corporate taxpayers (FIG Corp. and FIG Asset Co. LLC) from Section 754 basis step-ups on Exchanges of Fortress Operating Group Units, imputed interest, and Section 704(c) allocations. The initial $390M liability stemmed from the December 2006 pre-IPO Nomura transaction. Concurrent with the SoftBank merger agreement on February 14, 2017, three of the five Principals signed a Waiver Agreement: they waived Section 4.01 Change-of-Control rights and accepted fixed dollar caps on their future payments (Briger $52.9M, Edens $58.8M, Nardone $42.6M, aggregating $154.3M); Kauffman and Novogratz retained uncapped rights. The TRA was not terminated; it remained in force through the December 27, 2017 SoftBank close and beyond. Fortress deregistered shortly after the close, so subsequent TRA performance under SoftBank ownership is not visible on EDGAR. Status is Unknown for that reason. See `contract_log.md` for the full filing-by-filing record.

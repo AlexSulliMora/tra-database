@@ -1,0 +1,37 @@
+---
+title: "Worldpay, Inc. TRA (TRA-2012-03-21-advent)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vantiv, Inc.", "Worldpay, Inc.", "Fidelity National Information Services, Inc."]
+CIKs: ["0001533932", "0001533932", "0001136893"]
+status: Terminated
+creation-date: 2012-03-21
+termination-date: 2013-10-23
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-03-21-fifthThird", "TRA-2012-03-21-jpdn", "TRA-2012-03-21-npcNOLs", "TRA-2014-05-12-mercury"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Advent acquired 50.93% of Vantiv Holding Class A Units from Fifth Third
+  on June 30, 2009; the basis step-up from that pre-IPO acquisition is the
+  tax attribute covered. Termination Agreement (Oct 23, 2013) settled both
+  this TRA and Advent's portion of the NPC NOLs TRA for approximately $112M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-05: Form-of TRA filed as Exhibit 10.31 to S-1/A Amendment No. 5.
+- 2012-03-21: Vantiv Up-C IPO closes; TRA executed between Vantiv, Inc., the Advent Stockholders, and Advent International Corporation; 85% of Realized Tax Benefits on Section 743(b) basis adjustments from Advent's June 2009 acquisition of 50.93% of Vantiv Holding Class A Units from Fifth Third.
+- 2012-05-08: Executed TRA filed as Exhibit 10.7 to Q1 2012 10-Q.
+
+#### Termination
+
+- 2013-10-23: Tax Receivable Termination Agreement between Advent, Vantiv, and AIC; approximately $112M paid against an Advent TRA carrying balance of approximately $183.8M plus Advent's share of the NPC NOLs TRA.
+
+## Explanation
+
+This was one of four parallel TRAs Vantiv executed at its March 21, 2012 Up-C IPO. The Advent TRA compensated Advent for the Section 743(b) basis step-up generated when Advent acquired 50.93% of Vantiv Holding's Class A Units from Fifth Third in June 2009, at the pre-IPO restructuring; payments were 85% of Vantiv's Realized Tax Benefits from those step-ups. Unlike the Fifth Third and JPDN TRAs, this contract did not cover Imputed Interest because Advent already held Class A common stock at IPO and no post-IPO LLC exchanges were contemplated. The contract terminated on October 23, 2013 via a single Termination Agreement that simultaneously settled the Advent TRA and Advent's share of the NPC NOLs TRA for approximately $112M against a roughly $183.8M aggregate carrying balance. See `contract_log.md` for the parallel-TRA mapping and the full filing-by-filing record.

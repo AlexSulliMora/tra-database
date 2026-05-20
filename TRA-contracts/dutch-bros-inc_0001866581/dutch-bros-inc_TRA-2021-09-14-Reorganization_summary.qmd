@@ -1,0 +1,37 @@
+---
+title: "Dutch Bros Inc. TRA (TRA-2021-09-14-Reorganization)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Dutch Bros Inc."]
+CIKs: ["0001866581"]
+status: Ongoing
+creation-date: 2021-09-14
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-09-14-Exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Reorganization TRA with Pre-IPO Blocker Holders (TSG7 A AIV VI
+  Holdings-A and DG Coinvestor Blocker Aggregator). Covers Blocker
+  basis plus inherited pre-IPO NOLs, foreign tax credits, and Section
+  381 carryforwards. Combined YE2025 TRA liability $821.0M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-09-07: Form-of Reorganization TRA filed as Ex 10.5 to S-1/A (unexecuted)
+- 2021-09-14: Up-C IPO closes; Reorganization TRA executed with Pre-IPO Blocker Holders
+- 2021-09-17: Executed Reorganization TRA filed as Ex 10.2 to closing 8-K
+
+#### Ongoing balance and first payment
+
+- 2026-02-13: FY2025 10-K reports first $4.7M combined TRA cash payment in 2025; both TRAs identified as KPMG critical audit matter
+
+## Explanation
+
+Dutch Bros Inc. executed two parallel Tax Receivable Agreements at the close of its September 14, 2021 Up-C IPO; this file covers the Reorganization TRA with the Pre-IPO Blocker Holders (TSG7 A AIV VI Holdings-A, L.P. and DG Coinvestor Blocker Aggregator, L.P.). The contract pays 85% of realized tax benefits attributable to (i) existing tax basis and basis adjustments of certain OpCo assets tied to Class A units indirectly acquired from the Blockers in the IPO reorganization, (ii) Blocker pre-IPO net operating loss carryforwards, foreign tax credits, and Section 381 carryforward attributes, and (iii) tax benefits from payments under the TRA itself. Unlike the Exchange TRA, the Reorganization TRA captures a fixed set of pre-IPO attributes that do not grow with future Exchanges. The contract remains in force as of the FY2025 10-K (filed 2026-02-13), with no amendments or terminations recorded. See `contract_log.md` for the full filing-by-filing record.

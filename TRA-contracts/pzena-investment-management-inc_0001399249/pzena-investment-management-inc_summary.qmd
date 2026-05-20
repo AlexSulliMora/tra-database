@@ -1,0 +1,42 @@
+---
+title: "Pzena Investment Management TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Pzena Investment Management, Inc."]
+CIKs: ["0001399249"]
+status: Unknown
+creation-date: 2007-10-30
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  October 31, 2022 take-private preserved the TRA at the operating LLC under a
+  Key Member carve-out in the Change of Control definition; CIK 0001399249
+  stopped reporting after close, so the contract's post-close fate is not
+  visible from EDGAR. Last disclosed liability ~$24.7M at year-end 2021.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-10-30: Up-C IPO closes; TRA executed between Pzena Investment Management, Inc. and the Continuing and Exiting Members of Pzena Investment Management, LLC
+- 2007-11-14: Executed TRA first filed publicly as 10-Q exhibit 10.2 for the quarter ending September 30, 2007
+
+#### Administrative amendments
+
+- 2012-12-31: First Amendment executed; gives the LLC discretion to allocate limited Tax Benefit Payments equitably among Members when deductions are constrained, no change to the 85% rate or coverage
+- 2017-12-18: Second Amendment executed; deletes the Advisory Firm Letter requirement, no economic change
+
+#### Take-private and end of public reporting
+
+- 2022-07-26: 8-K announces take-private merger and attaches voting agreement plus credit-facility commitment letter with explicit TRA payment carve-out
+- 2022-10-31: Merger closes; Pzena Investment Management, Inc. is merged into a subsidiary of Pzena Investment Management, LLC, eliminating the PubCo while the TRA continues at the surviving LLC under the Key Member carve-out in the CoC definition
+
+## Explanation
+
+Pzena's Up-C IPO on October 30, 2007 created a TRA paying 85% of cash tax savings from Section 754 basis step-ups (and imputed interest on payments) to the Continuing and Exiting Members of Pzena Investment Management, LLC. Two amendments followed (December 31, 2012 and December 18, 2017), both purely administrative. The October 31, 2022 take-private merger did not terminate the TRA: the buyer group included all then-employed Key Members, falling within an explicit Change of Control carve-out, and the new senior credit facility included an explicit permitted-payment exception for TRA payments. The public corporation was merged into a subsidiary of the operating LLC and stopped filing with the SEC, so the TRA's post-close history is not visible from EDGAR (last disclosed liability ~$24.7M at year-end 2021). See `contract_log.md` for the full filing-by-filing record and the Change of Control clause analysis.

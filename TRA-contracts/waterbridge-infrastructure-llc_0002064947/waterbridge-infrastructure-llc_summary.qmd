@@ -1,0 +1,29 @@
+---
+title: "WaterBridge Infrastructure LLC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["WaterBridge Infrastructure LLC"]
+CIKs: ["0002064947"]
+status: Ongoing
+creation-date: 2025-09-18
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL, Other tax credit]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Newly originated Up-C IPO TRA. Hypothetical post-IPO termination payment ~$589.2M; aggregate projected tax-benefit pool ~$952.9M over 20 years. TRA liability $217.1M at March 31, 2026."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-09-03: Form-of TRA filed as Exhibit 10.6 to S-1/A
+- 2025-09-18: WaterBridge Infrastructure Up-C IPO closes (NYSE: WBI)
+- 2025-09-24: Executed Tax Receivable Agreement filed as Exhibit 10.1 to 8-K/A; 85% payment rate to Ashburton Investment Pte. Ltd., Desert Environmental Holdings LLC, Devon WB Holdco L.L.C., Elda River Infrastructure WB LLC, NDB Holdings LLC, and WBR Holdings LLC, covering WB 892 Existing Basis, WB 892 Carryovers (NOLs, net capital losses, tax credits, disallowed interest carryovers), IPO Existing Basis, Exchange Existing Basis, Section 754 Basis Adjustments, and Imputed Interest
+
+## Explanation
+
+WaterBridge Infrastructure LLC executed an 85% Tax Receivable Agreement at its September 18, 2025 Up-C IPO close (filed as a supplemental 8-K/A exhibit on September 24, 2025), paying six TRA Party entities (Ashburton / Desert Environmental / Devon WB / Elda River / NDB / WBR) 85% of net cash tax savings on a wide attribute set: WB 892 Existing Basis from the pre-IPO restructuring, WB 892 Carryovers (NOLs, net capital losses, excess tax credits, and disallowed interest expense carryovers), IPO Existing Basis from PubCo's purchase of newly issued OpCo Units with IPO proceeds, Exchange Existing Basis and Section 754 Basis Adjustments from future Redemptions / Exchanges of OpCo Units, and imputed interest. The 10-K reports a hypothetical post-IPO termination payment of approximately $589.2M and an aggregate projected tax-benefit pool of approximately $952.9M over 20 years. The TRA is freshly originated, in force, and unamended; recorded TRA liability was $201.6M (9/30/2025), $201.4M (12/31/2025), and $217.1M (3/31/2026). See `contract_log.md` for the full filing record and the Covered Tax Asset definitions.

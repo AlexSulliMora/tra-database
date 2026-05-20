@@ -1,0 +1,33 @@
+---
+title: "Intuitive Machines, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Inflection Point Acquisition Corp.", "Intuitive Machines, Inc."]
+CIKs: ["0001844452", "0001844452"]
+status: Ongoing
+creation-date: 2023-02-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA is legally in force but unrecognized on the balance sheet due to a full
+  valuation allowance on the underlying deferred tax assets (federal NOLs of
+  roughly $73.9M at YE2025). Founder Class B voting control overlaps with the
+  TRA Holders set.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2023-02-13: Executed TRA dated as of de-SPAC close with Inflection Point Acquisition Corp., 85% of Net Tax Benefit to the indie OpCo founders (Altemus, Ghaffarian, Crain) and associated continuing members
+- 2023-02-14: 8-K reports close and attaches the executed TRA as Exhibit 10.1
+- 2023-02-15: 8-K/A refiles the same executed TRA for housekeeping; substantive text identical
+
+## Explanation
+
+Intuitive Machines executed its Tax Receivable Agreement at the February 13, 2023 close of the SPAC business combination between Inflection Point Acquisition Corp. and Intuitive Machines OpCo, paying 85% of the cumulative net realized tax benefit on Section 754 basis step-ups (from exchanges of OpCo Common Units for Class A stock), the Business Combination Existing Basis allocable to the public company, and imputed interest deductions on TRA payments. The TRA is legally in force as of the FY2025 10-K but the liability is unrecognized on the balance sheet because the company maintains a full valuation allowance on the underlying deferred tax assets while federal NOLs (roughly $73.9M at YE2025) prevent realization of the basis-step-up benefits. No amendments, restatements, or termination instruments are on file through May 2026; the August 2023 securities purchase, 2024 follow-on offering, and November 2025 Vantor/Galileo acquisition did not modify the contract. See `contract_log.md` for the full filing-by-filing record.

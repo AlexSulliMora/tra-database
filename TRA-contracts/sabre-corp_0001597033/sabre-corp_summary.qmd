@@ -1,0 +1,43 @@
+---
+title: "Sabre Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Sabre Corporation"]
+CIKs: ["0001597033"]
+status: Terminated
+creation-date: 2014-04-23
+termination-date: 2019-12-18
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Pre-IPO Tax Assets bundle federal NOLs, capital losses (tagged NOL), and Section 197
+  amortization of lastminute.com and World Choice Travel intangibles (tagged Basis Step-Up).
+  Liability trajectory: ~$410M (2014) to ~$342M (2015) to ~$72M at termination.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2014-04-04: Unexecuted TRA form filed as Exhibit 10.44 to S-1/A
+- 2014-04-23: TRA executed at IPO close between Sabre Corporation and Sovereign Manager Co-Invest, LLC (Existing Stockholders Representative); executed copy filed as Exhibit 10.1 to 8-K
+- 2015-02-26: First 10-K recognizes initial TRA liability of approximately $410 million
+
+#### TCJA remeasurement
+
+- 2018-02-16: 2017 10-K records approximately $60 million benefit from remeasuring the TRA liability for the federal corporate tax-rate reduction from 35% to 21%
+
+#### Early Complete Termination
+
+- 2019-12-18: Sabre and Sovereign Manager Co-Invest, LLC execute the Payment and Termination Agreement under Section 4.01(b) of the TRA
+- 2020-01-10: Final payment of approximately $72 million made ($69,137,149.96 Tax Benefit Payment for 2018 plus $1,309,440.20 Early Termination Payment)
+- 2020-02-26: 2019 10-K files the termination instrument as Exhibit 10.78 and discloses the December 2019 termination
+- 2021-02-26: 2020 10-K confirms zero TRA liability on the balance sheet
+
+## Explanation
+
+Sabre executed the Income Tax Receivable Agreement on April 23, 2014, at the close of its IPO, with Sovereign Manager Co-Invest, LLC serving as representative of the pre-IPO stockholders. The TRA paid those holders 85% of realized federal tax savings attributable to Pre-IPO Tax Assets, which the contract defined to include federal NOLs, capital losses, and Section 197 amortization of intangibles tied to the lastminute.com and World Choice Travel acquisitions. The 2017 Tax Cuts and Jobs Act materially shrank the liability by roughly $60 million when the corporate rate dropped from 35% to 21%, since a lower rate means a smaller realized benefit per dollar of pre-IPO attribute. On December 18, 2019, Sabre exercised its Early Complete Termination right under Section 4.01(b) via a standalone Payment and Termination Agreement, and the final payment of approximately $72 million on January 10, 2020 economically extinguished the obligation. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,31 @@
+---
+title: "AlTi Global Inc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Cartesian Growth Corporation", "Alvarium Tiedemann Holdings, Inc.", "AlTi Global, Inc."]
+CIKs: ["0001838615", "0001838615", "0001838615"]
+status: Ongoing
+creation-date: 2023-01-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Initial purchase-accounting allocation $13.0M. Business-Combination portion
+  carried at fair value as contingent consideration. Beneficiaries are TWMH,
+  TIG GP, and TIG MGMT Members.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-02-11: S-4 attaches form-of TRA as Annex E (preamble placeholders)
+- 2023-01-03: Business Combination closes; Cartesian renamed Alvarium Tiedemann Holdings (later AlTi Global); TRA executed as Exhibit 10.10 to closing 8-K
+
+## Explanation
+
+AlTi Global's Tax Receivable Agreement was executed on January 3, 2023 at the closing of the SPAC business combination among Cartesian Growth Corporation, Tiedemann Wealth Management, the TIG entities, and Alvarium Investments, producing an Up-C variant with Alvarium Tiedemann Capital, LLC (later renamed AlTi Global Capital, LLC) as the Umbrella partnership. AlTi pays 85% of the Purchaser's Realized Tax Benefit from Section 754 basis step-ups generated at the Business Combination and on future exchanges of Umbrella units by the TWMH, TIG GP, and TIG MGMT Members, plus pre-combination tax assets of the target entities. No amendments or terminations have been filed; the Business-Combination portion is carried at fair value as contingent consideration and the TRA liability has trended down from $28.8M at year-end 2024 to $25.7M at year-end 2025. Subsequent Allianz/Constellation preferred-equity investments and the 2024 Fourth A&R LLC Agreement reference the TRA only as a material contract, not as an amendment. See `contract_log.md` for the full filing-by-filing record.

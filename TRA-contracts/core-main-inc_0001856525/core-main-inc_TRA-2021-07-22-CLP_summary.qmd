@@ -1,0 +1,36 @@
+---
+title: "Core & Main, Inc. TRA (TRA-2021-07-22-CLP)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Core & Main, Inc."]
+CIKs: ["0001856525"]
+status: Ongoing
+creation-date: 2021-07-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-07-22-FLP"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Continuing Limited Partners TRA: beneficiaries are LLC-shareholder side that retains Holdings
+  interests post-IPO and may exchange later. Coordinates with the FLP TRA at Section 3.3 so the
+  combined 85% cap covers both contracts.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-09: Form-of TRA filed as Exhibit 10.6 to S-1/A No. 3
+- 2021-07-22: TRA executed at the closing of the Up-C reorganization, immediately prior to the IPO
+- 2021-07-28: Executed TRA filed as Exhibit 10.7 to the IPO 8-K (event date July 22, 2021)
+
+#### Ongoing in-force status
+
+- 2022 through 2024: Series of secondary offerings (CD&R wind-down via Class B-to-Class A exchanges) generated additional Section 754 basis step-ups, increasing the CLP TRA liability; combined CLP + FLP liability grew from $153M (Jan 30, 2022) to $720M (Feb 1, 2026)
+
+## Explanation
+
+This is the Continuing Limited Partners (CLP) half of Core & Main's paired Up-C TRAs, executed July 22, 2021 immediately before the July 27, 2021 IPO. The CLP TRA covers Section 754 basis adjustments and Common Basis generated when Partnership Interest Holders exchange Holdings limited partnership interests (along with Class B shares) for Class A common stock plus imputed interest; principal beneficiaries are Core & Main Management Feeder, LLC and CD&R-affiliated vehicles that retained Holdings interests post-Reorganization. The payment percentage is 85% of Cumulative Net Realized Tax Benefit, coordinated with the parallel Former Limited Partners TRA at Section 3.3 so the combined obligations to both beneficiary groups cap at 85% of total realized tax benefit. The contract has not been amended; the secondary-offering exchange activity is contemplated by the contract's operation rather than a TRA event. See `contract_log.md` for the full filing record.

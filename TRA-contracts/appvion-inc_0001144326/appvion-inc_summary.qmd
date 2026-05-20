@@ -1,0 +1,35 @@
+---
+title: "Appvion, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Appvion, Inc.", "Hicks Acquisition Company II, Inc.", "Paperweight Development Corp."]
+CIKs: ["0001144326", "", ""]
+status: Terminated
+creation-date: 2012-05-16
+termination-date: 2012-07-06
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA only; never executed because the HACII SPAC business combination
+  was abandoned. Appvion (operating target) was not itself a TRA party; the
+  contemplated obligor was HACII as PubCo, with PDC as beneficiary.
+---
+
+## TRA Timeline
+
+#### HACII business combination announcement
+
+- 2012-05-16: 8-K announces Equity Purchase Agreement and Cross Purchase Agreement with HACII; form-of TRA attached as Exhibit A to the Cross Purchase Agreement
+- 2012-06-20: Amendment No. 1 to Equity Purchase Agreement adds the TRA to the "Ancillary Agreements" definition; no substantive change to the form-of TRA
+
+#### Abandonment
+
+- 2012-07-06: Final 8-K referencing HACII; subsequent 2013 filings show Appvion operating independently, indicating the SPAC combination was abandoned and the TRA never executed
+
+## Explanation
+
+In May 2012, Appvion's then-parent Paperweight Development Corp. signed a Cross Purchase Agreement with the SPAC Hicks Acquisition Company II, Inc. that contemplated a business combination in which HACII would become Appvion's public parent and would enter into an 85% Tax Receivable Agreement with PDC covering basis step-ups from PDC's exchanges of Appleton Class B Exchangeable Units. The form-of TRA appeared as an exhibit to the Cross Purchase Agreement but carried a blank preamble date, consistent with an unexecuted form. The HACII combination was abandoned before closing: filings after July 2012 make no further reference to HACII, and Appvion continued under its own CIK with an independent 2013 debt refinancing. See `contract_log.md` for the full filing-by-filing record.

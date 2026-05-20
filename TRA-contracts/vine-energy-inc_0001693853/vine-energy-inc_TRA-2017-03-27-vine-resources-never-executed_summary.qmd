@@ -1,0 +1,33 @@
+---
+title: "Vine Energy Inc. TRA (TRA-2017-03-27-vine-resources-never-executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vine Resources Inc.", "Vine Energy Inc."]
+CIKs: ["0001693853", "0001693853"]
+status: Unknown
+creation-date: 2017-03-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-03-17"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Never executed: the 2017 Vine Resources IPO was abandoned. CIK 0001693853 was renamed Vine Energy Inc. in 2021 and a separate, structurally distinct TRA was executed at the 2021 IPO close. Origin date inferred from earliest exhibit filing date (DRS/A 2017-03-27); preamble was blank."
+---
+
+## TRA Timeline
+
+#### Form-of TRA filed in abandoned IPO registration
+
+- 2017-03-27?: Form-of TRA first appears as exhibit to confidential DRS/A (origin date inferred from earliest exhibit filing date; preamble dated `[ ], 2017`)
+- 2017-04-10: Same form-of TRA re-filed as Exhibit 10.27 to public S-1
+- 2018-03-22: Final S-1/A Amendment No. 4 filed; registration thereafter went stale with no 424B prospectus and no IPO 8-K
+
+#### Abandonment
+
+- 2021-02-02: CIK 0001693853 renamed from Vine Resources Inc. to Vine Energy Inc.; 2017 form-of TRA never executed
+
+## Explanation
+
+Vine Resources Inc. filed a confidential DRS in early 2017 and a public S-1 on April 10, 2017 with a form-of Tax Receivable Agreement attached as Exhibit 10.27, contemplating a single-bucket Up-C TRA paying 85% of cash tax savings on Section 754 basis step-ups and imputed interest from future LLC Unit exchanges. The 2017 IPO was abandoned: no 424B prospectus or IPO 8-K Item 1.01 was filed, and the final S-1/A Amendment No. 4 (March 22, 2018) was the last filing in the 2017 registration. The form-of TRA was never executed (blank preamble date, blank signature blocks, blank schedules). The same CIK was renamed Vine Energy Inc. in February 2021 and went public under a structurally different TRA later that quarter, but the 2017 instrument is a separate contemplated contract that simply never came into legal force. See `contract_log.md` for the form-of text reference and the distinction from the 2021 TRA.

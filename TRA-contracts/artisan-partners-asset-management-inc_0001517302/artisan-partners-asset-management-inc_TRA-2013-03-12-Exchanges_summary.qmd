@@ -1,0 +1,40 @@
+---
+title: "Artisan Partners Asset Management Inc. TRA (TRA-2013-03-12-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Artisan Partners Asset Management Inc.", "Artisan Partners Holdings LP"]
+CIKs: ["0001517302", ""]
+status: Ongoing
+creation-date: 2013-03-12
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-03-06-Merger"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Broad pool of Artisan Partners Holdings LP unit holders as beneficiaries.
+  First Amendment (Aug 17, 2023) replaced LIBOR with a Replacement Rate;
+  no economic change. Aggregate liability across both TRAs was $303.4M at year-end 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-02-14: S-1/A Amendment No. 3 first attaches the form-of TRA (Exchanges) as Exhibit 10.5
+- 2013-03-12: Exchanges TRA executed alongside the Partnership Agreement effectiveness
+- 2013-05-09: First post-IPO 10-Q files the executed Exchanges TRA as Exhibit 10.5
+
+#### Material follow-on offerings
+
+- 2013-11-01: November 2013 follow-on offering triggers approximately $90M incremental TRA liability
+
+#### LIBOR replacement amendment
+
+- 2023-08-17: First Amendment replaces the LIBOR definition with a Replacement Rate mechanism; refiled in the FY2023 10-K (2024-02-22)
+
+## Explanation
+
+The Exchanges TRA was executed on March 12, 2013 alongside APAM's Up-C IPO and obligates APAM to pay 85% of cash tax savings to each Artisan Partners Holdings LP Limited Partner from Section 754 basis step-ups (including the 2006 recapitalization basis) arising on exchanges of LP Units for Class A common stock, plus imputed-interest deductions. The 2013 follow-on offering added roughly $90M in incremental TRA liability through additional basis step-ups. The August 17, 2023 First Amendment was a LIBOR-to-Replacement-Rate housekeeping update with no economic change. The contract remains in force alongside the parallel Merger TRA, with annual payments running roughly $33M-$37M. See `contract_log.md` for the full filing-by-filing record.

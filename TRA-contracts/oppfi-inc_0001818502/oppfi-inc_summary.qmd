@@ -1,0 +1,44 @@
+---
+title: "OppFi Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FG New America Acquisition Corp.", "OppFi Inc."]
+CIKs: ["0001818502", "0001818502"]
+status: Terminated
+creation-date: 2021-07-20
+termination-date: 2026-09-01
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Termination via Corporate Simplification Agreement of April 28, 2026
+  substituting a fixed $40.806M Aggregate Early Termination Payment for the
+  Section 4.01 formula; payable in two installments (May 8, 2026 and
+  September 1, 2026), subject to acceleration before BNCC merger close.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-02-09: 8-K announces FGNA-OppFi Business Combination Agreement, describing the prospective 90% TRA on basis step-ups
+- 2021-06-25: DEFM14A attaches the form-of TRA as Annex G
+- 2021-07-20: 8-K reports closing of the SPAC business combination; executed TRA filed as EX-10.1
+
+#### First payment cycle
+
+- 2024-12-31: First material TRA liability recorded ($26.5M) per FY2024 10-K, reflecting accumulated exchanges and onset of cash tax savings
+- 2025-Q1: First TRA payment of $1.041M to Members
+
+#### Up-C collapse and TRA termination
+
+- 2026-04-28: 8-K reports execution of Corporate Simplification Agreement; CSA's TRA Amendment fixes Aggregate Early Termination Payment at $40.806M, payable in two installments
+- 2026-05-08: First $20.4M installment due
+- 2026-09-01: Second installment due; TRA Termination Effective Time upon payment (subject to acceleration before BNCC merger close)
+
+## Explanation
+
+OppFi Inc. became the TRA obligor on July 20, 2021 when FG New America Acquisition Corp. closed its SPAC business combination with Opportunity Financial, LLC, producing an Up-C structure in which the legacy LLC members (Schwartz family entities, represented by Todd Schwartz) hold Retained OppFi Units exchangeable for Class A Common Stock. The TRA pays Members 90% of the cash tax savings from basis step-ups arising from the deemed sale at closing and from any future Unit exchanges, with a Section 754 election required for each year in which an exchange occurs. The TRA carried essentially zero recorded liability until late 2024, when accumulated exchanges and basis step-up amortization produced the first material cash tax savings; OppFi made its first TRA payment of $1.041M in Q1 2025. On April 28, 2026, OppFi executed a Corporate Simplification Agreement that collapses the Up-C structure (via direct exchanges by seven Schwartz-affiliated TRA Party Signatories holding 92.3% of TRA Rights plus a follow-on merger to cancel the residual ~5.3%) and amends the TRA to substitute a fixed $40,806,220 Aggregate Early Termination Payment for the Section 4.01 formula, payable in two installments on May 8, 2026 and September 1, 2026, after which the TRA terminates automatically. See `contract_log.md` for the full filing-by-filing record.

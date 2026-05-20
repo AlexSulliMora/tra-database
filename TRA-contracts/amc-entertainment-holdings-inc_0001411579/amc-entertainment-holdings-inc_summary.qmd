@@ -1,0 +1,41 @@
+---
+title: "AMC Entertainment Holdings TRA (NCM beneficiary)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["AMC Entertainment Holdings, Inc.", "National CineMedia, Inc."]
+CIKs: ["0001411579", "0001377630"]
+status: Ongoing
+creation-date: 2007-02-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  NCMI affirmed the TRA under its Aug 7, 2023 Plan of Reorganization to preserve the Up-C structure;
+  AMC and Cinemark remain beneficiaries while Regal waived its rights effective Jul 14, 2023.
+  AMC's $20.9M pushdown intangible was fully amortized by YE 2020; cash receipts continue under the contract.
+---
+
+## TRA Timeline
+
+#### NCM Up-C IPO and TRA execution
+
+- 2007-02-13: NCMI IPO closes; TRA executed among NCMI, NCM LLC, and the three Founding Members (AMC, Cinemark, Regal) at 90% of NCMI's realized tax benefit from basis step-ups in NCM LLC units and ESA-related amounts.
+
+#### Wanda acquisition and intangible recognition
+
+- 2012-08-30: Wanda acquisition of AMC closes; pushdown accounting records a $20.9M amortizable intangible (24-year life) for AMC's right to NCM TRA payments, separate from the underlying NCM TRA contract.
+- 2020-12-31: AMC's NCM TRA intangible reaches $0 carrying value at YE 2020 after the remaining $14.7M is amortized or impaired during 2020; the contract itself remains in force and AMC received $3.7M in cash under it that year.
+
+#### NCM Chapter 11 and TRA assumption
+
+- 2023-04-11: NCM LLC files Chapter 11 in the Southern District of Texas; the TRA is classified among the Joint Venture Agreements in the Restructuring Support Agreement.
+- 2023-07-14: Joint Venture Termination and Settlement Agreement effective; Regal waives and releases all rights under the TRA, which remains in full force as to AMC and Cinemark.
+- 2023-08-07: NCMI's Plan of Reorganization becomes effective; the TRA is assumed under section 365 and NCMI affirms continued performance to preserve the Up-C structure. No new TRA is executed at emergence.
+
+## Explanation
+
+The TRA was executed on February 13, 2007 at National CineMedia, Inc.'s Up-C IPO, obligating NCMI to pay 90% of its realized tax benefit from basis step-ups in NCM LLC units (and certain ESA-related amounts) to its three Founding Members: AMC, Cinemark, and Regal. AMC's beneficiary economics were first recorded as additional equity-method proceeds; after Wanda's August 30, 2012 acquisition of AMC, pushdown accounting created a $20.9M amortizable intangible representing AMC's right to future TRA receipts, which was fully amortized by year-end 2020 even as cash receipts under the contract continued (for example, $3.7M in 2020). When NCM LLC filed Chapter 11 on April 11, 2023, the TRA was assumed rather than rejected: NCMI affirmed its TRA obligations in the Plan that became effective August 7, 2023 to preserve the Up-C structure, while Regal waived its TRA rights effective July 14, 2023 as part of the Joint Venture Termination and Settlement Agreement. The contract remains in force as to AMC and Cinemark, with NCMI continuing to accrue and pay amounts under it. See `contract_log.md` and `../national-cinemedia-inc_0001377630/contract_log.md` for the full filing-by-filing record and the obligor-side contract documents.

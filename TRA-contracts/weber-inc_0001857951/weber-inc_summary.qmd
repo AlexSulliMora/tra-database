@@ -1,0 +1,34 @@
+---
+title: "Weber Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Weber Inc."]
+CIKs: ["0001857951"]
+status: Terminated
+creation-date: 2021-08-09
+termination-date: 2023-02-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Terminating amendment substituted $0 for the formula payment, self-executing at the BDT-affiliate take-private merger close. The booked TRA liability was already $0 at signing after a Q3 FY2022 remeasurement from $9.226M to zero (driven by valuation-allowance considerations)."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-12: Form-of TRA filed as Exhibit 10.4 to S-1
+- 2021-08-09: Weber Up-C IPO closes; executed Tax Receivable Agreement filed at 85% to the Pre-IPO LLC Members (BDT WSP Holdings, BDT Capital Partners I-A Holdings, WSP Investment LLC, Weber-Stephen Management Pool LLC, and individual Principals), covering existing tax basis from pre-IPO step-up transactions, IPO-time basis adjustments, future exchange basis adjustments, and imputed interest (8-K Exhibit 10.1)
+
+#### BDT take-private and terminating amendment
+
+- 2022-08-15: Q2 FY2022 10-Q records a "Gain on Tax Receivable Agreement liability remeasurement" of $9.226M, taking carrying value from $9.226M to zero
+- 2022-12-11: Amendment No. 1 to TRA executed concurrent with the Ribeye Parent Merger Agreement; adds a new Section 4.4 providing the TRA automatically terminates without payment upon merger close and carves the merger out of the Section 4.1 Change of Control definition (8-K Exhibit 10.3)
+- 2023-02-21: Ribeye / Weber merger closes; TRA self-executes termination at $0 payment per the amendment (8-K); Form 15-12G deregistration follows March 3, 2023
+
+## Explanation
+
+Weber Inc. executed an 85% Up-C Tax Receivable Agreement at its August 9, 2021 IPO close with the Pre-IPO LLC Members (BDT WSP Holdings, BDT Capital Partners I-A Holdings, WSP Investment LLC, Weber-Stephen Management Pool LLC, and individual Principals), covering existing tax basis from pre-IPO step-up transactions, IPO-time basis adjustments from purchases of LLC Units, future exchange-driven basis adjustments, and imputed interest. By Q3 FY2022 the carrying value had been remeasured from $9.226M to zero following losses and deferred-tax-asset valuation-allowance considerations, recognizing a $9.226M gain. On December 11, 2022 Weber executed Amendment No. 1 to the TRA concurrent with the Ribeye Parent (BDT-affiliated) Merger Agreement, adding a new Section 4.4 providing that the TRA terminates automatically without any payment upon merger close and carving the merger out of the Section 4.1 Change of Control trigger. The Ribeye merger closed February 21, 2023 and the TRA self-executed termination at $0 (the zero-payment variant of a terminating amendment); Weber deregistered shortly thereafter. See `contract_log.md` for the Amendment No. 1 text and the Q3 FY2022 remeasurement context.

@@ -1,0 +1,36 @@
+---
+title: "Bitcoin Depot Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GSR II Meteora Acquisition Corp.", "Bitcoin Depot Inc."]
+CIKs: ["0001901799", "0001901799"]
+status: Terminated
+creation-date: 2023-06-30
+termination-date: 2025-05-30
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Sole TRA Holder: BT Assets, Inc. (Brandon Mintz vehicle).
+  Terminated by Up-C Collapse merger; $8.4M negotiated payment to BT Assets stockholders, accounted as common-control transaction (carrying value derecognized to APIC).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-08-24: SPAC Transaction Agreement executed between GSR II Meteora Acquisition Corp., BT Assets, Inc., and Lux Vending, LLC; form-of TRA attached as Exhibit 10.3.
+- 2023-06-13: 8-K announcing the Fourth Amendment to the Transaction Agreement attaches a final-form TRA referencing the new BT HoldCo LLC entity structure.
+- 2023-06-30: Up-C Closing; executed Tax Receivable Agreement dated June 30, 2023 between Bitcoin Depot Inc., BT HoldCo LLC, and BT Assets, Inc.
+- 2023-07-07: 8-K reporting Closing files the executed TRA as Exhibit 10.2.
+
+#### Up-C Collapse termination
+
+- 2025-05-30: Agreement and Plan of Merger executed and consummated; Section 1.1(r) terminates the TRA effective immediately following the Contribution. 8-K Item 1.02 reports the termination. $8.4M cash paid to former BT Assets stockholders as negotiated consideration.
+
+## Explanation
+
+The TRA originates from Bitcoin Depot's June 30, 2023 SPAC business combination (GSR II Meteora Acquisition Corp. combined with the BT Assets / Lux Vending operating structure), with BT Assets, Inc. (a Brandon Mintz-controlled vehicle) as the sole TRA Holder. Bitcoin Depot paid 85% of cash tax savings on Section 754 basis step-ups from exchanges of BT HoldCo Common Units, disproportionate Section 704(c) allocations, and imputed-interest deductions on TRA payments. The May 30, 2025 Up-C Collapse merger terminated the TRA by force of a provision in the Agreement and Plan of Merger (Section 1.1(r)), with an $8.4M cash payment to BT Assets stockholders as negotiated consideration; the TRA's carrying value was derecognized to additional paid-in capital under common-control accounting. See `contract_log.md` for the same-contract reasoning across the form-of and executed versions, and for the termination instrument analysis.

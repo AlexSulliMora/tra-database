@@ -1,0 +1,41 @@
+---
+title: "Moelis & Company TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Moelis & Company"]
+CIKs: ["0001596967"]
+status: Ongoing
+creation-date: 2014-04-15
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Four-party structure interposing Moelis Holdings Feeder, Inc. between
+  PubCo and the Partner Holdings LP. First material cash payment of $20.3M
+  recorded in 2024; year-end balance $301.1M as of Dec 31, 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-03-25: Third S-1/A files the revised form-of TRA as Exhibit 10.7, adopting the four-party structure (Corporation, Feeder, Partnership, Partners)
+- 2014-04-15: TRA executed at IPO close (85% sharing of net realized tax benefits from Section 754 basis step-ups and imputed interest)
+- 2014-04-22: 8-K reports execution and files the executed TRA as Exhibit 10.3
+
+#### TCJA re-measurement
+
+- 2018-02-21: FY 2017 10-K records an approximately $134.7M reduction in the TRA liability from the December 2017 corporate-rate cut (35% to 21%), with the DTA side producing a net adverse impact
+
+#### Administrative amendment and first material payment
+
+- 2023-12-18: First Amendment to the TRA executed (LIBOR to CME Term SOFR replacement; effective July 1, 2023; no economic substance), filed as Exhibit 10.11 to the FY 2023 10-K on 2024-02-20
+- 2025-02-18: FY 2024 10-K records the first material cash payment under the TRA, $20.3M during 2024
+
+## Explanation
+
+Moelis & Company completed an Up-C IPO in April 2014 and executed a Tax Receivable Agreement obligating the PubCo to pay 85% of the net realized tax benefits from Section 754 basis step-ups (arising from the Initial Sale at IPO and subsequent Managing-Director exchanges of Group LP units) and imputed interest to its eligible Managing Directors. The structure is unusual in interposing Moelis Holdings Feeder, Inc. between the Corporation and the Partner Holdings LP. The TRA has remained in force continuously; the only amendment, a December 2023 LIBOR-to-SOFR replacement, was administrative with no economic substance. The year-end TRA liability rose from $119.7M (2014) to $311.2M (2018) as exchanges accumulated, then re-measured downward after the TCJA rate cut and has trended around $300M since; the first material cash payment of $20.3M was recorded in 2024. See `contract_log.md` for the full filing-by-filing record.

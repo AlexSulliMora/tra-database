@@ -1,0 +1,33 @@
+---
+title: "Grayscale Investments, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Grayscale Investments, Inc."]
+CIKs: ["0002073548"]
+status: Ongoing
+creation-date: 2025-10-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA executed pre-IPO at the October 22, 2025 Private Placement Reorganization;
+  TRA Party Representative is DCG Grayscale Holdco, LLC (Digital Currency
+  Group affiliate). IPO close not yet visible in the directory.
+---
+
+## TRA Timeline
+
+#### Pre-IPO reorganization and TRA execution
+
+- 2025-10-22: Private Placement Reorganization completes; TRA executed between Grayscale Investments, Inc., Grayscale Operating, LLC, the Pre-IPO LLC Members, and DCG Grayscale Holdco, LLC as TRA Party Representative
+- 2025-10-27: DRS/A first files the executed TRA as Exhibit 10.3
+- 2025-11-13: S-1 re-files the executed TRA (identical text) as Exhibit 10.3
+- 2026-01-29: S-1/A incorporates Exhibit 10.3 by reference; body language confirms the TRA is now executed (past tense, 85% rate filled in)
+
+## Explanation
+
+Grayscale's TRA originated at the October 22, 2025 Private Placement Reorganization that established the company's Up-C structure ahead of its planned IPO. The contract obligates Grayscale Investments, Inc. to pay 85% of cash tax savings to the Pre-IPO LLC Members (DCG-affiliated holders, with named beneficiaries on a confidential-treatment-protected Annex), covering Section 754 basis step-ups on exchanges or deemed acquisitions of Grayscale Operating LLC units plus imputed-interest deductions on TRA payments. The Early Termination Rate is the lesser of 6.5% per annum and a SOFR-linked alternative. The TRA is executed and operative; the IPO close 8-K has not yet appeared in this directory and a future re-run should check for any joinder or amendment at closing. See `contract_log.md` for the full filing record.

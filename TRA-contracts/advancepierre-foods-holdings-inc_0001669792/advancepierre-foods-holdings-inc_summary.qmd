@@ -1,0 +1,37 @@
+---
+title: "AdvancePierre Foods Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["AdvancePierre Foods Holdings, Inc."]
+CIKs: ["0001669792"]
+status: Terminated
+creation-date: 2016-07-20
+termination-date: 2017-06-07
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Non-Up-C IPO; basis here is pre-IPO tax basis (depreciation/amortization),
+  not Section 754 step-ups. Termination capped at $224M in the Tyson merger
+  agreement (Section 7.07); actual payment $223.4M.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2016-06-15: S-1/A files form-of TRA as Exhibit 10.4
+- 2016-07-20: IPO closes; TRA executed (filed as Exhibit 10.3 to 8-K Item 1.01)
+
+#### Tyson acquisition and TRA termination
+
+- 2017-04-25: Tyson merger agreement signed; Section 7.07 caps TRA early-termination payment at $224M
+- 2017-06-07: Merger closes; Section 4.01 change-of-control acceleration triggers TRA termination
+- 2017-06-09: 8-K reports $223.4M lump-sum early-termination payment to TRA Holders
+
+## Explanation
+
+AdvancePierre Foods Holdings executed a Tax Receivable Agreement at its July 20, 2016 conventional (non-Up-C) IPO, agreeing to pay 85% of the cash tax savings it realized from pre-IPO net operating losses, alternative minimum tax credit carryforwards, and pre-IPO tax basis to OCM FIE, LLC as agent for the Oaktree-affiliated pre-IPO stockholders, with interest at LIBOR plus 200 basis points and a ten-year tail. No amendments were filed. Tyson Foods' all-cash tender offer at $40.25 per share closed on June 7, 2017, triggering the Section 4.01 change-of-control acceleration mechanism written into the contract itself; the resulting present-value lump sum of $223.4M was paid to the TRA Holders (just under the $224M cap set in Section 7.07 of the merger agreement), and the TRA was extinguished mechanically per its own terms, not via a negotiated separate instrument. AdvancePierre became a wholly-owned Tyson subsidiary and the CIK has no further TRA activity. See `contract_log.md` for the full filing-by-filing record.

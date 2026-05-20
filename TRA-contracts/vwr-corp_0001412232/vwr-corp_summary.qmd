@@ -1,0 +1,33 @@
+---
+title: "VWR Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["VWR Corporation"]
+CIKs: ["0001412232"]
+status: Terminated
+creation-date: 2014-10-07
+termination-date: 2017-11-21
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Non-Up-C C-corp IPO TRA covering Pre-IPO NOLs only. Termination letter (May 4, 2017) capped the Change of Control Payment at $56,238,010 conditional on the Avantor merger close (November 21, 2017)."
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2014-09-17: Unexecuted draft TRA filed as Exhibit 10.55 to S-1/A Amendment No. 3
+- 2014-10-07: VWR Corporation IPO closes; executed Income Tax Receivable Agreement filed at 85% to VWR Holdings, LLC (Madison Dearborn-controlled sponsor vehicle, also referred to as Varietal Distribution Holdings, LLC), covering Pre-IPO NOL utilization (8-K Exhibit 10.3)
+
+#### Termination via merger-conditioned letter
+
+- 2017-05-04: Termination letter agreement executed, capping the Change of Control Payment at $56,238,010 conditional on the Avantor merger close and waiving Sections 4.02 reconciliation and 5.02 compliance rights (8-K Exhibit 10.2)
+- 2017-11-21: Avantor merger closes; TRA terminates with $56.238M payment per the letter; VWR deregisters
+
+## Explanation
+
+VWR Corporation executed an 85% Income Tax Receivable Agreement at its October 7, 2014 IPO close, paying its Madison Dearborn-controlled sponsor parent (VWR Holdings, LLC, also referred to as Varietal Distribution Holdings, LLC) 85% of cash tax savings from utilization of Pre-IPO NOL carryforwards. This is a non-Up-C TRA: VWR was a conventional C-corporation IPO with no Section 754 basis step-ups, no LLC exchange mechanism, and an NOL-only attribute set. On May 4, 2017 (concurrent with the Avantor merger announcement) VWR and the sponsor signed a termination letter capping the Change of Control Payment at $56,238,010 conditional on the merger closing and providing that the TRA would terminate and be of no further force or effect upon payment. The Avantor merger closed November 21, 2017, the $56.238M payment was made per the letter, and VWR ceased SEC reporting. The deferred-review pipeline's `cancel_signal = 2014-09-30` flag is an initial-recognition false positive; the TRA remained in force from the IPO through the November 2017 merger close. See `contract_log.md` for the termination letter text and the deferred-pipeline reconciliation.

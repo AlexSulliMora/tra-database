@@ -1,0 +1,40 @@
+---
+title: "Worldpay, Inc. TRA (TRA-2014-05-12-mercury)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vantiv, Inc.", "Worldpay, Inc.", "Mercury Payment Systems, LLC"]
+CIKs: ["0001533932", "0001533932", ""]
+status: Terminated
+creation-date: 2014-05-12
+termination-date: 2019-06-30
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-03-21-advent", "TRA-2012-03-21-fifthThird", "TRA-2012-03-21-jpdn", "TRA-2012-03-21-npcNOLs"]
+role: PubCo
+trigger-event-type: Asset purchase
+counterparty-type: M&A sellers
+notes: >-
+  Obligor is NPC Group, Inc. (Vantiv subsidiary); Vantiv, LLC guarantees.
+  Beneficiaries: Silver Lake Partners III DE LP (SLP Parties), MPS 1, Inc. and
+  Mercury Payment Systems II, LLC (S Corp Parties). Capital losses and disallowed
+  Section 163(j) interest expense carryforwards tagged as NOL per skill convention.
+---
+
+## TRA Timeline
+
+#### Mercury acquisition and TRA execution
+
+- 2014-05-12: TRA dated May 12, 2014 between NPC Group, Inc. (obligor), the SLP Parties, the S Corp Parties, other Schedule B equityholders, and Vantiv, LLC (guarantor); 85% of Realized Tax Benefits on Section 743(b) basis adjustments from the Mercury merger and pre-acquisition Corporation NOLs, capital losses, disallowed Section 163(j) interest expense carryforwards, and credit carryforwards of SLP III Quicksilver Feeder Corp.
+- 2014-06-13: Acquisition closes; executed TRA filed as Exhibit 10.3 to 8-K (no form-of preceded; bilateral M&A negotiation).
+
+#### Repurchase Addendum and call-option run-off
+
+- 2015-07-24: Repurchase Addendum: immediate cash payment terminates 20% of 743(b) Tax Items available in 2015 and thereafter plus all NOLs available in 2015; Vantiv granted call options and the TRA Parties granted mirror-image put options on the remaining 80% and on post-2015 NOLs.
+- 2016-06: Call option exercise of $41.4M.
+- 2017-06: Call option exercise of $38.1M.
+- 2018-06: Call option exercise of $38.0M.
+- 2019-06-30: Final $43.0M call exercise; TRA reported as settled in the Q2 2019 10-Q.
+
+## Explanation
+
+The Mercury TRA originated with Vantiv's May 12, 2014 acquisition of Mercury Payment Systems and was executed at close on June 13, 2014. Unlike Vantiv's four 2012 IPO TRAs, the obligor here is the Vantiv subsidiary NPC Group, Inc., with Vantiv, LLC guaranteeing performance; the covered attributes include both the Section 743(b) basis step-up from the Mercury merger and a set of pre-acquisition tax attributes (NOLs, capital losses, disallowed Section 163(j) interest expense, credit carryforwards) of an SLP feeder corporation. Vantiv paid 85% of Realized Tax Benefits. A July 24, 2015 Repurchase Addendum restructured the run-off: an immediate cash payment terminated 20% of basis items and all 2015 NOLs, with Vantiv granted annual call options (and the TRA Parties given mirror puts) on the remaining 80% and on post-2015 NOLs. Vantiv exercised those call options each June from 2016 through 2019, with total scheduled payments of $41.4M + $38.1M + $38.0M + $43.0M; the Q2 2019 10-Q reports the Mercury TRA as fully settled as of June 30, 2019, just before the FIS acquisition closed on July 31, 2019. See `contract_log.md` for the full filing-by-filing record and the parallel-TRA mapping.

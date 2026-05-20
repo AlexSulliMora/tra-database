@@ -1,0 +1,32 @@
+---
+title: "Bioventus Inc. TRA (TRA-2016-07-19-never-executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bioventus Inc."]
+CIKs: ["0001665988"]
+status: Terminated
+creation-date: 2016-07-19
+termination-date: 2016-12-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-02-16"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Never executed; the 2016 IPO was withdrawn before closing.
+  Form-of attached to S-1/A as Exhibit 10.1; signing Members named were Smith & Nephew, Inc. and Anthony P. Bihl III.
+  Distinct contract from the 2021 executed TRA (different CEO, different signing Members, different registration statement).
+---
+
+## TRA Timeline
+
+#### Abandoned 2016 IPO and form-of TRA
+
+- 2016-06-30: Bioventus Inc. files initial S-1 for the 2016 IPO referencing the planned TRA.
+- 2016-07-19: Amendment No. 1 to S-1 attaches the form-of TRA as Exhibit 10.1 (preamble dated "[●], 2016").
+- 2016-12-31?: 2016 IPO withdrawn; the form-of TRA is never executed. Date inferred from absence of any 2017 amendment to the registration.
+
+## Explanation
+
+This is the form-of TRA attached to Bioventus's withdrawn 2016 IPO registration statement; it was never executed because the 2016 offering did not close. The planned terms were standard for an Up-C TRA: 85% of cash tax savings shared to pre-IPO members (Smith & Nephew, Inc. and Anthony P. Bihl III) on Section 754 basis step-ups from exchanges of LLC interests plus imputed interest. Bioventus returned to market in February 2021 with a distinct contract under a new registration statement, a different CEO, and only Smith & Nephew as the signing Member; see `bioventus-inc_TRA-2021-02-16_summary.qmd` for the executed contract. See `contract_log.md` for the same-contract reasoning that treats the 2016 and 2021 form-ofs as distinct contracts.

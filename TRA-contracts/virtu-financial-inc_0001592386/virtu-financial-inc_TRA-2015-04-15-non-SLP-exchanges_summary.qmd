@@ -1,0 +1,28 @@
+---
+title: "Virtu Financial, Inc. TRA (TRA-2015-04-15-non-SLP-exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Virtu Financial, Inc."]
+CIKs: ["0001592386"]
+status: Ongoing
+creation-date: 2015-04-15
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-04-15-mergers", "TRA-2015-04-15-SLP-exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Three parallel TRAs executed at the same April 15, 2015 IPO close, all at 85%, with Section 3.03(b) pro-rata coordination across the three contracts. This contract covers the non-Silver Lake pre-IPO holders (TJMT Holdings / Vincent Viola, Havelock / Temasek, founder-employees) whose interests are subject to future exchange."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-03-23: Form-of TRA (non-SLP Exchanges) filed as Exhibit 10.6 to S-1/A
+- 2015-04-15: Virtu Up-C IPO closes; executed Tax Receivable Agreement (non-SLP Exchanges) filed at 85% with the non-Silver Lake pre-IPO members of Virtu Financial LLC (TJMT Holdings, Havelock Fund Investments, and founder-employee holders), covering Section 754 basis step-ups from future exchanges of LLC Units plus imputed interest; Section 3.03(b) cross-coordinates payments with the parallel Mergers and SLP-Exchanges TRAs (10-Q Exhibit 10.5)
+
+## Explanation
+
+Virtu Financial, Inc. executed three parallel Tax Receivable Agreements at its April 15, 2015 Up-C IPO, all at the same 85% rate but segmented by beneficiary group; this contract covers the non-Silver Lake pre-IPO members of Virtu Financial LLC (TJMT Holdings, LLC for Vincent Viola, Havelock Fund Investments Pte Ltd for Temasek, and individual founder-employee holders) and pays 85% of net cash tax savings on Section 754 basis step-ups arising from future exchanges of their Virtu LLC Units plus imputed interest. Section 3.03(b) of each TRA pro-rata-coordinates payments across all three contracts so the aggregate payment in any year cannot exceed the actual tax savings. The contract has had no on-EDGAR amendment, restatement, waiver, or termination; the 2017 KCG and 2019 ITG acquisitions did not create new TRAs (both targets were public C-corps) and the various credit-agreement payment-restriction covenants are not contract amendments. The aggregate FY2025 cumulative obligation across all three Virtu TRAs was $181.9M, with cumulative payments of $134.8M since February 2017 and future payments projected at $0.3M to $22.5M per year over 15 years. See `contract_log.md` for the full filing record and the parallel-TRA structure.

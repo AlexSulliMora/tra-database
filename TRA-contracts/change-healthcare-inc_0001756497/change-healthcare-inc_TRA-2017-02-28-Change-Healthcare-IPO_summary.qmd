@@ -1,0 +1,40 @@
+---
+title: "Change Healthcare Inc. TRA (TRA-2017-02-28-Change-Healthcare-IPO)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Change Healthcare Inc.", "HCIT Holdings, Inc."]
+CIKs: ["0001756497", "0001756497"]
+status: Terminated
+creation-date: 2017-02-28
+termination-date: 2022-10-03
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2009-08-17-Management", "TRA-2011-11-02-Exchanges", "TRA-2011-11-02-Reorganizations", "TRA-2017-03-01-McKesson"]
+role: PubCo
+trigger-event-type: JV formation
+counterparty-type: pre-IPO holders
+notes: >-
+  Covers Performance-Inc. pre-Joint-Venture NOLs and tax attributes (not basis step-ups).
+  Beneficiaries are Blackstone, H&F, and former Change Performance-Inc. stockholders.
+  Terminated at UnitedHealth merger via Jan 5, 2021 Acknowledgment plus wire-transfer payments to remaining parties.
+---
+
+## TRA Timeline
+
+#### Origination at JV formation
+
+- 2017-02-28: TRA executed between Change Healthcare Inc. (predecessor), HCIT Holdings (Echo), Change Healthcare LLC (the JV), and Blackstone, H&F, and other Change Shareholder Representatives
+- 2017-03-01: McKesson / Change Healthcare Joint Venture closes
+- 2019-03-15: Filed under Change Healthcare Inc.'s CIK as Exhibit 10.3 to S-1
+
+#### UnitedHealth merger and pre-acknowledgment
+
+- 2021-01-06: Acknowledgment and Termination Agreement dated January 5, 2021 acknowledges Change of Control and binds Blackstone parties to Article IV Early Termination Payment at Merger consummation
+
+#### Termination at merger Effective Time
+
+- 2022-10-03: UnitedHealth merger Effective Time; TRA terminated; Blackstone-side Early Termination Payment delivered by wire transfer at close; remaining-party payments delivered promptly thereafter
+
+## Explanation
+
+This TRA originated at the March 2017 close of the McKesson / Change Healthcare joint venture and covers 85% of net cash tax savings attributable to Change Healthcare Performance, Inc.'s pre-JV NOLs and other tax attributes that were transferred into the JV; the beneficiaries are the Sponsors (Blackstone and H&F) and former Performance-Inc. stockholders, and the trigger tax attribute is NOLs rather than basis step-ups. The TRA was assumed by the public registrant at the 2019 Change Healthcare IPO. The January 5, 2021 Acknowledgment bound the Blackstone parties to the contractual Article IV Early Termination Payment conditional on UnitedHealth merger consummation; remaining parties received their Early Termination Payments under Article IV directly. The Merger closed October 3, 2022 and this TRA terminated at the Effective Time. See `contract_log.md` for the full filing record.

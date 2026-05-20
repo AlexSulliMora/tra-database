@@ -1,0 +1,37 @@
+---
+title: "Vince Holding Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vince Holding Corp", "Apparel Holding Corp."]
+CIKs: ["0001579157", "0001579157"]
+status: Terminated
+creation-date: 2013-11-27
+termination-date: 2024-02-03
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Expired by its own terms at the tenth anniversary of the IPO Restructuring Transactions; FY2023 10-K confirms total obligation was $0 at expiry. First Amendment (2015) was a payment-timing accommodation, not a substantive change."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-10-30: Form-of TRA filed as Exhibit 10.3 to S-1 Amendment No. 2
+- 2013-11-27: Executed Tax Receivable Agreement dated November 27, 2013 filed as Exhibit 10.2 to 8-K, paying Pre-IPO Stockholders (Sun Capital affiliates) 85% of realized tax savings from Pre-IPO NOLs, tax credits, and Section 197 intangible deductions
+
+#### Payment-timing amendment
+
+- 2015-09-01: First Amendment to TRA extends the payment date for the taxable year ended January 31, 2015 and holds interest at LIBOR + 200 bps through the Extended Payment Date; no change to 85% rate or covered attributes (filed as Exhibit 10.1 to Q3 FY2015 10-Q)
+
+#### Expiration per terms
+
+- 2023-11-27: Tenth-anniversary expiration trigger under Section 4.01(a)
+- 2024-02-03: TRA terminated per its terms at fiscal year-end containing the tenth anniversary; total obligation $0 at expiry (FY2023 10-K)
+
+## Explanation
+
+Vince Holding Corp (formerly Apparel Holding Corp.) executed an 85% Tax Receivable Agreement at its November 27, 2013 Up-C IPO with the Pre-IPO Stockholders (Sun Capital affiliates), covering pre-IPO NOLs, tax credits, and Section 197 intangible deductions. A September 1, 2015 First Amendment made a payment-timing accommodation (extending the payment date for the fiscal year ended January 31, 2015 and holding interest at the Agreed Rate through the Extended Payment Date) without altering economic terms. The TRA was not terminated early: it expired per its own terms at the tenth anniversary of the IPO Restructuring Transactions (November 27, 2023), with the FY2023 10-K confirming the total obligation was $0 at the February 3, 2024 fiscal year-end. A 2018 credit-agreement covenant restricting TRA payments was a payment restriction, not a termination of the contract itself. See `contract_log.md` for the full amendment text and the expiration reasoning.

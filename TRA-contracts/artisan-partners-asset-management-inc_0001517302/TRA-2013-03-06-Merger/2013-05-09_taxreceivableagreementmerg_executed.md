@@ -1,0 +1,613 @@
+---
+title: "TAX RECEIVABLE AGREEMENT (MERGER)"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+[]{#sDD47FFA8BCB8E3FAB8696C616FCBB59C}
+
+EXECUTION VERSION
+
+# TAX RECEIVABLE AGREEMENT (MERGER)
+
+ARTISAN PARTNERS ASSET MANAGEMENT INC. · H&F BREWER AIV II, L.P. · Dated as of March 6, 2013.
+
+[]{#s56A75DD7D1C8065FF1AE6C616FECC56A}
+
+[]{#sD7B34C944ED13CBA9E7D6C61701FD870}
+
+TAX RECEIVABLE AGREEMENT (MERGER)
+
+This TAX RECEIVABLE AGREEMENT (MERGER) (this "Agreement"), dated as of March 6, 2013 and effective upon the effectiveness of the Merger (as defined herein), is hereby entered into by and among Artisan Partners Asset Management Inc., a Delaware corporation ("APAM"), H&F Brewer AIV II, L.P., a Delaware limited partnership ("H&F Brewer"), and each of the successors and assigns thereto.
+
+## RECITALS
+
+WHEREAS, Artisan Partners Holdings LP, a Delaware limited partnership ("Holdings LP"), is classified as a partnership for United States federal income tax purposes;
+
+WHEREAS, H&F Brewer Blocker Corp, a Delaware corporation ("Blocker Corp"), is classified as an association taxable as a corporation for United States federal income tax purposes;
+
+WHEREAS, in connection with the initial public offering of Class A Shares (as defined below) of APAM (the "IPO"), APAM and Holdings LP will enter into a series of transactions to reorganize their capital structures (the "Reorganization");
+
+WHEREAS, as part of the Reorganization, pursuant to that certain Agreement and Plan of Merger, dated as of March 6, 2013 (the "Merger Agreement"), among APAM, Blocker Corp and H&F Brewer, Blocker Corp will merge with and into APAM (the "Merger");
+
+WHEREAS, as a result of the Merger, APAM will be entitled to utilize certain net operating losses and capital losses of Blocker Corp generated before the Merger (the "NOLs" which, for purposes of clarification, shall not include amounts that are duplicative of any carryovers of tax items attributable to any Basis Adjustment);
+
+WHEREAS, Holdings LP and each of its direct and indirect subsidiaries treated as a partnership for United States federal income tax purposes had in effect an election under Section 754 of the United States Internal Revenue Code of 1986, as amended (the "Code"), for prior taxable years in which (i) distributions from Holdings LP were made, and (ii) transfers and exchanges of partnership interests in Holdings LP occurred;
+
+WHEREAS, the income, gain, loss, expense and other Tax (as defined below) items of APAM may be affected by (i) the NOLs, (ii)  Basis Adjustments (as defined below) and (iii) the Imputed Interest (as defined below);
+
+WHEREAS, the parties to this Agreement desire to make certain arrangements with respect to the effect of the NOLs, the Basis Adjustments and the Imputed Interest on the liability for Taxes of APAM;
+
+[]{#sD7B34C944ED13CBA9E7D6C61701FD870}
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+[]{#s417B389AF09D6F32AB667F78252301D2}
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+[]{#s1D7B7F8468533D0416297F793F03F5CE}
+
+### Section 1.1: Definitions {#section-1-1}
+
+Advisory Firm
+:   means any accounting firm or any law firm that, in either case, is nationally recognized as being expert in tax matters. Solely with respect to an Advisory Firm required by APAM pursuant to its obligations under this Agreement, the Advisory Firm must be agreed to by the Board.
+
+Advisory Firm Letter
+:   means a letter from the Advisory Firm stating that the relevant schedule, notice or other information to be provided by APAM to H&F Brewer and all supporting schedules and work papers were prepared in a manner consistent with the terms of this Agreement and, to the extent not expressly provided in this Agreement, on a reasonable basis in light of the facts and law in existence on the date such schedule, notice or other information is delivered to H&F Brewer .
+
+Affiliate
+:   means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first Person.
+
+Agreed Rate
+:   means LIBOR plus 100 basis points.
+
+Agreement
+:   is defined in the Preamble of this Agreement.
+
+Amended Schedule
+:   is defined in [Section 2.3](#section-2-3)(b) of this Agreement.
+
+APAM
+:   is defined in the Preamble of this Agreement.
+
+APAM Return
+:   means the federal and/or state Tax Return, as applicable, of APAM (or any consolidated Tax Return filed for a group of which APAM is a member) filed with respect to Taxes of any Taxable Year.
+
+Attributable
+:   The portion of any Tax Benefit Payment that is "Attributable" to H&F Brewer for a Taxable Year shall be equal to the product of (i) H&F Brewer's Share of Attributes Used (as defined below) for such Taxable Year multiplied by (ii) the Tax Benefit Payment made by APAM with respect to such Taxable Year. H&F Brewer's "Share of Attributes Used" for a Taxable Year shall be equal to a fraction, the numerator of which equals the H&F Brewer's Available Attributes for such Taxable Year and the denominator of which equals the sum of the H&F Brewer's Available Attributes for such Taxable Year and (without duplication) the Available Attributes for such Taxable Year for all Persons entitled to tax benefit payments under the Tax Receivable Agreement (Exchanges). "Available Attributes" shall equal the sum of (i) the Depreciation, (ii) the Imputed Interest and (iii) carryovers of tax items attributable to (A) any Basis Adjustment, (B) the NOLs and (C) Imputed Interest, in each case described in (A) -- (C) that were not used in a prior Taxable Year and were carried forward in accordance with the principles of [Section 2.2](#section-2-2)(b) and [Section 3.3](#section-3-3)(a) of this Agreement and in accordance with the principles of [Section 2.2](#section-2-2)(b) and [Section 3.3](#section-3-3)(a) of the Tax Receivable Agreement (Exchanges), and that in each case described in (i) -- (iii) are available to APAM with respect to such Taxable Year, provided that the amount of any Available Attributes for a Taxable Year in respect of a Basis Adjustment under Section 734(b) shall equal APAM's share of Depreciation or carryovers of Depreciation for that Taxable Year attributable to such Basis Adjustment under Section 734(b), and any related Imputed Interest and carryovers, as determined under the Code and the applicable Treasury Regulations (so that Available Attributes shall not include any Depreciation, Imputed Interest or carryovers arising from a Basis Adjustment under Section 734(b) to the extent such amounts are not available to APAM). H&F Brewer's Available Attributes shall equal the Available Attributes relating to all LP Units that are the subject of any Exchanges of H&F Brewer, provided that Available Attributes attributable to Basis Adjustments under Section 734(b) shall relate to the LP Units the Exchange of which results in such Available Attributes being available to APAM immediately after the Exchange (rather than all such Available Attributes being treated as relating to the LP Units the Exchange of which resulted in the Basis Adjustment under Section 734(b)), and any related Imputed Interest and carryovers. For the avoidance of doubt, Available Attributes, and H&F Brewer's Available Attributes, shall not include any item in respect of which a Tax Benefit Payment has previously been made.
+
+Basis Adjustment
+:   means the adjustment to the tax basis of a Reference Asset under Sections 732, 755 and 1012 of the Code and the Treasury Regulations promulgated thereunder (in situations where, as a result of one or more Exchanges, Holdings LP becomes an entity that is disregarded as separate from its owner for U.S. federal income tax purposes) or under Sections 734(b), 743(b) and 755 of the Code and the Treasury Regulations promulgated thereunder (in situations where, following an Exchange, Holdings LP remains in existence as an entity for U.S. federal income tax purposes) and, in each case, comparable sections of state tax laws, as a result of (i) an Exchange, (ii) the 2006 recapitalization of Holdings LP, (iii) any actual distribution or deemed distribution to any LP Unit Holder as a result of any repayment or reallocation of debt of Holdings LP or any of its Subsidiaries and (iv) the payments made to LP Unit Holders pursuant to the Tax Receivable Agreement (Exchanges). For the avoidance of doubt, the amount of any Basis Adjustment resulting from an Exchange of one or more LP Units shall be determined without regard to any Pre-Exchange Transfers of such LP Units and as if any such Pre-Exchange Transfers had not occurred. For example, the Basis Adjustments arising from the 2006 recapitalization of Holdings LP will give rise to Tax Benefit Payments only to LP Unit Holders that engage in Exchanges on or after the date of this Agreement.
+
+Beneficial Owner
+:   of a security is a Person who directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security and/or (ii) investment power, which includes the power to dispose of, or to direct the disposition of, such security.
+
+Blocker Corp
+:   is defined in the Recitals of this Agreement.
+
+Board
+:   means the Board of Directors of APAM.
+
+Business Day
+:   means any day excluding Saturday, Sunday and any day that is a legal holiday under the laws of the State of New York or is a day on which banking institutions located in New York are closed.
+
+Change of Control
+:   means the occurrence of any of the following events:
+
+    (i)    any Person or any group of Persons acting together which would constitute a "group" for purposes of Section 13(d) of the Securities and Exchange Act of 1934, as amended, or any successor provisions thereto, other than the Permitted Owners or a group consisting solely of Permitted Owners, is or becomes the Beneficial Owner, directly or indirectly, of equity interests of APAM representing more than 50% of the combined voting power represented by all issued and outstanding equity interests in APAM; or
+
+    (ii)    less than a majority of the members of the Board shall be individuals who are either (x) members of such Board at the time of the completion of the Reorganization or (y) members of the Board whose election, or nomination for election by the stockholders of APAM, was approved by a vote of at least a majority of the members of the Board then in office who are individuals described in clause (x) above or in this clause (y), other than any individual whose nomination or appointment under this clause (y) occurred as a result of an actual or threatened solicitation of proxies or consents for the election or removal of one or more directors on the Board (other than any such solicitation made by the Board); or
+
+    (iii)    there is consummated a merger or consolidation of APAM with any other corporation or other entity, and, immediately after the consummation of such merger or consolidation, either (x) the Board immediately prior to the merger or consolidation does not constitute at least a majority of the board of directors of the company surviving the merger or, if the surviving company is a Subsidiary, the ultimate parent thereof, or (y) the voting securities of APAM immediately prior to such merger or consolidation do not continue to represent or are not converted into more than 50% of the combined voting power of the then outstanding voting securities of the Person resulting from such merger or consolidation or, if the surviving company is a Subsidiary, the ultimate parent thereof; or
+
+    (iv)    the shareholders of APAM approve a plan of complete liquidation or dissolution of APAM or there is consummated an agreement or series of related agreements for the sale or other disposition, directly or indirectly, by APAM of all or substantially all of APAM's assets, other than such sale or other disposition by APAM of all or substantially all of APAM's assets to an entity, at least 50% of the combined voting power of the voting securities of which are owned by shareholders of APAM in substantially the same proportions as their ownership of APAM immediately prior to such sale.
+
+    Notwithstanding the foregoing, except with respect to clause (ii) and clause (iii)(x) above, a "Change of Control" shall not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately following which the record holders of the shares of APAM immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in, and own substantially all of the shares of, an entity which owns all or substantially all of the assets of APAM immediately following such transaction or series of transactions.
+
+Class A Shares
+:   is defined in the Recitals of this Agreement.
+
+Code
+:   is defined in the Recitals of this Agreement.
+
+Control
+:   means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+Cumulative Net Realized Tax Benefit
+:   for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of APAM, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same period. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedule or Amended Schedule, if any, in existence at the time of such determination.
+
+Default Rate
+:   means LIBOR plus 300 basis points.
+
+Depreciation
+:   means depreciation, amortization or other similar deductions and reductions of gain or income or increase in loss in respect of or arising from the recovery of cost or basis arising in respect of a Basis Adjustment to a Reference Asset.
+
+Determination
+:   shall have the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of state tax law, as applicable, or any other event (including the execution of IRS Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+Dispute
+:   has the meaning set forth in [Section 7.8](#section-7-8)(a) of this Agreement.
+
+Early Termination Date
+:   means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+Early Termination Effective Date
+:   is defined in [Section 4.2](#section-4-2)(c) of this Agreement.
+
+Early Termination Notice
+:   is defined in [Section 4.2](#section-4-2) of this Agreement.
+
+Early Termination Schedule
+:   is defined in [Section 4.2](#section-4-2) of this Agreement.
+
+Early Termination Payment
+:   is defined in [Section 4.3](#section-4-3)(b) of this Agreement.
+
+Early Termination Rate
+:   means the lesser of (i) 6.5% per annum, compounded annually, and (ii) LIBOR plus 100 basis points.
+
+Exchange
+:   means an acquisition of LP Units or a purchase of LP Units by Holdings LP or APAM, including by way of an exchange of APAM shares for LP Units, in each case occurring on or after the date of this Agreement, and including pursuant to the Merger. Any reference in this Agreement to Units "Exchanged" is intended to denote Units subject to an Exchange.
+
+Exchange Date
+:   means the date of any Exchange.
+
+Expert
+:   is defined in [Section 7.9](#section-7-9) of this Agreement.
+
+H&F Brewer
+:   is defined in the Preamble of this Agreement.
+
+Holdings LP
+:   is defined in the Recitals of this Agreement.
+
+Hypothetical Tax Liability
+:   means, with respect to any Taxable Year, the liability for Taxes of APAM, using the same methods, elections, conventions and similar practices used on the relevant APAM Return but (i) using the Non-Stepped Up Tax Basis (as defined in each of the Tax Receivable Agreements) as reflected on the Exchange Basis Schedule (as defined in the Tax Receivable Agreement (Exchanges)) and the Merger Basis Schedule, including amendments thereto for the Taxable Year, (ii) without taking into account the use of NOLs, if any, and (iii) excluding any deduction attributable to Imputed Interest for the Taxable Year. For the avoidance of doubt, the Hypothetical Tax Liability shall be determined without taking into account the carryover or carryback of any Tax item (or portions thereof) that is attributable to any of the items described in the previous sentence.
+
+Imputed Interest
+:   shall mean any interest imputed under Section 1272, 1274 or 483 or other provision of the Code and any similar provision of state tax law with respect to APAM's payment obligations under the Tax Receivable Agreements.
+
+Independent Director
+:   means (i) those members of the Board who are not parties to this Agreement or any other Tax Receivable Agreement or (ii) officers, directors or greater-than-five-percent shareholders/owners of any party (other than APAM) to this Agreement or any other Tax Receivable Agreement.
+
+Interest Amount
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+IPO
+:   is defined in the Recitals of this Agreement.
+
+IRS
+:   means the United States Internal Revenue Service.
+
+LIBOR
+:   means during any period, an interest rate per annum equal to the one-year LIBOR reported, on the date two days prior to the first day of such period, on the Telerate Page 3750 (or if such screen shall cease to be publicly available, as reported on Reuters Screen page "LIBOR01" or by any other publicly available source of such market rate) for London interbank offered rates for United States dollar deposits for such period.
+
+LP Units
+:   means the limited partnership units in Holdings LP.
+
+Market Value
+:   shall mean the closing price per share of the Class A Shares on the applicable Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the Wall Street Journal; provided, that if the closing price is not reported by the Wall Street Journal for the applicable Exchange Date, then the Market Value shall mean the closing price of the Class A Shares on the Business Day immediately preceding such Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the Wall Street Journal; provided, further, that if the Class A Shares are not then listed on a national securities exchange or interdealer quotation system, "Market Value" shall mean the cash consideration paid per share for Class A Shares, or the fair market value of the other property delivered per share for Class A Shares, as determined by the Board in good faith.
+
+Material Objection Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2)(a) of this Agreement.
+
+Merger
+:   is defined in the Recitals of this Agreement.
+
+Merger Agreement
+:   is defined in the Recitals of this Agreement.
+
+Merger Basis Schedule
+:   is defined in [Section 2.1](#section-2-1) of this Agreement
+
+Net Tax Benefit
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+NOLs
+:   is defined in the Recitals of this Agreement.
+
+Non-Stepped Up Tax Basis
+:   means, with respect to any Reference Asset at any time, the Tax basis that such asset would have had at such time if no Basis Adjustments had been made.
+
+Objection Notice
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a)(i) of this Agreement.
+
+Partnership Agreement
+:   means the Fourth Amended and Restated Limited Partnership Agreement of Holdings LP, dated on or about the date hereof, as such agreement may be amended, restated, supplemented and/or otherwise modified from time to time.
+
+Payment Date
+:   means any date on which a payment is required to be made pursuant to this Agreement.
+
+Person
+:   means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity or other entity.
+
+Permitted Owners
+:   means (i) Artisan Investment Corporation (or any successor entity thereto that is controlled by Andrew A. Ziegler and Carlene M. Ziegler), (ii) the Persons holding Class B common units of Holdings LP from time to time, (iii) those Persons who immediately prior to the Reorganization held the Class A common units, the Class B common units and preferred units of Holdings LP and (iv) any Persons to whom the foregoing Persons are permitted to transfer their LP Units pursuant to Article XIV (or any successor provision thereto) of the Partnership Agreement.
+
+Pre-Exchange Transfer
+:   means any transfer or distribution in respect of one or more LP Units (i) that occurs prior to an Exchange of such LP Unit or LP Units and (ii) to which Section 743(b) or 734(b) of the Code applies.
+
+Realized Tax Benefit
+:   means, for a Taxable Year, the excess, if any, of the Hypothetical Tax Liability over the actual liability for Taxes of APAM. If all or a portion of the actual liability for such Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+Realized Tax Detriment
+:   means, for a Taxable Year, the excess, if any, of the actual liability for Taxes of APAM over the Hypothetical Tax Liability for such Taxable Year. If all or a portion of the actual liability for such Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+Reconciliation Dispute
+:   has the meaning set forth in [Section 7.9](#section-7-9) of this Agreement.
+
+Reconciliation Procedures
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Reference Asset
+:   means an asset that is held by Holdings LP, or by any of its direct or indirect subsidiaries treated as a partnership or disregarded entity for purposes of the applicable Tax, at the time of an Exchange. A Reference Asset also includes any asset that is "substituted basis property" under Section 7701(a)(42) of the Code with respect to a Reference Asset.
+
+Reorganization
+:   is defined in the Recitals of this Agreement.
+
+Schedule
+:   means any of the following: (i) the Merger Basis Schedule, (ii) a Tax Benefit Schedule, or (iii) the Early Termination Schedule, and, in each case, any amendments thereto.
+
+Senior Obligations
+:   is defined in [Section 5.1](#section-5-1) of this Agreement.
+
+Subsidiaries
+:   means, with respect to any Person, as of any date of determination, any other Person as to which such Person, owns, directly or indirectly, or otherwise controls more than 50% of the voting power or other similar interests or the sole general partner interest or managing member or similar interest of such Person.
+
+Subsidiary Stock
+:   means any stock or other equity interest in any subsidiary entity of Holdings LP that is treated as a corporation for United States federal income tax purposes.
+
+Tax Benefit Payment
+:   is defined in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Tax Benefit Schedule
+:   is defined in [Section 2.2](#section-2-2)(a) of this Agreement.
+
+Tax Receivable Agreements
+:   shall mean this Agreement and the Tax Receivable Agreement (Exchanges).
+
+Tax Receivable Agreement (Exchanges)
+:   means the Tax Receivable Agreement (Exchanges), dated on or about the date hereof, among APAM and each limited partner of Holdings LP.
+
+Tax Return
+:   means any return, declaration, report or similar statement required to be filed with respect to Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return and declaration of estimated Tax.
+
+Taxable Year
+:   means a taxable year of APAM as defined in Section 441(b) of the Code or comparable section of state or local tax law, as applicable (and, therefore, for the avoidance of doubt, may include a period of less than 12 months for which a Tax Return is made), ending on or after the closing date of the IPO.
+
+Taxes
+:   means any and all United States federal and state taxes, assessments or similar charges that are based on or measured with respect to net income or profits, and any interest related to such Tax.
+
+Taxing Authority
+:   shall mean any domestic, federal, national, state, county or municipal or other local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body exercising any taxing authority or any other authority exercising Tax regulatory authority.
+
+Treasury Regulations
+:   means the final, temporary and (to the extent they can be relied upon) proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant taxable period.
+
+Valuation Assumptions
+:   shall mean, as of an Early Termination Date, the assumptions that (1) in each Taxable Year ending on or after such Early Termination Date, APAM will have taxable income sufficient to fully use the deductions arising from the Basis Adjustments and the Imputed Interest during such Taxable Year or future Taxable Years (including, for the avoidance of doubt, Basis Adjustments and Imputed Interest that would result from future Tax Benefit Payments that would be paid in accordance with the Valuation Assumptions) in which such deductions would become available, (2) the United States federal income tax rates and state income tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date, (3) any loss carryovers generated by any Basis Adjustment, the NOLs or Imputed Interest and available as of the date of the Early Termination Schedule will be used by APAM on a pro rata basis from the date of the Early Termination Schedule through the scheduled expiration date of such loss carryovers, (4) any non-amortizable assets (other than Subsidiary Stock) will be disposed of on the fifteenth anniversary of the applicable Basis Adjustment; provided that, in the event of a Change of Control, such non-amortizable assets shall be deemed disposed of at the time of sale of the relevant asset (if earlier than such fifteenth anniversary), (5) any Subsidiary Stock will be deemed never to be disposed of, (6) if, on the Early Termination Date, an LP Unit Holder has LP Units that have not been Exchanged, then each such LP Unit shall be deemed to be Exchanged for the Market Value of the Class A Shares on the Early Termination Date, and such LP Unit Holder shall be deemed to receive the amount of cash such LP Unit Holder would have been entitled to pursuant to [Section 4.3](#section-4-3)(a) had such LP Units actually been Exchanged on the Early Termination Date and (7) any payment obligations pursuant to this Agreement will be satisfied on the date that any Tax Return to which such payment obligation relates is required to be filed excluding any extensions.
+
+    []{#sC261032553EA85F8166F7F7A3895EE0E}
+
+## ARTICLE II: DETERMINATION OF CERTAIN REALIZED TAX BENEFIT {#article-ii}
+
+[]{#sF3426086EC04F80B71C17F7AA6648C25}
+
+### Section 2.1: Basis Adjustment and NOLs {#section-2-1}
+
+[]{#s8E6BE65D48C87308550B7F7AFF06AC23}
+
+### Section 2.2: Tax Benefit Schedule {#section-2-2}
+
+(a)    Tax Benefit Schedule. Within ninety (90) calendar days after the filing of the United States federal income Tax Return of APAM for any Taxable Year in which there is a Realized Tax Benefit or Realized Tax Detriment, APAM shall provide to H&F Brewer a schedule showing, in reasonable detail the calculation of the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year (a "Tax Benefit Schedule"). The Tax Benefit Schedule will become final as provided in [Section 2.3](#section-2-3)(a) and may be amended as provided in [Section 2.3](#section-2-3)(b) (subject to the procedures set forth in [Section 2.3](#section-2-3)(b)).
+
+(b)    Applicable Principles. Subject to [Section 3.3](#section-3-3)(a), the Realized Tax Benefit or Realized Tax Detriment for each Taxable Year is intended to measure the decrease or increase in the actual liability for Taxes of APAM for such Taxable Year attributable to the Basis Adjustments, the NOLs and the Imputed Interest, determined using a "with and without" methodology. For the avoidance of doubt, the actual liability for Taxes of APAM will take into account the deduction of the portion of the Tax Benefit Payment that must be accounted for as interest under the Code based upon the characterization of Tax Benefit Payments (as defined in each of the Tax Receivable Agreements) as additional consideration payable by APAM for the LP Units acquired in an Exchange or pursuant to the Merger. Carryovers or carrybacks of any Tax item attributable to (i) any Basis Adjustment, (ii) the NOLs or (iii) Imputed Interest shall be considered to be subject to the rules of the Code and the Treasury Regulations or the appropriate provisions of United States state tax law, as applicable, governing the use, limitation and expiration of carryovers or carrybacks of the relevant type. If a carryover or carryback of any Tax item includes a portion that is attributable to a Basis Adjustment, the NOLs or Imputed Interest and another portion that is not, such portions shall be considered to be used in accordance with the "with and without" methodology.
+
+[]{#sDB8ACC7203A4B51A91F07F7B712A98E9}
+
+### Section 2.3: Procedures, Amendments {#section-2-3}
+
+(a)    Procedure. Every time APAM delivers to H&F Brewer an applicable Schedule under this Agreement, including any Amended Schedule delivered pursuant to [Section 2.3](#section-2-3)(b), but excluding any Early Termination Schedule or amended Early Termination Schedule, APAM shall also (x) deliver to H&F Brewer schedules and work papers, as determined by APAM or requested by H&F Brewer providing reasonable detail regarding the preparation of the Schedule, (y) use its reasonable best efforts to deliver an Advisory Firm Letter supporting such Schedule, and (z) allow H&F Brewer reasonable access, at no cost, to the appropriate representatives, as determined by APAM or requested by H&F Brewer, at APAM and the Advisory Firm in connection with a review of such Schedule. Without limiting the application of the preceding sentence, each time APAM delivers to H&F Brewer a Tax Benefit Schedule, in addition to the Tax Benefit Schedule duly completed, APAM shall deliver to H&F Brewer the reasonably detailed calculation by APAM of the Hypothetical Tax Liability, the reasonably detailed calculation by APAM of the actual Tax liability, as well as any other work papers as determined by APAM or reasonably requested by H&F Brewer. An applicable Schedule or amendment thereto shall become final and binding on all parties thirty (30) calendar days from the first date on which H&F Brewer received the applicable Schedule or amendment thereto unless:
+
+(i)    if APAM delivered an Advisory Firm Letter with respect to such Schedule or amendment thereto, H&F Brewer within thirty (30) calendar days after receiving the applicable Schedule or amendment thereto, provides APAM with (A) notice of a material objection to such Schedule made in good faith and setting forth in reasonable detail H&F Brewer's material objection (an "Objection Notice") and (B) a letter from an Advisory Firm supporting such material objection; for the avoidance of doubt, the Advisory Firm used by an LP Unit Holder for purposes of an Objection Notice does not need to be approved by the Board of APAM;
+
+(ii)    if APAM did not deliver an Advisory Firm Letter with respect to such Schedule or amendment thereto, H&F Brewer within thirty (30) calendar days after receiving the applicable Schedule or amendment thereto, provides APAM with an Objection Notice; or (iii)    H&F Brewer provides a written waiver of such right of any Objection Notice within the period described in clauses (i) or (ii) above, in which case such Schedule or amendment thereto becomes binding on the date the waiver is received by APAM.
+
+If the parties, for any reason, are unable to successfully resolve the issues raised in the Objection Notice within thirty (30) calendar days after receipt by APAM of an Objection Notice, APAM and H&F Brewer shall employ the reconciliation procedures as described in [Section 7.9](#section-7-9) of this Agreement (the "Reconciliation Procedures"). For the avoidance of doubt, and notwithstanding anything to the contrary herein, the expense of preparing and obtaining the letter from an Advisory Firm referenced in clause (a)(ii) above shall be borne solely by H&F Brewer and APAM shall have no liability with respect to such letter or the expense of preparing or obtaining it.
+
+(b)    Amended Schedule. The applicable Schedule for any Taxable Year may be amended from time to time by APAM (i) in connection with a Determination affecting such Schedule, (ii) to correct inaccuracies in the Schedule identified as a result of the receipt of additional factual information relating to a Taxable Year after the date the Schedule was provided to H&F Brewer, (iii) to comply with (A) the Expert's determination under the Reconciliation Procedures or (B) an Expert's determination under the reconciliation procedures applicable to the Tax Receivable Agreement (Exchanges), (iv) to reflect a change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to a carryback or carryforward of a loss or other tax item to such Taxable Year, or (v) to reflect a change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to an amended Tax Return filed for such Taxable Year (any such Schedule, an "Amended Schedule").
+
+[]{#sF247A940AAE03F046B3F7F7BDE763A80}
+
+### Section 2.4: Consistency with Tax Returns {#section-2-4}
+
+[]{#s12B3B9A1E3A98C5576DE7F7C4280A295}
+
+## ARTICLE III: TAX BENEFIT PAYMENTS {#article-iii}
+
+[]{#s49845AA3271F6717C9D87F7D7CD69037}
+
+### Section 3.1: Payments {#section-3-1}
+
+(a)    Payments. Within five (5) Business Days after all the Tax Benefit Schedules (as defined in each of the Tax Receivable Agreements) with respect to the Taxable Year delivered to (i) the Persons entitled to tax benefit payments under the Tax Receivable Agreement (Exchanges) and (ii) this Agreement become final in accordance with [Section 2.3](#section-2-3)(a) of the Tax Receivable Agreement (Exchanges) and [Section 2.3](#section-2-3)(a) of this Agreement, respectively, APAM shall pay to H&F Brewer for such Taxable Year (A) the Tax Benefit Payment determined pursuant to [Section 3.1](#section-3-1)(b) in the amount Attributable to H&F Brewer, less (B) until the seventh anniversary of the effectiveness of the Merger, any Indemnification Payables (as defined in the Merger Agreement) due to APAM from H&F Brewer pursuant to the Merger Agreement (regardless of whether H&F Brewer remains a party to this Agreement or has transferred or assigned its rights hereunder), but only to the extent such Indemnification Payables have not otherwise been used to reduce or set-off against (i) any distributions owed to H&F Brewer (or any of its affiliates to which H&F Brewer has transferred its interests in APAM or Holdings LP) on account of its equity interests in APAM or Holdings LP or (ii) the Settlement Amount of the CVRs held by H&F Brewer (or any of its affiliates to which H&F Brewer has transferred CVRs), if any, and not previously applied to reduce a payment pursuant to this [Section 3.1](#section-3-1)(a). Each such payment shall be made, at the sole discretion of APAM, by wire or Automated Clearing House transfer of immediately available funds to the bank account previously designated by H&F Brewer to APAM or as otherwise agreed by APAM and H&F Brewer. For the avoidance of doubt, no Tax Benefit Payment shall be made in respect of estimated tax payments, including, without limitation, federal estimated income tax payments. Notwithstanding anything herein to the contrary, in no event shall the aggregate gross Tax Benefit Payments under this Agreement (other than amounts accounted for as interest under the Code but including amounts that constitute the Interest Amount, unless such latter amounts are required to be accounted for as interest under the Code notwithstanding [Section 3.1](#section-3-1)(b)) exceed 50% of the fair market value (as of the closing date of the Merger) of convertible preferred stock of APAM (or cash equivalent) received by H&F Brewer pursuant to the Merger Agreement.
+
+(b)    A "Tax Benefit Payment" means an amount, not less than zero, equal to the sum of the Net Tax Benefit and the Interest Amount. For the avoidance of doubt, for Tax purposes, the Interest Amount shall not be treated as interest but instead shall be treated as additional consideration payable pursuant to the Merger Agreement, unless otherwise required by law. Subject to [Section 3.3](#section-3-3)(a), the "Net Tax Benefit" for a Taxable Year shall be an amount equal to the excess, if any, of 85% of the Cumulative Net Realized Tax Benefit as of the end of such Taxable Year over the sum of (i) the total amount of Tax Benefit Payments previously made (disregarding clause (B) of [Section 3.1](#section-3-1)(a)) under this [Section 3.1](#section-3-1) (excluding payments attributable to Interest Amounts) and (ii) the total amount of Tax Benefits Payments (as defined in the Tax Receivable Agreement (Exchanges)) previously made under [Section 3.1](#section-3-1) of the Tax Receivable Agreement (Exchanges) (excluding payments attributable to Interest Amounts (as defined in such agreement)); provided, for the avoidance of doubt, that H&F Brewer shall not be required to return any portion of any previously made Tax Benefit Payment. The "Interest Amount" shall equal the interest on the Net Tax Benefit calculated at the Agreed Rate from the due date (without extensions) for filing the United States federal income Tax Return of APAM for such Taxable Year until the Payment Date. Notwithstanding the foregoing, for each Taxable Year ending on or after the date of a Change of Control, all Tax Benefit Payments shall be calculated (x) by using Valuation Assumptions (3), (4) and (5), substituting in each case the terms "the closing date of a Change of Control" for an "Early Termination Date" and (y) assuming that in each Taxable Year ending on or after the closing date of such Change of Control, APAM's taxable income (prior to the application of deductions arising from the Basis Adjustments, the NOLs and the Imputed Interest) will equal the greater of (A) the actual taxable income (prior to the application of deductions arising from the Basis Adjustments and the Imputed Interest) for such Taxable Year and (B) the product of (x) four and (y) the highest taxable income (calculated without taking into account extraordinary items of income or deduction and prior to the application of deductions arising from the Basis Adjustments, the NOLs and the Imputed Interest) in any of the four fiscal quarters ended prior to the closing date of such Change of Control. The amount determined pursuant to clause (B) of the preceding sentence shall be increased by 10% (compounded annually) for each Taxable Year beginning with the second Taxable Year following the closing date of the Change of Control and shall be adjusted on a daily pro rata basis for any short Taxable Year following the Change of Control.
+
+[]{#s0C4637DB69B9C47927D27F8022549BE7}
+
+### Section 3.2: No Duplicative Payments {#section-3-2}
+
+[]{#sFD74BC6B41615C6474F17F807A4E6134}
+
+### Section 3.3: Pro Rata Payments; Coordination of Benefits With Other Tax Receivable Agreements {#section-3-3}
+
+(a)    Notwithstanding anything in [Section 3.1](#section-3-1) to the contrary, to the extent that the aggregate tax benefit of APAM's deduction with respect to the Basis Adjustments, the NOLs and the Imputed Interest is limited in a particular Taxable Year because APAM does not have sufficient taxable income, the limitation on the tax benefit for APAM shall be allocated among the Tax Receivable Agreements (and among all Persons eligible for payments thereunder) in proportion to the respective amounts of Tax Benefit Payment (as defined in each Tax Receivable Agreement) that would have been payable under [Section 3.1](#section-3-1) of this Agreement and under [Section 3.1](#section-3-1) of the Tax Receivable Agreement (Exchanges) if APAM had had sufficient taxable income so that there had been no such limitation.
+
+(b)    If for any reason APAM does not fully satisfy its payment obligations to make all Tax Benefit Payments due under the Tax Receivable Agreements in respect of a particular Taxable Year, then APAM and H&F Brewer agree that (i) APAM shall pay the same proportion of each Tax Benefit Payment (as defined in each Tax Receivable Agreement) due under each of the Tax Receivable Agreements in respect of such Taxable Year, without favoring one obligation over the other, and (ii) no Tax Benefit Payment shall be made in respect of any Taxable Year until all Tax Benefit Payments in respect of prior Taxable Years have been made in full.
+
+(c)    To the extent that APAM makes payments to H&F Brewer in respect of a particular Taxable Year in an amount greater than the payments that should have been made in accordance with [Section 3.3](#section-3-3)(b), then H&F Brewer shall be obligated to make payments to the parties to the other Tax Receivable Agreements (other than APAM) in the amounts necessary so that each party to the Tax Receivable Agreements shall have received the amount that it would have received if all payments by APAM had been in accordance with [Section 3.3](#section-3-3)(b); provided that H&F Brewer's obligation to pay over to the parties to the other Tax Receivable Agreements amounts received from APAM pursuant to this [Section 3.3](#section-3-3)(c) shall terminate on the one year anniversary of the receipt by H&F Brewer of such amounts.
+
+(d)    The parties hereto agree that the parties to the Tax Receivable Agreement (Exchange) are expressly made third party beneficiaries of the provisions of this [Section 3.3](#section-3-3).
+
+[]{#s87113AEF0DE91FB9E9F27FB54E8B3D29}
+
+## ARTICLE IV: TERMINATION {#article-iv}
+
+[]{#s7530353C93B1C80B5E4B7FB668081221}
+
+### Section 4.1: Early Termination and Breach of Agreement {#section-4-1}
+
+(a)    With the written approval of a majority of the Independent Directors, APAM may terminate this Agreement with respect to all amounts payable to H&F Brewer at any time by paying to H&F Brewer the Early Termination Payment; provided, however, that this Agreement shall only terminate upon the receipt of the Early Termination Payment by H&F Brewer, and provided, further, that APAM may withdraw any notice to execute its termination rights under this [Section 4.1](#section-4-1)(a) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payment by APAM, neither H&F Brewer nor APAM shall have any further payment obligations under this Agreement, other than for any (a) Tax Benefit Payment agreed to by APAM and H&F Brewer as due and payable but unpaid as of the Early Termination Notice and (b) Tax Benefit Payment due for the Taxable Year ending with or including the date of the Early Termination Notice (except to the extent that the amount described in clause (b) is included in the calculation of the Early Termination Payment).
+
+(b)    In the event that APAM materially breaches any of its material obligations under this Agreement, whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under the Bankruptcy Code or otherwise, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but not be limited to, (1) the Early Termination Payment calculated as if an Early Termination Notice had been delivered on the date of such breach, (2) any Tax Benefit Payment agreed to by APAM and H&F Brewer as due and payable but unpaid as of the date of such breach, and (3) any Tax Benefit Payment due for the Taxable Year ending with or including the date of a breach. Notwithstanding the foregoing, in the event that APAM breaches this Agreement, H&F Brewer shall be entitled to elect to receive the amounts set forth in clauses (1), (2) and (3) above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within six (6) months of the date such payment is due shall be deemed to be a material breach of a material obligation under this Agreement for all purposes of this Agreement, and that it will not be considered to be a material breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within six months of the date such payment is due. Notwithstanding anything in this Agreement to the contrary, it shall not be a breach of this Agreement if APAM fails to make any payment due under this Agreement when due to the extent that APAM has insufficient funds to make such payment; provided that the interest provisions of [Section 5.2](#section-5-2) shall apply to such late payment (unless APAM does not have sufficient cash to make such payment as a result of limitations imposed by credit agreements to which Holdings LP is a party as of the date of this Agreement, in which case [Section 5.2](#section-5-2) shall apply, but the Default Rate shall be replaced by the Agreed Rate).
+
+(c)    If an Early Termination Payment would represent, as calculated under [Section 4.3](#section-4-3)(b) (disregarding clause (ii) thereof), greater than five (5) percent of the sum of (i) the aggregate Early Termination Payments that would be required to be paid to all LP Unit Holders (or [Section 7.6](#section-7-6)(a)(ii) transferees) (as those terms are defined in the Tax Receivable Agreement (Exchanges)) if that agreement were terminated with respect to all LP Unit Holders (or [Section 7.6](#section-7-6)(a)(ii) transferees) (as those terms are defined in the Tax Receivable Agreement (Exchanges)) and (ii) the Early Termination Payment that would be required to be paid pursuant to this Agreement if this Agreement were terminated, as calculated under [Section 4.3](#section-4-3)(b) (disregarding clause (ii) thereof), all LP Unit Holders (and [Section 7.6](#section-7-6)(a)(ii) transferees) (as those terms are defined in the Tax Receivable Agreement (Exchanges)) and H&F Brewer shall be required to participate in the early termination so that each of the foregoing shall receive an amount equal to the product of (x) the aggregate Early Termination Payment to be made and (y) a fraction, the numerator of which equals the Early Termination Payment that would be required to be paid to such Person if this Agreement or the Tax Receivable Agreement (Exchanges) were terminated and the denominator of which equals the sum of (i) the aggregate Early Termination Payments that would be required to be paid to all LP Unit Holders (or [Section 7.6](#section-7-6)(a)(ii) transferees) if the Tax Receivable Agreement (Exchanges) were terminated with respect to all LP Unit Holders (or [Section 7.6](#section-7-6)(a)(ii) transferees) (as those terms are defined in the Tax Receivable Agreement (Exchanges)) and (ii) the Early Termination Payment that would be required to be paid pursuant to this Agreement if it were terminated.
+
+[]{#sF96918372A3C1D5099CC7FB6DF90B18B}
+
+### Section 4.2: Early Termination Notice {#section-4-2}
+
+(a)    if APAM delivered an Advisory Firm Letter with respect to such Early Termination Schedule, H&F Brewer within thirty (30) calendar days after receiving the Early Termination Schedule, provides APAM with (i) notice of a material objection to such Early Termination Schedule made in good faith and setting forth in reasonable detail H&F Brewer's material objection (a "Material Objection Notice") and (ii) a letter from an Advisory Firm supporting such material objection;
+
+(b)    if APAM did not deliver an Advisory Firm Letter with respect to such Early Termination Schedule, H&F Brewer within thirty (30) calendar days after receiving the Early Termination Schedule, provides APAM with a Material Objection Notice; or (c)    H&F Brewer provides a written waiver of such right of a Material Objection Notice within the period described in clauses (i) or (ii) above, in which case such Early Termination Schedule becomes binding on the date the waiver is received by APAM.
+
+If the parties, for any reason, are unable to successfully resolve the issues raised in a Material Objection Notice within thirty (30) calendar days after receipt by APAM of the Material Objection Notice, the parties shall employ the Reconciliation Procedures. For the avoidance of doubt, and notwithstanding anything to the contrary herein, the expense of preparing and obtaining the letter from an Advisory Firm referenced in clause (a) above shall be borne solely by H&F Brewer and APAM shall have no liability with respect to such letter or the expense of preparing or obtaining it. The date on which the Early Termination Schedule becomes final in accordance with this [Section 4.2](#section-4-2) shall be the "Early Termination Effective Date".
+
+[]{#s5F180C11116B8D39D7CE7FB747A03CA8}
+
+### Section 4.3: Payment upon Early Termination {#section-4-3}
+
+(a)    Within three (3) Business Days after the later of (i) the Early Termination Effective Date and (ii), if APAM is concurrently exercising early termination rights under the Tax Receivable Agreement (Exchanges), the Early Termination Effective Date pursuant to the Tax Receivable Agreement (Exchanges), APAM shall pay to H&F Brewer an amount equal to the Early Termination Payment. Such payment shall be made, at the sole discretion of APAM, by wire or Automated Clearing House transfer of immediately available funds to a bank account or accounts designated by H&F Brewer or as otherwise agreed by APAM and H&F Brewer.
+
+(b)    "Early Termination Payment" shall equal (i) the present value, discounted at the Early Termination Rate as of the Early Termination Effective Date, of all Tax Benefit Payments that would be required to be paid by APAM to H&F Brewer beginning from the Early Termination Date and assuming that the Valuation Assumptions are applied, less (ii) until the seventh anniversary of the effectiveness of the Merger, any Indemnification Payables (as defined in the Merger Agreement) due to APAM from H&F Brewer pursuant to the Merger Agreement (regardless of whether H&F Brewer remains a party to this Agreement or has transferred or assigned its rights hereunder) and not previously applied to reduce a payment pursuant to clause (B) of [Section 3.1](#section-3-1)(a).
+
+[]{#s158D301A166F143468F27FB7A8EE3E4F}
+
+## ARTICLE V: SUBORDINATION AND LATE PAYMENTS {#article-v}
+
+[]{#s97D9343E8FE73D4C7B497FB8328206BB}
+
+### Section 5.1: Subordination {#section-5-1}
+
+[]{#s2206F7C105069834CDB57FB8A56EE2D5}
+
+### Section 5.2: Late Payments by APAM {#section-5-2}
+
+[]{#s7BAAB8CD7F20FC10C1D27FB9018A41AF}
+
+## ARTICLE VI: NO DISPUTES; CONSISTENCY; COOPERATION {#article-vi}
+
+[]{#s088AF4176119639517E67FB9F04A01F0}
+
+### Section 6.1: Participation in APAM's and Holdings LP's Tax Matters {#section-6-1}
+
+[]{#sE8AC75762F84F54C017D7FBA5B20F3E3}
+
+### Section 6.2: Consistency {#section-6-2}
+
+[]{#sB57EA4632B733C0FAF587FBAB28C3492}
+
+### Section 6.3: Cooperation {#section-6-3}
+
+[]{#s1724572BDD6B9C9EB61F7FBB157E882A}
+
+## ARTICLE VII: MISCELLANEOUS {#article-vii}
+
+[]{#s472C838A55A7AD838C487FBBA4300600}
+
+### Section 7.1: Notices {#section-7-1}
+
+If to APAM, to:
+
+Artisan Partners Asset Management Inc.\
+875 E. Wisconsin Avenue, Suite 800\
+Milwaukee, WI 53202\
+Facsimile:    414-390-6139\
+Attention:    General Counsel\
+Email:    contractnotice@artisanpartners.com with a copy (which shall not constitute notice to APAM) to:
+
+Sullivan & Cromwell LLP\
+125 Broad Street\
+New York, NY 10004-2498\
+Telephone:    212-558-4000\
+Facsimile:    212-558-3588\
+Attention:    Catherine M. Clarkin\
+Email:     clarkinc@sullcrom.com
+
+If to H&F Brewer:
+
+Hellman & Friedman LLC
+
+One Maritime Plaza
+
+12th Floor
+
+San Francisco, CA 94111
+
+Telephone: 415-788-5111
+
+Facsimile:    415-788-0176
+
+Attention:    Allen R. Thorpe
+
+Arrie R. Park
+
+Email:    athorpe@hf.com
+
+apark@hf.com
+
+with a copy to:
+
+Cleary Gottlieb Steen & Hamilton LLP
+
+One Liberty Plaza
+
+New York, NY 10006
+
+Telephone: 212-225-2000\
+Facsimile:    212-225-3999
+
+Attention:    Christopher E. Austin
+
+Email:    caustin@cgsh.com
+
+Any party may change its address or fax number by giving the other party written notice of its new address or fax number in the manner set forth above.
+
+[]{#s2A048044C945D1ADEC927FBC17E591EE}
+
+### Section 7.2: Counterparts {#section-7-2}
+
+[]{#sC96C7D677BDDD59988247FBC70FFACF2}
+
+### Section 7.3: Entire Agreement; No Third Party Beneficiaries {#section-7-3}
+
+[]{#s69B17D984AD5333DA18F7FBCD739CE77}
+
+### Section 7.4: Governing Law {#section-7-4}
+
+[]{#sBFCA3CC9A9947E8C78EF7FBEA497FE8A}
+
+### Section 7.5: Severability {#section-7-5}
+
+[]{#s2A147351B04C1F5E18F57FBF1107B4BD}
+
+### Section 7.6: Successors; Assignment; Amendments; Waivers {#section-7-6}
+
+(a)    H&F Brewer may assign any of its rights under this Agreement to any person as long as such transferee has executed and delivered a joinder to this Agreement, in form and substance substantially similar to Exhibit A to this Agreement, agreeing to be bound by [Section 7.12](#section-7-12) and acknowledging specifically the terms of [Section 7.6](#section-7-6)(b).
+
+(b)    An assignee pursuant to [Section 7.6](#section-7-6)(a) shall have no rights under this Agreement except the right to receive payments under this Agreement, and APAM shall use its reasonable best efforts to deliver Advisory Firm Letters to such transferee as provided in [Section 2.3](#section-2-3)(a) and [Section 4.2](#section-4-2).
+
+(c)    No provision of this Agreement may be amended unless such amendment is approved in writing by both APAM and H&F Brewer; provided, that, amendment of the definition of Change of Control will also require the written approval of a majority of the Independent Directors. No provision of this Agreement may be waived unless such waiver is in writing and signed by the party against whom the waiver is to be effective.
+
+(d)    All of the terms and provisions of this Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the parties hereto and their respective successors, assigns, heirs, executors, administrators and legal representatives. APAM shall require and cause any direct or indirect successor (whether by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of APAM, by written agreement, expressly to assume and agree to perform this Agreement in the same manner and to the same extent that APAM would be required to perform if no such succession had taken place.
+
+[]{#s5AF98FAF08A71FC7B4EC7FBF6FB74E53}
+
+### Section 7.7: Titles and Subtitles {#section-7-7}
+
+[]{#s848BD2F6EA5383D7DF747FBFD1E1E591}
+
+### Section 7.8: Resolution of Disputes {#section-7-8}
+
+(a)    Except for Reconciliation Disputes subject to [Section 7.9](#section-7-9), any and all disputes which cannot be settled amicably, including any ancillary claims of any party, arising out of, relating to or in connection with the validity, negotiation, execution, interpretation, performance or non-performance of this Agreement (including the validity, scope and enforceability of this arbitration provision) (each a "Dispute") shall be finally settled by arbitration conducted by a single arbitrator in Delaware in accordance with the then-existing Rules of Arbitration of the International Chamber of Commerce. If the parties to the Dispute fail to agree on the selection of an arbitrator within ten (10) calendar days of the receipt of the request for arbitration, the International Chamber of Commerce shall make the appointment. The arbitrator shall be a lawyer admitted to the practice of law in the State of Delaware and shall conduct the proceedings in the English language. Performance under this Agreement shall continue if reasonably possible during any arbitration proceedings.
+
+(b)    Notwithstanding the provisions of paragraph (a), APAM may bring an action or special proceeding in any court of competent jurisdiction for the purpose of compelling a party to arbitrate, seeking temporary or preliminary relief in aid of an arbitration hereunder, and/or enforcing an arbitration award and, for the purposes of this paragraph (b), H&F Brewer (i) expressly consents to the application of paragraph (c) of this [Section 7.8](#section-7-8) to any such action or proceeding, (ii) agrees that proof shall not be required that monetary damages for breach of the provisions of this Agreement would be difficult to calculate and that remedies at law would be inadequate, and (iii) irrevocably appoints APAM as agent of H&F Brewer for service of process in connection with any such action or proceeding and agrees that service of process upon such agent, who shall promptly advise H&F Brewer of any such service of process, shall be deemed in every respect effective service of process upon H&F Brewer in any such action or proceeding. For the avoidance of doubt, this [Section 7.8](#section-7-8) shall not apply to Reconciliation Disputes to be settled in accordance with the procedures set forth in [Section 7.9](#section-7-9).
+
+(c)    Each party hereby irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction of the Chancery Court of the State of Delaware or, if such Court declines jurisdiction, the courts of the State of Delaware sitting in Wilmington, Delaware and of the United States District Court for the District of Delaware sitting in Wilmington, Delaware, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement or for recognition or enforcement of any judgment, and each of the parties hereto irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such Delaware State court or, to the fullest extent permitted by applicable law, in such United States District Court. Each party agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law.
+
+(d)    Each party irrevocably and unconditionally waives, to the fullest extent permitted by law, any objection that it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any court referred to in [Section 7.8](#section-7-8)(c). Each party irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of any such suit, action or proceeding in any such court.
+
+(e)    Each party irrevocably consents to service of process by means of notice in the manner provided for in [Section 7.1](#section-7-1). Nothing in this Agreement shall affect the right of any party to serve process in any other manner permitted by law.
+
+[]{#s3112A0D0E4D3CB1442507FC03E20E026}
+
+### Section 7.9: Reconciliation {#section-7-9}
+
+[]{#s1F14FA38F9B45E3D12277FC0A37452A8}
+
+### Section 7.10: Withholding {#section-7-10}
+
+[]{#sA42DED4A43257469976D7FC0F5D6B203}
+
+### Section 7.11: Admission of APAM into a Consolidated Group; Transfers of Corporate Assets {#section-7-11}
+
+(a)    If APAM is or becomes a member of an affiliated or consolidated group of corporations that files a consolidated income tax return pursuant to Sections 1501 et seq. of the Code or any corresponding provisions of state or local law, then: (i) the provisions of this Agreement shall be applied with respect to the group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments and other applicable items hereunder shall be computed with reference to the consolidated taxable income of the group as a whole.
+
+(b)    If any entity that is obligated to make a Tax Benefit Payment or Early Termination Payment hereunder transfers one or more assets to a corporation (or a Person classified as a corporation for U.S. income tax purposes) with which such entity does not file a consolidated tax return pursuant to Section 1501 of the Code, such entity, for purposes of calculating the amount of any Tax Benefit Payment or Early Termination Payment (e.g., calculating the gross income of the entity and determining the Realized Tax Benefit of such entity) due hereunder, shall be treated as having disposed of such asset in a fully taxable transaction on the date of such contribution. The consideration deemed to be received by such entity shall be equal to the fair market value of the contributed asset. For purposes of this [Section 7.11](#section-7-11), a transfer of a partnership interest shall be treated as a transfer of the transferring partner's share of each of the assets and liabilities of that partnership.
+
+[]{#sBFBB32A37D284A0DEB757FC15C0E6590}
+
+### Section 7.12: Confidentiality {#section-7-12}
+
+If H&F Brewer or an assignee commits a breach, or threatens to commit a breach, of any of the provisions of this [Section 7.12](#section-7-12), APAM shall have the right and remedy to have the provisions of this [Section 7.12](#section-7-12) specifically enforced by injunctive relief or otherwise by any court of competent jurisdiction without the need to post any bond or other security, it being acknowledged and agreed that any such breach or threatened breach shall cause irreparable injury to APAM or any of its Subsidiaries and the accounts and funds managed by APAM and that money damages alone shall not provide an adequate remedy to such Persons. Such rights and remedies shall be in addition to, and not in lieu of, any other rights and remedies available at law or in equity.
+
+[]{#sF46BD3F5D3616D02F7C27FC1C1808070}
+
+### Section 7.13: Change in Law {#section-7-13}
+
+[]{#s9980D52B96890EE84EAA6C617046532E}
+
+IN WITNESS WHEREOF, APAM and H&F Brewer have duly executed this Agreement as of the date first written above.
+
+ARTISAN PARTNERS ASSET MANAGEMENT INC.
+
+By:
+
+/s/ Janet D. Olsen
+
+Name: Janet D. Olsen
+
+Title: Executive Vice President, Chief Legal Officer and Secretary
+
+H&F BREWER AIV II, L.P.
+
+By:
+
+Hellman & Friedman Investors V, L.P.
+
+By:
+
+Hellman & Friedman LLC
+
+By:
+
+/s/ Allen R. Thorpe
+
+Name: Allen Thorpe
+
+Title: Managing Director
+
+\[Signature Page to TRA (Merger)\] Exhibit A\
+Joinder This JOINDER (this "Joinder") to the Tax Receivable Agreement (as defined below), dated as of \_\_\_\_\_\_\_\_\_\_\_\_, by and among Artisan Partners Asset Management Inc., a Delaware corporation ("APAM"), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ("Permitted Transferee").
+
+[]{#sC619697CEB0E2EB09A226C61707774AB}
+
+WHEREAS, on \_\_\_\_\_\_\_\_\_\_\_\_, the Permitted Transferee acquired (the "Acquisition") the right to receive any and all payments that may become due and payable under the Tax Receivable Agreement (as defined below) (the "Acquired Interests") from H&F Brewer AIV II, L.P. ("Transferor"); and
+
+WHEREAS, Transferor, in connection with the Acquisition, has required Permitted Transferee to execute and deliver this Joinder pursuant to [Section 7.6](#section-7-6) of the Tax Receivable Agreement (Merger), dated as of March 6, 2013, between APAM and Transferor (the "Tax Receivable Agreement");
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, Permitted Transferee hereby agrees as follows:
+
+### Section 1.1: Definitions {#section-1-1}
+
+### Section 1.2: Joinder {#section-1-2}
+
+### Section 1.3: Notice {#section-1-3}
+
+### Section 1.4: Governing Law {#section-1-4}
+
+IN WITNESS WHEREOF, this Joinder has been duly executed and delivered by Permitted Transferee as of the date first above written.
+
+\[PERMITTED TRANSFEREE\]
+
+By:
+
+Name:
+
+Title:
+
+Address for notices:

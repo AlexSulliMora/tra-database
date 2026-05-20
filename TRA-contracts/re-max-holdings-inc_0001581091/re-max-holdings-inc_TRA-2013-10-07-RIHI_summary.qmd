@@ -1,0 +1,37 @@
+---
+title: "RE/MAX Holdings TRA (TRA-2013-10-07-RIHI)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["RE/MAX Holdings, Inc."]
+CIKs: ["0001581091"]
+status: Ongoing
+creation-date: 2013-10-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-10-07-WP"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amendment No. 1 (April 26, 2026) provides automatic zero-payment termination
+  upon close of the announced merger with The Real Brokerage Inc.; voids if
+  no Qualifying Change of Control within 18 months. TRA liability has been
+  economically depressed by 2023 valuation-allowance increase.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-09-30: S-1/A Amendment No. 5 files form-of TRA as exhibit 10.13
+- 2013-10-07: Up-C IPO closes; TRA executed between RE/MAX Holdings, Inc. and RIHI, Inc. (Liniger holding vehicle), paying 85% of realized cash tax savings from basis step-ups on IPO and post-IPO redemptions of RMCO common units
+- 2013-11-14: 10-Q for Q3 2013 files the executed TRA as exhibit 10.11
+
+#### Amendment conditioned on Real Brokerage merger
+
+- 2026-04-26: Amendment No. 1 executed in connection with the announced going-private merger with The Real Brokerage Inc.; adds Section 4.4 providing automatic termination upon the First Merger Effective Time (RIHI rollup) or any other Qualifying Change of Control with no Early Termination Payment, no Tax Benefit Payment, and no other amount payable; voids if no Qualifying Change of Control closes within 18 months
+
+## Explanation
+
+RE/MAX Holdings's Up-C IPO on October 7, 2013 created two parallel TRAs paying 85% of realized cash tax savings from basis step-ups: one with RIHI (the Liniger holding vehicle), one with Weston Presidio V (the private equity holder, since assigned through joinders to Parallaxes Rain). This summary covers the RIHI-side TRA. No amendments were filed until April 26, 2026, when Amendment No. 1 was executed in connection with the announced going-private merger with The Real Brokerage Inc.; the amendment adds Section 4.4 providing automatic zero-payment termination upon the First Merger Effective Time (or any other Qualifying Change of Control), in exchange for the Class A share consideration RIHI's principals receive in the merger. The amendment voids if no Qualifying Change of Control closes within 18 months, so the TRA remains in force as of the latest filing; the consolidated TRA liability had already been economically depressed to about $1.5M at year-end 2025 following a 2023 valuation-allowance increase. See `contract_log.md` for the full filing-by-filing record, the parallel WP-side TRA, and the manual-verification flag on the August 7, 2017 Settlement Agreement.

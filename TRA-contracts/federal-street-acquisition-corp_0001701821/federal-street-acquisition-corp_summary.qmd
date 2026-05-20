@@ -1,0 +1,42 @@
+---
+title: "Federal Street Acquisition Corp. TRA (SPAC predecessor)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Federal Street Acquisition Corp.", "Agiliti, Inc."]
+CIKs: ["0001701821", ""]
+status: Unknown
+creation-date: 2019-01-04
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  FSAC was the THL-sponsored SPAC; the TRA, if executed, would obligate Agiliti, Inc.
+  (the post-merger PubCo) to IPC/UHS, L.P. (Stockholders' Representative for UHS sellers).
+  The closing 8-K's Item 1.01 list does not enumerate the TRA, but the pro forma narrative
+  speaks of it in past tense. Execution must be verified under Agiliti's CIK.
+---
+
+## TRA Timeline
+
+#### Merger agreement signing and form-of TRA filing
+
+- 2018-08-13: 8-K announces entry into Merger Agreement; press release notes Agiliti will enter into a TRA
+- 2018-08-14: 8-K/A files the Merger Agreement as Exhibit 2.1, with the Form of TRA embedded as Exhibit I; preamble date blank, signatures blank
+
+#### Amended and Restated Merger Agreement
+
+- 2018-10-10: DEFM14A reproduces the same form-of TRA at Annex A / Exhibit I
+- 2018-12-19: A&R Merger Agreement filed; TRA terms unchanged except a Section 409A-compliance threshold for former option- and RSU-holders
+
+#### Business combination close
+
+- 2019-01-04: Merger closes; FSAC becomes wholly-owned subsidiary of Agiliti, Inc.
+- 2019-01-14: FSAC files Form 15-12B (deregistration); subsequent TRA disclosure migrates to Agiliti's CIK
+
+## Explanation
+
+Federal Street Acquisition Corp. was a THL-sponsored SPAC that on January 4, 2019 completed an Up-C-style business combination with UHS Holdco, Inc. (the operating company of Universal Hospital Services), with Agiliti, Inc. designated as the post-merger PubCo. The form-of TRA attached to the August 2018 merger agreement obligated Agiliti (as guarantor) and UHS Holdco (as obligor) to pay IPC/UHS, L.P. (as Stockholders' Representative for the Selling Equityholders) 85% of realized tax savings from utilization of pre-business-combination NOLs of the UHS Group. Proxy materials estimated the fair-value pro forma at approximately $43.2-43.9 million. The TRA's executed status at this CIK is indeterminate: the closing 8-K's Item 1.01 list does not enumerate the TRA among agreements entered at closing, yet the pro forma narrative speaks of it in past tense. FSAC deregistered shortly after closing, so verification requires reading Agiliti's post-close filings. See `contract_log.md` for the source-filing detail and the cross-CIK pointer.

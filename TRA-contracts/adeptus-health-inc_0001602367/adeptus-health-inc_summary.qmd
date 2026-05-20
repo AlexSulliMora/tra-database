@@ -1,0 +1,37 @@
+---
+title: "Adeptus Health TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Adeptus Health Inc."]
+CIKs: ["0001602367"]
+status: Terminated
+creation-date: 2014-06-25
+termination-date: 2017-10-02
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated by Section 5.4 of the Third Amended Joint Plan of Reorganization
+  (not a standalone instrument). $237.9M TRA payable cancelled on PubCo
+  dissolution; TRA Claims classified as Class 7(b) Subordinated Claims.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-06-12: S-1/A files form-of TRA as Exhibit 10.1
+- 2014-06-25: Up-C IPO closes; TRA executed (filed as Exhibit 10.3 to 8-K dated 2014-06-30)
+
+#### Chapter 11 and TRA extinguishment
+
+- 2017-04-19: Chapter 11 petition filed (8-K Item 1.03)
+- 2017-09-29: Confirmation of Third Amended Joint Plan of Reorganization; Section 5.4 deems the TRA of no further force and effect upon PubCo dissolution
+- 2017-10-02: Plan Effective Date; PubCo dissolved, TRA extinguished; Form 15-12B filed same day
+
+## Explanation
+
+Adeptus Health entered a single Tax Receivable Agreement at its June 25, 2014 Up-C IPO under which the Continuing LLC Members and a Blocker (the Sterling Corporate Member, merged into PubCo at IPO) were entitled to 85% of the cash tax benefits Adeptus realized from Section 754 basis step-ups on subsequent unit exchanges and from imputed interest on TRA payments. No amendments were filed; by September 30, 2016 the TRA payable had grown to $237.9M. Adeptus filed Chapter 11 on April 19, 2017, and Section 5.4 of the Third Amended Joint Plan of Reorganization (confirmed September 29, 2017) provided that the TRA would be deemed of no further force and effect upon PubCo's dissolution at the October 2, 2017 Effective Date; the Confirmation Order found the TRA was not an executory contract under Section 365, and TRA Claims were classified as Class 7(b) Subordinated Claims. Adeptus filed Form 15-12B the same day and deregistered. See `contract_log.md` for the full filing-by-filing record and the plan-section citations.

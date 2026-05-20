@@ -1,0 +1,37 @@
+---
+title: "Dutch Bros Inc. TRA (TRA-2021-09-14-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Dutch Bros Inc."]
+CIKs: ["0001866581"]
+status: Ongoing
+creation-date: 2021-09-14
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-09-14-Reorganization"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Exchange TRA covering 743(b)/734(b) basis adjustments from future
+  Exchanges of OpCo Class A units plus 704(c) Benefits. First $4.7M cash
+  payment made in 2025; TRA liability $821.0M (combined) at YE2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-09-07: Form-of Exchange TRA filed as Ex 10.6 to S-1/A (unexecuted)
+- 2021-09-14: Up-C IPO closes; Exchange TRA executed with Continuing Members of Dutch Mafia, LLC
+- 2021-09-17: Executed Exchange TRA filed as Ex 10.3 to closing 8-K
+
+#### Liability growth from Exchanges
+
+- 2025-02-13: FY2024 10-K discloses $341.2M of additions to combined TRA liability from 2024 Exchanges
+- 2026-02-13: FY2025 10-K reports first $4.7M TRA cash payment and $202.7M of additions from 2025 Exchanges; combined TRA liability $821.0M; identified as KPMG critical audit matter
+
+## Explanation
+
+Dutch Bros Inc. executed two parallel Tax Receivable Agreements at the close of its September 14, 2021 Up-C IPO; this file covers the Exchange TRA with the Continuing Members of Dutch Mafia, LLC (the OpCo partnership). The contract pays 85% of realized tax benefits attributable to PubCo's allocable share of existing OpCo tax basis, anticipated Section 743(b)/734(b) basis adjustments from future Exchanges of OpCo Class A common units for PubCo Class A stock or cash, 704(c) Benefits from the pre-IPO reorganization, and tax benefits from payments under the TRA itself. The liability has grown materially as Continuing Members have exchanged units: from $290.9M at YE2023 to $821.0M (combined with the Reorganization TRA) at YE2025, with the first cash payment of $4.7M made in 2025. The TRA remains in force as of the FY2025 10-K (filed 2026-02-13). See `contract_log.md` for the full filing-by-filing record.

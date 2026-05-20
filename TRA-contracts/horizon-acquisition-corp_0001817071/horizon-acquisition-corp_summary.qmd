@@ -1,0 +1,38 @@
+---
+title: "Horizon Acquisition Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Horizon Acquisition Corporation", "Vivid Seats Inc."]
+CIKs: ["0001817071", "0001817071"]
+status: Unknown
+creation-date: 2021-04-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Directory's filing window ends at DEFM14A (2021-09-24); executed TRA expected
+  at the Vivid Seats merger close on October 18, 2021 under the same CIK (renamed
+  Vivid Seats Inc.) but not present in this directory. Origination date is the
+  exhibit-attachment date of the form-of TRA pending the executed instrument.
+---
+
+## TRA Timeline
+
+#### Contemplated SPAC business combination
+
+- 2021-04-21: Horizon enters into Transaction Agreement with Hoya Intermediate, LLC and Vivid Seats Inc.; form-of TRA contemplated as Exhibit D to the Transaction Agreement
+- 2021-04-22: 8-K announcing the Transaction Agreement
+- 2021-04-26: 8-K/A re-attaches the Transaction Agreement
+- 2021-09-24: DEFM14A reproduces the form-of TRA in full as Annex F; preamble shown as "Dated as of [.]" with blank signatures
+
+#### Coverage gap
+
+- Post-2021-09-24: Executed TRA expected at the Vivid Seats merger close (publicly October 18, 2021) under CIK 0001817071 after the post-close rename; not present in this directory
+
+## Explanation
+
+Horizon Acquisition Corporation was a SPAC that on April 21, 2021 signed a Transaction Agreement with Vivid Seats Inc. and Hoya Intermediate, LLC contemplating an Up-C de-SPAC, with a form-of Tax Receivable Agreement attached as Exhibit D paying 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of Hoya Intermediate LLC Interests) plus Blocker Corporation Attributes and imputed interest to Hoya Topco and the Blocker TRA Holders. Under the contemplated structure, Horizon would merge into Vivid Seats Inc. (the surviving public company under the same EDGAR CIK), and the TRA would take legal effect only at Closing. The directory's filing window ends at the September 2021 definitive merger proxy, before the publicly reported October 18, 2021 close; the executed TRA and any subsequent periodic disclosures are not in this directory. Status is recorded as Unknown pending a re-pull of filings under the same CIK after the rename to Vivid Seats Inc. See `contract_log.md` for the full filing-by-filing record.

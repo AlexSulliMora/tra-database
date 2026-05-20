@@ -1,0 +1,38 @@
+---
+title: "Athlon Energy Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Athlon Energy Inc.", "Encana Corporation"]
+CIKs: ["0001574648", "0001157806"]
+status: Unknown
+creation-date: 2013-08-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA explicitly preserved through the November 2014 Encana acquisition
+  (merger agreement Section 8.10 excludes the TRA from agreements to be
+  terminated). Athlon deregistered Dec 2014; post-merger fate not visible from this CIK.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-06-27: S-1/A first attaches the form-of TRA as Exhibit 10.13
+- 2013-08-07: Up-C IPO closes; executed TRA dated August 7, 2013
+- 2013-11-14: Q3 2013 10-Q files the executed TRA as Exhibit 10.7
+
+#### Encana acquisition and TRA preservation
+
+- 2014-09-27: Merger agreement with Encana signed at $58.50/share; Section 8.10 explicitly excludes the TRA from agreements to be terminated; 1,855,563 unexchanged Units outstanding with no recognized TRA liability
+- 2014-11-13: Encana acquisition closes
+- 2014-12-17: Athlon files Form 15-12B deregistration
+
+## Explanation
+
+Athlon Energy completed its Up-C IPO on August 7, 2013 and executed an 85% Tax Receivable Agreement with management-team and employee holders of Athlon Holdings LP Units, covering Section 754 basis step-ups from future Unit exchanges, Section 734(b) Distribution adjustments, and imputed-interest deductions on TRA payments. No payment was ever accrued because no exchanges generated realizable basis step-ups before the Encana acquisition. The September 2014 merger agreement with Encana explicitly preserved the TRA, listing it as the sole exception to the agreements Athlon had to terminate pre-close; Athlon deregistered after the November 13, 2014 close. The contract survives at the deconsolidated entity under Encana ownership, but Athlon's own filings end at deregistration, so the post-merger trajectory is not visible from this CIK. See `contract_log.md` for the full filing-by-filing record.

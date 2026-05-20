@@ -1,0 +1,33 @@
+---
+title: "Virgin Mobile USA, Inc. TRA (TRA-2007-10-16-Sprint)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Virgin Mobile USA, Inc.", "Sprint Nextel Corporation"]
+CIKs: ["0001396546", "0000101830"]
+status: Terminated
+creation-date: 2007-10-16
+termination-date: 2009-11-24
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "100%"
+parallel-tras: ["TRA-2007-10-16-Virgin"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Terminated by change-of-control extinguishment when Sprint Nextel acquired Virgin Mobile USA at the November 24, 2009 merger close (beneficiary Sprint Ventures became wholly owned by the new parent). No standalone termination instrument; Section 3.03 cross-coordination with the parallel Virgin Group TRA. Manual verification suggested for the post-merger intercompany-vs-extinguished question."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-09-25: Form-of Sprint Nextel TRA filed as Exhibit 10.2 to final S-1/A
+- 2007-10-16: Virgin Mobile USA Up-C IPO closes; executed Sprint Nextel Tax Receivable Agreement filed at 100% of Net Tax Benefit to Sprint Ventures, Inc., covering basis step-ups from Sprint Ventures's $136.0M LLC interest sale and from future exchanges of Partnership Interests; Section 3.03 pro-rata coordination with the parallel Virgin Group TRA (8-K)
+
+#### Sprint Nextel acquisition and change-of-control extinguishment
+
+- 2009-07-27: Sprint Nextel / Virgin Mobile USA Agreement and Plan of Merger signed; no separate Sprint TRA termination instrument negotiated (only the parallel Virgin Group TRA has a standalone termination agreement)
+- 2009-11-24: Merger closes; Virgin Mobile USA becomes a wholly owned subsidiary of Sprint Nextel; the Sprint TRA is legally absorbed at the change of control (obligor and beneficiary consolidate); Form 15 deregistration follows December 7, 2009
+
+## Explanation
+
+Virgin Mobile USA, Inc. executed two parallel Tax Receivable Agreements at its October 16, 2007 Up-C IPO; the Sprint Nextel TRA paid Sprint Ventures, Inc. (a Sprint Nextel subsidiary) 100% of Net Tax Benefit on basis step-ups arising from Sprint Ventures's initial $136 million sale of LLC interests and from future exchanges of its Partnership Interests for Class A common stock. Section 3.03 cross-coordinated the two TRAs so that combined payments could not exceed the Overall Realized Tax Benefit. On November 24, 2009 Sprint Nextel acquired Virgin Mobile USA, with Sprint Mozart, Inc. merging into VMU; because Sprint Ventures was already a Sprint Nextel subsidiary, the merger consolidated obligor and beneficiary onto a single balance sheet and extinguished the TRA's external economic effect. Unlike the parallel Virgin Group TRA, the Sprint TRA was not the subject of a separately negotiated termination instrument; Sprint Nextel acquired the contract through merger consideration. The post-merger fate (continued as intercompany vs. legally terminated at close) is not directly stated in the available Virgin Mobile filings; confirmation would require examining Sprint Nextel's CIK 0000101830 post-November 2009 disclosures. See `contract_log.md` for the change-of-control reasoning and the Sprint Nextel cross-CIK pointer.

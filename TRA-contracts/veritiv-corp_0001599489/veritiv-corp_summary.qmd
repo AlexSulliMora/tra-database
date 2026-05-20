@@ -1,0 +1,36 @@
+---
+title: "Veritiv Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Veritiv Corporation"]
+CIKs: ["0001599489"]
+status: Terminated
+creation-date: 2014-07-01
+termination-date: 2020-12-29
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: "Non-Up-C NOL-only TRA structured around the xpedx / Unisource spin-merge. Terminated by Veritiv exercising its Section 7.06(b) right of first refusal to acquire UWW Holdings's beneficiary interest for $12M (vs $32.1M recorded liability as of 9/30/2020)."
+---
+
+## TRA Timeline
+
+#### Spin-merge formation and TRA execution
+
+- 2014-02-14: Form-of TRA filed as Exhibit 10.4 to initial S-1
+- 2014-07-01: Veritiv Corporation formed by spin-merge of International Paper's xpedx with UWW Holdings (Unisource); executed TRA dated July 1, 2014 filed as Exhibit 10.5 to closing 8-K, paying 85% of U.S. and Canadian income tax savings from utilization of Pre-Merger NOLs to UWW Holdings, LLC
+
+#### Administrative amendment
+
+- 2020-04-28: Amendment No. 1 modifies Section 2.03(b) (Amended Schedule timing); no change to 85% rate, NOL coverage, or termination provisions (Q2 2020 10-Q Exhibit 10.1)
+
+#### Termination via beneficiary buyout
+
+- 2020-12-29: Veritiv exercises Section 7.06(b) right of first refusal, executing an Assignment and Termination Agreement to acquire UWW Holdings, LLC's beneficiary interest for $12.0M cash; obligor and sole beneficiary merge and the TRA terminates (8-K filed 2021-01-04, Item 1.02)
+
+## Explanation
+
+Veritiv Corporation was formed on July 1, 2014 by the merger of International Paper's xpedx distribution business with UWW Holdings, Inc. (Bain Capital's Unisource holding vehicle), and at close it executed a non-Up-C Tax Receivable Agreement paying UWW Holdings, LLC 85% of U.S. federal, state, and Canadian income tax savings from utilizing Unisource's pre-merger NOLs. The contract covered only pre-merger NOLs (no Section 754 basis step-ups). An April 2020 Amendment No. 1 made an administrative change to Amended Schedule timing without altering the economic terms. On December 29, 2020 Veritiv exercised its Section 7.06(b) right of first refusal to acquire UWW Holdings's beneficiary interest for $12.0 million, a substantial discount to the $32.1 million carrying value at September 30, 2020, terminating the TRA by merging obligor and sole beneficiary. The 2023 Clayton, Dubilier & Rice take-private of Veritiv had no TRA implications because the contract had been settled three years earlier. See `contract_log.md` for the full filing record and amendment text.

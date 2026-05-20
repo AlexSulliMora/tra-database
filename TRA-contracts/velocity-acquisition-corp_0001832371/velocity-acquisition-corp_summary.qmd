@@ -1,0 +1,33 @@
+---
+title: "Velocity Acquisition Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Velocity Acquisition Corp."]
+CIKs: ["0001832371"]
+status: Unknown
+creation-date: 2021-07-20
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: "TRA was never executed: the Business Combination Agreement with BBQ Holding (BBQGuys) was mutually terminated November 10, 2021. Status is Unknown because no executed contract ever came into existence; the form-of in BCA Exhibit D is the only TRA-form instrument on file."
+---
+
+## TRA Timeline
+
+#### Form-of TRA filed and never executed
+
+- 2021-02-25: Velocity Acquisition Corp completes its $200M SPAC IPO
+- 2021-07-20: Business Combination Agreement with BBQ Holding, LLC ("BBQGuys") signed; form-of TRA filed as Exhibit D to the BCA (8-K)
+- 2021-11-10: BCA mutually terminated; no closing occurred and no TRA was ever executed (8-K Item 1.02 with press release)
+
+#### SPAC wind-down
+
+- 2022-11-21: DEF 14A filed to amend charter for wind-up and redemption of all Public Shares by December 30, 2022, before the February 25, 2023 statutory SPAC termination date
+
+## Explanation
+
+Velocity Acquisition Corp. was a Delaware SPAC that would have become the PubCo obligor under an 85% Up-C Tax Receivable Agreement at the close of its July 20, 2021 Business Combination Agreement with BBQ Holding, LLC (BBQGuys). The only TRA-form instrument on file is the unexecuted form-of TRA filed as Exhibit D to the BCA, with blank preamble date, blank signature blocks, and blank Annex A (Exchange TRA Parties) and Annex B (Blocker TRA Parties). The BCA was mutually terminated on November 10, 2021 citing supply-chain conditions; no successor target was identified, and Velocity filed a DEF 14A in November 2022 to wind up and redeem all Public Shares. Because no executed TRA ever came into existence, the contract's status is Unknown (the underlying instrument never reached legal force). See `contract_log.md` for the full reasoning and the form-of text reference.

@@ -1,0 +1,38 @@
+---
+title: "Biote Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Haymaker Acquisition Corp. III", "Biote Corp."]
+CIKs: ["0001819253", "0001819253"]
+status: Ongoing
+creation-date: 2022-05-26
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA liability $4.386M at 12/31/2025; declined materially from $18.9M at 12/31/2023.
+  2024 Donovitz-family share repurchases reduced the TRA Party pool but did not amend the contract.
+  2024/2025 10-K footnote mis-states execution date as 2021-12-13 (BCA signing date); true execution is 2022-05-26.
+---
+
+## TRA Timeline
+
+#### Up-C SPAC business combination and TRA execution
+
+- 2022-05-05: DEFM14A attaches the form-of TRA as Annex G.
+- 2022-05-26: Business Combination between Haymaker Acquisition Corp. III and BioTE Holdings, LLC closes; TRA executed the same day.
+- 2022-06-02: 8-K announcing close files the executed Tax Receivable Agreement as Exhibit 10.1.
+
+#### Donovitz-family unit repurchases
+
+- 2024-04-26: Biote begins three-year $76.9M repurchase of Paired Interests and Class A shares from Dr. Gary S. Donovitz; reduces the TRA Party pool without amending the contract.
+- 2024-06-28: Biote begins three-year $60.0M repurchase from a trust associated with Marci M. Donovitz on the same structure.
+- 2025-03-14: FY2024 10-K Note 15 quantifies a $17.3M reduction in TRA liability from the two settlements (partially offset by $2.8M from separate 2024 unit redemptions).
+
+## Explanation
+
+The TRA originates from Biote Corp.'s May 26, 2022 Up-C SPAC business combination (Haymaker Acquisition Corp. III combined with BioTE Holdings, LLC), with Biote paying 85% of cash tax savings to the historic LLC members on Section 754 basis step-ups from the closing purchase and future exchanges of Class A units, plus imputed interest on TRA payments. The contract has not been amended or restated. In 2024, Biote repurchased Paired Interests and Class A shares from Dr. Gary S. Donovitz and from a trust associated with Marci M. Donovitz on multi-year schedules; those repurchases extinguished the repurchased units' future TRA entitlements (a $17.3M liability reduction) but did not modify the contract. The TRA remains in force as to the remaining TRA Parties, with a carrying balance of $4.386M at 12/31/2025. See `contract_log.md` for the full filing-by-filing record.

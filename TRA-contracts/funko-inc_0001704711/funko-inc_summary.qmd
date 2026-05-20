@@ -1,0 +1,38 @@
+---
+title: "Funko, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Funko, Inc."]
+CIKs: ["0001704711"]
+status: Ongoing
+creation-date: 2017-11-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA legally in force but recorded liability near zero since Q2 2023 following
+  a full valuation allowance on deferred tax assets; gross undiscounted balance
+  remained $102.5M at year-end 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2017-10-12: S-1/A files the form-of TRA as Exhibit 10.1
+- 2017-11-01: TRA executed at IPO closing between Funko, Inc., FAH, LLC, and the Continuing Equity Owners (ACON, Fundamental Capital, and certain officers/directors)
+- 2018-03-19: Executed TRA filed as Exhibit 10.25 to the FY2017 10-K
+
+#### Valuation-allowance write-down
+
+- 2023-08-03: Q2 2023 10-Q records a full valuation allowance on deferred tax assets, reducing the TRA liability from $109.2M to $9.6M and recognizing a $99.6M gain
+- 2024-03-07: FY2023 10-K confirms no future tax benefits are expected to be realized under the TRA; status set to economically extinguished but contract in force
+- 2025-03-13: FY2024 10-K records a catch-up TRA payment of $8.96M; year-end recorded liability $0.5M against a $99.6M gross outstanding balance
+
+## Explanation
+
+Funko's TRA originated at its November 1, 2017 Up-C IPO, obligating the public company to pay 85% of cumulative net realized tax benefits from Section 754 basis step-ups arising from future exchanges of FAH common units for Class A stock. The contract has never been amended or terminated; the May 2022 TCG secondary purchase was a Class A stock transfer at the holder level and did not add a TRA party. In Q2 2023, Funko recorded a full valuation allowance on its deferred tax assets and concluded TRA payments were no longer probable, writing the recorded liability down from $109.2M to $9.6M and recognizing a $99.6M gain; subsequent periods have kept the recorded liability near zero ($120k at year-end 2025) while the gross undiscounted obligation has continued to grow with each new exchange ($102.5M at year-end 2025). See `contract_log.md` for the full filing-by-filing record.

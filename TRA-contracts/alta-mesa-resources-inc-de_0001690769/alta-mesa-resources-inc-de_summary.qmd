@@ -1,0 +1,37 @@
+---
+title: "Alta Mesa Resources TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Silver Run Acquisition Corporation II", "Alta Mesa Resources, Inc."]
+CIKs: ["0001690769", "0001690769"]
+status: Unknown
+creation-date: 2018-02-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Chapter 11 filed Sept 11, 2019; full valuation allowance throughout public
+  life. Legal mechanism of TRA extinguishment not visible in EDGAR filings
+  present; Chapter 11 docket (S.D. Tex.) would document plan treatment.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2017-08-16: Contribution agreement signed; references "Form of Tax Receivables Agreement" as Exhibit H (not attached)
+- 2018-02-09: Up-C business combination closes; TRA executed (filed as Exhibit 10.5 to closing 8-K)
+
+#### Chapter 11 and ambiguous status
+
+- 2019-09-11: Voluntary Chapter 11 petitions filed (S.D. Tex.)
+- 2019-Q3: 10-Q notes the TRA may be subject to bankruptcy review
+- 2020-01-16: Last EDGAR filing in this directory; post-confirmation treatment of the TRA not visible in this CIK's filings
+
+## Explanation
+
+Alta Mesa Resources executed its Tax Receivable Agreement on February 9, 2018 at the closing of the SPAC business combination that converted Silver Run Acquisition Corporation II into the public Up-C parent above SRII Opco, LP, committing PubCo to pay 85% of cash tax savings from Section 754 basis step-ups on future exchanges of SRII Opco Units (with paired Class C shares) for Class A common stock; Riverstone VI Alta Mesa Holdings, L.P. and High Mesa Holdings LP were the Initial Limited Partners and TRA beneficiaries. The contract carried an 18% early-termination discount rate. A full valuation allowance on the underlying deferred tax assets meant no TRA liability ever accrued on the balance sheet. Alta Mesa filed Chapter 11 on September 11, 2019, and the Q3 2019 10-Q noted the TRA might be subject to bankruptcy review; this directory ends in January 2020, before any plan confirmation or asset-sale closing, so the legal mechanism by which the TRA was extinguished is not verifiable from EDGAR alone. See `contract_log.md` for the full filing-by-filing record and the coverage gap pointing at the S.D. Tex. Chapter 11 docket.

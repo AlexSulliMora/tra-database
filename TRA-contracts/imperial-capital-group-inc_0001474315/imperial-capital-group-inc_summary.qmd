@@ -1,0 +1,36 @@
+---
+title: "Imperial Capital Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Imperial Capital Group, Inc."]
+CIKs: ["0001474315"]
+status: Unknown
+creation-date: 2009-12-08
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Never executed. IPO withdrawn April 22, 2010 before TRA could be signed.
+  Origination date is the first exhibit filing date of the form-of TRA
+  (Step 4 Priority 3 fallback); preamble blank in both drafts.
+---
+
+## TRA Timeline
+
+#### Contemplated Up-C IPO
+
+- 2009-10-21: S-1 filed for contemplated Up-C IPO with ICGI Holdings, LLC as TRA counterparty (no TRA exhibit yet)
+- 2009-12-08: S-1/A Amendment No. 1 attaches the form-of TRA as Exhibit 10.3, 85% sharing
+- 2010-01-27: S-1/A Amendment No. 4 re-filed form-of with minor section-heading rewording; same operative terms
+
+#### Withdrawal
+
+- 2010-04-22: Form RW filed withdrawing the registration statement; no IPO, no executed TRA, no subsequent filings under this CIK
+
+## Explanation
+
+Imperial Capital Group was a broker-dealer that filed an S-1 for a contemplated Up-C IPO in October 2009, with a form-of Tax Receivable Agreement attached as Exhibit 10.3 starting in the December 2009 S-1/A. The contract would have obligated the public company to pay ICGI Holdings, LLC 85% of the cash tax savings from Section 754 / 743(b) basis step-ups on the IPO Original Sale and subsequent Exchanges of LP Units. The S-1 was withdrawn on April 22, 2010 before pricing; no IPO, no Up-C, and no executed TRA. Status is recorded as Unknown in the sense that the contract never came into existence. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,33 @@
+---
+title: "GMR Solutions Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GMR Solutions Inc.", "GMR Buyer Corp."]
+CIKs: ["0001898718"]
+status: Ongoing
+creation-date: 2026-05-12
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Sponsor-IPO TRA covering pre-existing corporate-level attributes (NOLs,
+  deferred interest expense, IPO-date amortization and depreciation, Section
+  174 capitalization, debt-issuance-cost deductions). Origin date is the
+  May 12, 2026 IPO pricing date; executed instrument not yet filed.
+---
+
+## TRA Timeline
+
+#### IPO registration and form-of TRA
+
+- 2026-04-17: S-1 first describes the contemplated TRA in the offering narrative
+- 2026-05-04: S-1/A No. 2 files the form-of TRA as Exhibit 10.2 (preamble date placeholder; signature blocks blank)
+- 2026-05-12?: IPO prices at $15.00 per share (424B5); TRA contemplated to be executed at IPO closing three business days later
+
+## Explanation
+
+GMR Solutions Inc. is a corporate holding company (parent of Global Medical Response) that filed a sponsor-IPO TRA in connection with its May 12, 2026 IPO. The contract obligates the PubCo to pay 85% of cumulative net realized tax benefits to pre-IPO holders (KKR, Koch, Ares, HPS, plus current and former employees electing to participate) on a defined snapshot of pre-IPO corporate tax attributes: NOLs, deferred interest expense, tax credits, IPO-date amortization and depreciation, Section 174 capitalization, debt-issuance-cost deductions, and IPO-related deductions. The agreement is unexecuted as of the latest filing in the directory; the executed instrument is expected at closing and is flagged origin-date-unverified. See `contract_log.md` for the full filing record.

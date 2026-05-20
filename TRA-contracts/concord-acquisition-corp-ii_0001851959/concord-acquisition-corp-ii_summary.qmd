@@ -1,0 +1,37 @@
+---
+title: "Concord Acquisition Corp II TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Concord Acquisition Corp II"]
+CIKs: ["0001851959"]
+status: Unknown
+creation-date: 2024-08-26
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only; merger with Events.com had not closed as of the March 31, 2026 10-Q.
+  Combination Period extended to December 31, 2026. Origination date 2024-08-26 inferred from
+  Merger Agreement signing date (preamble blank); executed date will be merger Closing Date.
+---
+
+## TRA Timeline
+
+#### Form-of attached to Merger Agreement
+
+- 2024-08-26: Merger Agreement with Events.com signed; form-of Tax Receivable Agreement filed as Exhibit 10.4 to the August 27, 2024 8-K; preamble date and Schedule A blank
+- 2024-08-26?: Origination date inferred from Merger Agreement signing; executed date will be the Closing Date
+
+#### Combination period extensions, no Closing
+
+- 2024 through 2025: Combination Period extended; merger not closed
+- 2025-12: Combination Period further extended to December 31, 2026 via stockholder vote
+- 2026-03-31: Latest 10-Q in directory; merger still not closed
+
+## Explanation
+
+This is a form-of (unexecuted) TRA attached to the August 2024 Merger Agreement between SPAC Concord Acquisition Corp II and Events.com, Inc.; the contract would obligate the post-merger entity (Parent, to be renamed Events.com, Inc.) to pay Events.com Sellers 85% of Realized Tax Benefit on pre-Closing tax attributes of the Group Companies, including net operating loss carryforwards. The preamble date and Schedule A of Sellers are both blank in the form-of. As of the most recent filing (Q1 FY2026 10-Q), the Concord/Events.com merger has not closed: the Combination Period was extended twice and now runs through December 31, 2026. Status is `Unknown` rather than `Ongoing` because the TRA has never been executed; it will only enter force if the merger closes, and it would otherwise lapse if the merger agreement is terminated. See `contract_log.md` for the full filing record.

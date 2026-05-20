@@ -1,0 +1,36 @@
+---
+title: "Artisan Partners Asset Management Inc. TRA (TRA-2013-03-06-Merger)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Artisan Partners Asset Management Inc.", "H&F Brewer AIV II, L.P."]
+CIKs: ["0001517302", ""]
+status: Ongoing
+creation-date: 2013-03-06
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-03-12-Exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Single-beneficiary TRA with H&F Brewer AIV II, L.P. covering NOLs inherited
+  from H&F Brewer Blocker Corp plus Section 754 basis step-ups. First Amendment
+  (Aug 17, 2023) replaced LIBOR with a Replacement Rate; no economic change.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-02-14: S-1/A Amendment No. 3 first attaches the form-of TRA (Merger) as Exhibit 10.4
+- 2013-03-06: Merger TRA executed concurrent with the H&F Brewer Blocker Corp merger into APAM
+- 2013-05-09: First post-IPO 10-Q files the executed Merger TRA as Exhibit 10.4
+
+#### LIBOR replacement amendment
+
+- 2023-08-17: First Amendment replaces the LIBOR definition with a Replacement Rate mechanism; refiled in the FY2023 10-K (2024-02-22)
+
+## Explanation
+
+The Merger TRA was executed on March 6, 2013 concurrent with the H&F Brewer Blocker Corp merger into APAM and APAM's Up-C IPO, with H&F Brewer AIV II as the single named beneficiary. It commits APAM to pay 85% of cash tax savings realized from the NOLs and capital losses inherited from H&F Brewer Blocker Corp plus Section 754 basis step-ups and imputed-interest deductions attributable to the merger. The August 17, 2023 First Amendment was administrative housekeeping replacing the LIBOR definition with a Replacement Rate mechanism following LIBOR cessation; no economic terms changed. The contract remains in force alongside the parallel Exchanges TRA. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,39 @@
+---
+title: "Camping World Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Camping World Holdings, Inc."]
+CIKs: ["0001669779"]
+status: Ongoing
+creation-date: 2016-10-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries: ML Acquisition Company, LLC (Lemonis), Crestview-affiliated entities, and other CWGS Enterprises, LLC Members; Marcus Lemonis as Management Representative.
+  Q3 2025 $149.2M write-down driven by full valuation allowance on PubCo deferred tax assets; residual liability $1.4M at 12/31/2025; contract remains in force.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2016-09-20: S-1/A files the form-of TRA.
+- 2016-10-06: IPO closes; executed Tax Receivable Agreement dated October 6, 2016 between Camping World Holdings, Inc., CWGS Enterprises, LLC, and the Continuing LLC Members.
+- 2017-03-13: FY2016 10-K files the executed TRA as an exhibit.
+
+#### LIBOR-to-SOFR amendment
+
+- 2023-12-22: Amendment No. 1 executed (effective January 1, 2024); deletes LIBOR definition and substitutes SOFR / Term SOFR for Agreed Rate and discount-rate references. Filed as an exhibit to the FY2023 10-K.
+
+#### Deferred tax asset valuation allowance
+
+- 2025-09-30: Q3 2025 10-Q records a $149.2M write-down of the TRA liability after PubCo establishes a full valuation allowance against net deferred tax assets, collapsing the projected payment stream under ASC 740. Residual liability $1.2M.
+
+## Explanation
+
+The TRA originates from Camping World's October 6, 2016 Up-C IPO and obligates the firm to pay 85% of the Cumulative Net Realized Tax Benefit to the Continuing LLC Members (ML Acquisition Company, Crestview-affiliated entities, and other Members, with Marcus Lemonis as Management Representative) on Section 754 basis step-ups from Common Unit exchanges, Pre-IPO Tax Assets, and imputed-interest deductions. A December 2023 Amendment No. 1 was an administrative LIBOR-to-SOFR substitution that did not change the 85% rate, the tax-attribute scope, or the termination formula structure. In Q3 2025, the company established a full valuation allowance against PubCo's net deferred tax assets after the realizability test failed, recording a $149.2M write-down of the TRA liability; the contract remains legally in force with a $1.4M residual carrying value at December 31, 2025 and could be re-established if future deferred tax assets become realizable. See `contract_log.md` for the same-contract analysis.

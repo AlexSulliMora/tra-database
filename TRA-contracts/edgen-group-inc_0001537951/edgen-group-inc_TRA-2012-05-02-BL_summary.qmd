@@ -1,0 +1,38 @@
+---
+title: "Edgen Group Inc. TRA (TRA-2012-05-02-BL)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Edgen Group Inc.", "Sumitomo Corporation of America"]
+CIKs: ["0001537951", ""]
+status: Terminated
+creation-date: 2012-05-02
+termination-date: 2013-11-20
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-05-02-EM"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA with Bourland & Leverich Holdings, LLC. Terminated at zero
+  cost via standalone Exchange and TRA Termination Agreement
+  executed concurrently with the Sumitomo merger; effective at
+  2013-11-20 merger close.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-27: Form-of TRA filed as Ex 10.13 to S-1/A No. 3 (templated both EM and B&L TRAs)
+- 2012-05-02: IPO closes; TRA executed between Edgen Group Inc. and Bourland & Leverich Holdings, LLC
+- 2012-05-10: Executed B&L TRA filed as Ex 10.5 to Q1 2012 10-Q
+
+#### Sumitomo merger and termination
+
+- 2013-10-01: Sumitomo merger agreement signed; standalone Exchange and TRA Termination Agreement attached as Ex 10.1 to same 8-K, extinguishing both parallel TRAs at zero cost effective at merger close
+- 2013-11-20: Merger closes; TRA terminates at zero payment
+
+## Explanation
+
+Edgen Group entered into its B&L Tax Receivable Agreement at the May 2, 2012 Up-C IPO close, paying Bourland & Leverich Holdings, LLC 85% of cash tax savings realized from Section 754 basis step-ups and imputed interest arising from future exchanges of EDG Holdco LLC units for Class A common stock. The contract was identical in structure to the parallel EM TRA, distinguished only by the named beneficiary; both were templated from a single form-of exhibit filed with S-1/A No. 3. No TRA liability was ever accrued because no exchanges occurred. The B&L TRA was extinguished at zero cost on November 20, 2013 via the standalone Exchange and Tax Receivable Termination Agreement signed concurrently with Edgen Group's October 1, 2013 merger agreement with Sumitomo Corporation of America. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,32 @@
+---
+title: "GoHealth, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GoHealth, Inc."]
+CIKs: ["0001808220"]
+status: Ongoing
+creation-date: 2020-07-15
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders are the Continuing Equity Owners and the Blocker Shareholders.
+  Recorded liability has grown stepwise from $0 (2020-2021) to $1.3M (FY2025);
+  no cash payments made through fiscal 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-07-06: S-1/A files the form-of TRA as Exhibit 10.1 (preamble date "July [...], 2020"; unsigned)
+- 2020-07-15: Up-C IPO closes; TRA executed between GoHealth, Inc., GoHealth Holdings, LLC, and the TRA Holders
+- 2020-07-17: 8-K Item 1.01 attaches the executed TRA as Exhibit 10.1
+
+## Explanation
+
+GoHealth's TRA originated at its July 15, 2020 Up-C IPO, obligating the public company to pay 85% of realized tax benefits to the Continuing Equity Owners and Blocker Shareholders. Covered attributes are Section 754 basis step-ups from exchanges of GoHealth Holdings, LLC interests for Class A stock, pre-IPO tax attributes inherited from the Blocker entities, and gross-up deductions on TRA payments themselves. The contract has not been amended, restated, or terminated through the fiscal-2025 10-K; the September 2022 Centerbridge-led Series A preferred investment and the August 2025 superpriority senior secured credit facility signal financial pressure but do not touch the TRA. The recorded liability has grown gradually from $0 in 2020-2021 to $1.3M at year-end 2025; no payments have yet been made. See `contract_log.md` for the full filing record.

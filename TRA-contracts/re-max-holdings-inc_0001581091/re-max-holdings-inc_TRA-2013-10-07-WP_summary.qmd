@@ -1,0 +1,40 @@
+---
+title: "RE/MAX Holdings TRA (TRA-2013-10-07-WP)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["RE/MAX Holdings, Inc."]
+CIKs: ["0001581091"]
+status: Ongoing
+creation-date: 2013-10-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-10-07-RIHI"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiary chain: Weston Presidio V -> Oberndorf (2015) -> Parallaxes
+  Capital Opportunities Fund I (2018) -> Parallaxes Rain Co-Investment (2018),
+  all via Section 7.6 joinders, no contract amendment. April 2026 RIHI-side
+  Amendment No. 1 does NOT touch this TRA; effect of announced Real Brokerage
+  merger on this contract is not visible from EDGAR.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-09-30: S-1/A Amendment No. 5 files form-of TRA as exhibit 10.22
+- 2013-10-07: Up-C IPO closes; TRA executed between RE/MAX Holdings, Inc. and Weston Presidio V, L.P., paying 85% of realized cash tax savings from basis step-ups on IPO and post-IPO redemptions of RMCO common units. Substantively identical to the parallel RIHI TRA.
+- 2013-11-14: 10-Q for Q3 2013 files the executed TRA as exhibit 10.12
+
+#### Beneficiary substitutions via Section 7.6 joinders
+
+- 2015-05-29: Joinder binds Oberndorf Investments LLC as permitted transferee from Weston Presidio V
+- 2018-10-04: Joinder binds Parallaxes Capital Opportunities Fund I LP as permitted transferee from Oberndorf
+- 2018-12-19: Joinder binds Parallaxes Rain Co-Investment, LLC as permitted transferee from Parallaxes Capital Opportunities Fund I LP
+
+## Explanation
+
+RE/MAX Holdings's Up-C IPO on October 7, 2013 created two parallel TRAs paying 85% of realized cash tax savings from basis step-ups; this summary covers the Weston Presidio-line TRA. The beneficiary was successively assigned to Oberndorf Investments (May 2015), Parallaxes Capital Opportunities Fund I (October 2018), and Parallaxes Rain Co-Investment (December 2018) via Section 7.6 joinders that bound each transferee to the original contract without modifying its operative terms. A Settlement Agreement dated August 7, 2017 among Holdings, Oberndorf, and RIHI is referenced in the later joinders but is not on EDGAR in this directory (manual verification flagged). The April 26, 2026 Amendment No. 1 that conditionally terminates the parallel RIHI-side TRA in connection with the announced Real Brokerage merger does NOT touch this TRA, so it remains in force as of the latest filing; the consolidated TRA liability had already been economically depressed to about $1.5M at year-end 2025 following a 2023 valuation-allowance increase. See `contract_log.md` for the full filing-by-filing record and the joinder details.

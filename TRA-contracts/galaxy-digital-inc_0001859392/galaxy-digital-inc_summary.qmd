@@ -1,0 +1,40 @@
+---
+title: "Galaxy Digital Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Galaxy Digital Inc.", "Galaxy Digital Holdings Ltd."]
+CIKs: ["0001859392", "0001405064"]
+status: Ongoing
+creation-date: 2025-05-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: pre-IPO holders
+notes: >-
+  Amended and Restated TRA executed May 13, 2025 at the close of a Delaware
+  redomestication. Restates an Original TRA dated July 31, 2018 filed under
+  predecessor CIK 0001405064 (Galaxy Digital Holdings Ltd.).
+---
+
+## TRA Timeline
+
+#### Precursor instrument (predecessor CIK)
+
+- 2018-07-31?: Original Tax Receivables Agreement executed under Cayman parent Galaxy Digital Holdings Ltd. (CIK 0001405064); date taken from A&R recitals, original instrument not filed under this CIK
+
+#### Form-of drafting through the S-4 process
+
+- 2022-01-28: Form-of A&R TRA first filed as Exhibit 10.3 to the original S-4 contemplating a redomestication plus BitGo merger
+- 2025-03-27: Refreshed form-of A&R TRA filed with S-4/A No. 7; BitGo combination dropped and a domestication-then-merger mechanic substituted
+
+#### Redomestication close and A&R TRA execution
+
+- 2025-05-13: Reorganization closes (8-K Item 1.01, accession 0001859392-25-000010); A&R TRA executed between Galaxy Digital Inc. (Delaware HoldCo), Galaxy Digital Holdings LP, and the TRA Limited Partners
+- 2026-05-08: Q1 2026 10-Q reports TRA-related liability of $149.4M (with $71.4M attributable to related parties)
+
+## Explanation
+
+Galaxy Digital Inc. is the Delaware PubCo that emerged from a May 13, 2025 reorganization in which the Cayman parent Galaxy Digital Holdings Ltd. domesticated to Delaware and then merged into this company. Concurrent with closing, the parties executed an Amended and Restated Tax Receivables Agreement that carries forward the economics of the July 31, 2018 Original TRA: 85% of cumulative net realized tax benefits from Section 754 basis step-ups on exchanges of LP units in Galaxy Digital Holdings LP, plus imputed interest. The contract is currently in force; the Q1 2026 10-Q reports a $149.4M TRA-related liability. See `contract_log.md` for the form-of-to-executed comparison and `../galaxy-digital-holdings-ltd_0001405064/galaxy-digital-holdings-ltd_summary.qmd` for the predecessor record.

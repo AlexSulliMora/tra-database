@@ -1,0 +1,38 @@
+---
+title: "Finance of America Companies Inc. TRA (TRA-2021-04-01-Blackstone)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Finance of America Companies Inc."]
+CIKs: ["0001828937"]
+status: Terminated
+creation-date: 2021-04-01
+termination-date: 2026-02-27
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-04-01-BL"]
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Blackstone-side TRA terminated via Section 4.1 of the Amended and Restated Repurchase
+  Agreement at the Second Closing on February 27, 2026. Termination characterized as
+  "without any further liability or obligation"; consideration flowed through the equity
+  repurchase price, not as a TRA settlement payment.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and parallel TRAs
+
+- 2021-04-01: Finance of America / Replay Acquisition SPAC business combination closes; parallel Blackstone TRA and BL Investors TRA executed
+- 2021-04-07: Both executed TRAs filed as Exhibits 10.6 and 10.7 to 8-K (accession 0001193125-21-108963; not present in this directory)
+
+#### Repurchase Agreement termination
+
+- 2025-08-04: Repurchase Agreement signed; Section 4.1 provides for Blackstone TRA termination upon consummation of the equity repurchase at $10.00 per Class A share / LLC Unit
+- 2025-11-13: Amended and Restated Repurchase Agreement restructures the close into a First Closing and Second Closing; Section 4.1 retained verbatim
+- 2026-02-27: Second Closing consummated; Blackstone TRA terminates by operation of Section 4.1 with no separate TRA payment
+
+## Explanation
+
+Finance of America Companies Inc. went public on April 1, 2021 through the Replay Acquisition SPAC business combination and entered two parallel Tax Receivable Agreements at closing: one with Blackstone-affiliated funds and one with the Brian L. Libman founder-side entities (BL Investors). Both committed FOA to pay 85% of cash tax benefits from basis step-ups on sales and exchanges of Class A LLC Units. The Blackstone TRA was terminated on February 27, 2026 by operation of Section 4.1 of the Amended and Restated Repurchase Agreement, which restructured FOA's August 2025 Blackstone equity repurchase into a two-closing structure with the TRA terminating at the Second Closing. The termination was structured as a walkaway with consideration flowing through the equity repurchase price (Class A shares and LLC Units at $10.00 plus a 15% PIK premium on the Second Closing tranche), not as a separate TRA settlement payment; the pre-termination carrying value was modest ($881K at Q3 2025). The parallel BL Investors TRA remains in force. See `contract_log.md` for the full filing-by-filing record.

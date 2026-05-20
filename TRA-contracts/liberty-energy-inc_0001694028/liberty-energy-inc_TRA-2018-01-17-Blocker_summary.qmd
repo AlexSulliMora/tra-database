@@ -1,0 +1,42 @@
+---
+title: "Liberty Energy Inc. TRA (Blocker)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Liberty Oilfield Services Inc.", "Liberty Energy Inc."]
+CIKs: ["0001694028", "0001694028"]
+status: Ongoing
+creation-date: 2018-01-17
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2018-01-17-NonBlocker"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Covers Blocker NOLs, capital losses, Section 163(j) carryforwards, and
+  credit carryforwards of R/C IV Non-U.S. LOS Corp. Up-C collapsed
+  January 31, 2023; both TRAs continue at PubCo.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2017-04-10: Form-of Blocker TRA filed as S-1/A Exhibit 10.3
+- 2018-01-17: TRA executed at IPO close between Liberty Oilfield Services Inc. and R/C Energy IV Direct Partnership, L.P.
+- 2018-01-18: IPO-close 8-K files the executed Blocker TRA as Exhibit 10.2
+
+#### Up-C collapse
+
+- 2023-01-31: Liberty Oilfield Services New HoldCo LLC merged into Liberty Energy Inc.; all Class B shares retired; $6.6M deferred tax asset booked through equity; Blocker TRA continues in force
+
+#### Payment phase
+
+- 2024: First material cash payment of $5.2M; YE2024 liability $115.7M
+- 2025: $40.757M payment in Q1 2025
+- 2026: $7.888M payment in Q1 2026; combined-TRA liability $66.87M long-term
+
+## Explanation
+
+Liberty Oilfield Services Inc. (renamed Liberty Energy Inc.) executed two parallel TRAs at its January 17, 2018 Up-C IPO close; this is the Blocker TRA, which obligates the PubCo to pay 85% of the cash tax savings the corporate taxpayer realizes from utilizing the pre-IPO net operating losses, capital losses, Section 163(j) disallowed interest carryforwards, and credit carryforwards of R/C IV Non-U.S. LOS Corp (the Riverstone blocker corporation), with R/C Energy IV Direct Partnership, L.P. as the sole TRA Holder and Agent. The 2020 OneStim acquisition from Schlumberger did not amend the contract, and the January 31, 2023 collapse of the Up-C structure (merger of Liberty Oilfield Services New HoldCo LLC into the PubCo) eliminated Class B shares and unit exchanges but left both TRAs in force; the Up-C collapse added a $6.6M deferred tax asset through equity. Material cash payments began in 2024 and accelerated through 2025-2026 as Liberty's profitability rose and the underlying tax attributes generated realized tax benefits. See `contract_log.md` for the full filing-by-filing record and the parallel Non-Blocker TRA at `liberty-energy-inc_TRA-2018-01-17-NonBlocker_summary.qmd`.

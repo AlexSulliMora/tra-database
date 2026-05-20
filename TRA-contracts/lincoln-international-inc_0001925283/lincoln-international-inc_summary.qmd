@@ -1,0 +1,34 @@
+---
+title: "Lincoln International, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Lincoln International, Inc."]
+CIKs: ["0001925283"]
+status: Unknown
+creation-date: 2026-05-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Pre-IPO form-of only; preamble date blank. Directory dated to S-1/A
+  Amendment No. 1 filing (2026-05-11). Projected aggregate payments
+  ~$68.7M (85% of ~$80.9M tax savings) at $19 midpoint IPO price.
+---
+
+## TRA Timeline
+
+#### Pre-IPO registration
+
+- 2022-05-04: Initial confidential DRS describes the planned 85% Up-C TRA covering Basis Adjustments and Interest Deductions
+- 2025-04-25: DRS/A Amendment No. 2 reboots the registration with updated counsel
+- 2026-04-24: First publicly filed S-1; TRA still listed as "to be filed by amendment"
+- 2026-05-11: S-1/A Amendment No. 1 attaches Form of TRA as Exhibit 10.1; first appearance of executable text and the ~$68.7M projected aggregate payment
+- 2026-05-14: S-1/A Amendment No. 2 carries forward the same form-of TRA without changes
+
+## Explanation
+
+Lincoln International, Inc. is in the pre-IPO registration phase for an Up-C structure that will place the new Delaware holding company above Lincoln International, LP, with the LILP Partners (Participating Blocker Shareholders, GP Shareholders, Rolling Partners, and Unit Holders) retaining common units exchangeable for Class A or Class C common stock. The only TRA document on file is the Form of Tax Receivable Agreement attached as Exhibit 10.1 to S-1/A Amendment No. 1 (filed May 11, 2026), which carries a placeholder preamble date and no signatures and will become effective at IPO close; the form-of provides for 85% payment of Cumulative Net Realized Tax Benefit on IPO Existing Basis, Transferred IPO Existing Basis, Exchange Existing Basis, post-IPO Basis Adjustments from Redemptions or Direct Exchanges, and Imputed Interest. The S-1/A body discloses approximately $80.9M of aggregate tax savings over roughly 20 years at a $19 midpoint IPO price, of which approximately $68.7M would flow to TRA Parties. Status is recorded as Unknown because the IPO has not closed and the contract is not yet executed; the directory is dated to the S-1/A Exhibit 10.1 filing date (2026-05-11) under the origination-date cascade and will need correction once the executed contract is filed. See `contract_log.md` for the full filing-by-filing record.

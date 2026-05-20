@@ -1,0 +1,38 @@
+---
+title: "AdaptHealth Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["DFB Healthcare Acquisitions Corp.", "AdaptHealth Corp."]
+CIKs: ["0001725255", "0001725255"]
+status: Ongoing
+creation-date: 2019-11-08
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  PubCo CIK 1725255 carries both DFB Healthcare (SPAC) and AdaptHealth names.
+  Covered attributes include A Blocker pre-combination tax attributes plus
+  Up-C basis step-ups from unit exchanges.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2019-06-30: DEFM14A filed with form-of TRA as Annex F to the merger agreement
+- 2019-10-15: Amendment No. 1 to merger agreement replaces the form-of TRA; substantive terms unchanged
+- 2019-11-08: Business combination closes; DFB Healthcare renamed AdaptHealth Corp.; TRA executed (8-K Exhibit 10.2)
+
+#### Payment phase
+
+- 2024-12-31: First material payment year ($1.4M in 2024 after $3.2M in 2023)
+- 2025-Q1: $25.0M scheduled payment, reflecting maturation of tax benefits from accumulated exchanges
+- 2026-Q1: Additional $26.8M payment
+
+## Explanation
+
+AdaptHealth's TRA was executed on November 8, 2019 as part of the SPAC business combination that converted DFB Healthcare Acquisitions Corp. into AdaptHealth Corp., the public parent of a Up-C structure with AdaptHealth Holdings LLC as the operating partnership. AdaptHealth pays 85% of the cash tax savings it realizes from (i) the A Blocker's pre-combination tax attributes, (ii) basis step-ups generated when Non-Blocker Members exchange Company Common Units (plus Class B shares) for Class A common stock, and (iii) imputed interest and basis-on-payment top-ups, with a ten-year sunset after the final exchange. No amendments, restatements, or terminations have been filed; cash payments began at modest levels in 2023 ($3.2M) and stepped up materially in 2025 ($25.0M in Q1 alone) and 2026 ($26.8M in Q1) as accumulated basis step-ups generated realized tax savings. The contract continues in force as of the Q1 2026 10-Q. See `contract_log.md` for the full filing-by-filing record.

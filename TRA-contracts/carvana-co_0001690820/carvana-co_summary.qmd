@@ -1,0 +1,36 @@
+---
+title: "Carvana Co. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Carvana Co."]
+CIKs: ["0001690820"]
+status: Ongoing
+creation-date: 2017-04-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders: Garcia family / DriveTime-affiliated entities and named employees; Ernest C. Garcia, II as Agent.
+  Recognized TRA liability jumped to $2.3B at 12/31/2025 (of which $1.7B to related parties) after valuation-allowance release; $2.2B TRA expense recognized in FY2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2017-03-31: S-1 files the form-of TRA as Exhibit 10.1.
+- 2017-04-27: IPO closes; executed Tax Receivable Agreement dated April 27, 2017 between Carvana Co., Carvana Group, LLC, the TRA Holders, and Ernest C. Garcia, II as Agent.
+- 2017-05-03: 8-K reports IPO close and files the executed TRA as Exhibit 10.1.
+
+#### Valuation-allowance write-down and release
+
+- 2023-12-31: Senior-note exchange and tender offer generate cancellation-of-debt income consuming deferred tax assets; recognized TRA liability written down to $14M while approximately $1.6B remains contractually owed but treated as more-likely-than-not unrealizable.
+- 2025-12-31: Valuation allowance released after concluding the deferred tax assets are more likely than not realizable; recognized TRA liability climbs to $2.3B with $2.2B TRA expense recognized in FY2025 other expense (income), net. Critical audit matter flagged by Grant Thornton.
+
+## Explanation
+
+The TRA originates from Carvana Co.'s April 27, 2017 Up-C IPO and obligates Carvana to pay 85% of cash tax savings to the pre-IPO TRA Holders (Garcia family, DriveTime-affiliated entities, and named employees) on basis step-ups under Sections 734(b), 743(b), 754, 732(b), and 1012 arising from Exchanges of LLC Units, plus imputed-interest deductions. The contract has not been amended or terminated. The recognized liability has tracked the realizability of the underlying deferred tax assets: it was written down to $14M at year-end 2023 after senior-note CODI consumed DTAs, recovered to $82M at year-end 2024, and jumped to $2.3B at year-end 2025 after Carvana released the full valuation allowance, with $2.2B of TRA expense recognized in FY2025. The accounting recognition changed; the contract did not. See `contract_log.md` for the same-contract analysis across the form-of and executed versions.

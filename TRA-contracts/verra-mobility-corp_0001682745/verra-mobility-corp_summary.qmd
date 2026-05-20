@@ -1,0 +1,36 @@
+---
+title: "Verra Mobility Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Verra Mobility Corporation", "Gores Holdings II, Inc."]
+CIKs: ["0001682745", "0001682745"]
+status: Ongoing
+creation-date: 2018-10-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: "Non-Up-C C-corp stock-for-stock combination, not an Up-C exchange-driven TRA. Sole covered attribute is the basis step-up in Highway Toll Administration (HTA) intangibles from Verra's March 2018 HTA acquisition. PE Greenlight Holdings transferred its beneficiary position to Lakeside Smart Holdco L.P. on 2022-08-03 (Section 7.5 Permitted Transferee Joinder, not a TRA amendment)."
+---
+
+## TRA Timeline
+
+#### De-SPAC merger and TRA execution
+
+- 2018-06-21: Gores Holdings II announces Merger Agreement with Greenlight Holding II Corporation (privately held Verra Mobility); form-of TRA filed as Exhibit 10.2 (8-K)
+- 2018-10-17: Business Combination closes; Gores Holdings II renamed Verra Mobility Corporation; executed TRA filed at 50% of net cash savings on the basis step-up in HTA intangibles, payable to historic Greenlight stockholders represented by PE Greenlight Holdings, LLC (Platinum Equity)
+
+#### Beneficiary transfer (no amendment)
+
+- 2022-08-03: PE Greenlight Holdings, LLC assigns its full beneficiary interest to Lakeside Smart Holdco L.P. via Section 7.5 Permitted Transferee Joinder; no TRA amendment filed (first disclosed in Q3 2022 10-Q)
+
+#### Ongoing payment trajectory
+
+- 2024-Q4: First observed annual cash payment of $5.2M for the 2023 tax year (per 2024 10-K Note 15)
+
+## Explanation
+
+Verra Mobility Corporation was formed when SPAC Gores Holdings II acquired the privately held Greenlight Holding II Corporation (Verra Mobility) in a stock-for-stock C-corp combination on October 17, 2018. The deal is structurally not an Up-C: the target was a Delaware C-corporation, there are no LLC exchange rights, and the TRA pays 50% (rather than the Up-C-typical 85%) of net cash tax savings on a single fixed attribute, the basis step-up in Highway Toll Administration LLC intangibles arising from Verra's March 2018 HTA acquisition. The beneficiary set is fixed at execution (historic Greenlight stockholders, with Platinum Equity's PE Greenlight Holdings, LLC as Stockholder Representative). On August 3, 2022, PE Greenlight transferred its full beneficiary position to Lakeside Smart Holdco L.P. via a Section 7.5 Permitted Transferee Joinder (a beneficiary reassignment by assignment, not a TRA amendment); the contract continues with Lakeside in PE Greenlight's place. The TRA remains in force as of Q1 2026 with approximately $43.7M carrying value and roughly $5.3M of expected annual payments for seven years plus $1.1M in the final year. See `contract_log.md` for the full payment history and beneficiary-transfer record.

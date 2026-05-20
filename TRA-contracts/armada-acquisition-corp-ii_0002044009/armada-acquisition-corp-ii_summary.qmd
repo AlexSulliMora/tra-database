@@ -1,0 +1,35 @@
+---
+title: "Armada Acquisition Corp. II TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Armada Acquisition Corp. II", "Evernorth Holdings, Inc.", "Pathfinder Digital Assets LLC", "Ripple Labs Inc."]
+CIKs: ["0002044009", "", "", ""]
+status: Unknown
+creation-date: 2025-10-19
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only as of latest filing (Q1 2026 10-Q). BCA with Evernorth /
+  Pathfinder / Ripple Labs not yet closed; executed contract will be filed
+  at Closing. Directory date is BCA signing (2025-10-19).
+---
+
+## TRA Timeline
+
+#### BCA signing and form-of TRA
+
+- 2025-05-20: SPAC IPO closes; no TRA contemplated at IPO
+- 2025-10-19: 8-K reports Business Combination Agreement with Evernorth / Pathfinder Digital Assets / Ripple Labs; Form of Tax Receivable Agreement attached as Exhibit 10.9 with blank preamble date and unsigned signature blocks
+
+#### Pre-closing periodic filings
+
+- 2026 (Q1 10-Q filed mid-2026): BCA had not closed as of period-end; no executed TRA on file
+
+## Explanation
+
+Armada Acquisition Corp. II signed a Business Combination Agreement on October 19, 2025 with Evernorth Holdings, Pathfinder Digital Assets LLC, and Ripple Labs that contemplates an Up-C structure with Evernorth as PubCo over Pathfinder OpCo. The accompanying Form of Tax Receivable Agreement, filed as Exhibit 10.9 to the announcement 8-K, would obligate Evernorth to pay Ripple Labs and the Ripple Group Subscribers 85% of cash tax savings from basis adjustments on Common Unit exchanges and from imputed-interest deductions. The form is unexecuted (blank preamble date and signature blocks) and the BCA had not closed as of the latest 10-Q in the directory, so the executed TRA has not yet been filed. Status is Unknown pending the closing 8-K and executed contract. See `contract_log.md` for the full filing-by-filing record.

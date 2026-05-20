@@ -1,0 +1,37 @@
+---
+title: "Newmark Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Newmark Group, Inc."]
+CIKs: ["0001690680"]
+status: Ongoing
+creation-date: 2017-12-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: Other
+notes: >-
+  Sole counterparty is Cantor Fitzgerald, L.P. (Newmark was a BGC Partners
+  spinoff). Dormant for accounting through 2024; first $17.5M liability
+  recognized in Q1 2025 as Founding Partner interest exchanges began.
+---
+
+## TRA Timeline
+
+#### IPO/spinoff and TRA execution
+
+- 2017-12-04: S-1/A Amendment No. 3 files the form-of TRA as Exhibit 10.6 (85% sharing of net realized tax benefits from Section 754 basis step-ups on Taxable Exchanges of Newmark Holdings exchangeable interests plus imputed interest)
+- 2017-12-13: TRA executed at IPO close between Cantor Fitzgerald, L.P. and Newmark Group, Inc.
+- 2017-12-19: 8-K files the executed TRA as Exhibit 10.8
+
+#### First recognized TRA activity
+
+- 2025-05-09: Q1 2025 10-Q recognizes the first $17.5M TRA liability to Cantor and a $20.6M offsetting deferred tax asset, reflecting qualifying exchange transactions during early 2025
+- 2026-03-02: FY 2025 10-K confirms the $17.5M liability and discloses no Founding Partner interests remaining with Cantor purchase rights
+
+## Explanation
+
+Newmark Group, Inc. was spun off from BGC Partners via a December 13, 2017 IPO and executed a Tax Receivable Agreement with Cantor Fitzgerald, L.P. as its sole counterparty, obligating Newmark to pay 85% of net realized tax benefits from Section 754 basis step-ups arising from Taxable Exchanges of exchangeable interests in Newmark Holdings, plus imputed interest on TRA payments. The TRA was dormant for accounting purposes from 2017 through 2024 because no qualifying exchanges had produced realized tax benefits; the Q1 2025 10-Q is the first filing to recognize a TRA liability ($17.5M), reflecting an exchange transaction during early 2025. The Founding Partner inventory in Newmark Holdings ran down through 2025 to zero by year-end, indicating active exchange activity going forward. The contract has not been amended. See `contract_log.md` for the full filing-by-filing record.

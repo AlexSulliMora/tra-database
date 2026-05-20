@@ -1,0 +1,38 @@
+---
+title: "Genesis Healthcare, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Genesis Healthcare, Inc.", "Skilled Healthcare Group, Inc."]
+CIKs: ["0001351051"]
+status: Unknown
+creation-date: 2015-02-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Above-market 90% payment rate. Genesis deregistered from SEC reporting on
+  2021-03-25 (Form 15-12B). TRA was in force with zero recorded liability
+  (full valuation allowance) at deregistration; subsequent fate not visible
+  on EDGAR.
+---
+
+## TRA Timeline
+
+#### Combination and TRA execution
+
+- 2014-08-18: Purchase and Contribution Agreement announced (8-K); form-of TRA attached as Exhibit A
+- 2015-02-02: Reverse-merger / Up-C combination closes; Skilled Healthcare Group renamed Genesis Healthcare, Inc.; TRA executed with FC-GEN Operations Investment, LLC and its Members
+- 2015-02-06: 8-K reports closing and attaches the executed TRA as Exhibit 10.2
+
+#### Tax-asset preservation and deregistration
+
+- 2021-03-12: Tax Benefits Preservation Plan (NOL Section 382 rights plan) adopted; not a TRA amendment
+- 2021-03-25: Form 15-12B filed; Genesis exits SEC reporting. TRA status no longer visible on EDGAR.
+
+## Explanation
+
+Genesis Healthcare's TRA originated at the February 2, 2015 reverse-merger combination of Skilled Healthcare Group with FC-GEN Operations Investment, LLC, under an Up-C-style structure. The contract obligates the public company to pay an above-market 90% of cumulative net realized tax benefits to the FC-GEN Members (Formation Capital, Onex, and other pre-combination equity holders), covering Section 754 basis step-ups from future Member exchanges plus imputed-interest deductions on TRA payments. No amendments or terminations were filed during Genesis's SEC reporting life. A full valuation allowance against the underlying deferred tax assets kept the recorded TRA liability at zero throughout, but the contract remained legally in force. Genesis deregistered from SEC reporting on March 25, 2021 (Form 15-12B); the company continued operating privately, and the TRA's subsequent status is not visible through SEC filings. See `contract_log.md` for the full filing record.

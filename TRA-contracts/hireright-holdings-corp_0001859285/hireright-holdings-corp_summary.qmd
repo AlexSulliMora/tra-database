@@ -1,0 +1,39 @@
+---
+title: "HireRight Holdings Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["HireRight Holdings Corporation"]
+CIKs: ["0001859285"]
+status: Unknown
+creation-date: 2021-10-28
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Other
+counterparty-type: pre-IPO holders
+notes: >-
+  Non-Up-C TRA covering pre-IPO C-corp tax attributes (Pre-IPO Tax Benefits)
+  of General Atlantic, Trident/Stone Point, and Conrad. The TRA was preserved
+  through the Hearts Parent take-private (June 28, 2024) via a narrow GA waiver
+  of Section 4.1(c) CoC acceleration; post-close fate not visible on EDGAR.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2021-10-04: Form-of TRA filed as Exhibit 10.15 to the S-1
+- 2021-10-28: Executed TRA dated as of preamble, 85% of realized tax benefits on Pre-IPO Tax Benefits to General Atlantic, Trident/Stone Point, and Conrad
+- 2021-11-02: IPO closes
+- 2021-11-05: 8-K reports IPO close and attaches the executed TRA
+
+#### Take-private with narrowly scoped CoC waiver
+
+- 2024-02-15: General Atlantic Support Agreement waives Section 4.1(c) Change of Control acceleration solely for the Hearts Parent merger; all other TRA rights and obligations remain in full force
+- 2024-06-28: Hearts Parent merger closes; HireRight delists and announces Form 25/15 deregistration; TRA persists at the surviving corporation but ceases SEC reporting
+
+## Explanation
+
+HireRight executed its Tax Receivable Agreement at the October 2021 IPO of the Delaware C-corp (no Up-C structure), committing to pay General Atlantic, Trident/Stone Point, and Raymond Conrad 85% of the realized federal, state, and local tax savings from the firm's Pre-IPO Tax Benefits (principally pre-IPO net operating losses and other carryforward attributes). The Q1 2024 10-Q recorded a $162.7M long-term portion after a $27.2M Q1 2024 payment, indicating the contract was generating substantive cash flows. In February 2024, as a condition to the Hearts Parent take-private, General Atlantic as TRA Party Representative narrowly waived only the Section 4.1(c) Change of Control acceleration tied to the Hearts merger; the contract otherwise remained in full force and was not terminated, amended elsewhere, or bought out. The merger closed June 28, 2024 and HireRight ceased SEC reporting; the TRA persists at the surviving private subsidiary but its post-close payment trajectory is not visible on EDGAR. See `contract_log.md` for the full filing-by-filing record.

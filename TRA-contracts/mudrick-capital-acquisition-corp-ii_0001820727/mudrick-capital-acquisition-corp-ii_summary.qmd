@@ -1,0 +1,35 @@
+---
+title: "Mudrick Capital Acquisition Corporation II TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Mudrick Capital Acquisition Corporation II"]
+CIKs: ["0001820727"]
+status: Terminated
+creation-date: 2021-04-06
+termination-date: 2021-08-20
+tax-asset-type: [Other tax credit]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only (Exhibit F to the Topps merger agreement); never
+  executed. $16M aggregate payment cap contemplated. Termination-date is
+  the date the Topps merger agreement itself was terminated.
+---
+
+## TRA Timeline
+
+#### Topps merger agreement and form-of TRA
+
+- 2021-04-06: 8-K announces Agreement and Plan of Merger with The Topps Company; Form-of TRA attached as Exhibit F to the Merger Agreement (85% sharing of tax savings on Pre-Business Combination Tax Assets; $16M aggregate cap; Madison Dearborn Partners as Shareholder Representative)
+- 2021-05-10: 8-K reports Merger Agreement Amendment; no changes to the TRA form
+
+#### Merger termination
+
+- 2021-08-20: 8-K reports mutual termination of the Topps merger agreement after MLB and the MLBPA declined to renew their licensing agreements; TRA was to be delivered at Closing and was never executed
+
+## Explanation
+
+Mudrick Capital Acquisition Corporation II contemplated entering a Tax Receivable Agreement at the close of its proposed business combination with The Topps Company, paying 85% of actual tax savings on Topps's Pre-Business Combination Tax Assets, subject to a $16M aggregate cap, with Madison Dearborn Partners as Shareholder Representative for the Topps stockholders. The TRA appeared only as a Form-of exhibit (Exhibit F) attached to the April 6, 2021 merger agreement; the SPAC and the target identities in the preamble were placeholder bullets pending close. The Topps merger was terminated by mutual agreement on August 20, 2021 after MLB and the MLB Players Association declined to renew their licensing agreements with Topps, so the TRA was never executed. A subsequent business combination with Blue Nile in 2022 did not contemplate any TRA and was itself terminated. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,37 @@
+---
+title: "Simply Good Foods Company TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Simply Good Foods Company", "Atkins Holdings, LLC", "Roark Capital Acquisition, LLC"]
+CIKs: ["0001702744", "", ""]
+status: Terminated
+creation-date: 2017-07-07
+termination-date: 2018-11-14
+tax-asset-type: [NOL, Basis Step-Up, Other tax credit]
+sharing-ratio: "100% main / 75% AMT"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  100% pass-through on main attributes (NOLs, intangible-amortization basis,
+  transaction tax deductions) with a 75% rate on Excess AMT Credits capped at
+  $7.6M; aggregate cap of $100M on covered pre-closing tax attributes. Terminated
+  by standalone $26.468M cash settlement, $1M below booked liability.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2017-07-07: Business combination closes between SPAC Conyers Park Acquisition and NCP-ATK Holdings (Atkins Nutritionals parent); Income Tax Receivable Agreement executed at 100% pass-through on the main attributes with a 75% AMT credit sub-rate
+- 2017-07-13: Executed TRA filed as Exhibit 10.6 to closing 8-K
+
+#### Cash settlement and termination
+
+- 2018-11-14: Standalone Termination Agreement executed; $26,468,000 cash Termination Payment to Continental Stock Transfer for pro rata distribution to former NCP-ATK stockholders and option holders, releasing all obligations
+- 2018-11-16: Termination 8-K filed under Item 1.02
+
+## Explanation
+
+The Simply Good Foods Company executed an Income Tax Receivable Agreement on July 7, 2017 at the closing of its SPAC business combination between Conyers Park Acquisition Corp. and NCP-ATK Holdings (Atkins Nutritionals parent), with Roark Capital Acquisition acting as Stockholders' Representative for the former Atkins selling equityholders. The contract is an outlier in the TRA universe: rather than the modal 85% Up-C pass-through, it pays 100% of the Realized Tax Benefit on the main pre-closing tax attributes (NOLs, intangible-amortization basis from a 2003 acquisition, transaction tax deductions) and 75% on Excess AMT Credits capped at $7.6M, with an aggregate $100M cap on covered tax attributes. The TRA was terminated on November 14, 2018 via a standalone Termination Agreement settling all obligations for a $26.468M cash payment (~96.4% of the $27.468M booked carrying value), producing a $1.5M pre-tax gain. No amendments or restatements appear; subsequent M&A (Quest in 2019, OWYN in 2024) did not generate a new TRA. See `contract_log.md` for the operative payment-rate provisions and the termination instrument.

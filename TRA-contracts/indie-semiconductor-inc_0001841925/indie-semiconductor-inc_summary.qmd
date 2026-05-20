@@ -1,0 +1,33 @@
+---
+title: "indie Semiconductor, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Thunder Bridge Acquisition II, Ltd.", "indie Semiconductor, Inc."]
+CIKs: ["0001841925", "0001841925"]
+status: Ongoing
+creation-date: 2021-06-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Full valuation allowance maintained against the underlying deferred tax assets
+  through FY2025; TRA is legally in force but no TRA liability has accrued on
+  the balance sheet. No amendments, restatements, or waivers across 65 filings
+  through May 2026.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-01-25: Form-of TRA appears as Annex E in the S-4 registration statement
+- 2021-06-10: Executed TRA dated as of SPAC business combination close, 85% of cumulative net realized tax benefit to indie Equity Holders
+- 2021-06-16: 8-K reports close and attaches the executed TRA as Exhibit 10.6
+
+## Explanation
+
+indie Semiconductor executed its Tax Receivable Agreement at the June 10, 2021 close of the SPAC business combination between Thunder Bridge Acquisition II and ADK LLC, paying 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of ADK LLC Units for Class A stock), pre-IPO ADK Blocker Group tax attributes, and imputed interest to the indie Equity Holders. No amendments, waivers, restatements, or termination instruments have been filed across the 65 filings under this CIK through May 2026. The firm has maintained a full valuation allowance against the underlying deferred tax assets across every fiscal year through 2025, so the TRA is legally in force but no TRA liability has been recognized on the balance sheet (a standard Up-C valuation-allowance disclosure and not a termination signal). The GEO Semiconductor and Vantor/Galileo acquisitions and the 2022/2026 convertible notes did not amend the TRA. See `contract_log.md` for the full filing-by-filing record.

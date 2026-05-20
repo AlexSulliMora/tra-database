@@ -1,0 +1,40 @@
+---
+title: "Cloud Peak Energy Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Cloud Peak Energy Inc.", "Rio Tinto Energy America Inc."]
+CIKs: ["0001441849", ""]
+status: Terminated
+creation-date: 2009-11-19
+termination-date: 2014-08-19
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  Negotiated $45M lump-sum termination payment in August 2014 in lieu of contract's Section 4.01
+  Early Termination Payment formula. Subsequent May 2019 Chapter 11 did not affect the TRA, which
+  had been fully terminated and paid five years earlier.
+---
+
+## TRA Timeline
+
+#### Origination at Rio Tinto spin-off / Up-C IPO
+
+- 2009-10-26: Form-of TRA first filed as Exhibit 10.31 to S-1/A No. 4
+- 2009-11-19: TRA executed between Cloud Peak Energy Inc. (as Buyer / PubCo) and Rio Tinto Energy America (RTEA, the sole LLC member counterparty); 85% of cash tax savings on basis step-ups and Section 754 step-ups from RTEA's sale of CPE Resources units; filed as Exhibit 10.11 to the IPO-close 8-K dated 2009-11-19
+
+#### Negotiated termination
+
+- 2014-08-19: Acceleration and Release Agreement executed; CPE pays RTEA $45 million lump sum; mutual release of all TRA payment obligations and rights; only narrow surviving sections (Consistency, Cooperation, Governing Law, Confidentiality)
+
+#### Post-termination bankruptcy (TRA unaffected)
+
+- 2019-05-10: CPE files Chapter 11; TRA already terminated five years earlier
+- 2019-12-17: Plan of reorganization effective; legacy CIK 0001441849 common stock extinguished
+
+## Explanation
+
+This TRA originated at Cloud Peak Energy's November 2009 spin-off and Up-C IPO from Rio Tinto and obligated CPE to pay Rio Tinto Energy America 85% of cash tax savings on basis adjustments and Section 754 step-ups arising from RTEA's transfer of Cloud Peak Energy Resources LLC membership units to CPE. Five years later, the parties entered an Acceleration and Release Agreement in which CPE paid a $45 million negotiated lump sum to extinguish all remaining payment obligations; the document is explicitly structured as a negotiated termination payment rather than a Section 4.01 Early Termination Payment under the contract's own formula. The TRA was fully terminated and paid out August 19, 2014, well before CPE's May 2019 Chapter 11 filing, so the bankruptcy did not affect the TRA. See `contract_log.md` for the full filing record.

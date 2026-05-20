@@ -1,0 +1,46 @@
+---
+title: "Jones Energy, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Jones Energy, Inc."]
+CIKs: ["0001573166"]
+status: Terminated
+creation-date: 2013-07-29
+termination-date: 2019-05-06
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Cancelled by operation of the Joint Prepackaged Plan of Reorganization;
+  TRA holders treated as Class 7 General Unsecured Claims with 0% recovery.
+  Liability written down from $59.596M (12/31/2017) to $0 (12/31/2018) pre-petition.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-05-28: S-1 filed with unexecuted TRA draft (Exhibit 10.3); preamble blank-dated, schedules blank, no signatures.
+- 2013-07-25: Final prospectus (424B4) for the IPO that priced July 23, 2013.
+- 2013-07-29: TRA executed in connection with the IPO closing between Jones Energy, Inc. (PubCo), Jones Energy Holdings, LLC (JEH), and the pre-IPO Members; 85% of cash tax savings from Section 754 step-ups on exchanges of JEH LLC Units for JEI Class A Shares.
+- 2013-07-30: 8-K (IPO closing) files the executed TRA as Exhibit 10.4.
+
+#### Pre-petition write-down
+
+- 2019-02-01: 8-K discloses confidentiality agreements with Holders (Dec 3, 2018) and Metalmark Capital (Jan 14, 2019) regarding a Potential Transaction covering the TRA specifically; first SEC disclosure that the TRA is in active workout.
+- 2019-02-27: 8-K (Ex. 99.1) reports TRA liability written down from $59.596M to $0 as of 12/31/2018, ahead of the bankruptcy filing.
+
+#### Bankruptcy cancellation
+
+- 2019-04-03: Restructuring Support Agreement 8-K files the Joint Prepackaged Plan of Reorganization (Ex. 10.1) and Disclosure Statement (Ex. 99.3); Section VI.F provides that the TRA will be cancelled pursuant to the Plan and holders receive $0.
+- 2019-04-14: Voluntary Chapter 11 petitions filed in the Bankruptcy Court for the Southern District of Texas (Case No. 19-32112); reported on the April 15, 2019 8-K Item 1.03.
+- 2019-04-29: 10-K/A confirms all JEH LLC Units had been exchanged as of April 20, 2019, so the TRA's tax-attribute base was at its maximum just before cancellation.
+- 2019-05-06: Bankruptcy Court enters the Confirmation Order; Plan confirmation cancels the TRA. Reported on the May 7, 2019 emergence 8-K.
+- 2019-05-08: Form 15-12B deregistration filed; JEI exits the EDGAR universe.
+
+## Explanation
+
+Jones Energy, Inc. executed the Tax Receivable Agreement on July 29, 2013 in connection with its Up-C IPO, agreeing to pay the pre-IPO Members of Jones Energy Holdings, LLC 85% of the cash tax savings realized from Section 754 basis step-ups on future exchanges of JEH LLC Units for JEI Class A Shares. The contract operated as designed through 2017, with the TRA liability reaching $59.596M at year-end 2017. By December 31, 2018 the liability had been written down to zero in anticipation of restructuring; confidential workout discussions with the Holders and with Metalmark Capital began in late 2018 and were first disclosed publicly in the February 1, 2019 8-K. Jones Energy filed prepackaged Chapter 11 petitions on April 14, 2019, and the Bankruptcy Court confirmed the Joint Prepackaged Plan of Reorganization on May 6, 2019; the Plan and accompanying Disclosure Statement explicitly cancelled the TRA and classified holders as Class 7 General Unsecured Claims with 0% recovery. The company filed Form 15-12B on May 8, 2019 and exited the EDGAR universe. See `contract_log.md` for the full filing-by-filing record and the cancel-signal reconciliation against the deferred-review CSV.

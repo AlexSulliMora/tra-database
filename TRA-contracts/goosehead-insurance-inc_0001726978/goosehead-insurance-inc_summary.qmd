@@ -1,0 +1,32 @@
+---
+title: "Goosehead Insurance, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Goosehead Insurance, Inc."]
+CIKs: ["0001726978"]
+status: Ongoing
+creation-date: 2018-05-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Recorded TRA liability $171.9M at year-end 2025, growing steadily since IPO
+  with continuing LLC-unit redemptions. No payments have been made through
+  fiscal 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2018-04-02: S-1 files the form-of TRA as Exhibit 10.4
+- 2018-05-01: Up-C IPO closes; TRA executed between Goosehead Insurance, Inc., Goosehead Financial, LLC, and the Pre-IPO LLC Members (the Jones and Colby principals plus family trusts)
+- 2018-05-02: 8-K Item 1.01 attaches the executed TRA as Exhibit 10.3
+
+## Explanation
+
+Goosehead's TRA originated at its May 1, 2018 Up-C IPO and obligates the public company to pay 85% of net realized cash tax savings to the Pre-IPO LLC Members. Covered attributes are Section 754 basis step-ups on purchases, redemptions, or exchanges of Goosehead Financial LLC units, plus imputed-interest deductions on TRA payments themselves. The contract has not been amended or terminated; the January 2025 credit agreement defines the TRA by reference but does not modify it. The recorded liability has grown each year since IPO with continuing LLC-unit redemptions: from $1.7M at year-end 2018 to $171.9M at year-end 2025 (including $6.2M current). No cash payments to TRA Parties have been made through fiscal 2025. See `contract_log.md` for the full filing record.

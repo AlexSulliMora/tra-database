@@ -1,0 +1,42 @@
+---
+title: "PNMAC Holdings TRA (legacy PennyMac PubCo)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PennyMac Financial Services, Inc.", "PNMAC Holdings, Inc."]
+CIKs: ["0001568669", "0001568669"]
+status: Ongoing
+creation-date: 2013-05-08
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Original IPO PubCo CIK; Up-C structure collapsed November 1, 2018 in a
+  holding-company reorganization. TRA continues at successor parent CIK
+  0001745916 by operation of Section 7.11 (group consolidation provision);
+  no amendment was needed. This CIK was renamed PNMAC Holdings, Inc. and
+  became a wholly-owned subsidiary.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-04-05: S-1/A No. 2 attaches form-of TRA as Exhibit 10.2
+- 2013-05-08: TRA executed at IPO closing; executed copy filed as Exhibit 10.3 to the closing 8-K
+
+#### First payment and TCJA remeasurement
+
+- 2017-H1: First TRA payment of $6.2M
+- 2017-12-31: $32.0M write-down to TRA liability from TCJA 35% to 21% federal rate reduction (year-end liability $44.0M)
+
+#### Up-C collapse and successor obligor
+
+- 2018-11-01: Reorganization closes; PMLLC unitholders contribute Class A Units to a newly-formed top-level parent (CIK 0001745916, "New PennyMac Financial Services"); Exchange Agreement terminated; this CIK renamed PNMAC Holdings, Inc. and becomes wholly-owned subsidiary. TRA continues at successor parent under Section 7.11
+
+## Explanation
+
+PennyMac Financial Services, Inc. (this CIK, 0001568669) entered into the Tax Receivable Agreement on May 8, 2013 at the closing of its Up-C IPO, with Private National Mortgage Acceptance Company, LLC as the operating LLC and the pre-IPO unitholders (principally BlackRock Mortgage Ventures and HC Partners, plus management) as beneficiaries. The TRA pays beneficiaries 85% of cash tax savings from Section 754 basis step-ups arising from exchanges of PMLLC Class A Units for PFSI Class A Common Stock and from TRA-imputed interest. The first cash payment ($6.2M) was made in the first half of 2017; the 2017 Tax Cuts and Jobs Act produced a $32.0M write-down to the liability via rate-driven remeasurement. On November 1, 2018 the Up-C structure was collapsed in a holding-company reorganization: pre-existing Unit holders contributed their Class A Units to a newly-formed top-level parent (assigned a new CIK, 0001745916), this CIK was renamed PNMAC Holdings, Inc. and became a wholly-owned subsidiary, and the Exchange Agreement terminated. The TRA itself was not amended because its Section 7.11 group-consolidation provision automatically applied the contract across the affiliated group with the new parent as obligor; subsequent disclosure of the TRA appears in CIK 0001745916's filings. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,38 @@
+---
+title: "Change Healthcare Inc. TRA (TRA-2011-11-02-Reorganizations)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Emdeon Inc.", "Change Healthcare Holdings, Inc.", "Change Healthcare Inc."]
+CIKs: ["0001444598", "0001444598", "0001756497"]
+status: Terminated
+creation-date: 2011-11-02
+termination-date: 2022-10-03
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2009-08-17-Management", "TRA-2011-11-02-Exchanges", "TRA-2017-02-28-Change-Healthcare-IPO", "TRA-2017-03-01-McKesson"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amended-and-restated form of the 2009 Emdeon Reorganizations TRA. Covers Pre-IPO Basis
+  Adjustments from the 2009 reorganization transactions. Terminated at UnitedHealth merger close.
+---
+
+## TRA Timeline
+
+#### Origination as Amended and Restated TRA
+
+- 2011-11-02: A&R TRA (Reorganizations) executed at Blackstone going-private merger; Beagle Parent LLC replaced GA ITR Holdco on the beneficiary side
+- 2019-03-15: Filed under Change Healthcare Inc.'s CIK as Exhibit 10.4 to S-1; assumed at 2019 IPO
+
+#### UnitedHealth merger and pre-acknowledgment
+
+- 2021-01-06: Acknowledgment and Termination Agreement dated January 5, 2021 acknowledges Change of Control treatment and contractual Early Termination Payment at Merger close
+
+#### Termination at merger Effective Time
+
+- 2022-10-03: UnitedHealth merger Effective Time; TRA terminated; Article IV Early Termination Payment delivered
+
+## Explanation
+
+This contract is the Pre-IPO-reorganization sister of the Exchanges TRA: same parties, same 85% rate, same November 2011 Beagle-for-GA substitution. The economic distinction is the covered tax attribute, which is Pre-IPO Basis Adjustments from Emdeon's 2009 reorganization transactions rather than basis step-ups from future LLC-unit exchanges. The contract was assumed by Change Healthcare Inc. at the 2019 IPO and terminated at the UnitedHealth merger's October 3, 2022 Effective Time via the same January 5, 2021 Acknowledgment that bound the Blackstone parties to the Article IV Early Termination Payment formula. See `contract_log.md` for the full filing record.

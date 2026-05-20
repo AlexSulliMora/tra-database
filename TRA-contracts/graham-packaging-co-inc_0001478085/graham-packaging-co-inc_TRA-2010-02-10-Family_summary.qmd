@@ -1,0 +1,40 @@
+---
+title: "Graham Packaging Company Inc. TRA (TRA-2010-02-10-Family)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Graham Packaging Company Inc.", "Reynolds Group Holdings Limited"]
+CIKs: ["0001478085"]
+status: Terminated
+creation-date: 2010-02-10
+termination-date: 2011-09-08
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2010-02-10-ExistingStockholders"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Family side of Graham Packaging's parallel TRAs; counterparty was GPC
+  Holdings, L.P. (rights later assigned to Graham Capital Company and Graham
+  Alternative Investments I, L.P.). Terminated at the Reynolds merger close
+  with a $56.5M Early Termination Payment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2010-01-22: S-1/A files the form-of Family ITR Agreement as Exhibit 10.31
+- 2010-02-10: Up-C IPO closes; ITR Agreement executed between Graham Packaging Company Inc. and GPC Holdings, L.P. (on behalf of the Graham Family Entities)
+- 2010-02-17: 8-K attaches the executed agreement as Exhibit 10.4
+
+#### Pre-merger floor and Reynolds termination
+
+- 2011-04-09: Blackstone-Family Agreement pre-commits a floor of $53M Early Termination Payment to Graham Capital Company at the merger close
+- 2011-04-13: Merger Agreement with Reynolds Group Holdings filed; Section 6.4(b)(ii) commits Parent to pay the Early Termination Payment at closing
+- 2011-09-08: Reynolds merger closes; $56.5M Early Termination Payment paid to the Graham Family Entities, terminating the TRA
+- 2011-09-19: Form 15 deregistration filed
+
+## Explanation
+
+The Family ITR Agreement originated at Graham Packaging's February 10, 2010 Up-C IPO and obligated the public company to pay 85% of cash tax savings to GPC Holdings, L.P. on behalf of the Graham Family Entities, covering future Section 754 basis step-ups arising from family-entity exchanges of Holdings partnership units for PubCo common stock under the Exchange Agreement, plus imputed interest. It ran in parallel with a separate Existing Stockholders ITR Agreement covering pre-IPO NOLs and the 1998 basis adjustment (see `graham-packaging-co-inc_TRA-2010-02-10-ExistingStockholders_summary.qmd`). An April 9, 2011 Blackstone-Family Agreement pre-committed a $53M floor on the Family TRA termination payment ahead of the Reynolds merger announcement. Both TRAs terminated at the September 8, 2011 Reynolds merger close via Section 6.4 of the Merger Agreement; the Graham Family Entities received $56.5M as the contractual Early Termination Payment. See `contract_log.md` for the full filing record and the Blackstone-Family Agreement text.

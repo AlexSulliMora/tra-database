@@ -1,0 +1,37 @@
+---
+title: "Norcraft Companies, Inc. TRA (TRA-2013-11-13-SKM)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Norcraft Companies, Inc.", "Fortune Brands Home & Security, Inc."]
+CIKs: ["0001582616", "0001519751"]
+status: Terminated
+creation-date: 2013-11-13
+termination-date: 2015-05-12
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-11-13-Exchanges", "TRA-2013-11-13-Trimaran"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  SKM Contribution TRA covers pre-IPO NOLs and other tax attributes of
+  SKM Norcraft Corp. inherited via the IPO Reorganization. Terminated at
+  merger close for $15.914M payment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-09-30: S-1/A files form-of TRA (SKM Norcraft Contribution) as Exhibit 10.26 (85% sharing of net realized tax benefits from SKM Norcraft Corp.'s pre-IPO NOLs and other tax attributes plus imputed interest)
+- 2013-11-13: TRA executed at IPO close with the SKM Norcraft Corp. shareholders; SKM Equity Fund III, L.P. as SKM Norcraft Representative
+- 2014-03-31: 2013 10-K files executed TRA as Exhibit 10.15
+
+#### Acquisition and TRA termination
+
+- 2015-03-30: Termination Agreement signed concurrent with the Fortune Brands merger agreement; substitutes a fixed $15,914,000 Termination Payment payable on merger close
+- 2015-05-12: Fortune Brands merger closes; TRA terminates and $15.914M paid
+
+## Explanation
+
+Norcraft Companies, Inc. completed an Up-C IPO on November 13, 2013 and executed three parallel Tax Receivable Agreements at closing, of which this one (the SKM Contribution TRA) obligates PubCo to pay 85% of net realized tax benefits from the pre-IPO NOL carryforwards and other tax attributes of SKM Norcraft Corp. inherited by PubCo when SKM Norcraft Corp. was contributed in the IPO Reorganization, plus imputed interest, to the former SKM Norcraft shareholders. In connection with Fortune Brands Home & Security's tender-offer-and-merger, the SKM Norcraft Representative signed a Termination Agreement on March 30, 2015 substituting a fixed $15,914,000 payment for the contract's Section 4.3 Early Termination formula, conditional on merger close. The merger closed May 12, 2015 and this TRA was extinguished. See `contract_log.md` for the full filing-by-filing record and the parallel TRA-2013-11-13-Exchanges and TRA-2013-11-13-Trimaran summary files.

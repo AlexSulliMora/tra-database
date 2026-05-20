@@ -1,0 +1,39 @@
+---
+title: "SmileDirectClub TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["SmileDirectClub, Inc."]
+CIKs: ["0001775625"]
+status: Unknown
+creation-date: 2019-09-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Chapter 11 filed 2023-09-25 in S.D. Tex.; Nasdaq delisting Oct 2023. Bankruptcy
+  filings make no reference to the TRA; no SEC filing in directory confirms a
+  legal termination mechanism. Likely economically extinguished. Bankruptcy
+  docket on Kroll claims-agent site would carry executory-contract treatment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-09-04: Form-of TRA filed as Exhibit 10.3 to S-1/A with blank preamble date
+- 2019-09-13: Up-C IPO closes; TRA executed at 85% sharing rate with SDC Financial LLC and the Continuing LLC Members covering Section 754 basis step-ups from Common Unit exchanges
+- 2019-09-17: Executed TRA filed as Exhibit 10.2 to IPO 8-K
+
+#### Bankruptcy
+
+- 2023-09-25: Chapter 11 petition filed in S.D. Tex. (Houston); 8-K Item 1.03 discloses likely total equity loss and a toggle plan structure
+- 2023-09-29: DIP Credit Agreement and Forbearance Agreement executed; neither references the TRA
+- 2023-10-04: Nasdaq delisting; SEC filings cease
+
+## Explanation
+
+SmileDirectClub, Inc. executed a Tax Receivable Agreement on September 13, 2019 at its Up-C IPO close, paying 85% of cumulative net realized tax benefits to the Continuing LLC Members of SDC Financial LLC for Section 754 basis step-ups on Common Unit exchanges and imputed interest. The TRA was never amended or restated. The company filed Chapter 11 in the Southern District of Texas on September 25, 2023, was delisted from Nasdaq in early October, and ceased SEC reporting. The Q2 2023 10-Q had already disclosed that no TRA liability would ever be paid because the company could not generate sufficient taxable income, but the bankruptcy 8-Ks, DIP Credit Agreement, and Forbearance Agreement make no reference to the TRA, so the legal extinguishment mechanism (rejection under Section 365, implicit termination upon liquidation, or successor assumption) is not visible in EDGAR filings. The TRA is economically extinguished but the legal status is unknown without retrieval of the Kroll bankruptcy docket. See `contract_log.md` for the bankruptcy-document review and the coverage gap.

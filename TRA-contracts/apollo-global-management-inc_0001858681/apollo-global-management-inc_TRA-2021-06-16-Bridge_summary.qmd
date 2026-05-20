@@ -1,0 +1,36 @@
+---
+title: "Apollo Global Management TRA (TRA-2021-06-16-Bridge, Bridge TRA chain)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bridge Investment Group Holdings Inc.", "Apollo Global Management, Inc."]
+CIKs: ["0001854401", "0001858681"]
+status: Ongoing
+creation-date: 2021-06-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-05-06"]
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Bridge TRA originated at Bridge's 2021 IPO; assumed by Apollo at the Sep 2,
+  2025 merger close via Second A&R (Feb 23, 2025). Bridge IPO CIK is
+  approximate; underlying Bridge filings live under Bridge's own CIK.
+---
+
+## TRA Timeline
+
+#### Bridge IPO TRA chain (pre-Apollo)
+
+- 2021-06-16: Original Bridge Tax Receivable Agreement executed at Bridge's IPO (under Bridge CIK)
+- 2022-01-01: First amendment to Bridge TRA (under Bridge CIK)
+
+#### Apollo-Bridge merger and assumption
+
+- 2025-02-23: Second Amended and Restated Tax Receivable Agreement signed alongside the Apollo-Bridge merger agreement; replaces the existing Bridge TRA in its entirety effective at merger close
+- 2025-09-02: Bridge merger closes; Apollo Global Management Inc. becomes the obligor; $383M Bridge TRA liability recorded on Apollo's balance sheet
+
+## Explanation
+
+The Bridge TRA chain originated at Bridge Investment Group Holdings's June 16, 2021 IPO and was assumed by Apollo Global Management on September 2, 2025 when the Apollo-Bridge merger closed; the operative instrument is the Second Amended and Restated Tax Receivable Agreement dated February 23, 2025 (filed as Annex C to Apollo's S-4 and S-4/A, then to the final 424B3), under which Apollo replaced Bridge Corp. as the corporate obligor and committed to pay 85% of cash tax savings realized from the merger-driven Section 754 basis step-ups in Bridge Holdings to the former Bridge LLC Members. The contract carried forward the basis step-ups under a "No Termination Under the Existing Agreement" provision (no acceleration on the assumption). The FY2025 10-K confirms that as of December 31, 2025 no Bridge TRA holders retain operating units that could be exchanged, so this chain is also in run-off; no cash payments under the Bridge TRA have yet been disclosed. The parallel Apollo TRA (TRA-2013-05-06) is a separate contract with different beneficiaries. See `contract_log.md` for the full filing-by-filing record.

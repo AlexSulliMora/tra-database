@@ -1,0 +1,35 @@
+---
+title: "Bumble Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bumble Inc."]
+CIKs: ["0001830043"]
+status: Terminated
+creation-date: 2021-02-10
+termination-date: 2025-11-05
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated by Amendment No. 1 adding a Settlement Payment substituting for the Section 4.1 Early Termination Payment formula.
+  Gross settlement approximately $186.0M ($185.7M cash paid); more than 50% discount to $416.7M carrying value at 12/31/2024; $241.6M excess recorded in APIC.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-01-27: S-1/A files the form-of TRA as Exhibit 10.2.
+- 2021-02-10: Up-C IPO closes; executed Tax Receivable Agreement dated February 10, 2021 between Bumble Inc. and the TRA Parties (Blackstone-affiliated funds, Founder Whitney Wolfe Herd, and other pre-IPO owners).
+- 2021-02-16: 8-K reporting IPO close files the executed TRA as Exhibit 10.2.
+
+#### Negotiated termination
+
+- 2025-11-05: Amendment No. 1 to the TRA executed under Section 7.6(b); adds a fixed Settlement Payment Schedule to Section 4.1(a) substituting for the Early Termination Payment formula. Concurrent with Blackstone's exchange of all 16.6 million Common Units for Class A shares immediately before the amendment. 8-K Item 1.01 and Item 1.02 report entry into and termination of the material agreement.
+
+## Explanation
+
+The TRA originates from Bumble Inc.'s February 10, 2021 Up-C IPO and obligated Bumble to pay 85% of realized U.S. tax benefits to Blackstone-affiliated funds, the Founder, and other pre-IPO owners on IPO Basis, Blocker Transferred Basis, Pre-Merger NOLs, and Section 754 step-ups from future exchanges. On November 5, 2025, an Independent Special Committee negotiated an Amendment No. 1 that added a fixed Settlement Payment Schedule substituting for the Section 4.1 Early Termination Payment formula; the amendment was concurrent with Blackstone's exchange of all 16.6 million Common Units for Class A shares immediately beforehand. The gross settlement was approximately $186.0M ($185.7M cash paid), more than a 50% discount to the $416.7M TRA carrying value at December 31, 2024; the $241.6M excess of liability over cash distribution was recorded in additional paid-in capital and the related deferred tax assets were reversed. See `contract_log.md` for the termination-via-amendment analysis.

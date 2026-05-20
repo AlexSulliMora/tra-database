@@ -1,0 +1,31 @@
+---
+title: "StepStone Group Inc. TRA (TRA-2020-09-18-Reorganization)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["StepStone Group Inc."]
+CIKs: ["0001796022"]
+status: Ongoing
+creation-date: 2020-09-18
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2020-09-18-Exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Covers pre-IPO tax attributes carried over from Blockers absorbed at the
+  Reorganization. Aggregate FY2025 TRA liability of $313.7M is reported across
+  both parallel TRAs combined.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-08-24: Initial S-1 filed with form-of TRA (Reorganizations) as Exhibit 10.3
+- 2020-09-18: IPO closed; executed TRA (Reorganization) filed as Exhibit 10.3 to the 8-K
+
+## Explanation
+
+StepStone Group Inc. executed this TRA on September 18, 2020 at the closing of its Up-C IPO, agreeing to pay 85% of the net cash tax savings realized from tax attributes (basis and NOL carryforwards) carried over from Blocker entities absorbed at the IPO Reorganization. It runs parallel to the Exchanges TRA executed the same day: same payout rate and same Section 4.01 mechanics, but a separate set of beneficiaries (the pre-IPO Blocker stockholders) and a separate set of underlying tax attributes (one-shot pre-IPO inheritance rather than future exchange-driven step-ups). No amendment, termination, or change-of-control event has been filed; the aggregate TRA liability across both contracts stood at $313.7 million as of March 31, 2025. See `contract_log.md` for the full filing-by-filing record.

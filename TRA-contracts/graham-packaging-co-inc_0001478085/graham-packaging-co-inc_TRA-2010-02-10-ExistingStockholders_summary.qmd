@@ -1,0 +1,38 @@
+---
+title: "Graham Packaging Company Inc. TRA (TRA-2010-02-10-ExistingStockholders)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Graham Packaging Company Inc.", "Reynolds Group Holdings Limited"]
+CIKs: ["0001478085"]
+status: Terminated
+creation-date: 2010-02-10
+termination-date: 2011-09-08
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2010-02-10-Family"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Existing Stockholders side of Graham Packaging's parallel TRAs; covers
+  pre-IPO NOLs plus the 1998 Section 754 basis adjustment. Terminated at the
+  Reynolds merger close with a $188.5M Early Termination Payment to Blackstone.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2010-01-22: S-1/A files the form-of Existing Stockholders ITR Agreement as Exhibit 10.32
+- 2010-02-10: Up-C IPO closes; ITR Agreement executed between Graham Packaging Company Inc. and Blackstone Capital Partners III Merchant Banking Fund L.P. (Existing Stockholders Representative)
+- 2010-02-17: 8-K attaches the executed agreement as Exhibit 10.3
+
+#### Reynolds merger and TRA termination
+
+- 2011-04-13: Merger Agreement with Reynolds Group Holdings filed; Section 6.4(b)(i) commits Parent to pay the contractual Early Termination Payment at closing
+- 2011-09-08: Reynolds merger closes; $188.5M Early Termination Payment paid to Blackstone, terminating the TRA
+- 2011-09-19: Form 15 deregistration filed
+
+## Explanation
+
+The Existing Stockholders ITR Agreement originated at Graham Packaging's February 10, 2010 Up-C IPO and obligated the public company to pay 85% of cash tax savings to Blackstone (as Existing Stockholders Representative) on pre-IPO net operating loss carryforwards plus the historic 1998 Section 754 basis adjustment from the 1998 recapitalization. It ran in parallel with a separate Family ITR Agreement covering exchange-driven future basis step-ups (see `graham-packaging-co-inc_TRA-2010-02-10-Family_summary.qmd`). Both TRAs terminated at the September 8, 2011 close of the Reynolds Group Holdings merger via Section 6.4 of the Merger Agreement, which characterized the payments as the contractual Early Termination Payment under each TRA's Article IV; Blackstone received $188.5M. Graham Packaging filed Form 15 shortly after the close. See `contract_log.md` for the full filing record.

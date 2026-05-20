@@ -1,0 +1,41 @@
+---
+title: "Hagerty, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Aldel Financial Inc.", "Hagerty, Inc."]
+CIKs: ["0001840776", "0001840776"]
+status: Ongoing
+creation-date: 2021-12-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Hagerty Holding Corp. and Markel Group are the Legacy Unit Holder beneficiaries.
+  TRA carrying value jumped from $2.2M (YE2024) to $39.8M (YE2025) after a
+  Q3 2025 HHC unit exchange of 9.48M units; first TRA cash payments ($0.2M) in 2025.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-08-18: Form-of TRA filed as Exhibit 10.4 to the 8-K announcing the Aldel/Hagerty Business Combination Agreement
+- 2021-12-02: Executed TRA dated as of business combination close, 85% of cash tax savings to Hagerty Holding Corp. and Markel Group as Legacy Unit Holders
+- 2021-12-08: 8-K reports the close and attaches the executed TRA
+
+#### Amendment No. 1 (administrative-protective)
+
+- 2023-06-23: Amendment No. 1 dated alongside the Fifth A&R LLC Agreement of THG; updates the Company Agreement reference and expands the Material Breach carve-outs in Section 4.1(f)(ii) so payment defaults attributable to insufficient THG distributions or credit-agreement limits do not constitute Material Breaches
+
+#### Substantive accrual phase
+
+- 2025-11: Q3 2025 10-Q records the first material TRA liability ($39.8M expected at YE2025) following the contemporaneous HHC exchange of 9,481,750 THG units and recognition of prior exchanges
+- 2026-02-26: FY2025 10-K confirms TRA liability of $39.8M, $32.2M expense in 2025, and $0.2M of payments to Legacy Unit Holders during 2025
+
+## Explanation
+
+Hagerty, Inc. emerged from the December 2021 SPAC business combination of Aldel Financial Inc. and The Hagerty Group, LLC; at closing it executed an Up-C Tax Receivable Agreement obligating the public company to pay 85% of the cash tax savings from Section 754 basis step-ups (on THG unit exchanges) to Hagerty Holding Corp. and Markel Group. The contract ran with one administrative-protective amendment in June 2023, which adjusted the Material Breach trigger to accommodate the new Series A preferred capital structure and credit-agreement limits without altering the payment percentage or beneficiary roster. Hagerty maintained a full valuation allowance through 2024, leaving the recognized liability small. In Q3 2025 the firm released the valuation allowance for both contemporaneous and historical exchanges, lifting the liability to $39.8M at YE2025 and producing the first cash payments under the contract ($0.2M). The TRA is in force as of the May 2026 cutoff. See `contract_log.md` for the full filing-by-filing record.

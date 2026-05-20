@@ -1,0 +1,33 @@
+---
+title: "Vine Energy Inc. TRA (TRA-2021-03-17)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vine Energy Inc."]
+CIKs: ["0001693853"]
+status: Terminated
+creation-date: 2021-03-17
+termination-date: 2021-11-01
+tax-asset-type: [Basis Step-Up, NOL, Other tax credit]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2017-03-27-vine-resources-never-executed"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Terminating amendment substituted $0 for the formula Early Termination Payment (estimated $179M discounted / $208M undiscounted post-IPO per DEFM14A), conditional on the Chesapeake merger close. All six TRA Parties were Blackstone-controlled vehicles."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-02-22: Form-of TRA filed as Exhibit 10.13 to S-1
+- 2021-03-17: Vine Energy Up-C IPO closes; executed Tax Receivable Agreement filed at 85% with six Blackstone-controlled TRA Party LLCs (split into Reorganization TRA Parties and Exchange TRA Parties) covering Pre-IPO Covered Tax Assets (Blocker NOLs, disallowed interest carryforwards, tax credits) and Exchange Covered Tax Assets (Section 754 basis step-ups plus imputed interest)
+
+#### Chesapeake merger and terminating amendment
+
+- 2021-08-10: TRA Amendment executed concurrent with the Chesapeake Energy Merger Agreement, providing that the TRA terminates in its entirety upon merger close with no Early Termination Payment owed (8-K)
+- 2021-11-01: Chesapeake / Vine merger closes; TRA terminated in full with $0 substituted for the formula payment (8-K Item 1.02 / Item 2.01); Form 15-12B deregistration follows November 12, 2021
+
+## Explanation
+
+Vine Energy Inc. executed an 85% Up-C Tax Receivable Agreement at its March 17, 2021 IPO close with six Blackstone-controlled TRA Party LLCs (a Brix / Harvest / Vine party group, split into Reorganization TRA Parties for the former Blocker owners and Exchange TRA Parties for direct LLC Unit holders). The contract covered both Pre-IPO Covered Tax Assets (Blocker NOLs, disallowed interest expense carryforwards, and tax credit carryforwards) and Exchange Covered Tax Assets (Section 754 basis step-ups from future exchanges plus imputed interest). On August 10, 2021 Vine executed a terminating TRA Amendment concurrent with the Chesapeake Energy Merger Agreement, providing that the TRA terminates in its entirety upon merger close with no Early Termination Payment payable (substituting $0 for the formula payment, which the DEFM14A estimated at approximately $179M discounted / $208M undiscounted). The Chesapeake merger closed November 1, 2021 and the TRA terminated that day; the Brix-related $6.985M contingent liability was released into income at close, and Vine deregistered November 12, 2021. See `contract_log.md` for the full Amendment text and the comparison to the abandoned 2017 form-of TRA.

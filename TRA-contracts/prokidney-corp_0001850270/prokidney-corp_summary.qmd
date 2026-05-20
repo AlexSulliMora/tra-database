@@ -1,0 +1,37 @@
+---
+title: "ProKidney TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Social Capital Suvretta Holdings Corp. III", "ProKidney Corp."]
+CIKs: ["0001850270", "0001850270"]
+status: Ongoing
+creation-date: 2022-07-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Amended and restated July 1, 2025 on substantially similar terms to
+  reflect Cayman-to-Delaware domestication and replacement of PKLP with
+  PK Holdings LLC. A&R contract text is in an 8-K12B not yet in the
+  download set; manual verification needed to confirm no economic
+  provisions changed.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-01-18: Business Combination Agreement dated; form-of TRA attached as Exhibit E (also Annex F to subsequent DEFM14A)
+- 2022-07-11: TRA executed at SPAC business combination close; executed copy filed July 15, 2022 as Exhibit 10.1 to the 8-K (Tolerantia LLC, Control Empresarial de Capitales, and ProKidney Management Equity LLC as TRA Parties)
+
+#### Cayman-to-Delaware domestication and TRA restatement
+
+- 2025-07-01: Cayman-to-Delaware domestication and Restructuring (PKLP converted to PK Holdings LLC); TRA amended and restated on substantially similar terms; A&R filed July 3, 2025 as Exhibit 10.1 to an 8-K12B (not in this download set)
+
+## Explanation
+
+ProKidney Corp. (formerly Social Capital Suvretta Holdings Corp. III) became the TRA obligor on July 11, 2022 at the closing of its Up-C SPAC business combination with ProKidney LP, with the Closing ProKidney Unitholders (principally Tolerantia LLC, Control Empresarial de Capitales, and ProKidney Management Equity LLC) as TRA Parties, acting through Tolerantia, LLC as TRA Party Representative. The TRA pays beneficiaries 85% of cash tax savings from Section 754 basis step-ups arising from Up-C exchanges of New Company Common Units of ProKidney LP for Class A common stock plus tax benefits related to entering into the TRA itself, with the standard Section 4.01 early-termination, change-of-control, and bankruptcy-rejection triggers. On July 1, 2025 the parties executed an Amended and Restated TRA in connection with the Cayman-to-Delaware domestication and conversion of PKLP into ProKidney Holdings LLC; subsequent 10-Q and 10-K disclosures describe the A&R as "on substantially similar terms" reflecting the corporate-structure update. The A&R contract text lives in an 8-K12B filed July 3, 2025 that is not yet in the local download set, so direct line-by-line verification remains pending. See `contract_log.md` for the full filing-by-filing record.

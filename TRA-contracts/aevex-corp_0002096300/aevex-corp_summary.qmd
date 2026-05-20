@@ -1,0 +1,31 @@
+---
+title: "AEVEX Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["AEVEX Corp."]
+CIKs: ["0002096300"]
+status: Ongoing
+creation-date: 2026-04-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Original Dec 2025 DRS contemplated "one or more Tax Receivable Agreements";
+  consolidated to a single TRA by Feb 2026 DRS/A. Principal Class B holder is
+  ATS Investment Holdings, LLC.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2026-04-09: S-1/A No. 1 files form-of TRA as Exhibit 10.16
+- 2026-04-16: Up-C IPO closes; TRA executed (filed as Exhibit 10.3 to 8-K Item 1.01)
+
+## Explanation
+
+AEVEX Corp. completed an Up-C IPO on April 16, 2026 and executed a single Tax Receivable Agreement the same day with the Continuing LLC Members of Athena Technology Solutions Holdings, LLC (the OpCo), naming the Rights Holders on Schedule A. AEVEX pays 85% of the cumulative net cash tax benefit it realizes from a bundle of basis attributes generated at the IPO: Unit Transferred Basis (Class B contributions), Blocker Transferred Basis and Blocker Attributes (from a sub-merger into the Blocker), IPO Basis (from the IPO Exchange), and imputed interest on TRA payments. The transaction was restructured between the December 2025 DRS (which contemplated multiple TRAs) and the February 2026 DRS/A (single TRA); only the single agreement was executed at closing. No amendments or terminations appear in the directory through the April 20, 2026 closing 8-K. See `contract_log.md` for the full filing-by-filing record.

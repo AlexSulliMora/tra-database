@@ -1,0 +1,42 @@
+---
+title: "Manning & Napier, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Manning & Napier, Inc."]
+CIKs: ["0001524223"]
+status: Terminated
+creation-date: 2011-11-23
+termination-date: 2022-09-01
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Negotiated termination covered ~56% of TRA interests for $7.08M plus
+  contingent share of 2018 carryback refund; residual ~44% retained
+  rights with ~$8.0M estimated remaining liability at termination date.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2011-09-29: Form-of TRA filed as S-1/A Exhibit 10.4
+- 2011-11-23: TRA executed at IPO close among Manning & Napier, Inc., Manning & Napier Group LLC, Manning & Napier Capital Company LLC, and the pre-IPO Members
+- 2012-03-12: First 10-K files the executed TRA as Exhibit 10.4
+
+#### Beneficiary restructuring (SAAR)
+
+- 2021-06-30: Up-C exchange triggers dissolution of MNA Advisors and MNCC
+- 2021-12-31: Substitution and Assumption Agreement and Release collapses the upstream payment pipeline so the Company pays the ultimate beneficial holders directly; Form of Joinder binds direct payees as Permitted Transferees
+
+#### Take-private and negotiated termination
+
+- 2022-09-01: Tax Receivable Termination Agreement and Release executed; signing counterparties holding ~56% of TRA interests receive aggregate $7,075,600 plus contingent share of 2018 carryback refund
+- 2022-10-21: Callodine Group take-private merger closes; Section 4.01 change-of-control acceleration was not invoked, the negotiated termination substituting for the ETP formula
+
+## Explanation
+
+Manning & Napier, Inc. executed the TRA on November 23, 2011 at its Up-C IPO close, agreeing to pay 85% of cash tax savings on Section 754 basis step-ups and certain pre-IPO tax assets to the pre-IPO holders of Manning & Napier Group LLC, with payments originally routed through MNA Advisors and Manning & Napier Capital Company. The December 31, 2021 Substitution and Assumption Agreement and Release restructured the payment pipeline after the 2021 dissolution of the intermediate vehicles, collapsing the chain so the Company paid direct beneficial holders; this is an amendment to the same TRA rather than a new contract. On September 1, 2022, in connection with the pending Callodine Group take-private (which closed October 21, 2022), the Company executed negotiated termination agreements with TRA holders covering approximately 56% of aggregate TRA interests for $7,075,600 in cash plus contingent participation in a 2018-carryback refund, substituting fixed cash for the contract's Section 4.01 change-of-control acceleration and Section 4.03 Early Termination Payment formula. The directory ends at the June 30 2022 10-Q, so the legal fate of the residual ~44% of interests (with ~$8.0M estimated remaining liability) and any post-merger absorption onto the private parent's balance sheet cannot be confirmed from the filings reviewed. See `contract_log.md` for the full filing-by-filing record.

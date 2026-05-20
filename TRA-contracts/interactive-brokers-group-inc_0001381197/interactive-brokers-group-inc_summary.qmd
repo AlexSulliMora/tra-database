@@ -1,0 +1,35 @@
+---
+title: "Interactive Brokers Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Interactive Brokers Group, Inc."]
+CIKs: ["0001381197"]
+status: Ongoing
+creation-date: 2007-05-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  IBG Holdings LLC is the sole TRA counterparty; Thomas Peterffy and affiliates
+  hold roughly 91.6% of IBG Holdings (2025). Cumulative cash payments of
+  approximately $308M through 2025; outstanding payable of $217M at YE2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-05-03: TRA executed at IPO close, 85% of Realized Tax Benefit to IBG Holdings LLC
+- 2007-06-15: Executed TRA filed as Exhibit 10.3 to the Q1 2007 10-Q
+
+#### Ongoing operation (no amendments)
+
+- 2007-2025: Annual 424B5 prospectus supplements register Class A shares for issuance on redemptions of IBG Holdings interests; each redemption produces an additional Section 754 basis step-up captured within the same TRA; no amendments, restatements, or terminations across 137 filings through May 2026
+
+## Explanation
+
+Interactive Brokers Group executed its Tax Receivable Agreement at the May 2007 Up-C IPO, committing to pay IBG Holdings LLC (the holding vehicle for the pre-IPO LLC members, principally Thomas Peterffy and affiliates) 85% of the cash tax savings on Section 754, 743(b), and 734(b) basis step-ups arising from the IPO Original Sale and subsequent Exchanges of IBG Holdings membership interests for IBKR Class A common stock. The contract has run unamended for nineteen years and has generated cumulative cash payments of approximately $308M through 2025, with an outstanding payable of $217M at year-end 2025. The 10-K continues to identify the May 2007 instrument as the operative agreement; the Exchange Agreement was amended twice in 2015, but those amendments did not modify the TRA itself. See `contract_log.md` for the full filing-by-filing record.

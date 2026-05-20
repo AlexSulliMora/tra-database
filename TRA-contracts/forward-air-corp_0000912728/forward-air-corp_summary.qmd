@@ -1,0 +1,37 @@
+---
+title: "Forward Air Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Forward Air Corporation"]
+CIKs: ["0000912728"]
+status: Ongoing
+creation-date: 2024-01-25
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "83.5%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Atypical 83.5% rate (most Up-C TRAs use 85%). Trigger event is the Omni Logistics
+  acquisition, which created an Up-C-style arrangement above Clue Opco LLC. Beneficiaries
+  are the Omni Holders (Rollover Members, Management Holdings Members, Blocker Members),
+  with REP Omni Holdings, L.P. as Designated Representative. Q1 2026 liability: $28.255M.
+---
+
+## TRA Timeline
+
+#### Omni Logistics acquisition and TRA execution
+
+- 2023-08-10: 8-K announces Merger Agreement; TRA referenced as Exhibit I, no form-of attached
+- 2024-01-25: Omni acquisition closes; TRA executed and dated January 25, 2024
+- 2024-01-31: Executed TRA filed as Exhibit 10.7 to closing 8-K
+
+#### Tennessee-to-Delaware reincorporation (TRA assumed)
+
+- 2025-05-01: Reincorporation merger from Tennessee to Delaware closes; Section 2.6 of the Plan provides that the Delaware successor assumes the TRA per Section 7.8 of the TRA's successor clause; no economic terms changed
+
+## Explanation
+
+Forward Air Corporation entered into its Tax Receivable Agreement on January 25, 2024 at the closing of its acquisition of Omni Logistics, an M&A transaction structured to create an Up-C-style arrangement: Forward Air sits above Clue Opco LLC (a continuation of Omni Newco LLC and a partnership for U.S. federal income tax purposes), with pre-acquisition Omni holders (Rollover Members, Management Holdings Members, Blocker Members) holding Opco units exchangeable for Forward Air common stock. The contract commits Forward Air to pay 83.5% (a slight departure from the typical 85% Up-C rate) of cash tax savings from basis adjustments arising from distributions to Omni holders, future exchanges of Opco units for Parent shares, Section 754 elections, and imputed interest on TRA payments. A May 2025 Tennessee-to-Delaware reincorporation merger transferred the TRA to the Delaware successor entity by operation of the contract's successor clause; no economic terms changed. The Q1 2026 carrying value is $28.255M ($10.580M of contingent consideration plus $17.675M of estimated 2025-2026 taxable-income-driven amounts). The TRA remains in force with no amendments or terminations on file. See `contract_log.md` for the full filing-by-filing record.

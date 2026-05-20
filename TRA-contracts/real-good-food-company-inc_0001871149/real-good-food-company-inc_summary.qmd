@@ -1,0 +1,39 @@
+---
+title: "The Real Good Food Company TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Real Good Food Company, Inc."]
+CIKs: ["0001871149"]
+status: Ongoing
+creation-date: 2021-11-04
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  No liability ever accrued (loss-making post-IPO, full valuation allowance on
+  the underlying deferred tax assets). First Restated and Amended TRA dated
+  September 20, 2024 expanded the beneficiary set to Class C unit holders
+  (Emblem Investments) and replaced the TRA Representative; payment terms
+  unchanged.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-10-12: S-1 files form-of TRA as exhibit 10.1
+- 2021-11-04: Up-C IPO closes; TRA executed between The Real Good Food Company, Inc. and the Class B Unit holders of Real Good Foods, LLC (CPG Solutions, Gerard G. Law, Akshay Jagdale, Bryan Freeman as TRA Representative), paying 85% of net cash tax savings from Section 754 basis step-ups and imputed-interest deductions
+- 2021-11-04: 8-K files the executed TRA as exhibit 10.1
+
+#### First Restated and Amended TRA
+
+- 2024-09-20: First Restated and Amended TRA executed concurrent with a financing-and-control transaction (Emblem Investments $60M super-priority loan plus Class C Units convertible into 19.99% of fully diluted equity); expands TRA Holder eligibility to Class C Unit holders (Emblem Investments Fund I, LP, and contingently PMC Financial Services Group) and replaces Bryan Freeman as TRA Representative with an Emblem designee; payment rate, tax-attribute scope, and termination machinery retained
+- 2024-09-20: 8-K files the First Restated and Amended TRA as exhibit 10.7
+
+## Explanation
+
+The Real Good Food Company's Up-C IPO on November 4, 2021 created a TRA paying 85% of net cash tax savings from Section 754 basis step-ups (and imputed-interest deductions) to the Class B Unit holders of Real Good Foods, LLC. The contract was restated on September 20, 2024 concurrent with a financing-and-control transaction in which Emblem Investments extended a $60M super-priority loan and received Class C Units convertible into 19.99% of fully diluted equity (with shareholder approval contemplated to expand to 49.99%); the restated TRA expands the beneficiary set to the new Class C Unit holders and replaces the TRA Representative, but retains the 85% rate and the basis-and-imputed-interest scope. No payments have ever been disclosed: the company has been loss-making post-IPO, the underlying deferred tax assets carry a full valuation allowance, and no TRA liability has been accrued. See `contract_log.md` for the full filing-by-filing record and the same-contract reasoning for the September 2024 restatement.

@@ -1,0 +1,31 @@
+---
+title: "GCM Grosvenor Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GCM Grosvenor Inc.", "CF Finance Acquisition Corp. IV"]
+CIKs: ["0001819796"]
+status: Ongoing
+creation-date: 2020-11-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Parties are the GCMH Equityholders, principally founder/CEO Michael Sacks
+  and Hellman & Friedman-affiliated vehicles. Recorded TRA liability $54.6M at
+  year-end 2025; cash payments of $3.8M (2025) and $3.2M (2024).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-11-17: Business combination of CF Finance Acquisition Corp. IV with Grosvenor Capital Management Holdings, LLLP closes; executed TRA filed as Exhibit 10.3 to the November 23, 2020 8-K
+- 2026-03: FY2025 10-K records TRA liability of $54.6M and cumulative cash payments to TRA Parties of $3.8M (2025) and $3.2M (2024)
+
+## Explanation
+
+GCM Grosvenor's TRA originated at the November 17, 2020 close of its Up-C SPAC business combination with CF Finance Acquisition Corp. IV, obligating the public company to pay 85% of cumulative net realized tax benefits to the GCMH Equityholders (the TRA Parties). Covered attributes are Section 754 basis step-ups from acquisitions of GCMH common units, certain pre-existing GCMH asset basis, and imputed-interest deductions on TRA payments themselves. The contract has not been amended, restated, or terminated; references to "Amendment No. 7" and "Amendment No. 8" in later 8-Ks pertain to the GCMH Credit Agreement, not the TRA. Liability stood at $54.6M at year-end 2025 with cash payments of $3.8M that year. See `contract_log.md` for the full filing record.

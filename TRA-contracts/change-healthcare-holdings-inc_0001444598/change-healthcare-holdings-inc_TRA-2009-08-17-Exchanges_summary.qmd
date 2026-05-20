@@ -1,0 +1,42 @@
+---
+title: "Change Healthcare Holdings, Inc. TRA (TRA-2009-08-17-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Emdeon Inc.", "Change Healthcare Holdings, Inc."]
+CIKs: ["0001444598", "0001444598"]
+status: Unknown
+creation-date: 2009-08-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2009-08-17-Reorganizations", "TRA-2009-08-17-Management"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Same CIK was renamed Emdeon Inc. to Change Healthcare Holdings, Inc. in early 2015.
+  Directory coverage ends January 2017; post-March 2017 fate of this TRA is downstream of the
+  McKesson JV close and lives under successor CIK 0001756497 (Change Healthcare Inc.).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2009-07-28: First filing of the form-of TRA (Exchanges) as Exhibit 10.3 to S-1/A No. 4
+- 2009-08-17: Executed TRA (Exchanges) between Emdeon Inc. and H&F ITR Holdco, GA ITR Holdco, and GA-H&F ITR Holdco, filed with the IPO-close 8-K on 2009-08-11
+
+#### Blackstone going-private merger and TRA amendment-restatement
+
+- 2011-08-08: Merger agreement filed with Section 5.16 committing parties to amend the Investors TRAs at closing
+- 2011-11-02: Going-private merger consummated; Amended and Restated TRA (Exchanges) executed substituting Beagle Parent LLC for GA ITR Holdco as the GA-side beneficiary (GA retained the right to up to $2.75 million)
+- 2012-07-20: A&R TRA (Exchanges) text first filed on EDGAR as Exhibit 10.7 to Beagle Parent / Emdeon S-4
+
+#### McKesson JV transition (TRA persists)
+
+- 2016-07-05: 8-K announcing the McKesson Contribution and Sale Agreement; this TRA defined as one of three "Existing Echo TRAs" that continue post-close
+- 2017-01-26: Last filing in directory (10-K/A for FY2015); $174.5M aggregate balance-sheet TRA liability across the three TRAs, $355.7M expected total remaining payments
+
+## Explanation
+
+This is one of three parallel Up-C TRAs Emdeon executed at its August 2009 IPO, with H&F ITR Holdco, GA ITR Holdco, and GA-H&F ITR Holdco as named beneficiaries and 85% of cash tax savings from Section 754 basis step-ups (on future exchanges of EBS Master LLC units for Class A stock) as the covered tax asset. At Blackstone's November 2011 going-private merger, the TRA was Amended and Restated to substitute Beagle Parent LLC for GA ITR Holdco on the beneficiary side. The McKesson JV transaction signed June 2016 and closed March 1, 2017 defined this TRA as an "Existing Echo TRA" that continues at the CHH level after the JV close. The directory's last filing is January 26, 2017, so the post-JV fate of this contract is captured under successor CIK 0001756497 (Change Healthcare Inc.), where it appears as the A&R TRA (Exchanges) and was terminated October 3, 2022 at the UnitedHealth merger Effective Time. See `contract_log.md` for the full filing record and the cross-reference to `../change-healthcare-inc_0001756497/`.

@@ -1,0 +1,39 @@
+---
+title: "Shake Shack TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Shake Shack Inc."]
+CIKs: ["0001620533"]
+status: Ongoing
+creation-date: 2015-02-04
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Single TRA with no amendments through Q1 2026. Liability balance ~$247M at
+  FY2025 with cumulative cash payments of only $37K through 2025; first material
+  payment of $977K occurred in Q1 2026, suggesting a shift into active payment phase.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-12-29: Form-of TRA filed as Exhibit 10.1 to initial S-1 with blank preamble date
+- 2015-02-04: Up-C IPO closes; TRA executed at 85% sharing rate with SSE Holdings, LLC and the pre-IPO Members (Union Square Hospitality / Daniel Meyer affiliates and Green Equity Investors)
+
+#### Tax Cuts and Jobs Act remeasurement
+
+- 2017-12-27: FY2017 10-K records TRA liability write-down to $159M from $272M as the corporate tax rate cut reduces expected payouts
+
+#### First material cash payment
+
+- 2026-04-01: Q1 2026 10-Q reports $977K TRA payment (including interest), the largest single payment in the contract's life
+
+## Explanation
+
+Shake Shack Inc. executed a single Tax Receivable Agreement on February 4, 2015 at its Up-C IPO close, paying 85% of cumulative net realized tax benefits from Section 754 basis step-ups on Member redemptions and direct exchanges of SSE Holdings LLC Units. The contract has no amendments, restatements, or terminations across ~108 filings through Q1 2026. The TRA accrued substantial liability over the first decade (peaking at $272M in 2016, written down to $159M after the 2017 Tax Cuts and Jobs Act, then climbing back to ~$247M by FY2025) but generated essentially no cash outflow until fiscal 2025, when $37K was paid; Q1 2026 then saw a $977K payment, marking a shift from accrual phase to active payment. See `contract_log.md` for the full payment history and the executed contract.

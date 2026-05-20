@@ -1,0 +1,761 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.6**
+
+# TAX RECEIVABLE AGREEMENT
+
+SOLV ENERGY, INC. · THE PERSONS NAMED HEREIN · Dated as of \_\_\_\_\_, 2026.
+
+## TAX RECEIVABLE AGREEMENT {#tax-receivable-agreement}
+
+This **TAX RECEIVABLE AGREEMENT** (this "**Agreement**") is dated as of \_\_\_\_\_\_\_\_\_, 2026, and is among SOLV Energy, Inc., a Delaware corporation (including any successor corporation, "**PubCo**"), SOLV Energy Holdings, LLC, a Delaware limited liability company ("**OpCo**"), the TRA Party Representative (as defined herein), each of the other undersigned parties, and each of the other Persons from time to time that becomes a party hereto (each, excluding PubCo, OpCo, and the TRA Party Representative (in its capacity as such), a "**TRA Party**" and together the "**TRA Parties**").
+
+## RECITALS
+
+**WHEREAS**, the TRA Parties directly or indirectly hold or held membership interests in OpCo (the "**Units**"), which is classified as a partnership for U.S. federal income Tax (as defined below) purposes and is a continuation of SOLV Energy Parent Holdings, LP, a Delaware limited partnership, under Section 708 of the Code;
+
+**WHEREAS**, after the IPO (as defined below), SOLV Blocker (as defined below), which became a wholly owned Subsidiary of PubCo as a result of the Reorganization (as defined below), will be the managing member of OpCo;
+
+**WHEREAS**, after the IPO, PubCo will directly and, through the Blockers and GP NewCo (each as defined below), indirectly hold Units;
+
+**WHEREAS**, PubCo, each of the Blockers, and GP NewCo is classified as a corporation for U.S. federal income Tax purposes;
+
+**WHEREAS**, pursuant to certain reorganization transactions undertaken in connection with the IPO, (a) the Blockers and the AS General Partner (as defined below) acquired Units as a result of certain distributions or redemptions from entities that owned a direct or indirect interest in OpCo (the "**Unit Distributions**"), (b) the AS General Partner contributed the Units that it acquired to SOLV Sub 3 Inc., a Delaware corporation wholly owned by the AS General Partner ("**GP NewCo**"), (c) certain TRA Parties contributed certain Units to PubCo in exchange for Class A common stock (the contributions in this clause (c), the "**PubCo Unit Contributions**"), and (d) the Blocker Shareholders contributed all of the equity interests in the Blockers, and the AS General Partner contributed all of the stock of GP NewCo, to PubCo in exchange for Class A common stock, with PubCo indirectly acquiring the Units held by the Blockers and GP NewCo as a result of such contributions (the "**Reorganization**");
+
+**WHEREAS**, as a result of the Reorganization, PubCo will be entitled to obtain the benefit of (i) the Blocker Attributes and (ii) the Reorganization Transferred Basis;
+
+**WHEREAS**, in connection with the IPO, (a) PubCo will acquire IPO Units (as defined below) for one or more contributions of cash to OpCo that are not used to fund a distribution to or redemption of Units held by any other member of OpCo (the "**IPO Primary Contributions**") and (b) PubCo may acquire Units from one or more other members of OpCo (the "**IPO Acquisition**");
+
+**WHEREAS**, as a result of the IPO Primary Contributions, the PubCo Group Members will be entitled to obtain the benefit of the IPO Basis (as defined below);
+
+**WHEREAS**, the Units held by the TRA Parties may be exchanged for Class A common stock of PubCo, par value $0.0001 per share (the "**ClassA Shares**") and/or for cash, in accordance with and subject to the provisions of the OpCo Agreement (as defined below);
+
+**WHEREAS**, OpCo and each of its direct and indirect Subsidiaries (as defined below) treated as a partnership for U.S. federal income Tax purposes will have in effect an election under Section 754 of the Code (as defined below) for each Taxable Year (as defined below) that includes the IPO Date (as defined below) and for each Taxable Year in which there occurs a taxable acquisition (including a deemed taxable acquisition under Section 707(a) of the Code) of Units by PubCo (or any PubCo Group Member) from any of the TRA Parties (an "**Exchange TRA Party**") for Class A Shares and/or other consideration or redemption or distribution (including any deemed distribution under Section 752 of the Code) by OpCo, in each case, in connection with the IPO or after the IPO Date (any such acquisition from an Exchange TRA Party or redemption or actual or deemed distribution, including any deemed taxable acquisition under Section 707(a) of the Code and any IPO Acquisition and excluding, for the avoidance of doubt, the IPO Primary Contributions, an "**Exchange**");
+
+**WHEREAS**, as a result of an Exchange, PubCo (or the PubCo Group Members) will be entitled to use the Exchange Basis (as defined below) and the Basis Adjustments (as defined below) relating to such Units received (or deemed received for U.S. federal income tax purposes) in the Exchange;
+
+**WHEREAS**, the income, gain, loss, expense and other Tax items of the PubCo Group Members may be affected by the (i) Blocker Attributes, (ii) Reorganization Transferred Basis, (iii) IPO Basis, (iv) Exchange Basis, (v) Basis Adjustments and (vi) Imputed Interest (as defined below) (collectively, the "**Tax Attributes**"); and
+
+**WHEREAS**, the parties to this Agreement desire to provide for certain payments and make certain arrangements with respect to the effect of the Tax Attributes on the liability for Taxes of the PubCo Group Members.
+
+**NOW, THEREFORE**, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+### Section 1.1: SECTION {#section-1-1}
+
+** 1.1** **Definitions**. As used in this Agreement, the terms set forth in this [Article I](#article-i) shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined).
+
+Acquired Units
+:   means the Units acquired, directly or indirectly, by PubCo in the Reorganization, including Units held by the Blockers and GP NewCo.
+
+Actual Tax Liability
+:   means, with respect to any Taxable Year, the sum of (i) (A) the liability for U.S. federal income Taxes of the PubCo Group Members (calculated by assuming, in order to avoid double counting, that state and local Taxes are not deductible by the PubCo Group Members for U.S. federal income Tax purposes) and (B) without duplication, the portion of any liability for U.S. federal income Taxes imposed directly on OpCo (or OpCo's applicable Subsidiaries or other Persons in which OpCo owns a direct or indirect equity interest) under Section 6225 or any similar provision of the Code that is allocable to any PubCo Group Member under Section 704 of the Code or otherwise attributable to any PubCo Group Member in accordance with the OpCo Agreement and (ii) the product of the amount of the U.S. federal taxable income for such taxable year reported on PubCo's IRS Form 1120 (or any successor form) (calculated by excluding deductions for state and local Taxes) and the Blended Rate.
+
+Affiliate
+:   means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first Person.
+
+Agreed Rate
+:   means a per annum rate of SOFR plus 100 basis points.
+
+Agreement
+:   has the meaning set forth in the Preamble to this Agreement.
+
+Amended Schedule
+:   has the meaning set forth in [Section 2.4](#section-2-4)(b) of this Agreement.
+
+American Securities
+:   means American Securities LLC and any successor thereto.
+
+AS General Partner
+:   means American Securities Associates VIII, LLC.
+
+AS New Aggregator
+:   means \[●\] (and, in each case, any successor thereto or permitted transferee thereof).
+
+Attributable
+:   means the portion of any Tax Attribute of any PubCo Group Member that is "Attributable" to any Exchange TRA Party or any Reorganization TRA Party, as the case may be, determined under the following principles:
+
+    \(i\) any Blocker Attributes are Attributable to the Blocker Shareholders and the AS General Partner in proportion to the number of Acquired Units contributed to PubCo as a result of the contributions of equity interests of the Blockers and GP NewCo in the Reorganization;
+
+    \(ii\) any Reorganization Transferred Basis shall be determined on an aggregate basis with respect to the Blocker Shareholders and the AS General Partner and separately for each other Reorganization TRA Party and is Attributable to each Reorganization TRA Party in accordance with [Section 2.3](#section-2-3)(b)(iv) of this Agreement;
+
+    \(iii\) any IPO Basis is Attributable to each TRA Party in an amount equal to the product of the total IPO Basis and the IPO Basis Percentage of such TRA Party;
+
+    \(iv\) any Exchange Basis shall be determined separately with respect to each Exchange TRA Party and is Attributable to an Exchange TRA Party in accordance with [Section 2.3](#section-2-3)(b)(iv) of this Agreement;
+
+    \(v\) any Basis Adjustments shall be determined separately with respect to each Exchange TRA Party and are Attributable to the Exchange TRA Party that engaged in the Exchange (for the avoidance of doubt, with respect to any Basis Adjustments attributable to a distribution or redemption, the relevant Exchange TRA Party shall be the Exchange TRA Party relinquishing its interest in the Reference Asset); and
+
+    \(vi\) any deduction to any PubCo Group Member with respect to a Taxable Year in respect of Imputed Interest is Attributable to the Person that is required to include the Imputed Interest in income (without regard to whether such Person is actually subject to Tax thereon).
+
+Attribute Schedule
+:   has the meaning set forth in [Section 2.2](#section-2-2) of this Agreement.
+
+Available TRA Attribute Claim
+:   means, with respect to each of the TRA Parties and any Taxable Year, the difference between (a) the TRA Party's TRA Attribute Claim Amortization for the current Taxable Year and all prior Taxable Years and (b) the amount of the TRA Party's TRA Attribute Claim Amortization that has resulted in a Realized Tax Benefit attributable to the Exchange Basis or Reorganization Transferred Basis that has been treated as Attributable to such TRA Party pursuant to [Section 2.3](#section-2-3)(b)(iv) for all prior Taxable Years.
+
+Basis Adjustment
+:   means any adjustment to the Tax basis of a Reference Asset under Sections 707(a), 732, 734(b), 737, 743(b), 754 and/or 1012 of the Code, in each case, as a result of an Exchange and the payments made pursuant to this Agreement in respect of such Exchange. For the avoidance of doubt, the amount of any Basis Adjustment resulting from an Exchange of one or more Units shall be determined without regard to any Pre-Exchange Transfer as if any such Pre-Exchange Transfer had not occurred. The amount of any Basis Adjustment shall be determined using the Market Value of the Units that are the subject of the Exchange at the time of the Exchange.
+
+Basis Sharing Percentage
+:   means, with respect to any Tax Benefit Payment, a fraction, (i) the numerator of which equals the Available TRA Attribute Claim associated with the Acquired Units, in the case of any Reorganization TRA Party, or the Units transferred upon an Exchange, in the case of any Exchange TRA Party, and (ii) the denominator of which equals the sum of all Available TRA Attribute Claims. The Basis Sharing Percentage associated with the Acquired Units indirectly acquired from the AS General Partner and the Blocker Shareholders in the Reorganization shall be determined on an aggregate basis for the AS General Partner and the Blocker Shareholders and apportioned among such Persons based on the relative number of Acquired Units indirectly contributed by them in the Reorganization.
+
+Beneficial Owner
+:   means, with respect to any security, a Person who directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security; and/or (ii) investment power, which includes the power to dispose of, or to direct the disposition of, such security. The terms "**Beneficially Own**" and "**Beneficial Ownership**" shall have correlative meanings.
+
+Blended Rate
+:   means, with respect to any Taxable Year, the sum of the effective rates of Tax (for the avoidance of doubt, taking into account any U.S. federal benefit of the state or local tax deduction) imposed on the aggregate net income of the PubCo Group Members in each state or local jurisdiction in which the PubCo Group Members file Tax Returns for such Taxable Year, with the effective rate in any state or local jurisdiction (before taking into account any U.S. federal benefit of the state or local tax deduction) being equal to the product of (i) the apportionment factor on PubCo's income or franchise Tax Return in such jurisdiction for such Taxable Year and (ii) the maximum applicable corporate Tax rate in effect in such jurisdiction in such Taxable Year. As an illustration of the calculation of the Blended Rate for a Taxable Year (before taking into account any U.S. federal benefit of the state or local tax deduction), if the PubCo Group Members solely file Tax Returns in State 1 and State 2 in a Taxable Year, the maximum applicable corporate Tax rates in effect in such states in such Taxable Year are 6.5% and 5.5%, respectively, and the apportionment factors for such states in such Taxable Year are 55% and 45% respectively, then the Blended Rate for such Taxable Year is equal to 6.05% (i.e., 6.5% multiplied by 55% plus 5.5% multiplied by 45%).
+
+Blocker Attributes
+:   means, without duplication, the net operating losses, capital losses, and disallowed business interest expense carryforwards or excess business interest expense under Section 163(j) of the Code (and any comparable provision of U.S. federal Tax law) that any PubCo Group Member is entitled to utilize as a result of any Blocker's participation in the Reorganization that relate to taxable periods (or portions thereof) ending on or prior to the effective date of the Reorganization; provided, however, that for purposes of determining whether any such Tax attribute is a Blocker Attribute, the Taxable Year of the PubCo Group Members and each Blocker that includes the effective date of the Reorganization shall be deemed to end as of the close of such effective date. Notwithstanding the foregoing, the term "Blocker Attribute" shall not include any Tax attribute of a Blocker that is used to offset Taxes of such Blocker, if such offset Taxes are attributable to taxable periods (or any portion thereof) ending on or prior to the effective date of the Reorganization.
+
+Blockers
+:   means (i) SOLV Blocker and (ii) SOLV Sub 2 Inc., a Delaware corporation that was converted from a Delaware limited partnership named ASP VIII CSE LP in connection with the Reorganization, and, in each case, any predecessor or successor thereto (including by operation of law).
+
+Blocker Shareholders
+:   means \[●\] and \[●\] (and, in each case, any successor thereto or any permitted transferee thereof).
+
+Board
+:   means the Board of Directors of PubCo.
+
+Business Day
+:   means each day that is not a Saturday, Sunday or other day on which banking institutions in New York, New York or San Diego, California are authorized or required by law to close.
+
+Change of Control
+:   means the occurrence of any of the following events:
+
+    \(i\) any Person or any group of Persons acting together that would constitute a "group" for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended or any successor provisions thereto (excluding (a) a corporation or other entity owned, directly or indirectly, by the stockholders of PubCo in substantially the same proportions as their ownership of stock of PubCo or (b) a Person or group of Persons in which one or more Affiliates of Permitted Investors, directly or indirectly, hold Beneficial Ownership of securities representing more than 50% of the total voting power in such Person or held by such group) is or becomes the Beneficial Owner, directly or indirectly, of securities of PubCo representing more than 50% of the combined voting power of PubCo's then outstanding voting securities; or
+
+    \(ii\) the following individuals cease for any reason to constitute a majority of the number of directors of PubCo then serving: individuals who, on the IPO Date, constitute the Board and any new director whose appointment or election by the Board or nomination for election by PubCo's stockholders was approved or recommended by a vote of at least one-half of the directors then still in office who either were directors on the IPO Date or whose appointment, election or nomination for election was previously so approved or recommended by the directors referred to in this clause (ii); or
+
+    \(iii\) there is consummated a merger or consolidation of PubCo with any other corporation or other entity, and, immediately after the consummation of such merger or consolidation, either (x) the Board immediately prior to the merger or consolidation does not constitute at least a majority of the board of directors of the company surviving the merger or, if the surviving company is a Subsidiary, the ultimate parent thereof, or (y) the voting securities of PubCo immediately prior to such merger or consolidation do not continue to represent or are not converted into more than 50% of the combined voting power of the then outstanding voting securities of the Person resulting from such merger or consolidation or, if the surviving company is a Subsidiary, the ultimate parent thereof; or
+
+    \(iv\) the stockholders of PubCo approve a plan of complete liquidation or dissolution of PubCo or there is consummated an agreement or series of related agreements for the sale, lease or other disposition, directly or indirectly, by PubCo of all or substantially all of PubCo's assets, other than such sale or other disposition by PubCo of all or substantially all of PubCo's assets to an entity at least 50% of the combined voting power of the voting securities of which are owned by stockholders of PubCo in substantially the same proportions as their ownership of PubCo immediately prior to such sale; or
+
+    \(v\) SOLV Blocker (x) ceases to be (directly or indirectly) the sole managing member of OpCo (unless PubCo or a wholly owned Subsidiary thereof becomes the sole managing member of OpCo immediately after such cessation, in which case this clause (v) shall thereafter be applied by reference to PubCo or such Subsidiary, as applicable, *mutatis mutandis*) or (y) ceases to be (directly or indirectly) wholly owned by PubCo.
+
+    Notwithstanding the foregoing, (A) except with respect to clause (ii), clause (iii)(x), and clause (v) above, a "Change of Control" shall not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately following which the record holders of the shares of PubCo immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in, and voting control over, and own substantially all of the shares of, an entity which owns, directly or indirectly, all or substantially all of the assets of PubCo immediately following such transaction or series of transactions, and (B) a "Change of Control" shall not be deemed to have occurred with respect to a particular transaction or occurrence (or series of transactions or occurrences) if the TRA Party Representative elects in writing to treat any such transaction or occurrence (or series of transactions or occurrences) as not resulting in a "Change of Control."
+
+Class A Shares
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Code
+:   means the U.S. Internal Revenue Code of 1986, as amended.
+
+Control
+:   means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+Covered Person
+:   has the meaning set forth in [Section 7.14](#section-7-14) of this Agreement.
+
+Cumulative Net Realized Tax Benefit
+:   for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the PubCo Group Members, up to and including such Taxable Year, reduced, but not below zero, by the cumulative amount of Realized Tax Detriment for the same period. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedules or Amended Schedules, if any, in existence at the time of such calculation; provided, that, for the avoidance of doubt, the computation of the Cumulative Net Realized Tax Benefit shall be adjusted to reflect any applicable Determination with respect to any Realized Tax Benefits and/or Realized Tax Detriments.
+
+Default Rate
+:   means a per annum rate of SOFR plus 500 basis points.
+
+Determination
+:   has the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of state, local, or foreign Tax law, as applicable, and shall include any other event (including the execution of IRS Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+Early Termination Date
+:   means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+Early Termination Effective Date
+:   means the date on which an Early Termination Schedule becomes binding pursuant to [Section 4.2](#section-4-2).
+
+Early Termination Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2) of this Agreement.
+
+Early Termination Payment
+:   has the meaning set forth in [Section 4.3](#section-4-3)(b) of this Agreement.
+
+Early Termination Rate
+:   means the lesser of (i) 6.5% per annum, compounded annually, and (ii) SOFR plus 100 basis points.
+
+Early Termination Schedule
+:   has the meaning set forth in [Section 4.2](#section-4-2) of this Agreement.
+
+Exchange
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Exchange Basis
+:   means the Tax basis of the Reference Assets (other than any Basis Adjustments) that are depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that are otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes associated with the Units transferred upon an Exchange, determined as of the time of the Exchange; *provided*, that, in order to avoid double counting, any Tax basis included in the IPO Basis Attributable to Exchange TRA Parties shall be excluded from the determination of the Exchange Basis.
+
+Exchange Date
+:   means the date of any Exchange.
+
+Exchange TRA Party
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Expert
+:   has the meaning set forth in [Section 7.9](#section-7-9) of this Agreement.
+
+Future TRAs
+:   has the meaning set forth in [Section 5.1](#section-5-1) of this Agreement.
+
+GP NewCo
+:   has the meaning set forth in the Recitals to this Agreement.
+
+Hypothetical Tax Liability
+:   means, with respect to any Taxable Year, the sum of (i) (A) the liability for U.S. federal income Taxes of the PubCo Group Members (calculated by assuming, in order to avoid double counting, that state and local Taxes are not deductible by the PubCo Group Members for U.S. federal income Tax purposes) and (B) without duplication, the portion of any liability for U.S. federal income Taxes imposed directly on OpCo (and OpCo's applicable subsidiaries) under Section 6225 or any similar provision of the Code that is allocable to any PubCo Group Member under Section 704 of the Code or otherwise attributable to any PubCo Group Member in accordance with the OpCo Agreement, in each case using the same methods, elections, conventions and similar practices used on the relevant IRS Form 1120 (or any successor form) and (ii) the product of the U.S. federal taxable income for such Taxable Year reported on PubCo's IRS Form 1120 (or any successor form) (calculated by excluding deductions for state and local Taxes) and the Blended Rate, but, in the determination of the liability in clause (i) and the amount in clause (ii), above, (a) without taking into account Blocker Attributes, if any, (b) using the Non-Reorganization Transferred Basis as reflected on the Attribute Schedule including amendments thereto for the Taxable Year, (c) using the Non-IPO Basis as reflected on the Attribute Schedule including amendments thereto for the Taxable Year, (d) using the Non-Exchange Basis as reflected on the Attribute Schedule including amendments thereto for the Taxable Year, (e) using the Non-Stepped Up Tax Basis as reflected on the Attribute Schedule including amendments thereto for the Taxable Year, and (f) excluding any deduction attributable to Imputed Interest attributable to any payment made under this Agreement. For the avoidance of doubt, Hypothetical Tax Liability shall be determined without taking into account the carryover or carryback of any Tax item (or portions thereof) (including, for the avoidance of doubt, the existence of any excess business interest expense under Section 163(j) of the Code or Tax items resulting therefrom) that is attributable to a Tax Attribute. For the avoidance of doubt, the basis of the Reference Assets in the aggregate for purposes of determining the Hypothetical Tax Liability can never be less than zero.
+
+Hypothetical Total TRA Attribute Claim
+:   means, with respect to each of the TRA Parties, the total amount of amortization and depreciation deductions that the PubCo Group Members would be deemed to be entitled to with respect to the Exchange Basis or Reorganization Transferred Basis for each Reference Asset that is attributable to such TRA Party, determined as of the date PubCo (directly or indirectly) acquires the Units transferred upon an Exchange or Acquired Units attributable to such TRA Party, calculated over the full expected recovery period of such Exchange Basis or Reorganization Transferred Basis taking into account the conventions and methods applicable under the Code and Treasury Regulations, including Section 704(c) and the principles thereof, and assuming for this purpose that the PubCo Group Members will have sufficient taxable income in the current and future Taxable Years to fully utilize such deductions.
+
+ICC
+:   has the meaning set forth in [Section 7.9](#section-7-9) of this Agreement.
+
+Imputed Interest
+:   in respect of a TRA Party means any interest imputed under Sections 1272, 1274 or 483 or other provision of the Code with respect to PubCo's payment obligations in respect of such TRA Party under this Agreement.
+
+Individual Payment Recipient
+:   has the meaning set forth in [Section 4.1](#section-4-1)(a).
+
+Interest Amount
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+IPO
+:   means the initial public offering of Class A Shares by PubCo (including any greenshoe related to such initial public offering).
+
+IPO Acquisition
+:   has the meaning set forth in the Recitals of this Agreement.
+
+IPO Basis
+:   means the Tax basis of the Reference Assets that are depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that are otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes to the extent allocable to the PubCo Group Members (for the avoidance of doubt, including as a result of Section 704(c) of the Code or the principles thereof) as a result of (i) any PubCo Group Member's acquisition of IPO Units or (ii) any Subsequent Primary Contribution; provided, however, that IPO Basis shall not include any Tax basis in Reference Assets that are acquired after a Primary Contribution that is allocable to the PubCo Group Members as a result of their ownership prior to such acquisition of such Reference Assets.
+
+IPO Basis Percentage
+:   means, in respect of a TRA Party, the percentage, the numerator of which is the number of Units (including, for the avoidance of doubt, any Unvested Units) held directly or indirectly by such TRA Party (or, in the case of the AS New Aggregator, by the AS General Partner and the Blocker Shareholders) immediately prior to the Reorganization (but after giving effect to the Unit Distributions and the acquisition of the Blockers by the Blocker Shareholders) and the denominator of which is the total Units (including, for the avoidance of doubt, any Unvested Units) outstanding immediately prior to the Reorganization (but after giving effect to the Unit Distributions). In the case of the Blocker Shareholders and the AS General Partner (and, by reason of the transfer of rights under this Agreement by such Persons to the AS New Aggregator, the AS New Aggregator), the IPO Basis Percentage shall be determined based on the number of Units indirectly held by such Blocker Shareholders or the AS General Partner as a result of their ownership of the applicable Blocker or GP NewCo, as applicable, immediately prior to the Reorganization (but after giving effect to the Unit Distributions, the acquisition of the Blockers by the Blocker Shareholders, and the contribution of Units by the AS General Partner to GP NewCo).
+
+IPO Date
+:   means the initial closing date of the IPO.
+
+IPO Primary Contributions
+:   has the meaning set forth in the Recitals of this Agreement.
+
+IPO Units
+:   means the Units acquired by any PubCo Group Member with the net proceeds from the IPO (excluding any Units acquired in an Exchange).
+
+IRS
+:   means the U.S. Internal Revenue Service.
+
+Mandatory Assignment
+:   has the meaning set forth in [Section 7.6](#section-7-6) of this Agreement.
+
+Market Value
+:   means, with respect to a Unit, the closing price per share of the Class A Shares on the applicable Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided, that if the closing price is not reported by the *Wall Street Journal* for the applicable Exchange Date, then the Market Value shall mean the closing price of the Class A Shares on the Business Day immediately preceding such Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided, further, that if the Class A Shares are not then listed on a national securities exchange or interdealer quotation system, "Market Value" shall mean the cash consideration paid per share for Class A Shares, or the fair market value of the other property delivered per share for Class A Shares, as determined by the Board in good faith. Notwithstanding anything to the contrary in the above sentence, to the extent the Units are exchanged for cash in a transaction, the Market Value shall be determined by reference to the amount of cash transferred per Unit in such transaction.
+
+Material Objection Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2) of this Agreement.
+
+Net Tax Benefit
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Non-Exchange Basis
+:   means, with respect to any Reference Asset that is depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that is otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes, the Tax basis that such Reference Asset would have had if the Exchange Basis at the time of the Exchange were equal to zero.
+
+Non-IPO Basis
+:   means, with respect to any Reference Asset that is depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that is otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes, the Tax basis that such Reference Asset would have had if the IPO Basis of such Reference Asset at the time of such Primary Contribution were equal to zero.
+
+Non-Reorganization Transferred Basis
+:   means, with respect to any Reference Asset that is depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that is otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes, the Tax basis that such Reference Asset would have had if (i) the Reorganization Transferred Basis at the time of the Reorganization were equal to zero and (ii) there were no increases to Tax basis of any Reference Asset as a result of any payments made pursuant to this Agreement to any Reorganization TRA Party.
+
+Non-Stepped Up Tax Basis
+:   means, with respect to any Reference Asset, the Tax basis that such asset would have if no Basis Adjustments had been made.
+
+Objection Notice
+:   has the meaning set forth in [Section 2.4](#section-2-4)(a) of this Agreement.
+
+OpCo
+:   has the meaning set forth in the Preamble to this Agreement.
+
+OpCo Agreement
+:   means, with respect to OpCo, the Amended and Restated Limited Liability Company Agreement of OpCo, dated \[●\], as such agreement may be further amended, restated, supplemented and/or otherwise modified from time to time.
+
+Payment Date
+:   means any date on which a payment is required to be made pursuant to this Agreement.
+
+Permitted Investors
+:   means American Securities and any of its Affiliates and any AS Person (as such term is defined in the OpCo Agreement).
+
+Person
+:   means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity or other entity.
+
+Pre-Exchange Transfer
+:   means any transfer (including upon the death of a prior holder) of one or more Units (or interests in any applicable Subsidiaries of OpCo or other Persons in which OpCo owns a direct or indirect equity interest) (i) that occurs prior to an Exchange of such Units and (ii) to which Section 743(b) of the Code applies.
+
+Primary Contributions
+:   means the IPO Primary Contributions and any Subsequent Primary Contribution.
+
+PubCo
+:   has the meaning set forth in the Preamble to this Agreement.
+
+PubCo Group Members
+:   means PubCo and any Subsidiary thereof (other than OpCo and its Subsidiaries).
+
+PubCo Unit Contributions
+:   has the meaning set forth in the Recitals to this Agreement.
+
+Realized Tax Benefit
+:   means, for a Taxable Year, the excess, if any, of the Hypothetical Tax Liability over the Actual Tax Liability. If all or a portion of the Actual Tax Liability for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+Realized Tax Detriment
+:   means, for a Taxable Year, the excess, if any, of the Actual Tax Liability over the Hypothetical Tax Liability. If all or a portion of the Actual Tax Liability for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+Reconciliation Dispute
+:   has the meaning set forth in [Section 7.9](#section-7-9) of this Agreement.
+
+Reconciliation Procedures
+:   has the meaning set forth in [Section 2.4](#section-2-4)(a) of this Agreement.
+
+Reference Asset
+:   means an asset that is held by OpCo, by any of its direct or indirect Subsidiaries treated as a partnership or disregarded entity (but only to the extent such indirect Subsidiaries are held through Subsidiaries treated as partnerships or disregarded entities), or by any PubCo Group Member, for purposes of the applicable Tax, as of the relevant date. A Reference Asset also includes any asset that is "substituted basis property" under Section 7701(a)(42) of the Code with respect to a Reference Asset.
+
+Reorganization
+:   has the meaning set forth in the Recitals to this Agreement.
+
+Reorganization TRA Party
+:   means any TRA Party that directly or indirectly transfers Units to PubCo as part of or in connection with the Reorganization (including, for the avoidance of doubt, Units held by the Blockers and GP NewCo) and includes the AS New Aggregator (by reason of the contributions to the AS New Aggregator by the Blocker Shareholders and the AS General Partner of rights under this Agreement). In the case of any TRA Party that is both an Exchange TRA Party and a Reorganization TRA Party, references to an Exchange TRA Party or a Reorganization TRA Party in this Agreement refer to such TRA Party in its capacity as such.
+
+Reorganization Transferred Basis
+:   means the Tax basis of the Reference Assets that are depreciable under Section 167 of the Code, amortizable under Section 197 of the Code or that are otherwise reported as amortizable or depreciable on IRS Form 4562 (or any successor form) for U.S. federal income Tax purposes associated with the Acquired Units, determined at the time of (and, for the avoidance of doubt, taking into account) the Reorganization, and any adjustments to such Tax basis (including under Section 743(b) of the Code) as a result of the Reorganization and the payments made pursuant to this Agreement to any Reorganization TRA Party; provided, that, in order to avoid double counting, any Tax basis included in the IPO Basis Attributable to the Reorganization TRA Parties (with respect to Acquired Units) shall be excluded from the determination of the Reorganization Transferred Basis.
+
+Retained Amount
+:   has the meaning set forth in [Section 3.7](#section-3-7) of this Agreement.
+
+Schedule
+:   means any of the following: (i) an Attribute Schedule; (ii) a Tax Benefit Schedule (including an Amended Schedule, if any); or (iii) the Early Termination Schedule.
+
+Section 734(b) Exchange
+:   means any Exchange that results in a Basis Adjustment under Section 734(b) of the Code.
+
+Senior Obligations
+:   has the meaning set forth in [Section 5.1](#section-5-1) of this Agreement.
+
+SOFR
+:   means for each month (or portion thereof) during any period, an interest rate per annum equal to the secured overnight financing rate, on the date two (2) Business Days prior to the first day of such month, as reported by the Wall Street Journal; provided, that at no time shall SOFR be less than 0%. In the event PubCo determines that SOFR ceases to be a widely recognized benchmark rate, PubCo and the TRA Party Representative shall jointly select an alternate benchmark rate (the "**Replacement Rate**"), in which case, the Replacement Rate shall, subject to the next two sentences, replace SOFR for all purposes under this Agreement. In connection with the establishment and application of the Replacement Rate, this Agreement shall be amended solely with the consent of PubCo and the TRA Party Representative, as may be necessary or appropriate, in the reasonable judgment of PubCo and the TRA Party Representative, to effect the provisions of this section. The Replacement Rate shall be applied in a manner consistent with market practice; provided that, to the extent such market practice is not administratively feasible for PubCo, such Replacement Rate shall be applied as otherwise reasonably determined by PubCo and the TRA Party Representative.
+
+SOLV Blocker
+:   means SOLV Manager Sub Inc., a Delaware corporation that was converted from a Delaware limited partnership named ASP VIII SOLV LP in connection with the Reorganization, and any predecessor or successor thereto (including by operation of law).
+
+Subsequent Primary Contribution
+:   means any contribution by any PubCo Group Member to OpCo after the IPO Primary Contributions (other than any such subsequent contribution that is treated as a direct acquisition of Units from another member of OpCo under Section 707(a)(2)(B) of the Code).
+
+Subsidiaries
+:   means, with respect to any Person, as of any date of determination, any other Person as to which such Person, owns, directly or indirectly, or otherwise controls more than 50% of the voting power or other similar interests or the sole general partner interest or managing member or similar interest of such Person.
+
+Tax
+:   or "**Taxes**" means any and all U.S. federal, state, local and foreign taxes, assessments or similar charges that are based on or measured with respect to net income or profits, including, for the avoidance of doubt, any corporate alternative minimum tax and any UTPR Taxes, and any interest related to any such Taxes.
+
+Tax Attributes
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Tax Benefit Payment
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Tax Benefit Schedule
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Tax Return
+:   means any return, declaration, report or similar statement filed or required to be filed with respect to Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return and declaration of estimated Tax.
+
+Taxable Year
+:   means a taxable year of the PubCo Group Members as defined in Section 441(b) of the Code or comparable section of state or local Tax law, as applicable (and, therefore, for the avoidance of doubt, may include a period of less than twelve (12) months for which a Tax Return is made), ending on or after the IPO Date.
+
+Taxing Authority
+:   means any domestic, federal, national, state, county or municipal or other local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body exercising any taxing authority or any other authority exercising Tax regulatory authority.
+
+Threshold Exchange
+:   has the meaning set forth in [Section 3.7](#section-3-7) of this Agreement.
+
+Threshold Exchange Units
+:   has the meaning set forth in [Section 3.7](#section-3-7) of this Agreement.
+
+TRA Attribute Claim Amortization
+:   means, with respect to each of the TRA Parties and any Taxable Year, (i) the portion of the Hypothetical Total TRA Attribute Claim of such TRA Party that is treated as amortized or depreciated during such Taxable Year, determined by applying the recovery periods, methods, and conventions for each applicable Reference Asset used in calculating the Actual Tax Liability, and (ii) in the case of a sale or disposition of a Reference Asset (other than any de minimis sale or disposition, determined in the reasonable discretion of OpCo), the excess remainder of (x) the excess of the Hypothetical Total TRA Attribute Claim with respect to such Reference Asset, over (y) the cumulative amount of the TRA Party's TRA Attribute Claim Amortization provided for in clause (i) of this definition for the current Taxable Year and all prior Taxable Years with respect to such Reference Asset.
+
+TRA Party
+:   has the meaning set forth in the Preamble to this Agreement.
+
+TRA Party Representative
+:   means initially, ASP Manager Corp., and thereafter, such other Person designated as such pursuant to [Section 7.14](#section-7-14).
+
+Treasury Regulations
+:   means the final, temporary and proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant taxable period.
+
+Unit Distributions
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Units
+:   has the meaning set forth in the Recitals of this Agreement.
+
+Unvested Unit
+:   has the meaning set forth in the OpCo Agreement.
+
+UTPR Taxes
+:   means any Taxes imposed pursuant to any provision of non-U.S. Tax law implementing the "undertaxed payments rule" of the OECD's Global Anti-Base Erosion Model Rules under Pillar Two.
+
+Valuation Assumptions
+:   means, as of an Early Termination Date, the assumptions that in each Taxable Year ending on or after such Early Termination Date:
+
+    \(i\) the PubCo Group Members will have taxable income sufficient to fully utilize, and will fully utilize (for the avoidance of doubt, without regard to any limitations under Section 382 of the Code), the Tax items arising from the Tax Attributes (other than any items addressed in clause (ii) below) during such Taxable Year or future Taxable Years (including, for the avoidance of doubt, Basis Adjustments, Reorganization Transferred Basis and Imputed Interest that would result from future payments made under this Agreement that would be paid in accordance with the Valuation Assumptions) in which such deductions would become available;
+
+    \(ii\) loss carryovers or disallowed interest carryovers (including any excess business interest expense) that are available as of such Early Termination Date and were generated by deductions arising from any Tax Attributes, and any Blocker Attributes that are available as of such Early Termination Date, will be used by the PubCo Group Members on a pro rata basis from such Early Termination Date through the earlier of (x) the scheduled expiration date under applicable Tax law of such carryovers or (y) the fifth (5th) anniversary of the Early Termination Date;
+
+    \(iii\) the U.S. federal, state and local income Tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date and the Blended Rate will be calculated based on such rates and the apportionment factor applicable in the prior Taxable Year;
+
+    \(iv\) any non-amortizable assets (other than equity interests in any Subsidiary that is treated as an association taxable as a corporation for U.S. federal income Tax purposes) will be disposed of on the later of (A) the fifteenth (15th) anniversary of the applicable Exchange or deemed exchange pursuant to clause (v) (in the case of Basis Adjustments or Exchange Basis), the IPO Date (in the case of IPO Basis), or the Reorganization (in the case of Reorganization Transferred Basis) and (B) the Early Termination Date and any cash equivalents will be disposed of twelve (12) months following the Early Termination Date; provided, that in the event of a Change of Control, such non-amortizable assets shall be deemed disposed of at the time of sale (if applicable) of the relevant asset in the Change of Control (if earlier than such fifteenth (15th) anniversary) (other than equity interests in any Subsidiary that is treated as an association taxable as a corporation for U.S. federal income Tax purposes);
+
+    \(v\) if, on the Early Termination Date, there are Units that have not been Exchanged, then each such Unit shall be deemed Exchanged for the Market Value of such Unit (and therefore, for the avoidance of doubt, to the extent a Threshold Exchange has not occurred with respect to an Exchange TRA Party on or before the Early Termination Date, a Threshold Exchange with respect to such Exchange TRA Party shall be deemed to have occurred on such Early Termination Date);
+
+    \(vi\) with respect to Taxable Years where the Payment Date has passed, any unpaid Tax Benefit Payments and any applicable interest will be paid on the Early Termination Date at the Default Rate; and
+
+    \(vii\) each Tax Benefit Payment for the relevant Taxable Year will be due and payable and satisfied on the due date (without extensions) under applicable law as of the Early Termination Effective Date for filing of IRS Form 1120 (or any successor form) of PubCo.
+
+## ARTICLE II: DETERMINATION OF CERTAIN REALIZED TAX BENEFIT {#article-ii}
+
+### Section 2.1: Basis Adjustments; 754 Election {#section-2-1}
+
+\(a\) Basis Adjustments. The Parties acknowledge and agree that, except as otherwise required by applicable law, the Parties shall treat (i) each Exchange as a direct purchase of Units by PubCo from the applicable holder of Units (including through the application of Section 707(a)(2)(B) of the Code (or any similar provisions of applicable state, local or non-U.S. tax law) in the case of any Exchange involving a contribution to OpCo) and (ii) each Exchange as a transaction that could give rise to Basis Adjustments. For the avoidance of doubt, payments made under this Agreement in respect of an Exchange TRA Party shall not be treated as resulting in a Basis Adjustment to the extent such payments are treated as Imputed Interest.
+
+\(b\) 754 Election. The PubCo Group Members shall cause OpCo and each of its applicable direct or indirect Subsidiaries that is treated as a partnership for U.S. federal income tax purposes to have in effect an election under Section 754 of the Code (or any similar provisions of applicable state, local or foreign tax law) for each taxable year ending on or after the IPO Date. The PubCo Group Members shall use commercially reasonable efforts to cause each Person in which OpCo owns a direct or indirect equity interest (other than a Subsidiary) that is so treated as a partnership for U.S. federal income tax purposes to have in effect such an election for each such taxable year.
+
+### Section 2.2: SECTION {#section-2-2}
+
+** 2.2** **Attribute Schedule**. Within one hundred and twenty (120) calendar days after the due date (including extensions) of IRS Form 1120 (or any successor form) of PubCo for each relevant Taxable Year, PubCo shall deliver to the TRA Party Representative a schedule (the "**Attribute Schedule**") that shows, in reasonable detail necessary to perform the calculations required by this Agreement, (i) the Reorganization Transferred Basis of the Reference Assets in respect of each TRA Party, if any, (ii) the IPO Basis of the Reference Assets in respect of each TRA Party, if any, (iii) the Exchange Basis of the Reference Assets in respect of each TRA Party, if any, (iv) the Basis Adjustments with respect to the Reference Assets in respect of each TRA Party as a result of the Exchanges effected in such Taxable Year or any prior Taxable Year, if any, calculated in the aggregate, (v) the Non-Exchange Basis, Non-IPO Basis, Non-Reorganization Transferred Basis, and the Non-Stepped Up Tax Basis of the Reference Assets in respect of each TRA Party, (vi) the period (or periods) over which the Reference Assets in respect of each TRA Party are amortizable and/or depreciable, (vii) the period (or periods) over which the Reorganization Transferred Basis, the IPO Basis, the Exchange Basis, and each Basis Adjustment in respect of each TRA Party is amortizable and/or depreciable, and (viii) the Blocker Attributes available to the PubCo Group Members in such Taxable Year in respect of each TRA Party and the period (or periods) over which such Blocker Attributes are usable. An Attribute Schedule will become final and binding on the Parties pursuant to the procedures set forth in [Section 2.4](#section-2-4)(a) and may be amended by the Parties pursuant to the procedures set forth in [Section 2.4](#section-2-4)(b) (subject to the procedures set forth in [Section 2.4](#section-2-4)). All costs and expenses incurred in connection with the provision and preparation of the Attribute Schedules and Tax Benefit Schedules (as defined below) for each TRA Party in compliance with this Agreement shall be borne by OpCo.
+
+### Section 2.3: SECTION {#section-2-3}
+
+** 2.3** **Tax Benefit Schedule**.
+
+\(a\) Tax Benefit Schedule. Within one hundred and twenty (120) calendar days after the due date (including extensions) of IRS Form 1120 (or any successor form) of PubCo for any Taxable Year in which there is a Realized Tax Benefit or a Realized Tax Detriment Attributable to a TRA Party, PubCo shall provide to the TRA Party Representative a schedule showing, in reasonable detail, the calculation of the Realized Tax Benefit and Tax Benefit Payment or the Realized Tax Detriment, as applicable, in respect of each TRA Party for such Taxable Year (a "**Tax Benefit Schedule**"). Each Tax Benefit Schedule will become final as provided in [Section 2.4](#section-2-4)(a) and may be amended as provided in [Section 2.4](#section-2-4)(b) (subject to the procedures set forth in [Section 2.4](#section-2-4)).
+
+\(b\) Applicable Principles.
+
+\(i\) General. Subject to [Section 3.3](#section-3-3), the Realized Tax Benefit (or the Realized Tax Detriment) for each Taxable Year is intended to measure the decrease (or increase) in the actual liability for Taxes of the PubCo Group Members for such Taxable Year attributable to the Tax Attributes, determined using a "with and without" methodology. Carryovers or carrybacks of any Tax item attributable to any of the Tax Attributes shall be considered to be subject to the rules of the Code and the Treasury Regulations governing the use, limitation and expiration of carryovers or carrybacks of the relevant type. If a carryover or carryback of any Tax item includes a portion that is attributable to any Tax Attribute and another portion that is not, such portions shall be considered to be used in accordance with the "with and without" methodology.
+
+\(ii\) Treatment of Tax Benefit Payments. The parties agree that (A) all Tax Benefit Payments (other than Imputed Interest thereon) attributable to Blocker Attributes or Reorganization Transferred Basis will be treated as other property or money for purposes of Section 351 of the Code or otherwise as consideration received in the Reorganization, (B) all Tax Benefit Payments (other than Imputed Interest thereon) attributable to the IPO Basis (including Reorganization Transferred Basis resulting from Tax Benefit Payments attributable to the IPO Basis) Attributable to any Reorganization TRA Party will be treated as other property or money for purposes of Section 351 of the Code or otherwise as consideration received in the Reorganization (which, with respect to the PubCo Unit Contributions, will have the effect of creating additional Reorganization Transferred Basis with respect to Reference Assets for the PubCo Group Members in the year of payment), (C) all Tax Benefit Payments (other than Imputed Interest thereon) attributable to the Exchange Basis or Basis Adjustments (other than Basis Adjustments resulting from Tax Benefit Payments attributable to the IPO Basis) will be treated as subsequent upward purchase price adjustments with respect to the Units exchanged in the applicable Exchange that have the effect of creating additional Basis Adjustments to Reference Assets for the PubCo Group Members in the year of payment, (D) all Tax Benefit Payments (other than Imputed Interest thereon) attributable to the IPO Basis (including Basis Adjustments resulting from Tax Benefit Payments attributable to the IPO Basis) Attributable to any Exchange TRA Party will be treated as subsequent upward purchase price adjustments with respect to the Threshold Exchange Units that have the effect of creating additional Basis Adjustments to Reference Assets for the PubCo Group Members in the year of payment, (E) the Actual Tax Liability will take into account the deduction of the portion of the Tax Benefit Payment that must be accounted for as Imputed Interest, and (F) as a result, any additional Basis Adjustments (and, in the case of the PubCo Unit Contributions, any additional Reorganization Transferred Basis) will be incorporated into the current year calculation and into future year calculations, as appropriate.
+
+\(iii\) Applicable Principles of Section 734(b) Exchanges. Notwithstanding any provisions to the contrary in this Agreement, the foregoing treatment set out in [Section 2.3](#section-2-3)(b)(ii) shall not be required to apply to payments hereunder to an Exchange TRA Party in respect of a Section 734(b) Exchange by such Exchange TRA Party. For the avoidance of doubt, payments made under this Agreement relating to a Section 734(b) Exchange shall not be treated as resulting in a Basis Adjustment to the extent such payments are treated as Imputed Interest. The parties intend that (A) an Exchange TRA Party that has made a Section 734(b) Exchange shall, with respect to the Basis Adjustment resulting from such Section 734(b) Exchange or any payments hereunder in respect of such Section 734(b) Exchange, be entitled to Tax Benefit Payments attributable to such Basis Adjustments only to the extent such Basis Adjustments are allocable to the PubCo Group Members following such Section 734(b) Exchange (without taking into account any concurrent or subsequent Exchanges) and (B) if, as a result of a subsequent Exchange, an increased portion of the Basis Adjustments resulting from such Section 734(b) Exchange or any payments hereunder in respect of such Section 734(b) Exchange becomes allocable to the PubCo Group Members, then the Exchange TRA Party that makes such subsequent Exchange shall be entitled to a Tax Benefit Payment calculated in respect of such increased portion. For purposes of this Agreement, the increased portion of such Basis Adjustments that becomes allocable to the PubCo Group Members as a result of a subsequent Exchange as described in clause (B) of the previous sentence shall be reported and treated as Exchange Basis for purposes of this Agreement.
+
+\(iv\) Applicable Principles for Exchange Basis and Reorganization Transferred Basis. For the avoidance of doubt, the Realized Tax Benefit (or the Realized Tax Detriment) attributable to the Exchange Basis or Reorganization Transferred Basis is intended to represent the decrease (or increase) in the actual liability for Taxes of the PubCo Group Members for such Taxable Year attributable to the Tax deductions allocable to the PubCo Group Members that result from the Tax basis of the Reference Assets measured at the time of the Reorganization or the relevant Exchange, as applicable, in excess of Tax deductions allocable to the PubCo Group Members that result from the IPO Basis existing as of such time. Any Tax Benefit Payments attributable to the Exchange Basis or Reorganization Transferred Basis are Attributable to, and are intended to be allocated and paid to, the relevant TRA Parties proportionately based on the Basis Sharing Percentage of each such TRA Party; provided, however, that any Tax Benefit Payments attributable to any adjustment to Tax basis in relation to the PubCo Unit Contributions that results from any payment under this Agreement shall be Attributable to the Reorganization TRA Parties that contributed Units in the PubCo Unit Contributions.
+
+\(v\) Amounts Attributable to Blocker Shareholders and AS General Partner. On or about the date of this Agreement, the Blocker Shareholders and the AS General Partner contributed all of their rights under this Agreement to the AS New Aggregator (with the AS New Aggregator becoming a "TRA Party" and "Reorganization TRA Party"). By reason of such contributions, any Tax Attribute that would otherwise be Attributable to the Blocker Shareholders or the AS General Partner shall be Attributable to the AS New Aggregator.
+
+\(vi\) Applicable Principles of Pillar Two. Notwithstanding anything to the contrary in this Agreement, to the extent that any Tax Attributes increase UTPR Taxes over the amount of UTPR Taxes that would be payable absent the Tax Attributes (as determined on a "with and without" basis in a manner consistent with this Agreement), the Realized Tax Benefit or Realized Tax Detriment shall be decreased or increased, as applicable, to take into account such increase in UTPR Taxes. The TRA Parties agree that PubCo and OpCo may make reasonable assumptions and estimates consistent with the purpose of this section to reduce administrative burdens on PubCo and OpCo when computing whether the Tax Attributes resulted in an increase in UTPR Taxes; provided, however, that PubCo shall disclose any such assumptions or estimates in the Tax Benefit Schedule and such assumptions and estimates shall be subject to the procedures set forth in [Section 2.4](#section-2-4).
+
+### Section 2.4: Procedures, Amendments {#section-2-4}
+
+\(a\) Procedure. Every time PubCo delivers to the TRA Party Representative an applicable Schedule under this Agreement, including any Amended Schedule, PubCo shall also (x) deliver to the TRA Party Representative supporting schedules and work papers, as determined by PubCo or as reasonably requested by the TRA Party Representative, providing reasonable detail regarding data and calculations that were relevant for purposes of preparing such Schedule and (y) allow the TRA Party Representative reasonable access at no cost to the appropriate representatives at PubCo, as determined by PubCo or as reasonably requested by the TRA Party Representative, in connection with a review of such Schedule. Without limiting the generality of the preceding sentence, PubCo shall ensure that any Tax Benefit Schedule that is delivered to the TRA Party Representative, along with any supporting schedules and work papers, provides a reasonably detailed presentation of the calculation of the Actual Tax Liability and the Hypothetical Tax Liability and identifies any material assumptions or operating procedures or principles that were used for purposes of such calculations. An applicable Schedule or amendment thereto shall become final and binding on all parties thirty (30) calendar days from the date on which the TRA Party Representative is treated as having received the applicable Schedule or amendment thereto under [Section 7.1](#section-7-1) unless the TRA Party Representative (i) within thirty (30) calendar days from such date provides PubCo with written notice of a material objection to such Schedule ("**Objection Notice**") made in good faith or (ii) provides a written waiver of such right of any Objection Notice within the period described in clause (i) above, in which case such Schedule or amendment thereto becomes binding on the date the waiver is received by PubCo. If PubCo and the TRA Party Representative, for any reason, are unable to successfully resolve the issues raised in the Objection Notice within thirty (30) calendar days after receipt by PubCo of an Objection Notice, PubCo and the TRA Party Representative shall employ the reconciliation procedures as described in [Section 7.9](#section-7-9) of this Agreement (the "**Reconciliation Procedures**").
+
+\(b\) Amended Schedule. The applicable Schedule for any Taxable Year may be amended from time to time by PubCo (i) in connection with a Determination affecting such Schedule, (ii) to correct inaccuracies in the Schedule identified as a result of the receipt of additional factual information relating to a Taxable Year after the date the Schedule was provided to the TRA Party Representative, (iii) to comply with an Expert's determination under the Reconciliation Procedures, (iv) to reflect a change in the Realized Tax Benefit or the Realized Tax Detriment for such Taxable Year attributable to a carryback or carryforward of a loss or other Tax item to such Taxable Year, (v) to reflect a change in the Realized Tax Benefit or the Realized Tax Detriment for such Taxable Year attributable to an amended Tax Return filed for such Taxable Year or (vi) to adjust an applicable TRA Party's Attribute Schedule to take into account payments made pursuant to this Agreement (any such Schedule, an "**Amended Schedule**"). PubCo shall provide an Amended Schedule to the TRA Party Representative when PubCo delivers the Attribute Schedule for the following Taxable Year.
+
+## ARTICLE III: TAX BENEFIT PAYMENTS {#article-iii}
+
+### Section 3.1: Payments {#section-3-1}
+
+\(a\) **Payments**. Within five (5) Business Days after a Tax Benefit Schedule delivered to the TRA Party Representative becomes final in accordance with [Section 2.4](#section-2-4)(a) and [Section 7.9](#section-7-9), if applicable, PubCo shall pay each TRA Party for such Taxable Year the Tax Benefit Payment determined pursuant to [Section 3.1](#section-3-1)(b) that is Attributable to such TRA Party. If PubCo is current in respect of its payment obligations owed to each TRA Party under this Agreement, PubCo may, at any time on or after the due date (without extensions) of IRS Form 1120 (or any successor form) of PubCo for a Taxable Year, make one or more estimated payments to the TRA Parties in respect of any amounts anticipated to be owed with respect to such Taxable Year to the TRA Parties pursuant to this [Section 3.1](#section-3-1)(a) (an "**Advance Payment**"); provided that, if PubCo makes Advance Payments, it must make Advance Payments to all TRA Parties eligible to receive payments under this Agreement with respect to a particular Taxable Year in proportion to their respective amounts of anticipated payments under this Agreement in respect of such Taxable Year. Any Advance Payment made to the TRA Parties shall first be applied to any Interest Amount for such Taxable Year and then to the remaining amount of the Tax Benefit Payment to be made pursuant to this [Section 3.1](#section-3-1)(a). Each such Tax Benefit Payment shall be made by wire transfer of immediately available funds to the bank account previously designated by such TRA Party to PubCo or as otherwise agreed by PubCo and such TRA Party. For the avoidance of doubt, (x) no Tax Benefit Payment shall be made in respect of estimated Tax payments, including, without limitation, U.S. federal estimated income Tax payments and (y) the payments provided for pursuant to the above sentence shall be computed separately for each TRA Party. No TRA Party shall be required to make a payment or return a payment to PubCo in respect of any portion of any Tax Benefit Payment previously paid to such TRA Party (including any portion of any Early Termination Payment or, for the avoidance of doubt, any Advance Payment); provided, however, that, if PubCo makes a payment to a TRA Party under this Agreement in an amount that exceeds the amount that should have been paid to such TRA Party (including after taking into account any Determination that would have changed the Net Tax Benefit or any other calculation under this Agreement in any prior Taxable Year), then the amount of such excess shall offset and reduce, dollar-for-dollar, any future payments payable to such TRA Party under this Agreement. Notwithstanding anything to the contrary in this Agreement, with respect to each Exchange by or with respect to an Exchange TRA Party, if the Exchange TRA Party notifies PubCo in writing of a stated maximum selling price (within the meaning of Treasury Regulations Section 15A.453-1(c)(2)), then the amount of the consideration received in connection with such Exchange and the aggregate Tax Benefit Payments to such Exchange TRA Party in respect of such Exchange (other than amounts accounted for as interest under the Code) shall not exceed such stated maximum selling price.
+
+\(b\) A "**Tax Benefit Payment**" in respect of a TRA Party for a Taxable Year means an amount, not less than zero, equal to the Net Tax Benefit that is Attributable to such TRA Party and the Interest Amount with respect thereto. For the avoidance of doubt, for Tax purposes, the Interest Amount shall not be treated as interest, but instead, shall be treated as additional consideration in the applicable transaction, unless otherwise required by law. Subject to [Section 3.3](#section-3-3), the "**Net Tax Benefit**" for a Taxable Year shall be an amount equal to the excess, if any, of 85% of the Cumulative Net Realized Tax Benefit as of the end of such Taxable Year, over the total amount of payments previously made under the first sentence of [Section 3.1](#section-3-1)(a) (excluding payments attributable to Interest Amounts). The "**Interest Amount**" shall equal the interest on the Net Tax Benefit calculated at the Agreed Rate from the due date (without extensions) for filing IRS Form 1120 (or any successor form) of PubCo with respect to Taxes for such Taxable Year until the payment date under [Section 3.1](#section-3-1)(a) (for the avoidance of doubt, taking into account any Advance Payments).
+
+### Section 3.2: SECTION {#section-3-2}
+
+** 3.2** **No Duplicative Payments**. It is intended that the provisions of this Agreement will not result in duplicative payment of any amount (including interest) required under this Agreement. The provisions of this Agreement shall be construed in the appropriate manner to ensure such intentions are realized.
+
+### Section 3.3: SECTION {#section-3-3}
+
+** 3.3** **Pro Rata Payments**. Notwithstanding anything in this Agreement to the contrary, to the extent that the aggregate Realized Tax Benefit of the PubCo Group Members with respect to the Tax Attributes is limited in a particular Taxable Year because the PubCo Group Members do not have sufficient taxable income, the Net Tax Benefit for that Taxable Year shall be allocated among all parties then-eligible to receive Tax Benefit Payments under this Agreement in proportion to the amounts of Net Tax Benefit for that Taxable Year, respectively, that would have been Attributable to each TRA Party if the PubCo Group Members had sufficient taxable income so that there were no such limitation; provided that, for purposes of determining the Net Tax Benefit that is Attributable to any TRA Party and allocating among the TRA Parties the aggregate Tax Benefit Payments under this Agreement with respect to any Taxable Year, the operation of this [Section 3.3](#section-3-3) with respect to any prior Taxable Year shall be taken into account, it being the intention of the parties to this Agreement for each TRA Party eligible for payments hereunder to receive, in the aggregate, Tax Benefit Payments in proportion to the aggregate Net Tax Benefits Attributable to such party had there been sufficient taxable income to utilize all available Tax Attributes. For the avoidance of doubt, the determination of whether Tax Benefit Payments are not payable as a result of the application of [Section 3.7](#section-3-7) shall not be relevant in the determination of whether a Net Tax Benefit is eligible to be allocated to the relevant TRA Party for purposes of this [Section 3.3](#section-3-3).
+
+### Section 3.4: SECTION {#section-3-4}
+
+** 3.4** **Payment Ordering**. If for any reason PubCo does not fully satisfy its payment obligations to make all Tax Benefit Payments due under this Agreement in respect of a particular Taxable Year, then PubCo and the TRA Parties agree that (i) Tax Benefit Payments for such Taxable Year that are made shall be allocated to all parties eligible to receive Tax Benefit Payments under this Agreement in such Taxable Year in proportion to the amounts of Tax Benefit Payments, respectively, that would have been made to each TRA Party if PubCo had sufficient cash available to make such Tax Benefit Payments and (ii) no Tax Benefit Payments shall be made in respect of any Taxable Year until all Tax Benefit Payments to all TRA Parties in respect of all prior Taxable Years have been made in full; provided, however, that any payments that were previously not made as a result of the application of [Section 3.7](#section-3-7) and have now become due and payable pursuant to [Section 3.7](#section-3-7) shall be made prior to any other Tax Benefit Payments.
+
+### Section 3.5: SECTION {#section-3-5}
+
+** 3.5** **Limitation**. If the Net Tax Benefit for a Taxable Year is reduced as a result of any tax detriment attributable to any TRA Party or any payment to a TRA Party under this Agreement in an amount that exceeds the amount that should have been paid to such TRA Party (including after taking into account any Determination that would have changed the Net Tax Benefit or any other calculation under this Agreement in any prior Taxable Year), the Net Tax Benefit for such Taxable Year and any future Taxable Year shall be allocated among the TRA Parties in a manner such that, to the maximum extent possible, each other TRA Party receives aggregate payments under [Section 3.1](#section-3-1)(a) (taking into account [Section 3.3](#section-3-3)) in the amount it would have received if there had been no such tax detriment attributable to or excess payment to another TRA Party.
+
+### Section 3.6: SECTION {#section-3-6}
+
+** 3.6** **Payments Attributable to Unvested Units**. Notwithstanding anything to the contrary in this Agreement, if any Unvested Unit is forfeited, no Tax Benefit Payment (or any other payment under this Agreement) that is attributable to such Unvested Unit and would otherwise become due and payable after the date of such forfeiture shall be required to be made.
+
+### Section 3.7: SECTION {#section-3-7}
+
+** 3.7** **Threshold Exchanges**. Notwithstanding anything to the contrary herein, no Tax Benefit Payments with respect to IPO Basis shall be made to an Exchange TRA Party in respect of any Units held after the Reorganization until such Exchange TRA Party has exchanged Units in one or more Exchanges equal to 5% of the Units (including, for the avoidance of doubt, any Unvested Units) that such Exchange TRA Party held prior to the Reorganization (determined after giving effect to the Unit Distributions) (such Units, such Exchange TRA Party's "**Threshold Exchange Units**," and an Exchange of Threshold Exchange Units, a "**Threshold Exchange**"). The amount retained by PubCo in respect of any Exchange TRA Party until the occurrence of a Threshold Exchange (such Exchange TRA Party's "**Retained Amount**") shall include the Interest Amount in respect of any associated Net Tax Benefit, calculated through the due date for the Tax Benefit Payment that would otherwise apply under [Section 3.1](#section-3-1)(a), but shall not otherwise accrue interest. After the occurrence of a Threshold Exchange by an Exchange TRA Party, PubCo shall, on the first due date for Tax Benefit Payments under this Agreement after such Threshold Exchange, pay the applicable Exchange TRA Party an amount equal to such Exchange TRA Party's Retained Amount. Notwithstanding the foregoing, and for the avoidance of doubt, (a) all Tax Benefit Payments with respect to IPO Basis shall be required to be paid no later than the date of any payment required to be made to such TRA Party pursuant to [Article IV](#article-iv) of this Agreement, and (b) the restrictions in this [Section 3.7](#section-3-7) shall not apply with respect to IPO Basis attributable to any Acquired Units directly or indirectly transferred in the Reorganization.
+
+## ARTICLE IV: TERMINATION {#article-iv}
+
+### Section 4.1: Early Termination of Agreement; Breach of Agreement {#section-4-1}
+
+\(a\) PubCo may (with approval of its Board) terminate this Agreement with respect to (i) all amounts payable to the TRA Parties and with respect to all of the Units held by the TRA Parties at any time by paying to each TRA Party the Early Termination Payment in respect of such TRA Party or (ii) the amount payable to any individual TRA Party having rights to less than 5% of the aggregate IPO Basis Percentage by paying to any such individual TRA Party the Early Termination Payment in respect of such TRA Party (any individual TRA Party that receives payments described in this clause (ii), an "**Individual Payment Recipient**"); provided, however, that this Agreement shall only terminate upon the receipt of the Early Termination Payment by all TRA Parties, and provided, further, that PubCo may withdraw any notice to execute its termination rights under this [Section 4.1](#section-4-1)(a) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payment in respect of each TRA Party (or in respect of any Individual Payment Recipient) by PubCo, PubCo shall have no further payment obligations under this Agreement (or, in the case of an Early Termination Payment in respect of an Individual Payment Recipient, with respect to such Individual Payment Recipient under this Agreement), other than for any (a) Tax Benefit Payments due and payable and that remain unpaid as of the Early Termination Notice and (b) Tax Benefit Payment due for the Taxable Year ending with or including the date of the Early Termination Notice (except to the extent that the amount described in clause (b) is included in the Early Termination Payment). If an Exchange occurs after PubCo makes all of the required Early Termination Payments under clause (i) or (ii) of this [Section 4.1](#section-4-1)(a), as applicable, PubCo shall have no obligations under this Agreement with respect to such Exchange to (A) in the case of Early Termination Payments under clause (i), any TRA Party, or (B) in the case of any Early Termination Payment under clause (ii), the applicable Individual Payment Recipient.
+
+\(b\) In the event that (1) PubCo breaches any of its material obligations under this Agreement, whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under the Bankruptcy Code or otherwise, unless otherwise waived in writing by the TRA Party Representative (any such breach to the extent not waived, a "**Material Breach**") or (2)(A) PubCo commences any case, proceeding or other action (i) under any existing or future law of any jurisdiction, domestic or foreign, relating to bankruptcy, insolvency, reorganization or relief of debtors, seeking to have an order for relief entered with respect to it, or seeking to adjudicate a bankruptcy or insolvency, or seeking reorganization, arrangement, adjustment, winding-up, liquidation, dissolution, composition or other relief with respect to it or its debts or (ii) seeking an appointment of a receiver, trustee, custodian, conservator or other similar official for it or for all or any substantial part of its assets, or it makes a general assignment for the benefit of creditors or (B) there is commenced against PubCo any case, proceeding or other action of the nature referred to in clause (A) above that remains undismissed or undischarged for a period of sixty (60) calendar days, all obligations hereunder shall be automatically accelerated and shall be immediately due and payable, and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but not be limited to, (x) the Early Termination Payments calculated as if an Early Termination Notice had been delivered to the TRA Party Representative on the date of a breach, (y) any Tax Benefit Payment due and payable and that remains unpaid as of the date of a breach, and (z) any Tax Benefit Payment in respect of any TRA Party due for any Taxable Year ending prior to, with or including the date of a breach; provided, that procedures similar to the procedures of [Section 4.2](#section-4-2) shall apply with respect to the determination of the amount payable by PubCo pursuant to this sentence. Notwithstanding the foregoing, in the event that PubCo breaches this Agreement and such breach is a Material Breach, to the fullest extent permitted by applicable law, each TRA Party shall be entitled to elect to receive the amounts set forth in clauses (x), (y) and (z) above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within sixty (60) days of the date such payment is due shall be deemed to be a breach of a material obligation under this Agreement for all purposes of this Agreement, and that it will not be considered to be a breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within sixty (60) days of the date such payment is due. Notwithstanding anything in this Agreement to the contrary, it shall not be a breach of a material obligation of this Agreement if PubCo fails to make any Tax Benefit Payment when due to the extent that PubCo has insufficient funds to make such payment and is unable to obtain funds to make such payment after using commercially reasonable efforts to do so; provided, that the interest provisions of [Section 5.2](#section-5-2) shall apply to such late payment (unless PubCo does not have sufficient funds to make such payment as a result of limitations imposed by any Senior Obligations, in which case [Section 5.2](#section-5-2) shall apply, but the Default Rate shall be replaced by the Agreed Rate). PubCo shall use commercially reasonable efforts to (1) obtain sufficient available funds for the purpose of making Tax Benefit Payments under this Agreement and (2) avoid entering into any agreements after the date of this Agreement that could be reasonably anticipated to materially delay the timing of the making of any Tax Benefit Payments under this Agreement.
+
+\(c\) In the event of a Change of Control, all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such Change of Control and utilizing the Valuation Assumptions by substituting in each case the terms "the closing date (or the date of effectiveness or occurrence (as the context implies)) of a Change of Control" in each place where the phrase "Early Termination Date" appears. Such obligations shall include (1) the Early Termination Payments calculated as if the Early Termination Date is the date of such Change of Control, (2) any Tax Benefit Payment due and payable and that remains unpaid as of the date of such Change of Control, and (3) any Tax Benefit Payment in respect of any TRA Party due for any Taxable Year ending prior to, with or including the date of such Change of Control (except to the extent any amounts described in clause (2) or (3) are included in the Early Termination Payment). For the avoidance of doubt, Sections 4.2 and 4.3 shall apply to a Change of Control, *mutatis mutandis*.
+
+### Section 4.2: Early Termination Notice {#section-4-2}
+
+If PubCo chooses to exercise its right of early termination under [Section 4.1](#section-4-1)(a) above, PubCo shall deliver to the TRA Party Representative notice of such intention to exercise such right ("**Early Termination Notice**") and a schedule (the "**Early Termination Schedule**") specifying PubCo's intention to exercise such right under either clause (i) or (ii) thereof and showing in reasonable detail the calculation of the Early Termination Payment(s) due for each relevant TRA Party. Each Early Termination Schedule shall become final and binding on all parties thirty (30) calendar days from the first date on which the TRA Party Representative is treated as having received such Schedule or amendment thereto under [Section 7.1](#section-7-1) unless the TRA Party Representative (i) within thirty (30) calendar days after such date provides PubCo with notice of a material objection to such Schedule made in good faith ("**Material Objection Notice**") or (ii) provides a written waiver of such right of a Material Objection Notice within the period described in clause (i) above, in which case such Schedule becomes binding on the date the waiver is received by PubCo. If PubCo and the TRA Party Representative, for any reason, are unable to successfully resolve the issues raised in such notice within thirty (30) calendar days after receipt by PubCo of the Material Objection Notice, PubCo and the TRA Party Representative shall employ the Reconciliation Procedures in which case such Schedule becomes binding ten (10) calendar days after the conclusion of the Reconciliation Procedures.
+
+### Section 4.3: SECTION {#section-4-3}
+
+** 4.3** **Payment upon Early Termination**.
+
+\(a\) Within five (5) Business Days after an Early Termination Effective Date, PubCo shall pay to each relevant TRA Party an amount equal to the Early Termination Payment in respect of such TRA Party. Such payment shall be made by wire transfer of immediately available funds to a bank account or accounts designated by such TRA Party or as otherwise agreed by PubCo and such TRA Party or, in the absence of such designation or agreement, by check mailed to the last mailing address provided by such TRA Party to PubCo.
+
+\(b\) "**Early Termination Payment**" in respect of a TRA Party shall equal the present value, discounted at the Early Termination Rate as of the applicable Early Termination Effective Date, of all Tax Benefit Payments in respect of such TRA Party that would be required to be paid by PubCo beginning from the Early Termination Date and assuming that the Valuation Assumptions in respect of such TRA Party are applied and that each Tax Benefit Payment for the relevant Taxable Year would be due and payable on the due date (without extensions) under applicable law as of the Early Termination Effective Date for filing of IRS Form 1120 (or any successor form) of PubCo. For the avoidance of doubt, an entire Early Termination Payment shall be made to each applicable TRA Party regardless of whether such TRA Party has exchanged all of its Units as of the Early Termination Date.
+
+## ARTICLE V: SUBORDINATION AND LATE PAYMENTS {#article-v}
+
+### Section 5.1: Subordination {#section-5-1}
+
+Notwithstanding any other provision of this Agreement to the contrary, any Tax Benefit Payment required to be made by PubCo to the TRA Parties under this Agreement shall rank subordinate and junior in right of payment to any principal, interest or other amounts due and payable in respect of any obligations in respect of indebtedness for borrowed money of PubCo and its Subsidiaries ("**Senior Obligations**") and shall rank *pari passu* in right of payment with all current or future unsecured obligations of PubCo that are not Senior Obligations. To the extent that any payment under this Agreement is not permitted to be made at the time payment is due as a result of this [Section 5.1](#section-5-1) and the terms of agreements governing Senior Obligations, such payment obligation nevertheless shall accrue for the benefit of TRA Parties and PubCo shall make such payments at the first opportunity that such payments are permitted to be made in accordance with the terms of the Senior Obligations. Notwithstanding any other provision of this Agreement to the contrary, to the extent that PubCo or any of its Affiliates enters into future Tax receivable or other similar agreements ("**Future TRAs**"), PubCo shall ensure that the terms of any such Future TRA provide that the Tax Attributes subject to this Agreement are considered senior in priority to any Tax attributes subject to any such Future TRA for purposes of calculating the amount and timing of payments under any such Future TRA.
+
+### Section 5.2: SECTION {#section-5-2}
+
+** 5.2** **Late Payments by PubCo**. Subject to the proviso in the next to last sentence of [Section 4.1](#section-4-1)(b), the amount of all or any portion of any Tax Benefit Payment or Early Termination Payment not made to the TRA Parties when due under the terms of this Agreement, whether as a result of [Section 5.1](#section-5-1) or otherwise, shall be payable together with any interest thereon, computed at the Default Rate and commencing from the date on which such Tax Benefit Payment or Early Termination Payment was first due and payable to the date of actual payment.
+
+## ARTICLE VI: NO DISPUTES; CONSISTENCY; COOPERATION {#article-vi}
+
+### Section 6.1: SECTION {#section-6-1}
+
+** 6.1** **Participation in PubCo's and OpCo's Tax Matters**. PubCo shall promptly notify the TRA Party Representative of, and keep the TRA Party Representative reasonably informed with respect to, the portion of any audit, examination, investigation, contest, or other administrative or judicial proceeding (a "**Tax Proceeding**") of any PubCo Group Member, OpCo (or any entity with respect to which OpCo is a continuation under Section 708 of the Code) or any of their direct or indirect Subsidiaries by a Taxing Authority the outcome of which is reasonably expected to materially affect any TRA Party's rights or obligations under this Agreement. The TRA Party Representative shall have the right to be reasonably informed and to monitor at its own expense (but not to control) any portion of any Tax Proceeding of any PubCo Group Member, OpCo (or any entity with respect to which OpCo is a continuation under Section 708 of the Code) or any of their direct or indirect Subsidiaries by a Taxing Authority the outcome of which is reasonably expected to materially affect either the TRA Party Representative's or any TRA Party's rights or obligations under this Agreement. PubCo shall (and shall cause the PubCo Group Members and OpCo to) (a) provide to the TRA Party Representative reasonable opportunity to provide information and other input to the PubCo Group Members, OpCo and their advisors concerning the conduct of any such portion of such Tax Proceeding and (b) not settle or fail to contest (or cause or permit OpCo or any representative thereof to settle or fail to contest) any issue in any such portion of such Tax Proceeding without the prior written consent of the TRA Party Representative, which consent shall not be unreasonably withheld, conditioned or delayed; provided, however, that no PubCo Group Member shall be required to take any action in connection with such Tax Proceeding that is inconsistent with any provision of this Agreement or the OpCo Agreement. If the TRA Party Representative fails to respond to any notice from the PubCo Group Members with respect to the settlement of any such issue within fifteen (15) days of the TRA Party Representative's receipt of the applicable notice, the TRA Party Representative shall be deemed to have consented to the proposed settlement or other disposition.
+
+### Section 6.2: SECTION {#section-6-2}
+
+** 6.2** **Consistency**. PubCo, OpCo and the TRA Parties agree to report and cause to be reported for all purposes, including U.S. federal, state and local Tax purposes and financial reporting purposes, all Tax-related items (including, without limitation, the Basis Adjustments and each Tax Benefit Payment) in a manner consistent with that contemplated by this Agreement or specified by PubCo in any Schedule required to be provided by or on behalf of PubCo under this Agreement unless otherwise required by law. PubCo shall (and shall cause its Subsidiaries, including OpCo, to) use commercially reasonable efforts (for the avoidance of doubt, taking into account the interests and entitlements of all TRA Parties under this Agreement) to defend the Tax treatment contemplated by this Agreement and any Schedule in any Tax Proceeding with any Taxing Authority.
+
+### Section 6.3: SECTION {#section-6-3}
+
+** 6.3** **Cooperation**. Each of the TRA Parties shall (a) use its commercially reasonable efforts to furnish to PubCo in a timely manner such information, documents and other materials as PubCo may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending any audit, examination or controversy with any Taxing Authority, (b) make itself available to PubCo and its representatives to provide explanations of documents and materials and such other information as PubCo or its representatives may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter, and PubCo shall reimburse each such TRA Party for any reasonable and documented out-of-pocket costs and expenses incurred pursuant to this [Section 6.3](#section-6-3). Upon the request of any TRA Party, PubCo shall cooperate in taking any action reasonably requested by such TRA Party in connection with its Tax or financial reporting and/or the consummation of any assignment or transfer of any of its rights and/or obligations under this Agreement, including, without limitation, providing any information or executing any documentation.
+
+## ARTICLE VII: MISCELLANEOUS {#article-vii}
+
+### Section 7.1: SECTION {#section-7-1}
+
+** 7.1** **Notices**. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given and received (a) on the date of delivery if delivered personally, (b) when sent by email (provided no "bounceback" or notice of non-delivery), (c) on the first Business Day following the date of dispatch if delivered by a recognized next-day courier service or (d) three calendar days after mailing by certified or registered mail, postage prepaid and return receipt requested. All notices hereunder shall be delivered as set forth below, or pursuant to such other instructions as may be designated in writing by the party to receive such notice:
+
+If to PubCo or the PubCo Group Members, to:
+
+SOLV Energy, Inc.
+
+16680 West Bernardo Drive
+
+San Diego, CA 92127
+
+Attention:
+
+Email:
+
+with a copy (which copy shall not constitute notice) to:
+
+Weil Gotshal & Manges LLP
+
+767 Fifth Avenue
+
+New York, NY 10153
+
+Attn: Michael Lubowitz; Ryan Taylor; Alexander D. Lynch
+
+E-mail:
+
+If to the TRA Party Representative, to:
+
+ASP Manager Corp.
+
+Attention:
+
+Email:
+
+If to the TRA Parties, to the respective addresses and email addresses set forth in the records of OpCo (or the signature pages hereto if not a member of OpCo).
+
+Any party may change its address or email by giving the other party written notice of its new address or email in the manner set forth above.
+
+### Section 7.2: SECTION {#section-7-2}
+
+** 7.2** **Counterparts**. This Agreement may be executed in one or more counterparts (including counterparts transmitted electronically in portable document format (pdf)), all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart. Delivery of an executed signature page to this Agreement by facsimile transmission shall be as effective as delivery of a manually signed counterpart of this Agreement. Electronic signatures shall be a valid method of executing this Agreement.
+
+### Section 7.3: SECTION {#section-7-3}
+
+** 7.3** **Entire Agreement; No Third Party Beneficiaries**. This Agreement constitutes the entire agreement and supersedes all prior agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof. This Agreement shall be binding upon and inure solely to the benefit of each party hereto and their respective successors and permitted assigns, and nothing in this Agreement, express or implied, is intended to or shall confer upon any other Person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+### Section 7.4: SECTION {#section-7-4}
+
+** 7.4** **Governing Law**. This Agreement shall be governed by, and construed in accordance with, the law of the State of Delaware, without giving effect to any principles or rules of conflict of law or choice of law (whether of the State of Delaware or any other jurisdiction) that would cause the application of substantive laws of any jurisdiction other than the State of Delaware.
+
+### Section 7.5: SECTION {#section-7-5}
+
+** 7.5** **Severability**. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+### Section 7.6: SECTION {#section-7-6}
+
+** 7.6** **Successors; Assignment; Amendments; Waivers**.
+
+\(a\) No TRA Party may assign, sell, pledge, or otherwise alienate or transfer any of its interests in this Agreement, including the right to receive Tax Benefit Payments under this Agreement, to any Person, except with the prior written consent of PubCo; provided, however, that such consent shall not be required: (i) in the case of a transfer by any TRA Party of such transferor's interests in this Agreement and rights to receive Tax Benefit Payments hereunder with respect to (x) any Units that have previously been Exchanged or (y) any Acquired Units or any Tax Attributes that are Attributable to a Reorganization TRA Party, or (ii) if such assignment occurs in connection with or subsequent to an assignment to the same Person of Units in accordance with the OpCo Agreement and assigns only the rights under this Agreement related to the assigned Units. If a TRA Party transfers Units in accordance with the terms of the OpCo Agreement but does not assign to the transferee of such Units its rights and obligations under this Agreement with respect to such transferred Units, (i) such TRA Party shall remain a TRA Party under this Agreement for all purposes, including with respect to the receipt of Tax Benefit Payments to the extent payable hereunder (including any Tax Benefit Payments in respect of the Exchanges of such transferred Units by such transferee), and (ii) the transferee of such Units shall not be a TRA Party with respect to such Units. In connection with any assignment or transfer permitted under this Agreement, the transferee shall execute and deliver a joinder to this Agreement, substantially in form of Exhibit A hereto, agreeing to become a TRA Party for all purposes of this Agreement, except as otherwise provided in such joinder. PubCo shall not assign or otherwise transfer any of its rights or obligations under this Agreement to any Person (other than pursuant to a Mandatory Assignment) without the prior written consent of the TRA Party Representative (not to be unreasonably withheld, conditioned or delayed). Any purported assignment or other transfer of this Agreement or any interest therein in violation of the foregoing in this [Section 7.6](#section-7-6)(a) shall be null and void.
+
+\(b\) No provision of this Agreement may be amended unless such amendment is approved in writing by each of PubCo (following approval of its Board) and by the TRA Parties who would be entitled to receive at least two-thirds (2/3) of the total amount of the Early Termination Payments payable to all TRA Parties hereunder if PubCo had exercised its right of early termination on the date of the most recent Exchange prior to such amendment (excluding, for purposes of this sentence, all payments made to any TRA Party pursuant to this Agreement since the date of such most recent Exchange); provided, that no such amendment shall be effective if such amendment would have a material and disproportionate effect on the payments one or more TRA Parties would be entitled to receive under this Agreement unless such amendment is consented to in writing by such TRA Parties disproportionately affected who would be entitled to receive at least a majority of the total amount of the Early Termination Payments payable to all TRA Parties disproportionately affected hereunder if PubCo had exercised its right of early termination on the date of the most recent Exchange prior to such amendment (excluding, for purposes of this sentence, all payments made to any TRA Party pursuant to this Agreement since the date of such most recent Exchange). No provision of this Agreement may be waived unless such waiver is in writing and signed by the party against whom the waiver is to be effective.
+
+\(c\) All of the terms and provisions of this Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the parties hereto and their respective successors, permitted assigns, heirs, executors, administrators and legal representatives. PubCo shall, by written agreement, require and cause any direct or indirect successor (whether by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of PubCo expressly to assume and agree to perform this Agreement in the same manner and to the same extent that PubCo would be required to perform if no such succession had taken place (a "**Mandatory Assignment**").
+
+### Section 7.7: SECTION {#section-7-7}
+
+** 7.7** **Titles and Subtitles**. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+### Section 7.8: SECTION {#section-7-8}
+
+** 7.8** **Jurisdiction; Waiver of Jury Trial**. Any action based upon, arising out of or related to this Agreement or the transactions contemplated hereby may be brought in federal and state courts located in the State of Delaware, and each of the Parties irrevocably submits to the exclusive jurisdiction of each such court (and of the appropriate appellate courts) in any such action, waives any objection it may now or hereafter have to personal jurisdiction, venue or to convenience of forum, agrees that all claims in respect of the action shall be heard and determined only in any such court, and agrees not to bring any action arising out of or relating to this Agreement or the transactions contemplated hereby in any other court. Nothing herein contained shall be deemed to affect the right of any Party to serve process in any manner permitted by law or to commence legal proceedings or otherwise proceed against any other Party in any other jurisdiction, in each case, to enforce judgments obtained in any action brought pursuant to this [Section 7.8](#section-7-8). EACH OF THE PARTIES HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION BASED UPON, ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+### Section 7.9: SECTION {#section-7-9}
+
+** 7.9** **Reconciliation**. In the event that PubCo and the TRA Party Representative are unable to resolve a disagreement with respect to the calculations required to produce the schedules described in Sections 2.2, 2.3, and 4.2 (but not, for the avoidance of doubt, with respect to any legal interpretation with respect to such provisions) within the relevant period designated in this Agreement ("**Reconciliation Dispute**"), the Reconciliation Dispute shall be submitted for determination to a nationally recognized expert in the particular area of disagreement, acting as an expert and not as an arbitrator (the "**Expert**"), mutually acceptable to PubCo and the TRA Party Representative. The Expert shall be a nationally recognized accounting or law firm, and unless PubCo and the TRA Party Representative agree otherwise, the Expert shall not have any material relationship with PubCo or the TRA Party Representative or other actual or potential conflict of interest. If PubCo and the TRA Party Representative are unable to agree on an Expert within fifteen (15) calendar days of receipt by the respondent(s) of written notice of a Reconciliation Dispute, then the Expert shall be appointed by the International Chamber of Commerce Centre for Expertise (the "**ICC**") in accordance with the criteria set forth above in this [Section 7.9](#section-7-9). The Expert shall resolve any matter relating to any TRA Party's Attribute Schedule or an amendment thereto or the Early Termination Schedule or an amendment thereto within thirty (30) calendar days and shall resolve any matter relating to a Tax Benefit Schedule or an amendment thereto within fifteen (15) calendar days or as soon thereafter as is reasonably practicable, in each case after the matter has been submitted to the Expert for resolution. Notwithstanding the preceding sentence, if the matter is not resolved before any payment that is the subject of a disagreement would be due (in the absence of such disagreement) or any Tax Return reflecting the subject of a disagreement is due, the undisputed amount shall be paid on the date prescribed by this Agreement and such Tax Return may be filed as prepared by PubCo, subject to adjustment or amendment upon resolution. The costs and expenses relating to the engagement (and, if applicable, the selection by the ICC) of such Expert or amending any Tax Return shall be borne by PubCo except as provided in the next sentence. PubCo and the TRA Party Representative shall bear their own costs and expenses of such proceeding, unless (i) the Expert adopts the TRA Party Representative's position, in which case PubCo shall reimburse the TRA Party Representative for any reasonable out-of-pocket costs and expenses in such proceeding, or (ii) the Expert adopts PubCo's position, in which case the TRA Party Representative shall reimburse PubCo for any reasonable out-of-pocket costs and expenses in such proceeding. Any dispute as to whether a dispute is a Reconciliation Dispute within the meaning of this [Section 7.9](#section-7-9) shall be decided by the Expert. The Expert shall finally determine any Reconciliation Dispute and the determinations of the Expert pursuant to this [Section 7.9](#section-7-9) shall be binding on PubCo, the TRA Party Representative and each of the TRA Parties and may be entered and enforced in any court having jurisdiction.
+
+### Section 7.10: SECTION {#section-7-10}
+
+** 7.10** **Withholding**. PubCo shall be entitled to deduct and withhold from any payment payable pursuant to this Agreement such amounts as PubCo is required to deduct and withhold with respect to the making of such payment under the Code or any provision of state, local or foreign Tax law; provided, that PubCo shall have first notified the TRA Party Representative of its intent to deduct or withhold, and PubCo and the TRA Party Representative shall have discussed in good faith whether such Taxes can be mitigated to the extent permitted under applicable law. To the extent that amounts are so withheld and paid over to the appropriate Taxing Authority by PubCo, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the Person in respect of whom such withholding was made. To the extent that any payment pursuant to this Agreement is not reduced by such deductions or withholdings, such recipient shall indemnify the applicable withholding agent for any amounts imposed by any Taxing Authority together with any costs and expenses related thereto. Each TRA Party shall promptly provide PubCo, OpCo or any other applicable withholding agent with any applicable Tax forms and certifications (including IRS Form W-9 or the applicable version of IRS Form W-8) reasonably requested, in connection with determining whether any such deductions and withholdings are required under the Code or any provision of U.S. state, local or foreign Tax law.
+
+### Section 7.11: Admission of PubCo into a Consolidated Group; Transfers of Corporate Assets {#section-7-11}
+
+\(a\) If PubCo is or becomes a member of an affiliated, consolidated, combined or unitary group of corporations that files a consolidated income Tax Return pursuant to Sections 1501 et seq. of the Code or any corresponding provisions of state or local law, then: (i) the provisions of this Agreement shall be applied with respect to the group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments and other applicable items hereunder shall be computed with reference to the consolidated taxable income of the group as a whole. PubCo agrees that, except as otherwise required by applicable law or agreed in writing by the TRA Party Representative, PubCo, the Blockers, and GP NewCo shall file a consolidated income Tax Return pursuant to Sections 1501 et seq. of the Code.
+
+\(b\) If any PubCo Group Member (or, without duplication, any member of a group described in [Section 7.11](#section-7-11)(a) or entity that is controlled by any such member) or Opco (or any entity in which it directly or indirectly owns an interest) transfers (or is treated as transferring for U.S. federal income Tax purposes) any Reference Asset to a transferee that is treated as a corporation for U.S. federal income Tax purposes (other than a member of a U.S. federal consolidated group described in [Section 7.11](#section-7-11)(a)), such entity shall be treated as having disposed of such Reference Asset in a fully taxable transaction on the date of such transfer. The consideration deemed to be received by such entity in a transaction contemplated in the prior sentence shall be equal to the fair market value of the deemed transferred asset, plus (i) the amount of debt to which such asset is subject, in the case of a transfer of an encumbered asset, or (ii) the amount of debt allocated to such asset, in the case of a transfer of a partnership interest. If any PubCo Group Member (or, without duplication, any member of a group described in [Section 7.11](#section-7-11)(a) or entity that is controlled by any such member) transfers (or is treated as transferring for U.S. federal income Tax purposes) any Unit (other than to a member of a U.S. federal consolidated group described in [Section 7.11](#section-7-11)(a)), then OpCo shall be treated as having disposed of the portion of any Reference Asset that is indirectly transferred by such PubCo Group Member (or other applicable Person) (*i.e.*, taking into account the Units transferred) in a fully taxable transaction in which all income, gain or loss is allocated to the PubCo Group Member (or the other applicable Person).
+
+\(c\) If any member of a group described in [Section 7.11](#section-7-11)(a) (including any PubCo Group Member) that owns any Unit or Reference Asset (or is treated as owning any Unit or Reference Asset for U.S. federal income Tax purposes) deconsolidates from the group (or PubCo deconsolidates from the group), then PubCo shall cause such member (or the parent of the group in a case where PubCo deconsolidates from the group) to assume the primary obligation to make payments hereunder with respect to the applicable Tax Attributes associated with any Reference Asset that such member or such parent directly or indirectly owns and any other Tax Attributes that such member or such parent is entitled to utilize, in each case, in a manner consistent with the terms of this Agreement as the member or parent (or, in each case, one of its Affiliates) actually realizes Tax benefits. In the event of any assumption described in the foregoing sentence, PubCo shall remain secondarily liable to make payments hereunder in respect of such Tax Attributes and shall remain responsible for all obligations hereunder with respect to any Tax Attributes that PubCo (or any member of a group described in [Section 7.11](#section-7-11)(a) or entity that is controlled by any such member) remains entitled to utilize (including with respect to any Reference Assets directly or indirectly retained by PubCo). For the avoidance of doubt, the intent of this [Section 7.11](#section-7-11)(c) is to cause the Person that is entitled to utilize any applicable Tax Attributes to be obligated to make payments under this Agreement with respect to the benefits from such Tax Attributes.
+
+### Section 7.12: Confidentiality {#section-7-12}
+
+\(a\) Each TRA Party and the TRA Party Representative, and each of their assignees, acknowledge and agree that the Confidential Information (as defined herein) is confidential and such Person shall keep and retain in the strictest confidence and not disclose, use, divulge, publish or otherwise reveal, directly or indirectly through another Person, to any Person, any non-public information acquired pursuant to this Agreement, of PubCo and its Affiliates and successors, concerning OpCo and its Affiliates and successors or the members of OpCo (such information, "**Confidential Information**"). Confidential Information does not include information that: (i) is rightfully in the possession of the TRA Party or the TRA Party Representative at the time of disclosure by or on behalf of PubCo, (ii) has been made publicly available by PubCo or any of its Affiliates, becomes public knowledge (except as a result of an act of the TRA Party or the TRA Party Representative in violation of this Agreement) or is generally known to the business community, (iii) is disclosed to the TRA Party or TRA Party Representative or their respective representatives by a third party not, to the knowledge of such TRA Party or the TRA Party Representative, in violation of any obligation of confidentiality owed to PubCo or its Affiliates with respect to such information or (iv) is independently developed by such TRA Party or the TRA Party Representative or their respective representatives without use of or reference to the Confidential Information. Each TRA Party and the TRA Party Representative may disclose Confidential Information (A) to the extent necessary for the TRA Party or its direct or indirect owners to prepare and file its Tax Returns, to respond to any inquiries regarding the same from any Taxing Authority or to prosecute or defend any action, proceeding or audit by any Taxing Authority with respect to such returns, (B) to its Affiliates and its and their respective employees, directors, counsel and advisors on a confidential basis; provided that, such TRA Party or the TRA Party Representative will remain liable with respect to any breach of this [Section 7.12](#section-7-12) by any of its respective Affiliates and its and their respective employees, directors, counsel and advisors, (C) as may be required in the course of performing a TRA Party's or the TRA Party Representative's obligations, or monitoring or enforcing such party's rights, under this Agreement or in performing duties as necessary for PubCo or its Affiliates, (D) as part of a TRA Party's or the TRA Party Representative's normal reporting, rating or review procedure (including normal credit rating and pricing process), or in connection with a TRA Party's or the TRA Party Representative's or their respective Affiliates' normal fund raising, financing, marketing, informational or reporting activities, or to a TRA Party's or the TRA Party Representative's (or any of their respective Affiliates') or their respective direct or indirect owners' or Affiliates', auditors, accountants, employees, attorneys or other agents, (E) to any bona fide prospective assignee of a TRA Party's rights under this Agreement, or prospective merger or other business combination partner of a TRA Party, provided that (i) such assignee or merger partner will be informed by such TRA Party of the confidential nature of such information and shall agree in writing to be bound by the provisions of this [Section 7.12](#section-7-12) and (ii) each such TRA Party will remain liable for breaches of this [Section 7.12](#section-7-12) by any such Person (as if such Persons were party to this Agreement for purposes of [Section 7.12](#section-7-12)), (F) as is required to be disclosed by order of a court of competent jurisdiction, administrative body or governmental body, or by subpoena, summons or legal process, or by law, rule or regulation; provided, that such TRA Party or the TRA Party Representative (I) shall give PubCo notice thereof as promptly as practicable (to the extent legally permitted), (II) shall use commercially reasonable efforts to assist PubCo in resisting or otherwise responding to such legal process at PubCo's sole cost and expense and (III) shall limit such disclosures of Confidential Information to those actually required by such a lawful and valid legal process (and the applicable TRA Party or the TRA Party Representative, as the case may be, shall be entitled to rely on the advice of its counsel for determining what is actually required), (G) to the extent reasonably required in connection with any litigation against or involving PubCo and such TRA Party or the TRA Party Representative or (H) pursuant to the last sentence of [Section 6.3](#section-6-3). Notwithstanding anything to the contrary herein, the TRA Party Representative, each TRA Party and each of its assignees (and each employee, representative or other agent of the TRA Party Representative, the TRA Party or its assignees, as applicable) may disclose to any and all Persons, without limitation of any kind, the Tax treatment and Tax structure of any PubCo Group Member, OpCo and their Affiliates, and any of their transactions, and all materials of any kind (including opinions or other Tax analyses) that are provided to the TRA Party Representative or the TRA Party relating to such Tax treatment and Tax structure.
+
+\(b\) If a TRA Party or the TRA Party Representative or an assignee commits a breach, or threatens to commit a breach, of any of the provisions of this [Section 7.12](#section-7-12), PubCo shall have the right and remedy to have the provisions of this [Section 7.12](#section-7-12) specifically enforced by injunctive relief or otherwise by any court of competent jurisdiction without the need to secure or post any bond or other security, it being acknowledged and agreed that any such breach or threatened breach shall cause irreparable injury to PubCo or any of its Subsidiaries or the TRA Parties and the accounts and funds managed by PubCo and that money damages alone shall not provide an adequate remedy to such Persons. Such rights and remedies shall be in addition to, and not in lieu of, any other rights and remedies available at law or in equity.
+
+### Section 7.13: SECTION {#section-7-13}
+
+** 7.13** **Change in Law**. Notwithstanding anything herein to the contrary, if, in connection with an actual or proposed change in law, a TRA Party reasonably believes that the existence of this Agreement could cause income (other than income arising from receipt of a payment under this Agreement) recognized by the TRA Party upon any Exchange by such TRA Party to be treated as ordinary income (other than by reason of the application of Section 751(a) of the Code to such Exchange) rather than capital gain (or otherwise be taxed at ordinary income rates) for U.S. federal income Tax purposes or would have other material adverse Tax consequences to such TRA Party, then at the election of such TRA Party and to the extent specified by such TRA Party, this Agreement (i) shall cease to have further effect with respect to such TRA Party, (ii) shall not apply to an Exchange by such TRA Party occurring after a date specified by such TRA Party, or (iii) shall otherwise be amended in a manner determined by such TRA Party and PubCo as it relates to such TRA Party, provided, that such amendment shall not result in an increase in payments under this Agreement at any time as compared to the amounts and times of payments that would have been due in the absence of such amendment.
+
+### Section 7.14: SECTION {#section-7-14}
+
+** 7.14** **TRA Party Representative**. By executing this Agreement, each of the TRA Parties shall be deemed to have irrevocably constituted the TRA Party Representative as his, her or its agent and attorney in fact with full power of substitution to act from and after the date hereof and to do any and all things and execute any and all documents on behalf of such TRA Parties which may be necessary, convenient or appropriate to facilitate any matters under this Agreement, including but not limited to: (a) execution of the documents and certificates required pursuant to this Agreement; (b) except to the extent specifically provided in this Agreement, receipt and forwarding of notices and communications pursuant to this Agreement; (c) administration of the provisions of this Agreement; (d) any and all consents, waivers, amendments or modifications deemed by the TRA Party Representative to be necessary or appropriate under this Agreement and the execution or delivery of any documents that may be necessary or appropriate in connection therewith; (e) amending this Agreement or any of the instruments to be delivered to PubCo pursuant to this Agreement; (f) taking actions the TRA Party Representative is expressly authorized to take pursuant to the other provisions of this Agreement; and (g) negotiating and compromising, on behalf of such TRA Parties, any dispute that may arise under, and exercising or refraining from exercising any remedies available under, this Agreement or any other agreement contemplated hereby and executing, on behalf of such TRA Parties, any settlement agreement, release or other document with respect to such dispute or remedy. In connection therewith, the TRA Party Representative shall be entitled to engage attorneys, accountants, agents or consultants on behalf of such TRA Parties in connection with this Agreement or any other agreement contemplated hereby and pay any fees related thereto on behalf of such TRA Parties. The TRA Party Representative may be replaced at any time by approval of two-thirds of the TRA Parties (which two-thirds shall be determined based on the percentages of the TRA Parties' IPO Basis Percentage), with such replacement being effective seven (7) days after written notice of such vote is delivered to PubCo; provided that, the aforementioned two-thirds approval threshold shall be reduced to one-half of the TRA Parties (which one-half shall be determined based on the percentage of the TRA Parties' IPO Basis Percentage) in the event that the TRA Party Representative has resigned, ceased to legally exist, or died.
+
+All reasonable, documented out-of-pocket costs and expenses incurred by the TRA Party Representative in its capacity as such shall be promptly reimbursed by PubCo upon invoice and reasonable support therefor by the TRA Party Representative to PubCo. To the fullest extent permitted by law, none of the TRA Party Representative, any of its Affiliates, or any of the TRA Party Representative's or Affiliate's directors, officers, employees or other agents (each a "**Covered Person**") shall be liable, responsible or accountable in damages or otherwise to any TRA Party, OpCo or any PubCo Group Member for damages arising from any action taken or omitted to be taken by the TRA Party Representative or any other Covered Person with respect to OpCo or any PubCo Group Member in connection with this Agreement, except in the case of any action or omission which constitutes, with respect to such Covered Person, willful misconduct or fraud. Each of the Covered Persons may consult with legal counsel, accountants, and other experts selected by it, and any act or omission suffered or taken by it on behalf of the TRA Parties or in furtherance of the interests of the TRA Parties in good faith in reliance upon and in accordance with the advice of such counsel, accountants, or other experts shall create a rebuttable presumption of the good faith and due care of such Covered Person with respect to such act or omission; provided, that such counsel, accountants, or other experts were selected with reasonable care. Each of the Covered Persons may rely in good faith upon, and shall have no liability to OpCo, any PubCo Group Member or the TRA Parties for acting or refraining from acting upon, any resolution, certificate, statement, instrument, opinion, report, notice, request, consent, order, bond, debenture, or other paper or document reasonably believed by it to be genuine and to have been signed or presented by the proper party or parties. The PubCo Group Members may rely in good faith upon, and shall have no liability to OpCo or the TRA Parties for acting or refraining from acting in reliance upon, any action, inaction, decision, resolution, certificate, statement, correspondence, instrument, opinion, report, notice, request, and consent by the TRA Party Representative.
+
+### Section 7.15: Board Determinations {#section-7-15}
+
+All determinations required to be made by the Board under this Agreement shall be made pursuant to the rules and policies of PubCo and in accordance with Delaware law, the applicable rules under the Stock Exchange (as defined in the Opco Agreement) and other applicable laws.
+
+\[The remainder of this page is intentionally blank\] IN WITNESS WHEREOF, PubCo, OpCo, the TRA Party Representative, and each TRA Party have duly executed this Agreement as of the date first written above.
+
+PUBCO:
+
+SOLV ENERGY, INC.
+
+By:
+
+Name:
+
+Title:
+
+OPCO:
+
+SOLV ENERGY HOLDINGS LLC
+
+By:
+
+Name:
+
+Title:
+
+TRA PARTY REPRESENTATIVE:
+
+\[TRA Party Representative\]
+
+By:
+
+Name:
+
+Title:
+
+TRA PARTIES:
+
+\[TRA Parties\]
+
+By:
+
+Name:
+
+Title:
+
+## Exhibit A
+
+**Form of Joinder**
+
+This JOINDER (this "Joinder") to the Tax Receivable Agreement (as defined below) is by and among SOLV Energy, Inc., a Delaware corporation (including any successor corporation, "PubCo"), SOLV Energy Holdings LLC, a Delaware limited liability company ("OpCo"), ("Transferor") and ("Permitted Transferee").
+
+WHEREAS, on , Permitted Transferee shall acquire from Transferor the rights to receive payments that may become due and payable under the Tax Receivable Agreement (as defined below) that are described on Schedule 1 hereto (such rights, the "Acquired Interests" and such acquisition, the "Acquisition");
+
+WHEREAS, Transferor, in connection with the Acquisition, has required Permitted Transferee to execute and deliver this Joinder pursuant to [Section 7.6](#section-7-6)(a) of the Tax Receivable Agreement, dated as of \[●\], 2026, among PubCo, OpCo, the TRA Holder Representative, and the TRA Parties (as defined therein) (the "Tax Receivable Agreement").
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+### Section 1.1: Definitions {#section-1-1}
+
+To the extent capitalized words used in this Joinder are not defined in this Joinder, such words shall have the respective meanings set forth in the Tax Receivable Agreement.
+
+### Section 1.2: Acquisition {#section-1-2}
+
+For good and valuable consideration, the sufficiency of which is hereby acknowledged by the Transferor and the Permitted Transferee, the Transferor hereby transfers and assigns absolutely to the Permitted Transferee all of the Acquired Interests.
+
+### Section 1.3: Joinder {#section-1-3}
+
+Permitted Transferee hereby acknowledges and agrees (i) that it has received and read the Tax Receivable Agreement, (ii) that the Permitted Transferee is acquiring the Acquired Interests in accordance with and subject to the terms and conditions of the Tax Receivable Agreement and (iii) to become a "TRA Party" (as defined in the Tax Receivable Agreement) for all purposes of the Tax Receivable Agreement.
+
+### Section 1.4: Notice {#section-1-4}
+
+Any notice, request, consent, claim, demand, approval, waiver or other communication hereunder to Permitted Transferee shall be delivered or sent to Permitted Transferee at the address set forth on the signature page hereto in accordance with [Section 7.1](#section-7-1) of the Tax Receivable Agreement.
+
+### Section 1.5: Governing Law {#section-1-5}
+
+This Joinder shall be governed by and construed in accordance with the law of the State of Delaware.
+
+IN WITNESS WHEREOF, this Joinder has been duly executed and delivered by the parties as of the date first above written.
+
+SOLV ENERGY, INC.
+
+By:
+
+Name:
+
+Title:
+
+SOLV ENERGY HOLDINGS LLC
+
+By:
+
+Name:
+
+Title:
+
+\[TRANSFEROR\]
+
+By:
+
+Name:
+
+Title:
+
+\[PERMITTED TRANSFEREE\]
+
+By:
+
+Name:
+
+Title:
+
+**Schedule 1**
+
+**(To Form of Joinder)**
+
+*\[Description of Acquired Interests to be Inserted at Time of Assignment\]*

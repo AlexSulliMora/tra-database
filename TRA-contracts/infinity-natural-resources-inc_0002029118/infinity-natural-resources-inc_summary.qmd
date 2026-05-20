@@ -1,0 +1,37 @@
+---
+title: "Infinity Natural Resources, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Infinity Natural Resources, Inc."]
+CIKs: ["0002029118"]
+status: Ongoing
+creation-date: 2025-01-30
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Estimated $134.3M termination payment at IPO. February 2026 Antero acquisition
+  and Series A Preferred Stock issuance materially affected the capital
+  structure but did not amend the TRA or trigger change-of-control acceleration.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2024-10-04: Form-of TRA filed as Exhibit 10.4 to the S-1
+- 2025-01-30: Executed TRA dated as of IPO close, 85% of cumulative net realized tax benefit to Pearl Energy Investments, NGP, management, and other Legacy Owners
+- 2025-02-03: 8-K reports IPO close and attaches the executed TRA as Exhibit 10.2
+
+#### Substantive accrual phase
+
+- 2025-12-31: TRA liability recognized at $1.537M following initial INR-Unit-to-Class-A exchanges
+- 2026-03-31: TRA liability rises to $3.585M after additional exchanges; no payments under the contract through Q1 2026
+
+## Explanation
+
+Infinity Natural Resources executed its Tax Receivable Agreement at the January 30, 2025 Up-C IPO, committing to pay 85% of the cumulative net realized tax benefit from Section 754 basis step-ups (on exchanges of INR Holdings Units paired with Class B common stock for Class A common stock) plus imputed interest to the Legacy Owners (Pearl Energy Investments, NGP affiliates, management, and other co-investors). The estimated early-termination payment was approximately $134.3M at the IPO. The contract is in force at the May 2026 cutoff, with recognized TRA liability of $3.585M as of March 31, 2026 and no cash payments yet made under the contract. The February 2026 Antero acquisition and concurrent Series A Convertible Preferred Stock issuance to Quantum Capital Group and Carnelian Energy Capital Management materially altered the capital structure but did not amend the TRA or trigger the change-of-control definition. See `contract_log.md` for the full filing-by-filing record.

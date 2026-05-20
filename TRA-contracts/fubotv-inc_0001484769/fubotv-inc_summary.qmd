@@ -1,0 +1,33 @@
+---
+title: "FuboTV Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FuboTV Inc."]
+CIKs: ["0001484769"]
+status: Ongoing
+creation-date: 2025-10-29
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "70% basis / lesser of 70% and Hulu ownership % NOL"
+parallel-tras: []
+role: PubCo
+trigger-event-type: JV formation
+counterparty-type: M&A sellers
+notes: >-
+  Single beneficiary: Hulu, LLC. NOL-tranche rate is the lesser of 70% and Hulu's
+  current ownership of Fubo Operations LLC; basis-step-up rate is flat 70%. Atypical
+  for a TRA: not accelerated by a post-closing change of control. No liability accrued
+  as of latest 10-Qs (March 31, 2026).
+---
+
+## TRA Timeline
+
+#### Disney / Hulu joint-venture combination and TRA execution
+
+- 2025-01-06: 8-K announces Business Combination Agreement with The Walt Disney Company and Hulu, LLC
+- 2025-08-07: DEFM14A filed (vote materials); TRA terms described narratively
+- 2025-10-29: Business combination closes; Fubo Operations LLC ("Newco") formed with Hulu holding 70% / Fubo 30%; TRA executed and dated October 29, 2025; filed as Exhibit 10.2 to closing 8-K
+
+## Explanation
+
+FuboTV Inc. entered into its first Tax Receivables Agreement on October 29, 2025 at the closing of its Up-C-style joint venture with The Walt Disney Company and Hulu, LLC, which combined fuboTV's business with Disney's Hulu + Live TV business inside a newly formed Fubo Operations LLC ("Newco"). Hulu received 70% of Newco Units and voting Class B Common Stock at closing; Fubo retained 30% and the managing-member role. The TRA commits Fubo to pay Hulu (sole beneficiary) 70% of cash tax savings from increases in Newco's asset basis on future redemptions or exchanges of Newco Units for Class A Common Stock or cash, plus imputed interest on TRA payments. For payments attributable to Fubo's historic NOLs, the rate is the lesser of 70% and Hulu's current ownership percentage of Newco at the time of NOL utilization, so NOL-tranche payments scale down if Hulu's ownership later falls. The contract is atypical in that it is not accelerated by a post-closing change of control of Fubo. No TRA liability has been recognized as of the March 31, 2026 10-Q because Fubo does not expect to use historical NOLs and no Newco Unit redemptions have triggered basis step-ups. See `contract_log.md` for the full filing-by-filing record.

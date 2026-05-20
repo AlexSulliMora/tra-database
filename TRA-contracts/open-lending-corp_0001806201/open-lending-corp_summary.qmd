@@ -1,0 +1,37 @@
+---
+title: "Open Lending Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Nebula Acquisition Corporation", "Nebula Parent Corp.", "Open Lending Corporation"]
+CIKs: ["0001720353", "0001806201", "0001806201"]
+status: Terminated
+creation-date: 2020-06-10
+termination-date: 2021-04-09
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Terminated via Amendment No. 1 substituting 40%-of-ETP formula and the
+  immediate Section 4.2 early-termination exercise; $36.9M paid against
+  $92.4M undiscounted anticipated lifetime payments. $55.4M gain on
+  extinguishment recorded in Q2 2021.
+---
+
+## TRA Timeline
+
+#### De-SPAC close and TRA execution
+
+- 2020-06-10: Nebula/Open Lending business combination closes; Nebula Parent Corp. is renamed Open Lending Corporation; TRA executed with the Blocker Holder (Bregal Sagemount I, L.P.) and the Beneficiaries (Company Unit Sellers); 85% sharing of net realized tax benefits from Section 754 basis adjustments and inherited tax attributes of the Blocker and Open Lending arising before the Business Combination
+- 2020-06-16: 8-K files the executed TRA as Exhibit 10.7
+
+#### Early termination
+
+- 2021-04-09: Amendment No. 1 executed by the Requisite Holders (two-thirds of ETP); Section 4.4(b) amended and restated so the Early Termination Payment equals 40% of would-be Tax Benefit Payments (using modified Valuation Assumptions)
+- 2021-04: Disinterested-director committee approves exercising the Section 4.2 Early Termination Right; $36.9M paid to TRA Holders; $55.4M gain on extinguishment recorded in Q2 2021
+
+## Explanation
+
+Open Lending Corporation (formerly Nebula Parent Corp., the post-merger PubCo from the June 10, 2020 Nebula Acquisition Corp. / Open Lending, LLC business combination) executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net cash tax savings from Section 754 basis adjustments at the Second Merger plus the inherited tax attributes that the Blocker (BRP Hold 11, Inc.) and Open Lending carried into the transaction, to Bregal Sagemount I as Blocker Holder and the named Beneficiaries (Company Unit Sellers). On April 9, 2021 the Requisite Holders signed Amendment No. 1 amending and restating Section 4.4(b) so the Early Termination Payment equaled 40% of would-be Tax Benefit Payments; the Company then immediately exercised the Section 4.2 Early Termination Right and paid $36.9M in April 2021, against $92.4M of undiscounted anticipated lifetime payments, recording a $55.4M gain on extinguishment. See `contract_log.md` for the full filing-by-filing record and the Nebula predecessor file at `../nebula-acquisition-corp_0001720353/nebula-acquisition-corp_summary.qmd`.

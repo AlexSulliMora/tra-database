@@ -1,0 +1,44 @@
+---
+title: "Ladder Capital Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ladder Capital Corp"]
+CIKs: ["0001577670"]
+status: Terminated
+creation-date: 2014-02-11
+termination-date: 2021-03-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  REIT election (Jan 1 2015) narrowed the tax-benefit pool to Series TRS
+  step-ups; A&R TRA dated Dec 31 2014 routes payments through LC TRS I.
+  Termination via Section 4.01 ETP after all units exchanged in Q3 2020.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-12-24: Form-of TRA filed as S-1 Exhibit 10.2
+- 2014-02-07: IPO priced
+- 2014-02-11: IPO closes; original TRA executed by Ladder Capital Corp, LCFH, and Continuing LCFH Limited Partners
+
+#### REIT realignment and TRA amendment-in-effect
+
+- 2014-12-15: 8-K and DEFA14A announce planned REIT election and TRA amendment
+- 2014-12-31: REIT realignment effected; A&R TRA executed at 11:59:58 p.m. (filed Jan 5 2015 8-K Exhibit 10.4); LC TRS I added as obligor and Series REIT step-ups carved out
+- 2015-02-26: Shareholders approve the A&R TRA at Special Meeting
+
+#### Section 4.01 termination
+
+- 2020-09-30: Remaining LP holders exchange all units for Class A common stock during Q3 2020
+- 2021-02-26: 2020 10-K discloses Section 4.01 election; $0.9M Early Termination Payments executed or scheduled February–March 2021, satisfying the entire TRA liability
+- 2022: 10-K confirms no remaining TRA liability
+
+## Explanation
+
+Ladder Capital Corp went public via an Up-C IPO on February 11, 2014 and executed the TRA concurrent with closing, agreeing to pay the Continuing LCFH Limited Partners 85% of cash tax savings the Corporation realized from Section 754 basis step-ups arising on exchanges of LCFH LP Units for Class A common stock. Effective December 31, 2014, Ladder elected REIT status and restated the TRA to route payments through LC TRS I (the taxable REIT subsidiary) and to exclude Series REIT step-ups, structurally narrowing the tax-benefit pool while preserving the 85% rate; this kept the accrued liability under $2M for the contract's life. After the remaining LP holders exchanged their units in Q3 2020, the Corporation invoked Section 4.01 to compute Early Termination Payments, paying $0.9M in February and March 2021 and extinguishing the contract's economics under its own terms without a separately executed termination instrument. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,37 @@
+---
+title: "Core & Main, Inc. TRA (TRA-2021-07-22-FLP)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Core & Main, Inc."]
+CIKs: ["0001856525"]
+status: Ongoing
+creation-date: 2021-07-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-07-22-CLP"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Former Limited Partners TRA: beneficiaries are former indirect holders of Holdings limited
+  partnership interests who received Class A common stock through pre-IPO blocker mergers.
+  Coordinates with the CLP TRA at Section 3.3 so the combined 85% cap covers both contracts.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-09: Form-of TRA filed as Exhibit 10.5 to S-1/A No. 3
+- 2021-07-22: TRA executed at the closing of the Up-C reorganization, immediately prior to the IPO
+- 2021-07-28: Executed TRA filed as Exhibit 10.6 to the IPO 8-K (event date July 22, 2021)
+
+#### Ongoing in-force status
+
+- 2022-04: First post-IPO 10-K (FY2021 ending Jan 30, 2022) recognizes $92M initial FLP TRA liability (combined CLP + FLP = $153M)
+- 2022 through 2026: Combined CLP + FLP liability grew to $720M at Feb 1, 2026 driven primarily by CLP-side exchange activity
+
+## Explanation
+
+This is the Former Limited Partners (FLP) half of Core & Main's paired Up-C TRAs, covering Pre-Merger Tax Attributes of merged blocker entities and Exchanged Owner Basis (the tax basis the blocker entities held in Holdings partnership interests, as adjusted at the time of the pre-IPO blocker mergers). The principal beneficiaries are CD&R-affiliated blocker stockholders. The payment percentage is 85% of Cumulative Net Realized Tax Benefit, coordinated with the parallel Continuing Limited Partners TRA at Section 3.3 so the combined obligations to both beneficiary groups cap at 85% of total realized tax benefit. The FLP contract has not been amended; the liability has amortized via payments as the underlying basis step-ups unwound but remains positive at the latest balance sheet date. See `contract_log.md` for the full filing record.

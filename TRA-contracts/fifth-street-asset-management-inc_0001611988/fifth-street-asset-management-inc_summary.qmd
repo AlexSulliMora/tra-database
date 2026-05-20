@@ -1,0 +1,37 @@
+---
+title: "Fifth Street Asset Management Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Fifth Street Asset Management Inc."]
+CIKs: ["0001611988"]
+status: Terminated
+creation-date: 2014-10-29
+termination-date: 2017-10-17
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries are the three Principals (Tannenbaum, Berman, Dimitrov) plus two family
+  trusts and FSC CT II, Inc. The 2017 Waiver and Termination preserved only a single
+  ~$985K final 2016 TRA Payment; all other rights extinguished at the Oaktree close.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-09-24: Form-of TRA filed as Exhibit 10.5 to S-1/A
+- 2014-10-29: Executed TRA filed as Exhibit 10.3 to IPO 8-K dated October 29, 2014
+
+#### Oaktree Asset Purchase termination
+
+- 2017-07-13: Waiver and Termination of TRA executed; Principals irrevocably waive all future Tax Benefit Payments conditional on Oaktree APA close, retaining only the 2016 TRA Payment
+- 2017-10-17: Oaktree Asset Purchase closes; TRA terminates automatically per the Waiver
+- 2017-10-XX: Final 2016 TRA Payment of approximately $985,075 paid to the Principals per Q3 2017 10-Q
+
+## Explanation
+
+Fifth Street Asset Management Inc. went public on October 29, 2014 in an Up-C IPO and committed to pay the three Principals (Leonard Tannenbaum, Bernard Berman, Ivelin Dimitrov) and their affiliated family trusts 85% of cash tax savings from Section 754 basis step-ups on exchanges of Holdings LP Interests for Class A common stock. On July 13, 2017, concurrent with signing the Oaktree Asset Purchase Agreement, the Principals executed a Waiver and Termination irrevocably waiving all future Tax Benefit Payments and releasing FSAM from its TRA obligations conditional on the Oaktree closing, with a single carve-out for the ~$985,075 2016 TRA Payment. The Oaktree closing occurred October 17, 2017, automatically terminating the TRA and triggering the final carve-out payment in the same month. A March 2016 RiverNorth Settlement that an earlier review flagged as a possible cancel signal was unrelated to the TRA: it was a FSC-proxy settlement between FSAM and a dissident BDC stockholder. See `contract_log.md` for the full filing-by-filing record.

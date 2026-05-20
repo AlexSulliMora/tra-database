@@ -1,0 +1,37 @@
+---
+title: "American Renal Associates Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["American Renal Associates Holdings, Inc."]
+CIKs: ["0001498068"]
+status: Unknown
+creation-date: 2016-04-26
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Covers Option Deductions (compensatory stock options issued pre-IPO), not
+  basis step-ups. TRA preserved at Jan 25, 2021 Nautic going-private merger;
+  off-EDGAR thereafter, so ongoing state not verifiable.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2016-01: S-1/A files form-of TRA as Exhibit 10.24 (preamble placeholder)
+- 2016-04-20: IPO Date (per 424b4 prospectus)
+- 2016-04-26: TRA executed (filed as Exhibit 10.3 to 8-K Item 1.01)
+
+#### Nautic going-private merger; TRA preserved
+
+- 2020-12-31: 8-K and DEFM14A confirm Nautic will not request acceleration; merger agreement Section 6.14 preserves the TRA
+- 2021-01-25: Going-private merger closes; ARA becomes a wholly-owned subsidiary of IRC Superman Midco, LLC; deregisters
+
+## Explanation
+
+American Renal Associates Holdings entered a non-Up-C Tax Receivable Agreement on April 26, 2016 (effective at the April 20, 2016 IPO Date) committing PubCo to pay 85% of the cash tax savings it realized from Option Deductions, defined as deductions from the exercise of (or payments in respect of) compensatory stock options issued before the IPO, plus any related net operating losses, with Centerbridge Capital Partners, L.P. as Stockholder Representative for the pre-IPO option-holders on a pro rata basis. The TRA carried standard Article IV early-termination, automatic-termination on full option exercise/lapse, and change-of-control acceleration at Centerbridge's election. The Nautic Partners take-private merger that closed January 25, 2021 explicitly preserved the TRA under Section 6.14 of the merger agreement (no acceleration requested), and ARA deregistered the next day, so the contract continues legally but the firm exited the EDGAR universe; the fair-value liability had already fallen from $3.0M at year-end 2019 to $540K at September 30, 2020 as the share-price decline cut expected Option Deductions. See `contract_log.md` for the full filing-by-filing record and the merger preservation citation.

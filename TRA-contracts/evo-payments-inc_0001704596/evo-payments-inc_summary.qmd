@@ -1,0 +1,40 @@
+---
+title: "EVO Payments, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["EVO Payments, Inc.", "Global Payments Inc."]
+CIKs: ["0001704596", ""]
+status: Terminated
+creation-date: 2018-05-25
+termination-date: 2023-03-24
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amendment No. 1 (2022-08-01) capped TRA at $225M aggregate Final
+  TRA Payment (~$97M below the ~$322M unamended Early Termination
+  Payment estimate); per-recipient Annex A redacted. TRA terminated
+  automatically at Global Payments merger close 2023-03-24.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2018-05-07: Form-of TRA filed as Ex 10.1 to S-1/A (unexecuted)
+- 2018-05-25: Up-C IPO closes; TRA executed by EVO Payments, EVO Investco LLC, and the Continuing LLC Owners (Blueapple, MDP affiliates)
+- 2018-08-10: Executed TRA filed as Ex 10.1 to Q2 2018 10-Q
+
+#### Global Payments merger and termination amendment
+
+- 2022-08-01: Amendment No. 1 signed concurrently with Global Payments merger agreement; converts TRA into a $225M aggregate Final TRA Payment due at merger close and provides for automatic termination thereafter
+- 2022-08-02: Amendment No. 1 filed as Ex 10.4 to merger announcement 8-K
+- 2022-09-22: DEFM14A discloses the $225M aggregate cap (per-recipient Annex A redacted)
+- 2023-03-24: Falcon Merger Sub / Global Payments merger closes; Final TRA Payments triggered and TRA terminates automatically under Section 2 of Amendment No. 1
+
+## Explanation
+
+EVO Payments entered into its Tax Receivable Agreement at the May 25, 2018 Up-C IPO close, paying 85% of cash tax savings from Section 754 basis step-ups on exchanges of EVO Investco LLC Interests (paired with Class C/D Common Stock) plus pre-IPO favorable tax attributes available to the Company from the Reorganization Transactions; principal beneficiaries were Blueapple, Inc. and Madison Dearborn Capital Partners VI affiliates. The TRA carried a balance of roughly $180-183M through 2021 and 2022. On August 1, 2022, concurrently with the Global Payments merger agreement, EVO and the TRA Payment Recipients signed Amendment No. 1 converting the TRA into a fixed-cap obligation: at merger Effective Time EVO would pay a $225M aggregate Final TRA Payment (about $97M below the approximately $322M that would have been payable under the unamended Early Termination Payment formula) and the TRA would terminate automatically with full releases. The Falcon Merger Sub / Global Payments merger closed March 24, 2023, triggering the Final TRA Payments and automatic termination per Section 2 of Amendment No. 1; per-recipient Annex A amounts remain redacted in the publicly filed exhibit. See `contract_log.md` for the full filing-by-filing record and the deferred-CSV reconciliation note.

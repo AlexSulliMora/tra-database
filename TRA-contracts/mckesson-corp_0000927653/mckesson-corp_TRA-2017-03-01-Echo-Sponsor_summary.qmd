@@ -1,0 +1,32 @@
+---
+title: "McKesson Corporation TRA (Echo/Sponsor at Change Healthcare; non-party form-of in McKesson filings)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Change Healthcare, Inc.", "HCIT Holdings, Inc."]
+CIKs: ["0001651562", "0001651562"]
+status: Unknown
+creation-date: 2017-03-01
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2017-03-01-MCK-McKesson-beneficiary"]
+role: Beneficiary
+trigger-event-type: JV formation
+counterparty-type: M&A sellers
+notes: >-
+  McKesson is not a party; form-of appears in McKesson's filing only
+  because the full Contribution Agreement was filed with all exhibits.
+  Executed contract and fate live under Change Healthcare CIK 0001651562.
+---
+
+## TRA Timeline
+
+#### JV formation
+
+- 2016-06-28: Agreement of Contribution and Sale signed; Exhibit I attaches form-of Echo / Sponsor TRA between Change Healthcare Inc., HCIT Holdings, PF2 Newco LLC, Change Aggregator L.P. (Blackstone), and H&F Echo Holdings L.P. (Hellman & Friedman)
+- 2016-07-05: 8-K Item 1.01 files the Contribution Agreement and the form-of Echo TRA
+- 2017-03-01: Change Healthcare JV closes; executed Echo TRA effective (executed instrument not in McKesson's CIK directory)
+
+## Explanation
+
+This TRA is a parallel agreement to the MCK-side TRA at the March 1, 2017 formation of the Change Healthcare JV, obligating Change Healthcare Inc. to pay the Change pre-JV shareholders (represented by Blackstone via Change Aggregator L.P. and Hellman & Friedman via H&F Echo Holdings L.P.) 85% of cash tax savings from the Change-side tax attributes and basis adjustments arising on Echo's contribution; Section 3.3 of the form-of explicitly anticipates the parallel MCK TRA and includes a pari-passu payment-allocation rule between the two. McKesson is not a party; the form-of appears in McKesson's filing only because the full Contribution Agreement was filed with all listed exhibits, and the executed contract, any amendments, and the contract's fate after the March 2020 separation, the FY2019 renegotiation, and the October 2022 UnitedHealth acquisition all live under Change Healthcare's CIK (0001651562) rather than McKesson's. Status is recorded as Unknown because the fate of the Echo/Sponsor TRA is outside the filer scope of McKesson's filings. See `contract_log.md` for the full filing-by-filing record and the parallel MCK summary at `mckesson-corp_TRA-2017-03-01-MCK-McKesson-beneficiary_summary.qmd`.

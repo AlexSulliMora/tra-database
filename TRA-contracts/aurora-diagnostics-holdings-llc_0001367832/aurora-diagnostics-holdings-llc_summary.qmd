@@ -1,0 +1,36 @@
+---
+title: "Aurora Diagnostics Holdings, LLC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Aurora Diagnostics Holdings, LLC", "Aurora Diagnostics, Inc."]
+CIKs: ["0001367832", ""]
+status: Terminated
+creation-date: 2010-12-20
+termination-date: 2011-09-30
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA only; never executed because the contemplated IPO was deferred
+  in Q3 2011 and never occurred. Origin date inferred from the Credit Agreement
+  Amendment to which the form-of was annexed (origin_date_unverified).
+---
+
+## TRA Timeline
+
+#### Pre-IPO Credit Agreement annex
+
+- 2010-12-20: Amendment to Credit and Guaranty Agreement annexes the form-of Tax Receivable Agreement (Annex B) naming Aurora Diagnostics, Inc. as the contemplated PubCo and the Summit Funds, SB Shareholders, KB Shareholders, and Management Investors as beneficiaries
+
+#### IPO deferral
+
+- 2011-09-30: Aurora delays its contemplated IPO; $4.4 million deferred-offering-costs charge subsequently recorded
+- 2012-03-23: 10-K files the Credit Agreement amendment (with Annex B form-of TRA) as Exhibit 10.2
+- 2017-05: Indenture for 12.250% Senior Notes Due 2020 retains the contingent "TRA" definition; no executed contract ever filed
+
+## Explanation
+
+Aurora Diagnostics Holdings was a Delaware LLC that filed publicly only on its debt side and contemplated an Up-C IPO in which a yet-to-be-formed Aurora Diagnostics, Inc. would enter an 85% Tax Receivable Agreement with the Summit Funds, the SB and KB Shareholders (KRG Capital), and a set of Management Investors. The form-of TRA appeared as Annex B to a December 2010 Credit Agreement amendment and carried a blank preamble date and signature blocks. Aurora deferred the IPO in Q3 2011 and never converted to a corporation, so the contemplated PubCo never came into existence and the TRA was never executed. Subsequent debt indentures (including the May 2017 Senior Notes indenture) continued to define the TRA only contingently. See `contract_log.md` for the full filing-by-filing record.

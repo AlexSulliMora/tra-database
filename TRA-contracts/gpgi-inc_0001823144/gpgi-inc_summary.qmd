@@ -1,0 +1,41 @@
+---
+title: "GPGI, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GPGI, Inc.", "CompoSecure, Inc.", "Roman DBDR Tech Acquisition Corp."]
+CIKs: ["0001823144"]
+status: Ongoing
+creation-date: 2021-12-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Above-market 90% payment rate. Aggregate Tax Benefit Payments capped at 160%
+  of the initial consideration received for U.S. federal income tax purposes.
+  Amendment No. 1 (Aug 7, 2024) carved a Permitted-Investor-affiliated
+  acquirer (Tungsten 2024) out of the Change of Control trigger.
+---
+
+## TRA Timeline
+
+#### De-SPAC business combination and TRA execution
+
+- 2021-12-27: Up-C business combination with CompoSecure Holdings, L.L.C. closes; Roman DBDR Tech Acquisition Corp. renamed CompoSecure, Inc.; TRA executed (90% Net Tax Benefit, 160% aggregate-payment cap)
+
+#### Amendment to avoid Change-of-Control acceleration
+
+- 2024-08-07: Amendment No. 1 redefines Change of Control to exclude the Tungsten 2024 stock purchases; 10-K narrative also reports the early-termination discount rate increased to 15% per annum (up from LIBOR plus 100 bp)
+- 2024-09-17: Amendment becomes effective at closing of the Tungsten transactions
+
+#### Corporate restructuring and ongoing accruals
+
+- 2025-02-28: Resolute Holdings Management spin-off; GPGI begins accounting for GPGI Holdings under the equity method
+- 2026-05: Q1 2026 10-Q reports $293.3M aggregate expected future TRA payments; cumulative cash payments $5.3M (2025) and $1.3M (2024)
+
+## Explanation
+
+GPGI's TRA originated at the December 27, 2021 de-SPAC Up-C business combination between Roman DBDR Tech Acquisition Corp. and CompoSecure Holdings, L.L.C., obligating the public company to pay an above-market 90% of net tax benefit to the former CompoSecure Holders (principally the Logan Entities and the LLR Funds). Covered attributes are pre-merger common basis, Section 754/743(b)/734(b) basis adjustments on future exchanges of Class B units, and imputed interest; aggregate payments are capped at 160% of the initial consideration received for tax purposes. Amendment No. 1 on August 7, 2024 redefined Change of Control to exclude the Tungsten 2024 stock-purchase transaction (a Permitted-Investor-affiliated acquirer), preventing what would otherwise have been an accelerated TRA payment, and per the 2025 10-K MD&A also raised the early-termination discount rate to 15% per annum. The TRA remains in force; aggregate expected future payments stood at $293.3M at Q1 2026, with cumulative cash payments of $6.6M to date. See `contract_log.md` for the full filing record and the amendment text.

@@ -1,0 +1,35 @@
+---
+title: "Cibus, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Calyxt, Inc.", "Cibus, Inc."]
+CIKs: ["0001705843", "0001705843"]
+status: Ongoing
+creation-date: 2023-05-31
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: pre-IPO holders
+notes: >-
+  Same CIK was Calyxt, Inc. before the May 31, 2023 merger; renamed Cibus, Inc. at close.
+  Full valuation allowance against deferred tax assets at FY2025; no TRA liability recorded
+  on the balance sheet, but the contract remains in force.
+---
+
+## TRA Timeline
+
+#### Calyxt / Cibus business combination and TRA execution
+
+- 2023-01-17: 8-K announces the Calyxt / Cibus Global merger agreement
+- 2023-05-31: Merger consummated; Cibus Global, LLC merges with Calyxt, Inc.; the surviving public registrant is renamed Cibus, Inc.; Tax Receivable Agreement executed and filed as Exhibit 10.3 to the 2023-06-01 8-K
+
+#### Ongoing in-force status with full valuation allowance
+
+- 2026-03-17: FY2025 10-K confirms full valuation allowance against TRA-related deferred tax assets; no balance-sheet TRA liability recognized; contract remains in force
+
+## Explanation
+
+This TRA originated at the May 31, 2023 close of the Calyxt / Cibus Global business combination, which created an Up-C public registrant where one had not previously existed (Calyxt's 2017 IPO had been a non-Up-C structure with no TRA). The contract pays 85% of cash tax savings on Exchange Basis Adjustments (Section 754 step-ups arising when OpCo Units exchange for Class A Common Stock) and on tax attributes acquired in the Blocker Mergers. Cibus has maintained a full valuation allowance against the underlying deferred tax assets, so no TRA liability is recognized on the balance sheet; this is not a termination signal but reflects "tax assets not yet realizable" Up-C accounting. No amendments, restatements, or change-of-control events affecting the TRA have been observed through the FY2025 10-K. See `contract_log.md` for the full filing record.

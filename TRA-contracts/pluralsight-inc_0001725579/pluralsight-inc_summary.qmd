@@ -1,0 +1,39 @@
+---
+title: "Pluralsight TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Pluralsight, Inc."]
+CIKs: ["0001725579"]
+status: Terminated
+creation-date: 2018-05-16
+termination-date: 2021-04-06
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via Amendment No. 1 negotiated termination payment ($127.0M
+  aggregate) executed December 11, 2020 alongside the Vista Equity merger
+  agreement; took effect at Vista merger close April 6, 2021. Amount
+  described in the 8-K as a substantial reduction from contract-formula
+  Early Termination Payment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2018-05-07: S-1/A attaches form-of TRA as Exhibit 10.2
+- 2018-05-16: TRA executed at Up-C IPO closing (May 17, 2018 IPO); executed copy filed August 1, 2018 as Exhibit 10.1 to Q2 2018 10-Q
+
+#### Vista take-private and negotiated termination
+
+- 2020-12-11: Amendment No. 1 to TRA executed concurrent with Vista Equity Partners merger agreement; substitutes $127.0M aggregate negotiated payment for the Section 4.01 Early Termination Payment formula
+- 2020-12-14: 8-K announces merger and TRA Amendment
+- 2021-04-06: Vista's two-step merger closes; $127.0M paid in full satisfaction; TRA terminates; Class A stock delisted and Form 15 filed
+
+## Explanation
+
+Pluralsight, Inc. became the TRA obligor on May 16, 2018 at the closing of its Up-C IPO, with the Continuing Members of Pluralsight Holdings, LLC (founders Aaron Skonnard and Frederick Onion plus other senior managers and Insight Partners vehicles, acting through a Representative) as beneficiaries. The TRA paid 85% of cash tax savings from Section 754 basis step-ups on future LLC Unit exchanges; throughout the contract's life the recorded liability was $0 because a full valuation allowance on the underlying deferred tax assets made payments not probable. On December 11, 2020 Pluralsight executed Amendment No. 1 concurrent with Vista Equity Partners' merger agreement, substituting a $127.0M aggregate negotiated payment for the contract's Section 4.01 Early Termination Payment formula and providing for full release of all payment obligations upon Merger consummation; the 8-K described this as a substantial reduction from the formula-driven amount. The Vista merger closed on April 6, 2021, the $127.0M was paid, and the TRA terminated; Pluralsight filed Form 15 to deregister concurrent with delisting. See `contract_log.md` for the full filing-by-filing record.

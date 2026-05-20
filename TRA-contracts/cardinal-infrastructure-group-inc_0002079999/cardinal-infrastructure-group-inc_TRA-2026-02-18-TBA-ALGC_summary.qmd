@@ -1,0 +1,35 @@
+---
+title: "Cardinal Infrastructure Group TRA (TRA-2026-02-18-TBA-ALGC)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Cardinal Infrastructure Group Inc."]
+CIKs: ["0002079999"]
+status: Ongoing
+creation-date: 2026-02-18
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2025-12-09"]
+role: PubCo
+trigger-event-type: "Asset purchase"
+counterparty-type: "M&A sellers"
+notes: >-
+  Filed as a Tax Benefit Agreement; substantively a TRA-class contract with
+  Diamond Interests Group LLC only. Acquisition-date fair value $7.1M on the
+  Q1 2026 10-Q; Level 3 contingent consideration.
+---
+
+## TRA Timeline
+
+#### ALGC acquisition and TBA execution
+
+- 2026-02-18: Tax Benefit Agreement executed concurrent with the AL Grading Contractors acquisition close among PubCo, OpCo, and Diamond Interests Group LLC.
+- 2026-02-19: ALGC closing 8-K filed; execution version of the TBA attached as Exhibit 10.4.
+
+#### First periodic recognition
+
+- 2026-05-13: First quarterly 10-Q recognizes $7.1 million acquisition-date fair value of the TBA as Level 3 contingent consideration, measured via a Monte Carlo simulation with 100,000 trials.
+
+## Explanation
+
+Cardinal Infrastructure Group executed this Tax Benefit Agreement on February 18, 2026 with Diamond Interests Group LLC (the seller of AL Grading Contractors) concurrent with the ALGC acquisition close, obligating the PubCo to pay 85% of cash tax benefits realized from the Section 1001 asset-purchase basis step-up in ALGC's assets (immediate bonus depreciation of acquired fixed assets and 15-year Section 197 amortization of acquired intangibles). Unlike the parallel IPO TRA (TRA-2025-12-09), the TBA does not require future unit exchanges to trigger payments because the step-up is a one-time event at acquisition close; payments depend only on PubCo realizing tax benefits from amortization and depreciation of the stepped-up assets under a "with and without" methodology assuming PubCo is allocated 80% of OpCo's amortization and depreciation deductions on the Basis Adjustments. The Company labels the contract a Tax Benefit Agreement rather than a TRA to flag the different mechanism, but its substantive structure (a defined percentage of realized tax savings paid to a defined beneficiary on a defined tax attribute) is a parallel TRA-class contract. The Q1 2026 10-Q records the acquisition-date fair value at $7.1 million, classified as Level 3 contingent consideration. The contract remains in force as of the May 13, 2026 10-Q; see `contract_log.md` for the full filing-by-filing record.

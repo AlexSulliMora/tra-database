@@ -1,0 +1,38 @@
+---
+title: "GoDaddy Inc. TRA (TRA-2015-03-31-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GoDaddy Inc."]
+CIKs: ["0001609711"]
+status: Terminated
+creation-date: 2015-03-31
+termination-date: 2020-07-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-03-31-KKR-Reorg", "TRA-2015-03-31-KKR-CoInvest-Reorg", "TRA-2015-03-31-SLP-Reorg", "TRA-2015-03-31-TCV-Reorg"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Open-ended Up-C exchanges TRA; the largest of GoDaddy's five parallel TRAs.
+  All five settled together on July 31, 2020 for $850M aggregate (about 47% of
+  management's central $1.8B nominal estimate); $674.7M charge to 2020 ops.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-02-11: S-1/A files the form-of Exchanges TRA as Exhibit 10.4
+- 2015-03-31: Up-C IPO closes; Exchanges TRA executed between GoDaddy Inc. and the continuing Desert Newco LLC unitholders (KKR, Silver Lake, TCV, YAM Special Holdings)
+- 2015-04-06: 8-K attaches the executed Exchanges TRA as Exhibit 10.5
+
+#### Coordinated termination
+
+- 2020-07-31: Amendment No. 1 substitutes a fixed Settlement Payment for the future-tax-savings formula in Section 4.1(a); standalone Termination and Release Agreement executed concurrently (8-K Exs. 10.1 and 10.2)
+- 2020-08-05: Q2 earnings release discloses $850M aggregate settlement across all five TRAs
+- 2020-12-31: $849.8M of the aggregate paid in 2020; residual $0.2M paid in 2021
+
+## Explanation
+
+The Exchanges TRA originated at GoDaddy's March 31, 2015 Up-C IPO and obligated the public company to pay 85% of cumulative net realized tax benefits from Section 754 basis step-ups on future exchanges of Desert Newco LLC units. As the open-ended TRA in the suite of five executed at IPO close, it carried the bulk of the future-payment risk; the four parallel Reorganization TRAs covered a fixed pool of blocker-merger basis. On July 31, 2020 GoDaddy settled all five TRAs together for $850M aggregate, terminating the Exchanges TRA via Amendment No. 1 (which substituted a fixed Settlement Payment for the formula) paired with a standalone Termination and Release Agreement. Management disclosed the settlement at roughly 47% of its central $1.8B nominal future-payment estimate; the company recorded a $674.7M charge to 2020 operations. A June 2022 shareholder derivative suit alleging the settlement overpaid the TRA Parties remained pending as of the FY2025 10-K. See `contract_log.md` for the full termination instrument set and the litigation timeline.

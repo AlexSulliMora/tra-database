@@ -1,0 +1,32 @@
+---
+title: "Wayne Farms, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Wayne Farms, Inc."]
+CIKs: ["0001636032"]
+status: Unknown
+creation-date: 2015-04-20
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Never executed: Wayne Farms's IPO registration (File No. 333-202797) was amended three times and then withdrawn via Form RW filed 2016-03-23. No 10-K, 10-Q, or 8-K was ever filed under this CIK. Origin date inferred from earliest exhibit filing date (S-1/A No. 1, 2015-04-20)."
+---
+
+## TRA Timeline
+
+#### Form-of TRA filed in abandoned IPO registration
+
+- 2015-04-20?: Form-of TRA first filed as Exhibit 10.3 to S-1/A Amendment No. 1 (origin date inferred from earliest exhibit filing date; preamble dated `[ ], 2015`)
+- 2015-06-15: Refiled form-of TRA in S-1/A Amendment No. 3 with terminology cleanup ("Corporate Taxpayer" standardized throughout) but no substantive change
+
+#### Withdrawal
+
+- 2016-03-23: Form RW filed withdrawing registration statement File No. 333-202797; no executed TRA ever came into existence
+
+## Explanation
+
+Wayne Farms, Inc. was an Up-C holding company incorporated by Continental Grain Company in 2015 to take Wayne Farms LLC public; the contemplated Tax Receivable Agreement would have paid Wayne Farms Holdings LLC (Continental Grain's holding vehicle) 85% of cash tax savings on basis step-ups from Class B unit exchanges, NOL utilization, and imputed interest. The form-of TRA was filed twice with the S-1/A registration (April 20, 2015 and June 15, 2015) but never executed: the IPO was abandoned and the registration was withdrawn via Form RW on March 23, 2016. SEC submissions metadata for CIK 0001636032 shows no 10-K, 10-Q, or 8-K was ever filed, consistent with the company never reaching effectiveness as a public registrant. The contract's status is Unknown because no executed instrument ever came into legal force. See `contract_log.md` for the form-of text references and the withdrawal-coverage note.

@@ -1,0 +1,37 @@
+---
+title: "Preston Hollow Community Capital TRA (never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Preston Hollow Community Capital, Inc."]
+CIKs: ["0001861681"]
+status: Terminated
+creation-date: 2021-07-26
+termination-date: 2022-06-28
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA from a planned Up-C IPO that never closed. Origin date
+  assigned from S-1/A No. 2 exhibit filing date (preamble was blank);
+  termination date from the SEC STAFF ACTION marking the registration's
+  file termination. No executed contract exists.
+---
+
+## TRA Timeline
+
+#### Contemplated Up-C IPO and form-of TRA
+
+- 2021-07-06: Initial S-1 filed for a contemplated Up-C IPO; form-of TRA not yet attached
+- 2021-07-26: S-1/A No. 2 attaches the form-of Tax Receivables Agreement as Exhibit 10.6 (PubCo, Preston Hollow Capital LLC as PHC, plus prospective TRA Parties; 85% payment on Section 754 step-ups from future OP Unit exchanges)
+- 2021-07-27: S-1/A No. 3 re-files the prospectus without re-attaching the TRA exhibit
+
+#### Registration abandonment
+
+- 2022-06-28: SEC STAFF ACTION terminates the registration file; IPO never closed, no executed TRA, no further filings under this CIK
+
+## Explanation
+
+Preston Hollow Community Capital, Inc. (a Maryland corporation) filed registration statements in mid-2021 for a contemplated Up-C IPO whose operating partnership was PHCC OP, LP and whose existing parent was Preston Hollow Capital, LLC. The form-of Tax Receivables Agreement attached as Exhibit 10.6 to the July 26, 2021 S-1/A No. 2 named PubCo, PHC, and additional persons becoming TRA Parties as the contracting parties; the agreement would have paid TRA Parties 85% of cash tax savings from Section 754 basis step-ups arising from future exchanges of OP Units for Class A Shares plus TRA-imputed interest. The IPO never closed, the EDGAR record for this CIK contains no post-IPO filings, and a SEC STAFF ACTION dated June 28, 2022 marks the registration's termination on the staff side. No executed TRA was ever entered into. See `contract_log.md` for the full filing-by-filing record.

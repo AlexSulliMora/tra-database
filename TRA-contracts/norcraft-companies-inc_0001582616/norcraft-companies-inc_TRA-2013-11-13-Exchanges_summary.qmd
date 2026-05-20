@@ -1,0 +1,38 @@
+---
+title: "Norcraft Companies, Inc. TRA (TRA-2013-11-13-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Norcraft Companies, Inc.", "Fortune Brands Home & Security, Inc."]
+CIKs: ["0001582616", "0001519751"]
+status: Terminated
+creation-date: 2013-11-13
+termination-date: 2015-05-12
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-11-13-SKM", "TRA-2013-11-13-Trimaran"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Exchanges TRA covers Section 754 step-ups from Buller-family LLC unit
+  exchanges. Terminated at merger close for $19.71M payment per the
+  March 30, 2015 termination agreement signed concurrent with Fortune Brands
+  merger.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-09-30: S-1/A files form-of TRA (Exchanges) as Exhibit 10.25 (85% sharing of net realized tax benefits from Section 754 basis step-ups on Buller-family LLC unit exchanges plus imputed interest)
+- 2013-11-13: TRA executed at IPO close with the Buller-family LLC Unit Holders; Mark Buller as LLC Unit Holder Representative
+- 2014-03-31: 2013 10-K files executed TRA as Exhibit 10.14
+
+#### Acquisition and TRA termination
+
+- 2015-03-30: Termination Agreement signed concurrent with the Fortune Brands merger agreement; substitutes a fixed $19,710,000 Termination Payment for the Section 4.3 Early Termination formula, payable on merger close
+- 2015-05-12: Fortune Brands merger closes; TRA terminates and $19.71M paid
+
+## Explanation
+
+Norcraft Companies, Inc. completed an Up-C IPO on November 13, 2013 and executed three parallel Tax Receivable Agreements at closing, of which this one (the Exchanges TRA) obligates PubCo to pay 85% of net realized tax benefits from Section 754 basis step-ups arising from future exchanges of Norcraft Companies LLC common units by the Buller family for Class A common stock, plus imputed interest. In connection with Fortune Brands Home & Security's tender-offer-and-merger announced in March 2015, Norcraft and the LLC Unit Holder Representative signed a Termination Agreement on March 30, 2015 substituting a fixed $19,710,000 payment for the contract's Section 4.3 Early Termination formula, conditional on merger close. The merger closed May 12, 2015 and this TRA was extinguished with the $19.71M payment. See `contract_log.md` for the full filing-by-filing record and the parallel TRA-2013-11-13-SKM and TRA-2013-11-13-Trimaran summary files for the other two contracts.

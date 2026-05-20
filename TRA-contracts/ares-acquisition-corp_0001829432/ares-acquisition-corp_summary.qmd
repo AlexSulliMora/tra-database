@@ -1,0 +1,37 @@
+---
+title: "Ares Acquisition Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ares Acquisition Corp", "X-energy Reactor Company, LLC"]
+CIKs: ["0001829432", ""]
+status: Terminated
+creation-date: 2022-12-05
+termination-date: 2023-10-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only; never executed. Contemplated obligor was the post-combination
+  X-energy, Inc., not AAC. BCA was mutually terminated on 2023-10-31 and AAC
+  subsequently deregistered.
+---
+
+## TRA Timeline
+
+#### X-energy business combination announcement
+
+- 2022-12-05: 8-K announces Business Combination Agreement with X-energy Reactor Company, LLC; Up-C structure with 85% TRA contemplated at closing
+- 2023-01-25: S-4 first attaches the form-of TRA as Annex I
+- 2023-10-13: Definitive 424B3 joint proxy/prospectus filed; Annex I form-of TRA included
+
+#### Termination
+
+- 2023-10-31: AAC and X-energy mutually terminate the BCA; TRA never executed
+- 2023-11-20: AAC files Form 15-12G deregistering
+
+## Explanation
+
+In December 2022, Ares Acquisition Corp signed a Business Combination Agreement with X-energy Reactor Company, LLC that would have created an Up-C public company entering an 85% Tax Receivable Agreement with X-energy members covering basis step-ups from future Common Unit exchanges. The form-of TRA appeared as Annex I to the joint proxy/prospectus across several S-4 iterations and the definitive 424B3, but the preamble date was blank and the contemplated obligor was the post-closing X-energy, Inc., not AAC itself. On October 31, 2023, the parties mutually terminated the BCA before the AAC shareholder vote, and AAC deregistered roughly three weeks later. See `contract_log.md` for the full filing-by-filing record.

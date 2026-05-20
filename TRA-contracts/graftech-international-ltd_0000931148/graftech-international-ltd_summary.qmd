@@ -1,0 +1,42 @@
+---
+title: "GrafTech International Ltd. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GrafTech International Ltd."]
+CIKs: ["0000931148"]
+status: Ongoing
+creation-date: 2018-04-23
+termination-date:
+tax-asset-type: [NOL, Other tax credit]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Non-Up-C sponsor-take-private-then-re-IPO TRA; sole beneficiary is Brookfield
+  Capital Partners IV GP, Ltd. Recorded liability written down from initial
+  $86.5M to $0 in Q2 2025 after a full valuation allowance on U.S. deferred
+  tax assets; contract remains legally in force.
+---
+
+## TRA Timeline
+
+#### Re-IPO and TRA execution
+
+- 2018-03-20: S-1 files the form-of TRA as Exhibit 10.14
+- 2018-04-23: Re-IPO closes; TRA executed between GrafTech International Ltd. and Brookfield Capital Partners IV GP, Ltd. on inherited pre-IPO tax assets (U.S. NOLs, Section 959 previously taxed income, foreign tax credits, Swiss NOLs)
+- 2018-04-25: 8-K reports IPO close and TRA execution
+
+#### LIBOR-to-SOFR amendment and restatement
+
+- 2023-04-10: Amended and Restated TRA executed; interest rate updated from LIBOR plus 1.00% to one-month SOFR plus 1.10% (mechanical LIBOR-transition update only)
+- 2024-02-14: A&R TRA filed as Exhibit 10.15 to the FY2023 10-K
+
+#### Valuation-allowance write-down
+
+- 2025-06-30: Full valuation allowance recorded against U.S. deferred tax assets; remaining $3.8M TRA liability written off to Other expense (income); contract remains legally in force
+
+## Explanation
+
+GrafTech's TRA originated at its April 23, 2018 re-IPO out of Brookfield ownership and is a non-Up-C sponsor-take-private-then-re-IPO TRA: rather than covering exchanges of LLC units, it monetizes pre-existing tax attributes inherited from the 2015 Brookfield take-private (U.S. NOLs, Section 959 previously taxed income, foreign tax credits, and certain Swiss subsidiary NOLs). The public company pays 85% of cash savings from utilizing those attributes to Brookfield Capital Partners IV GP, Ltd. as the sole beneficiary. The April 10, 2023 Amended and Restated TRA only updated the interest-rate index from LIBOR plus 100 bp to one-month SOFR plus 110 bp; the 2020-2021 dividend recapitalizations did not trigger a Change of Control. The recorded liability has trended down from $86.5M at origin to $5.8M at year-end 2024; in Q2 2025 GrafTech booked a full valuation allowance on its U.S. deferred tax assets and wrote off the remaining $3.8M, leaving the contract legally in force but with no recorded liability. See `contract_log.md` for the full filing record and the A&R amendment text.

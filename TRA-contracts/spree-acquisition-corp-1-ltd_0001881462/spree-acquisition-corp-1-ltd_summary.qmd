@@ -1,0 +1,35 @@
+---
+title: "Spree Acquisition Corp. 1 TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Spree Acquisition Corp. 1 Limited"]
+CIKs: ["0001881462"]
+status: Terminated
+creation-date: 2022-10-29
+termination-date: 2023-08-23
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA signed by Spree and TRA Party Representative concurrent with the
+  WHC Worldwide (zTrip) BCA but conditional on BCA closing. BCA terminated by
+  mutual agreement; TRA expressly voided. Spree remains an unconsummated SPAC.
+---
+
+## TRA Timeline
+
+#### Business combination announcement
+
+- 2022-10-29: Business Combination Agreement signed with WHC Worldwide, LLC (zTrip) under contemplated Up-C structure; form-of TRA executed by Spree and TRA Party Representative at 85% sharing rate covering Section 754 step-ups from WHC Class B unit exchanges; effective only upon BCA closing
+- 2023-01-25: BCA Amendment No. 1 modifies BCA exhibits and Section 2.8 consideration; does not amend the TRA
+
+#### Termination
+
+- 2023-08-23: BCA terminated by mutual agreement; Termination of BCA expressly states "The mutual termination of the Business Combination Agreement also terminates and makes void the transaction agreements that were entered into in connection with the Business Combination Agreement, including the Tax Receivable Agreement"
+
+## Explanation
+
+Spree Acquisition Corp. 1 Limited is a Cayman Islands SPAC that signed a Business Combination Agreement with WHC Worldwide LLC (zTrip) on October 29, 2022 under a contemplated Up-C structure, including a form-of Tax Receivable Agreement at 85% covering Section 754 basis step-ups from future WHC Class B unit exchanges. The form-of was signed by Spree and the TRA Party Representative concurrent with the BCA, but its effectiveness was conditional on BCA closing. The BCA was terminated by mutual agreement on August 23, 2023 and the termination instrument expressly voided the TRA along with all other related transaction agreements. Spree remains an unconsummated SPAC as of the December 2025 DEF 14A with no replacement business combination or TRA. See `contract_log.md` for the form-of text and the BCA termination 8-K.

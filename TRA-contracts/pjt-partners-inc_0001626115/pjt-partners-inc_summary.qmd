@@ -1,0 +1,36 @@
+---
+title: "PJT Partners TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PJT Partners Inc."]
+CIKs: ["0001626115"]
+status: Ongoing
+creation-date: 2015-10-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: pre-IPO holders
+notes: >-
+  Spin-off from Blackstone established Up-C structure. CamberView
+  acquisition (Oct 2018) issued additional Partnership Units captured
+  under the pre-existing definitions; no TRA amendment needed.
+---
+
+## TRA Timeline
+
+#### Blackstone spin-off and TRA execution
+
+- 2015-10-01: PJT Partners spun off from Blackstone in an Up-C structure; executed TRA filed as Exhibit 10.7 to the closing 8-K (date of report September 30, 2015)
+
+#### Continuing accrual
+
+- 2017-12: TCJA-driven $1.6M measurement adjustment (gain on reversal) reflecting 35% to 21% tax rate change
+- 2018-10-01: CamberView acquisition issues new Partnership Units captured under the pre-existing TRA definitions of "Limited Partner" and "Exchange"; no amendment filed
+- 2025-12-31: Recorded liability $30.3M; estimated Early Termination Payment $402.2M
+
+## Explanation
+
+PJT Partners Inc. became the TRA obligor on October 1, 2015 at the closing of its spin-off from Blackstone, which established an Up-C structure with PJT Partners Holdings LP as the operating partnership and the Continuing Partnership Unitholders (former Blackstone advisory employees, Paul J. Taubman, and related parties) as TRA beneficiaries. The TRA pays beneficiaries 85% of the cash tax savings PJT realizes from Section 754 basis step-ups arising from exchanges of Partnership Units for Class A common stock or cash, plus the imputed-interest amount. No amendment, restatement, or termination has been filed; the contract has run continuously through the Q1 2026 10-Q. The October 2018 CamberView acquisition issued additional Partnership Units that were captured under the pre-existing TRA definitions without requiring a contract amendment, and the 2017 Tax Cuts and Jobs Act produced a one-time $1.6M measurement gain on the TRA liability reflecting the corporate rate change from 35% to 21%. See `contract_log.md` for the full filing-by-filing record.

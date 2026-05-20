@@ -1,0 +1,36 @@
+---
+title: "TPG Pace Solutions Corp. TRA (form-of only; obligor of record is Vacasa, Inc.)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["TPG Pace Solutions Corp.", "Vacasa, Inc."]
+CIKs: ["0001840927", "0001840927"]
+status: Unknown
+creation-date: 2021-12-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Directory only carries the unexecuted form-of TRA filed in the August 2021
+  Business Combination 8-K. The executed contract was to be filed in the
+  December 2021 close 8-K, not yet recovered. Vacasa subsequently went private,
+  which would be material to status; verifying that is out of scope here.
+---
+
+## TRA Timeline
+
+#### Merger announcement and form-of TRA
+
+- 2021-07-28: Business Combination Agreement signed between TPG Pace Solutions Corp. and Vacasa Holdings LLC
+- 2021-08-03: Form-of TRA filed as Exhibit 10.9 to the announcement 8-K
+
+#### De-SPAC close (executed TRA not in directory)
+
+- 2021-12-06: De-SPAC close inferred from the Form 25 filed December 7, 2021 and the Form 4 stream dated December 3, 2021; executed TRA presumed filed in the close 8-K under the same CIK but not yet recovered
+
+## Explanation
+
+TPG Pace Solutions Corp. was a Cayman SPAC that signed a Business Combination Agreement on July 28, 2021 with Vacasa Holdings LLC; the Form of Tax Receivable Agreement filed as Exhibit 10.9 to the August 3, 2021 announcement 8-K contemplated 85% sharing of cash tax savings on two beneficiary classes (Exchange TRA Parties holding OpCo Units and Reorganization TRA Parties from former Blocker entities). The DEFM14A disclosed an illustrative TRA liability of approximately $651.1M (85% of $766M) under a full-immediate-exchange assumption. The de-SPAC closed on or about December 6, 2021 and the surviving Vacasa, Inc. continued under the same CIK; the executed TRA, post-close 10-Ks, and any subsequent amendments are not in this directory. Status is marked `Unknown` pending that retrieval; Vacasa subsequently pursued a take-private transaction that would be material to the TRA's fate. See `contract_log.md` for the pre-close filing record.

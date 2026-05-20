@@ -1,0 +1,41 @@
+---
+title: "Neff Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Neff Corporation", "United Rentals (North America), Inc."]
+CIKs: ["0001617667", "0000718877"]
+status: Terminated
+creation-date: 2014-11-26
+termination-date: 2017-10-02
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated at no cost to Neff or the beneficiaries via Exchange and
+  Termination Agreements immediately before the United Rentals merger.
+  Amendment No. 1 (2015-05-27) narrowed covered taxes to U.S. federal only.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-11-10: S-1/A files the form-of TRA as Exhibit 10.1 (85% sharing of Section 754 basis step-ups and imputed interest)
+- 2014-11-26: TRA executed at IPO close among Neff Corporation, the Wayzata Funds, the LLC Option Holders, and the Management Representative; 8-K files the executed agreement
+
+#### Amendment narrowing covered taxes
+
+- 2015-05-27: Amendment No. 1 executed (retroactive to 2014-11-26); narrows "Basis Adjustment" and "Covered Taxes" to U.S. federal income taxes only, eliminating state, local, and foreign components; recorded as a $2.4M reduction in TRA liability in FY 2015
+
+#### Acquisition and TRA termination
+
+- 2017-07-14: 8-K announces H&E Equipment Services merger agreement; Exchange and Termination Agreements executed to terminate the TRA at no cost effective immediately before the H&E closing (later superseded)
+- 2017-08-16: 8-K announces superior United Rentals merger agreement; parallel Exchange and Termination Agreements with URI executed, terminating the TRA at no cost effective immediately before the URI closing
+- 2017-10-02: United Rentals merger closes; the TRA terminates with no payment to beneficiaries
+
+## Explanation
+
+Neff Corporation completed an Up-C IPO on November 26, 2014 and executed a Tax Receivable Agreement obligating PubCo to pay 85% of realized tax benefits from Section 754 basis step-ups (and imputed interest on TRA payments) to the Wayzata Funds, the LLC Option Holders, and the Management Representative. A May 2015 Amendment No. 1, retroactive to IPO, narrowed the covered taxes to U.S. federal only, reducing the calculation burden in exchange for the beneficiaries forfeiting the state/local/foreign component. After a brief detour through a July 2017 H&E merger agreement that was superseded, Neff agreed to a sale to United Rentals; both sides of the beneficiary roster signed Exchange and Termination Agreements waiving all TRA rights and terminating the contract at no cost effective immediately before the merger closing. The merger closed October 2, 2017 and the TRA terminated with no payment to the beneficiaries. See `contract_log.md` for the full filing-by-filing record.

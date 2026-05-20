@@ -1,0 +1,33 @@
+---
+title: "SOLV Energy TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["SOLV Energy, Inc."]
+CIKs: ["0002065636"]
+status: Ongoing
+creation-date: 2026-02-10
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Newly originated TRA; recognized initial long-term liability of $172.3M at
+  March 31 2026. Beneficiaries are Continuing Equity Owners and Blocker
+  Shareholders controlled by American Securities funds.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2026-01-23: Unexecuted draft TRA filed as Exhibit 10.6 to S-1/A Amendment No. 1 with blank preamble date
+- 2026-02-10: Up-C IPO closes (Nasdaq under MWH); TRA executed at 85% sharing rate with SOLV Energy Holdings LLC, the TRA Party Representative, and the Continuing Equity Owners and Blocker Shareholders
+- 2026-02-12: Executed TRA filed as Exhibit 10.2 to closing 8-K
+- 2026-03-31: First quarterly balance sheet recognizes $172.3M long-term TRA liability with offset to additional paid-in capital
+
+## Explanation
+
+SOLV Energy, Inc. executed a Tax Receivable Agreement on February 10, 2026 at its Up-C IPO close on Nasdaq, paying 85% of cumulative net realized tax benefits to the Continuing Equity Owners and Blocker Shareholders (the pre-IPO equityholders of SOLV Energy Holdings LLC, controlled by American Securities funds). Covered attributes are Section 754 basis adjustments from exchanges, Reorganization Transferred Basis, Blocker Attributes including pre-IPO net operating losses, and imputed interest on TRA payments. The initial long-term TRA liability of $172.3M was recognized at the first post-IPO balance-sheet date with a corresponding reduction to additional paid-in capital. The contract is one quarter old as of the May 2026 Q1 10-Q; no amendments, restatements, or terminations have occurred. See `contract_log.md` for the executed text and the unexecuted draft.

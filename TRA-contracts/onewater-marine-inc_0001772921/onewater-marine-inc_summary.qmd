@@ -1,0 +1,32 @@
+---
+title: "OneWater Marine Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["OneWater Marine Inc."]
+CIKs: ["0001772921"]
+status: Ongoing
+creation-date: 2020-02-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  No valuation allowance; underlying DTA realization is more-likely-than-
+  not. FY 2025 carrying value $37.5M undiscounted. No payments triggered
+  to date. No amendments.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-07-22: S-1/A files form-of TRA as Exhibit 10.3 (85% sharing of net cash tax savings from Section 754 basis step-ups on future Redemptions of LLC Units plus imputed interest)
+- 2020-02-11: TRA executed at IPO close among OneWater Marine Inc., the TRA Holders (Legacy Owners of One Water Marine Holdings, LLC), the Goldman/Beekman Agent, and Jeffrey B. Lamkin as Agent for the other TRA Holders
+- 2020-02-18: 8-K files the executed TRA as Exhibit 10.1
+
+## Explanation
+
+OneWater Marine Inc. completed an Up-C IPO on February 11, 2020 and executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net cash tax savings from Section 754 basis step-ups attributable to future Redemptions of OneWater LLC Units, plus imputed interest, to the Legacy Owners through two Agents (the Goldman/Beekman Agent and Jeffrey B. Lamkin for the other TRA Holders). The contract has not been amended or terminated; unlike most peer firms, OneWater Marine has carried no valuation allowance because realization of the underlying DTAs is more-likely-than-not, and accordingly maintains a TRA liability of approximately $37.5M undiscounted at FY 2025 year-end (September 30, 2025). No cash payments under the TRA have been triggered to date. Credit-facility amendments include standard Permitted TRA Payments carve-outs but do not modify the contract; the 2022 Ocean Bio-Chem acquisition and 2026 divestiture did not affect the TRA. See `contract_log.md` for the full filing-by-filing record.

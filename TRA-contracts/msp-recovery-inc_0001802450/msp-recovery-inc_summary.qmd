@@ -1,0 +1,37 @@
+---
+title: "MSP Recovery, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Lionheart Acquisition Corp. II", "MSP Recovery, Inc."]
+CIKs: ["0001802450", "0001802450"]
+status: Ongoing
+creation-date: 2022-05-23
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Full valuation allowance against the underlying DTAs throughout; no TRA
+  liability recognized through Q2 2025 (hypothetical $64.4M at June 30,
+  2025). Counterparties are the pre-merger Members of the MSP Purchased
+  Companies, principally John H. Ruiz and Frank C. Quesada.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-11-10: S-4 filed with form-of TRA embedded as an Annex (85% sharing of tax savings from Up-C reorganization basis step-ups and future Class B unit exchanges)
+- 2022-05-23: Business Combination closes; TRA executed among Lionheart II Holdings LLC (Opco), MSP Recovery, Inc. (renamed PubCo), and the TRA Parties
+- 2022-05-27: 8-K reports Business Combination close and files the executed TRA as Exhibit 10.4
+
+#### Valuation-allowance posture
+
+- 2023-07-27: FY 2022 10-K records no TRA liability under ASC 740 due to full valuation allowance against the relevant DTAs; treatment continues in every periodic filing through Q2 2025
+
+## Explanation
+
+MSP Recovery, Inc. emerged from the May 23, 2022 business combination between Lionheart Acquisition Corp. II (a SPAC) and Lionheart II Holdings LLC, with the renamed PubCo executing a Tax Receivable Agreement paying 85% of net realized tax benefits from the Up-C reorganization basis step-ups, future exchanges of Class B/V paired units for Class A common stock, and imputed interest. The principal counterparties are the pre-merger Members of the MSP Purchased Companies, with John H. Ruiz as TRA Party Representative. The TRA has not been amended or terminated; however, MSP Recovery has carried a full valuation allowance against the underlying deferred tax assets since execution, recognizing no TRA liability on the balance sheet because future taxable income is not probable (hypothetical TRA liability would be $64.4M at June 30, 2025). The deferred-CIK CSV cancel signal at 2022-06-30 reflects initial-recognition accounting noise around the merger close rather than an actual cancellation. See `contract_log.md` for the full filing-by-filing record.

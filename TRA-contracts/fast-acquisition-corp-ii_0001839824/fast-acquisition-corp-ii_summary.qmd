@@ -1,0 +1,38 @@
+---
+title: "FAST Acquisition Corp. II TRA (SPAC predecessor)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FAST Acquisition Corp. II", "Falcon's Beyond Global, Inc."]
+CIKs: ["0001839824", "0001937987"]
+status: Ongoing
+creation-date: 2023-10-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  FAST II was the SPAC predecessor; only form-of TRA exists on this CIK. Executed TRA
+  and post-close disclosures live under Falcon's Beyond Global, Inc. (CIK 0001937987).
+  See ../falcon-s-beyond-global-inc_0001937987/falcon-s-beyond-global-inc_summary.qmd.
+---
+
+## TRA Timeline
+
+#### Form-of TRA on the SPAC's CIK
+
+- 2022-07-12: Form-of TRA filed as Exhibit D embedded in the original Agreement and Plan of Merger, Exhibit 2.1 to the 8-K
+- 2023-09-15: Same form-of TRA re-filed as Annex F to the DEFM14A proxy statement / prospectus
+- 2023-09-26: FAST II stockholder vote approving the business combination
+
+#### Business combination close (TRA migrates to PubCo CIK)
+
+- 2023-10-06: Business combination closes; executed TRA is filed under Falcon's Beyond Global, Inc.'s CIK 0001937987
+- 2023-10-05: FAST II files Form 25 (delisting)
+- 2023-10-17: FAST II files Form 15-12G (deregistration)
+
+## Explanation
+
+FAST Acquisition Corp. II was a SPAC that, by stockholder vote on September 26, 2023, entered into an Up-C business combination with Falcon's Beyond Global, LLC. Under the deal structure, FAST II merged into Falcon's Beyond Global, Inc. (the PubCo and TRA obligor), and the LLC's pre-business-combination members became the Exchange TRA Holders. Only the unexecuted form-of TRA (preamble date and signatures blank) appears under FAST II's CIK, attached to the original merger agreement and to the definitive proxy as a beneficiary protection. FAST II's last filing was the September 26, 2023 stockholder-vote 8-K; the executed TRA and all subsequent disclosures live under the successor PubCo's CIK 0001937987. See `../falcon-s-beyond-global-inc_0001937987/falcon-s-beyond-global-inc_summary.qmd` for the executed contract's life and `contract_log.md` here for the form-of provenance.

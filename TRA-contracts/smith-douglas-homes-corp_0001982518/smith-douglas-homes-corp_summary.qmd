@@ -1,0 +1,36 @@
+---
+title: "Smith Douglas Homes TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Smith Douglas Homes Corp."]
+CIKs: ["0001982518"]
+status: Ongoing
+creation-date: 2024-01-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Continuing Equity Owners are the Bradbury Family Trust II ("Founder Fund") and
+  GSB Holdings LLC, both founder-affiliated vehicles. Recorded liability $9.857M
+  at 12/31/2025; hypothetical exchange-all liability $279M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2023-10-16: First form-of TRA filed as Exhibit 10.2 to S-1/A Amendment No. 1
+- 2024-01-10: TRA executed at 85% sharing rate with Smith Douglas Holdings LLC, the Bradbury Family Trust II, and GSB Holdings LLC; six days before IPO effective date
+- 2024-01-16: Up-C IPO closes; Corporation purchases 2,435,897 LLC Interests from Continuing Equity Owners triggering Section 743(b) basis step-up
+
+#### Initial recognition
+
+- 2024-12-31: FY2024 10-K recognizes $10.5M deferred tax asset and $10.4M TRA liability (85% of DTA) from the IPO purchase; no LLC exchanges occurred during 2024
+
+## Explanation
+
+Smith Douglas Homes Corp. executed a Tax Receivable Agreement on January 10, 2024, six days before its Up-C IPO effective date, paying 85% of realized tax benefits to the Bradbury Family Trust II and GSB Holdings LLC, the founders' holding vehicles. Covered attributes are Section 743(b) and 754 basis adjustments from LLC Interest purchases and exchanges, Section 704(c) allocations, and imputed interest. The Corporation used IPO proceeds to purchase 2,435,897 LLC Interests at close, generating the initial step-up. As of December 31, 2025, the TRA liability stands at $9.857M (down $0.5M from initial recognition due to a tax-rate remeasurement) with no payments made and no LLC-unit exchanges by the Continuing Equity Owners since IPO; the hypothetical-exchange-all liability would be $279.0M. No amendments, terminations, or waivers across any filing through Q1 2026. See `contract_log.md` for the form-of comparison and the accounting disclosures.

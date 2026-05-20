@@ -1,0 +1,39 @@
+---
+title: "Organogenesis Holdings TRA (never executed, Envigo)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Avista Healthcare Public Acquisition Corp.", "Organogenesis Holdings, Inc."]
+CIKs: ["0001661181", "0001661181"]
+status: Terminated
+creation-date: 2018-01-12
+termination-date: 2018-10-30
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: ""
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Never-executed form-of TRA from the abandoned Envigo business combination.
+  Treated as Terminated because the underlying SPAC deal lapsed at the
+  October 14, 2018 outside date; subsequent Organogenesis combination
+  closed without a TRA. Sharing ratio left blank since form-of percentage
+  was never finalized.
+---
+
+## TRA Timeline
+
+#### Envigo deal contemplation and form-of TRA
+
+- 2017-08-22: 8-K announces AHPAC-Envigo Transaction Agreement; TRA contemplated as Exhibit B to the agreement
+- 2018-01-12: S-4/A first attaches the form-of Tax Receivable Agreement as Exhibit 4.1
+
+#### Envigo deal lapses, no TRA executed
+
+- 2018-08-17: 8-K announces pivot to Organogenesis Inc. (no TRA in the new deal)
+- 2018-10-30: Insider Letter Agreement amendment acknowledges failure to close by October 14, 2018 SPAC outside date; Envigo deal abandoned
+- 2019-03-13: Closing 8-K for the Organogenesis business combination; conventional reverse-merger share exchange with no TRA
+
+## Explanation
+
+Avista Healthcare Public Acquisition Corp. (a Cayman Islands SPAC, CIK 0001661181) announced a business combination with Envigo International Holdings on August 22, 2017 that contemplated a Tax Receivable Agreement as part of the consideration mix paid to Envigo's pre-merger holders, alongside cash, AHPAC stock, and warrants. The form-of TRA was first attached as Exhibit 4.1 to the S-4/A filed January 12, 2018, naming AHPAC as Corporate Taxpayer, Envigo Holdings as a contracting party, and Jermyn Street Associates LLC as the Shareholders' Representative; the preamble date and signature blocks were left blank. The Envigo deal failed to close before the SPAC's 24-month outside date of October 14, 2018, after which AHPAC pivoted to a different target, Organogenesis Inc., which was acquired through a conventional reverse-merger share exchange on March 13, 2019 with no TRA. No post-merger Organogenesis Holdings filing references any TRA. See `contract_log.md` for the full filing-by-filing record.

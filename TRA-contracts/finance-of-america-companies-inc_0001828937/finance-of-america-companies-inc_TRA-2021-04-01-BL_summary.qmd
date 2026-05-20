@@ -1,0 +1,35 @@
+---
+title: "Finance of America Companies Inc. TRA (TRA-2021-04-01-BL)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Finance of America Companies Inc."]
+CIKs: ["0001828937"]
+status: Ongoing
+creation-date: 2021-04-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-04-01-Blackstone"]
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: founder vehicle
+notes: >-
+  BL Investors = Brian L. Libman and affiliated founder-side Continuing FoA Equity holders.
+  Executed TRA (Exhibit 10.7 to April 7, 2021 8-K, accession 0001193125-21-108963) is not
+  in this directory; terms inferred from 10-K narratives and the parallel-TRA structure.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and parallel TRAs
+
+- 2021-04-01: Finance of America / Replay Acquisition SPAC business combination closes; parallel BL Investors TRA and Blackstone TRA executed
+- 2021-04-07: Both executed TRAs filed as Exhibits 10.6 and 10.7 to 8-K (accession 0001193125-21-108963; not present in this directory)
+
+#### Blackstone parallel TRA terminated
+
+- 2026-02-27: Blackstone parallel TRA terminates at the Second Closing of the Amended and Restated Repurchase Agreement; BL Investors TRA continues in force
+
+## Explanation
+
+Finance of America Companies Inc. went public on April 1, 2021 through the Replay Acquisition SPAC business combination and entered two parallel Tax Receivable Agreements at closing: the BL Investors TRA with the Brian L. Libman founder-side Continuing FoA Equity holders, and a parallel TRA with Blackstone-affiliated funds. Both committed FOA to pay 85% of cash tax benefits from basis step-ups on sales and exchanges of Class A LLC Units. The two TRAs are economically identical in operative terms; their distinction is the beneficiary set. The parallel Blackstone TRA was terminated on February 27, 2026 at the Second Closing of the Amended and Restated Repurchase Agreement. The BL Investors TRA remains in force per the FY2025 10-K, where it appears as Exhibit 10.6 (renumbered after the Blackstone TRA was removed from the exhibit list). The executed BL Investors TRA contract is not in this directory; manual verification of the per-section terms against the parallel Blackstone TRA was not possible. See `contract_log.md` for the full filing-by-filing record.

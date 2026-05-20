@@ -1,0 +1,37 @@
+---
+title: "Blue Owl Capital Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Altimar Acquisition Corporation", "Blue Owl Capital Inc."]
+CIKs: ["0001823945", "0001823945"]
+status: Ongoing
+creation-date: 2021-05-19
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Single multi-beneficiary TRA: Owl Rock Capital Feeder LLC, Dyal Capital SLP LP, and Neuberger Berman vehicles (NBSH Blue Investments I and II) are co-parties, not separate contracts.
+  Manual verification flagged on the Q1-vs-Q2 2025 Second A&R refilings (LIBOR-vs-SOFR discrepancy).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-01-04: S-4 attaches the form-of TRA as Annex D.
+- 2021-05-19: De-SPAC Transaction closes (Altimar combined with Owl Rock and Dyal Capital Partners); executed Tax Receivable Agreement dated May 19, 2021.
+- 2021-05-21: 8-K reports closing and files the executed TRA as Exhibit 10.1.
+
+#### Amendments and restatements
+
+- 2021-10-22: Amended and Restated TRA dated October 22, 2021; first appears in the FY2022 10-K as Exhibit 10.2 (filed 2023-02-27). Same 85% rate and tax-attribute scope.
+- 2024-02-21: Amendment No. 1 to A&R TRA executed; administrative LIBOR-to-SOFR substitution in the "Agreed Rate" definition. Filed as Exhibit 10.36 to the FY2023 10-K.
+- 2025-04-01: Second Amended and Restated TRA dated April 1, 2025; filed as Exhibit 10.1 to the Q1 2025 10-Q (LIBOR-era draft attached in error) and refiled in the Q2 2025 10-Q (corrected SOFR version).
+
+## Explanation
+
+The TRA originates from Blue Owl's May 19, 2021 Up-C SPAC business combination (Altimar Acquisition Corporation combined with Owl Rock Capital Group and Dyal Capital Partners). Blue Owl pays 85% of cash tax savings on Section 754 basis step-ups arising from the Initial Sale, future exchanges of Exchangeable Units, FIC Distributions, and Opal Group Blocker Mergers, plus existing tax assets carried over from Dyal Capital Holdings and Opal Group, plus imputed-interest deductions. The contract is a single multi-beneficiary TRA with three named co-party groups (Owl Rock, Dyal/Neuberger SLP, NBSH Blue Investments) rather than parallel TRAs. The contract has been restated twice (October 2021 and April 2025) and amended once (February 2024, administrative LIBOR-to-SOFR substitution); none of these changed the 85% rate or the tax-attribute scope. See `contract_log.md` for the six-document lineage and the manual-verification flag on the Q1-vs-Q2 2025 refilings.

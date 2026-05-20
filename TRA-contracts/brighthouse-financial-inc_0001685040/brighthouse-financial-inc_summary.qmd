@@ -1,0 +1,37 @@
+---
+title: "Brighthouse Financial, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Brighthouse Financial, Inc.", "MetLife, Inc."]
+CIKs: ["0001685040", "0001099219"]
+status: Ongoing
+creation-date: 2017-07-27
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "86%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  86% = 85% Benefit Percentage plus 1% Deemed State Percentage; MetLife is sole beneficiary.
+  $328M payable to MetLife carried since year-end 2019; will be accelerated on closing of the November 6, 2025 Aquarian merger (TRA Section 4.01 Change of Control).
+  Tax Asset definition spans NOLs, capital losses, Section 197/848 amortization, and insurance tax reserves.
+---
+
+## TRA Timeline
+
+#### Spin-off and TRA execution
+
+- 2017-07-27: Tax Receivables Agreement executed between Brighthouse Financial, Inc. and MetLife, Inc. in connection with the contemplated separation.
+- 2017-08-04: Brighthouse spin-off from MetLife completed.
+- 2017-08-09: 8-K reports the separation and files the executed TRA as Exhibit 10.5.
+
+#### Pending merger-triggered acceleration
+
+- 2025-11-06: Agreement and Plan of Merger executed between Brighthouse and Aquarian Holdings; under TRA Section 4.01 this will be a Change of Control triggering an Early Termination Payment to MetLife.
+- 2026-02-12: Brighthouse stockholders approve the Aquarian merger. The $328M payable on the balance sheet is expected to accelerate at closing.
+
+## Explanation
+
+The TRA originates from Brighthouse Financial's August 4, 2017 spin-off from MetLife, Inc. and obligates Brighthouse to pay MetLife 86% (85% Benefit Percentage plus 1% Deemed State Percentage) of cash income tax savings actually realized by Brighthouse and its subsidiaries from the use of NOLs, capital losses, tax basis, Section 197/848 amortization or depreciation deductions, and insurance tax reserves arising from the Separation. The contract has not been amended or restated; the $328M payable to MetLife has been carried in other liabilities since year-end 2019. The November 6, 2025 Aquarian merger (approved by Brighthouse stockholders on February 12, 2026 but not yet closed as of the latest filing in the directory) will trigger an Early Termination Payment under TRA Section 4.01; the maximum amount is fixed in the Company Disclosure Letter and is not public. The TRA's anticipated post-close status is `terminated_change_of_control`. See `contract_log.md` for the full filing record and the merger-acceleration analysis.

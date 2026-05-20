@@ -1,0 +1,36 @@
+---
+title: "Red Rock Resorts TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Red Rock Resorts, Inc."]
+CIKs: ["0001653653"]
+status: Ongoing
+creation-date: 2016-04-28
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Liability $20.6M at December 31, 2025; ~46M LLC Units (41.3% of fully
+  exchanged Class A) remain held by Continuing Owners, implying substantial
+  remaining exposure as Units are exchanged.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2016-02-22: S-1/A Amendment No. 3 files form-of TRA as exhibit 10.4
+- 2016-04-28: TRA executed (preamble date), effective immediately prior to IPO consummation; between Red Rock Resorts, Inc., Station Holdco LLC, and the pre-IPO Members (Fertitta family entities and German American Capital Corporation), paying 85% of Cumulative Net Realized Tax Benefit on Section 754 basis adjustments from the IPO Sale and future Exchanges plus imputed-interest deductions
+- 2016-05-02: IPO consummated; 8-K files the executed TRA as exhibit 10.1
+
+#### Administrative amendment
+
+- 2019-03-28: Amendment No. 1 executed by majority Members (Red Rock Resorts, Station Holdco, Fertitta Business Management, FI Station Investor, FBM Sub 1); deletes Section 2.01 (Exchange Basis Schedule) and adds language permitting the Corporation to skip a Tax Benefit Schedule when there is no Realized Tax Benefit or Detriment for the year. Administrative only; payment rate, beneficiary set, and termination triggers unchanged
+
+## Explanation
+
+Red Rock Resorts' Up-C IPO on May 2, 2016 created a TRA paying 85% of Cumulative Net Realized Tax Benefit to the pre-IPO Members of Station Holdco LLC (principally Fertitta family entities and German American Capital Corporation), covering Section 754 basis adjustments from the IPO Sale and future Exchanges of LLC Units plus imputed-interest deductions. Amendment No. 1 (March 28, 2019) was administrative: it deleted the standalone Exchange Basis Schedule section and permitted the Corporation to skip Tax Benefit Schedule delivery in years with no Realized Tax Benefit or Detriment, leaving the 85% rate and beneficiary set unchanged. The TRA remains in force; year-end 2025 liability is $20.6M ($1.2M current, $19.4M long-term), and approximately 46M LLC Units (41.3% of fully exchanged Class A) remain held by Continuing Owners, so substantial future exposure can still build as those Units are exchanged. See `contract_log.md` for the full filing-by-filing record and the exhibit-index date discrepancy note on Amendment No. 1.

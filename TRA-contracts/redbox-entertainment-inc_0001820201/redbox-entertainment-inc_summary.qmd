@@ -1,0 +1,40 @@
+---
+title: "Redbox Entertainment TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Redbox Entertainment Inc.", "Seaport Global Acquisition Corp.", "Chicken Soup for the Soul Entertainment, Inc."]
+CIKs: ["0001820201", "0001820201", "0001626745"]
+status: Terminated
+creation-date: 2021-10-22
+termination-date: 2022-08-11
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Zero-payment termination at CSSE merger close. TRA Holder (Redwood Holdco)
+  voluntarily forewent payment as the May 10, 2022 amendment recites:
+  "foregoing substantial economic, financial and pecuniary benefits ... without
+  receipt of any payments or other consideration therefor."
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-10-22: Business combination closes between Seaport Global Acquisition Corp. (renamed Redbox Entertainment Inc.), Redwood Holdco LP, and Redwood Intermediate LLC; TRA executed with Redwood Holdco as TRA Holder, paying 85% of realized tax savings from Section 754 basis step-ups on future exchanges. Disclosed estimated $16.6M liability at $10.00/share (alternative $164.9M NPV if Redwood fully exchanged at Closing)
+
+#### Conditional termination commitment and narrow waiver
+
+- 2022-04-15: Voting and Support Agreement Section 2 binds Redwood LP and the Company to terminate the TRA upon consummation of a Board-approved strategic Transaction (executory commitment, not the termination itself); concurrent Waiver irrevocably waives the Section 4.1(c) Change of Control acceleration solely for subsection (iv) board-composition triggers
+
+#### Terminating amendment and CSSE merger close
+
+- 2022-05-10: Amendment to Tax Receivable Agreement executed; Article II Section 2.1 provides that immediately prior to the Effective Time of the merger with Chicken Soup for the Soul Entertainment, the TRA terminates in its entirety at no cost to any party; Article III provides automatic back-out if the Merger Agreement is terminated
+- 2022-08-11: CSSE merger closes; TRA terminates with no payment
+
+## Explanation
+
+Redbox Entertainment's October 22, 2021 SPAC business combination (Seaport Global Acquisition Corp. acquiring Redwood Holdco and Redwood Intermediate to form an Up-C structure) created a TRA paying 85% of realized tax savings from Section 754 basis step-ups to Redwood Holdco. The TRA was disposed of in three steps tied to the merger with Chicken Soup for the Soul Entertainment: an April 15, 2022 Voting and Support Agreement binding Redwood LP to terminate upon any consummated strategic Transaction; a concurrent narrow Waiver of the board-composition subsection of the Change of Control acceleration; and a May 10, 2022 terminating Amendment providing that the TRA terminates in its entirety immediately prior to the Effective Time of the CSSE merger at no cost to any party. The CSSE merger closed August 11, 2022, extinguishing the contract; Redwood Holdco voluntarily forewent any payment ("foregoing substantial economic, financial and pecuniary benefits ... without receipt of any payments or other consideration therefor"). See `contract_log.md` for the full filing-by-filing record and the waiver-vs-amendment relationship.

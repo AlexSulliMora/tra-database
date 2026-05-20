@@ -1,0 +1,38 @@
+---
+title: "Easterly Acquisition Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Easterly Acquisition Corp"]
+CIKs: ["0001641197"]
+status: Terminated
+creation-date: 2017-06-28
+termination-date: 2018-05-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: ""
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of only; never executed. Form-of TRA was Exhibit D inside the
+  Investment Agreement (Ex 2.1 to 2017-06-30 8-K). Payment percentage
+  not specified in preserved form. Termination = mutual termination
+  of the umbrella Investment Agreement.
+---
+
+## TRA Timeline
+
+#### JH Capital business combination announcement
+
+- 2017-06-28: Investment Agreement signed with JH Capital Group Holdings, LLC and the Founding Members; form-of TRA attached as Exhibit D
+- 2017-06-30: 8-K filed disclosing the Investment Agreement and form-of TRA (preamble dated `[ ] 2017`, signatures blank)
+
+#### Deal termination
+
+- 2018-05-31: Investment Agreement terminated by mutual agreement; form-of TRA never executed
+- 2018-06-25: Sirius International Insurance Group merger announced (non-Up-C, no TRA component)
+- 2018-11-05: Sirius merger closes; Easterly survives as Sirius Acquisitions Holding Company III; CIK ceases filing as EACQ
+
+## Explanation
+
+Easterly Acquisition Corp was a Delaware SPAC that announced an Up-C-style business combination with JH Capital Group Holdings, LLC on June 28, 2017, with a form-of Tax Receivable Agreement attached as Exhibit D to the Investment Agreement. The form-of TRA would have obligated the post-combination public corporation (to be renamed JH Capital Group Holdings, Inc.) to pay Class B Members a share of realized tax benefits from Section 754 basis step-ups on Class B Unit exchanges into JH Capital Group Holdings, LLC. The preamble was dated `[ ] 2017` with blank signature pages, and the contract was never executed because Easterly and JH Capital mutually terminated the Investment Agreement on May 31, 2018. Easterly subsequently closed a non-TRA Sirius International Insurance merger on November 5, 2018 and ceased filing under this CIK. See `contract_log.md` for the full filing-by-filing record.

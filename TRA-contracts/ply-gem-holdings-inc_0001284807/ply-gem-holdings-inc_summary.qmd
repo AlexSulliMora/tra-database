@@ -1,0 +1,44 @@
+---
+title: "Ply Gem Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ply Gem Holdings, Inc."]
+CIKs: ["0001284807"]
+status: Unknown
+creation-date: 2013-05-22
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Non-Up-C NOL-monetization TRA with PG ITR Holdco LP (a Caxton-Iseman
+  sponsor vehicle) as sole beneficiary. CD&R 2018 take-private expressly
+  preserved the TRA rather than triggering Section 4.01; subsequent fate
+  off-EDGAR. Aggregate payment cap ~$74.7M-$79.7M. Trace future filings
+  at NCI Building Systems / Cornerstone Building Brands (CIK 0000883902).
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2013-05-13: S-1/A Pre-Effective Amendment No. 5 attaches form-of TRA as Exhibit 10.41
+- 2013-05-22: TRA executed at IPO closing; executed copy filed May 29, 2013 as Exhibit 10.3 to the IPO closing 8-K
+
+#### First and only known payment
+
+- 2016-Q4: $5.0M paid to PG ITR Holdco for the 2015 tax year (only known cash payment in the EDGAR record)
+
+#### CD&R take-private preserves the TRA
+
+- 2018-01-31: Merger agreement with CD&R-controlled Pisces Midco filed; Section 5.11 expressly preserves the TRA and prohibits financing arrangements that would block TRA payments
+- 2018-04-12: CD&R take-private closes at $21.64/share; TRA continues at private survivor
+- 2018-04-27: Form 15 deregistration; ~$70M+ of estimated remaining payments transfer off-EDGAR at the CIK level
+- 2018-11-16: (Off-EDGAR for this CIK) Ply Gem merges with NCI Building Systems to form Cornerstone Building Brands; subsequent TRA fate would appear under CIK 0000883902
+
+## Explanation
+
+Ply Gem Holdings, Inc. entered into a non-Up-C Tax Receivable Agreement on May 22, 2013 at its NYSE IPO with PG ITR Holdco, L.P., a sponsor vehicle controlled by the Caxton-Iseman partnerships (the pre-IPO controlling stockholder). The TRA pays 85% of the cash tax savings Ply Gem realizes from monetizing pre-2013 federal, state, and local NOL carryforwards plus deductible expenses tied to the IPO (advisory-fee termination, unamortized debt discount, premiums on IPO-proceeds-repaid debt) and TRA-imputed interest, with an implicit cap around $74.7M-$79.7M reflecting the finite NOL stock. There is no Section 754 step-up mechanism because there is no underlying LLC. Only one cash payment ($5.0M for tax year 2015) is documented in the EDGAR record. The 2018 CD&R take-private, closed April 12, 2018, expressly preserved the TRA under Section 5.11 of the merger agreement rather than triggering Section 4.01, shifting the remaining ~$70M+ of contemplated payments to the private survivor; the TRA's subsequent fate is off-EDGAR under this CIK and would need to be traced through Cornerstone Building Brands filings (CIK 0000883902). See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,36 @@
+---
+title: "Diversey Holdings, Ltd. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Diversey Holdings, Ltd."]
+CIKs: ["0001831617"]
+status: Terminated
+creation-date: 2021-03-24
+termination-date: 2023-07-05
+tax-asset-type: [NOL, Other tax credit]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Cayman PubCo; non-Up-C single-corporate-parent structure with U.S. and Dutch tax-asset coverage.
+  Tax Receivable Termination Agreement dated March 8, 2023 terminated TRA at Merger close for
+  zero consideration; Bain (controlling beneficiary) rolled equity into buyer instead.
+---
+
+## TRA Timeline
+
+#### Origination at IPO
+
+- 2021-03-16: Form-of TRA first filed as Exhibit 10.17 to S-1/A
+- 2021-03-24: TRA executed at IPO close between Diversey Holdings (Cayman PubCo), Diversey Holdings I (UK), BCPE Diamond Cayman Holding (Shareholder Representative), and Shareholders listed on Schedule A
+
+#### Termination at Olympus Water / Solenis acquisition
+
+- 2023-03-08: Tax Receivable Termination Agreement executed concurrent with Merger Agreement; provides TRA terminates irrevocably at the Effective Time of the Merger for no consideration, conditional on consummation
+- 2023-07-05: Merger with Olympus Water Holdings IV (Platinum Equity / Solenis affiliate) closes; TRA terminates by operation of the Termination Agreement
+
+## Explanation
+
+This TRA originated at Diversey's March 2021 IPO and was structured around a Cayman PubCo and a UK holding company, with the covered tax assets being Pre-IPO U.S. Tax Assets (paid in USD) and Pre-IPO Dutch Tax Assets (paid in Euros), including foreign tax credits, NOLs, and similar items attributable to periods on or prior to the IPO. The payment percentage was 85%. At the March 2023 announcement of the Olympus Water Holdings IV / Solenis acquisition, the parties executed a freestanding Tax Receivable Termination Agreement providing that the TRA would terminate at the Merger Effective Time "for no consideration"; the unusual zero-consideration release is explained by Bain Capital's role as the controlling pre-IPO shareholder, which rolled equity into the buyer's Topco rather than cashing out, and by a separate $200M-cap Tax Indemnity Agreement that BCPE delivered to the buyer in lieu of TRA payments. The Merger closed July 5, 2023 and the TRA terminated at that Effective Time. See `contract_log.md` for the full filing record.

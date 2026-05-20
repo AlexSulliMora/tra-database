@@ -1,0 +1,42 @@
+---
+title: "WEX Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Wright Express Corporation", "WEX Inc.", "Cendant Corporation", "Avis Budget Group, Inc.", "Realogy Corporation", "Wyndham Worldwide Corporation"]
+CIKs: ["0001309108", "0001309108", "0000723612", "0000723612", "0001398987", "0001361658"]
+status: Ongoing
+creation-date: 2005-02-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Other
+counterparty-type: Other
+notes: >-
+  Cendant successor chain: Cendant renamed to Avis Budget Group in 2006;
+  Cendant Contingent Asset allocated 62.5% to Realogy and 37.5% to Wyndham.
+  TRA economically near-exhausted (last disclosed balance $2.0M at 2020-12-31);
+  exhibit incorporated by reference through 2025 10-K.
+---
+
+## TRA Timeline
+
+#### IPO origination
+
+- 2005-02-14: Form of Tax Receivable Agreement filed as Exhibit 10.4 to S-1/A (unexecuted draft, 85% pay-over of excess Hypothetical over Actual Tax Liability).
+- 2005-02-22: Executed TRA dated February 22, 2005, between Cendant Corporation, Cendant Mobility Services Corporation, and Wright Express Corporation, filed on 8-K (2005-02-16).
+
+#### Cendant separation and Realogy prepayment
+
+- 2006: Cendant separation reallocates the TRA payment stream as a Cendant Contingent Asset (Realogy 62.5%, Wyndham 37.5%); WEX's obligation unchanged.
+- 2009-06-26: Tax Receivable Prepayment Agreement: WEX pays Realogy $51M lump sum against $187M carrying value to extinguish Realogy's allocated share. Ratification Agreement same date confirms residual pay-over to Wyndham at 31.875% (= 37.5% of 85%).
+
+#### Economic decay
+
+- 2017-12-31: TCJA-driven $15.3M non-cash reduction; federal rate cut from 35% to 21% reduces the Hypothetical Tax Liability and thus future pay-overs.
+- 2020-12-31: Last disclosed balance of $2.0M; 2021 10-K onward shows only the exhibit listing, no footnote balance.
+
+## Explanation
+
+The WEX TRA originated at the February 2005 IPO, when Wright Express LLC was converted into Wright Express Corporation immediately before the offering and the resulting basis step-up generated future tax savings owed to Cendant Corporation. WEX agreed to pay 85% of the excess of its Hypothetical Tax Liability (computed without the step-up) over its Actual Tax Liability. The 2006 Cendant separation reassigned the payment stream to Realogy and Wyndham as successor beneficiaries; in June 2009 WEX prepaid Realogy's 62.5% share for $51M, leaving Wyndham as the sole remaining counterparty at an effective 31.875% pay-over. The carrying value then decayed steadily, with the 2017 TCJA driving a $15.3M one-time step-down as the lower 21% corporate rate reduced future Hypothetical Tax Liabilities. The last reported balance is $2.0M at year-end 2020; the TRA remains an exhibit in the 2025 10-K by incorporation, but the economic obligation has effectively run off without a formal termination instrument. See `contract_log.md` for the full filing-by-filing record.

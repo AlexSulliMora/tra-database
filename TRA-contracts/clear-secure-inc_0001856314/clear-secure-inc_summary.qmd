@@ -1,0 +1,37 @@
+---
+title: "Clear Secure, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Clear Secure, Inc."]
+CIKs: ["0001856314"]
+status: Ongoing
+creation-date: 2021-06-29
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  TRA liability not recorded on the balance sheet until 2024 because of full valuation
+  allowance against deferred tax assets; partial release in 2024 introduced a $196.8M liability
+  growing to $252.5M by Q1 2026.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-06-07: Form-of TRA first filed as Exhibit 10.4 to S-1
+- 2021-06-29: TRA executed (preamble dated June 29, 2021) between Clear Secure, Inc. and Alclear Investments LLC, Alclear Investments II LLC, plus other LLC Members; payment percentage 85%
+- 2021-07-02: Executed TRA filed as Exhibit 10.5 to the IPO closing 8-K
+
+#### Valuation-allowance lifecycle (not contract events; balance-sheet trajectory)
+
+- 2024-02-26: FY2024 10-K records first TRA liability of $196.8M after partial release of the valuation allowance
+- 2026-05: Q1 2026 10-Q reports $252.5M TRA liability
+
+## Explanation
+
+This is a textbook Up-C TRA executed at Clear Secure's June 2021 IPO between Clear Secure as the Corporate Taxpayer and the LLC-shareholder side (Alclear Investments LLC and Alclear Investments II LLC, the Founder Entities, plus the other LLC Members of Alclear Holdings, LLC). The payment percentage is 85% of Cumulative Net Realized Tax Benefit on Section 754 basis step-ups from exchanges of Common Units for Class A or B stock plus imputed interest. The June 2023 Second Amended and Restated Operating Agreement of Alclear Holdings adjusted Tax Distribution timing but did not amend the TRA itself. The TRA remains in force; the balance-sheet liability did not appear until FY2024 when a partial release of the valuation allowance on the underlying deferred tax assets brought $196.8M onto the books, growing to $252.5M at Q1 2026. See `contract_log.md` for the full filing record.

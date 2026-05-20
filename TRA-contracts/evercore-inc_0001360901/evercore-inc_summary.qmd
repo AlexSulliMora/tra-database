@@ -1,0 +1,44 @@
+---
+title: "Evercore Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Evercore Inc.", "Evercore Partners Inc."]
+CIKs: ["0001360901", "0001360901"]
+status: Ongoing
+creation-date: 2006-08-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Evercore Partners Inc. renamed Evercore Inc. effective 2017-07-27;
+  PubCo legal entity unchanged. TCJA December 2017 caused $77.5M
+  downward remeasurement (35% to 21% federal rate). YE2025 TRA
+  obligation $69.84M; expected to run through ~2035.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2006-04-14: Form-of TRA filed as Ex 10.2 to original S-1 (unexecuted)
+- 2006-08-10: Up-C IPO; TRA executed between PubCo and Partners of Evercore LP
+- 2006-08-11: Class A common stock begins trading on NYSE (EVR)
+- 2006-11-07: Executed TRA filed as Ex 10.2 to Q2 2006 10-Q
+
+#### Liability buildup and TCJA remeasurement
+
+- 2008-02 (FY2007 10-K): First TRA liability recognition of $37.6M from 2007 secondary-offering-related exchanges
+- 2015-12-31: TRA contractual obligation peaks at $202.08M
+- 2018-02 (FY2017 10-K): TCJA enacted December 22, 2017 cuts federal rate from 35% to 21%; TRA remeasured downward by $77.535M to $103.20M (valuation change, not amendment)
+
+#### Ongoing runoff
+
+- 2026-02 (FY2025 10-K): YE2025 contractual obligation $69.84M; FY2025 cash payment $11.37M; no amendments or terminations across the firm's 20 annual reports
+
+## Explanation
+
+Evercore Partners Inc. (renamed Evercore Inc. effective July 27, 2017) executed its sole Tax Receivable Agreement at the August 10, 2006 Up-C IPO close, paying 85% of cash tax savings on Section 754 basis adjustments arising from exchanges of Evercore LP Partnership Units for Class A common stock, plus imputed-interest deductions on TRA payments. The contract has never been amended, restated, or terminated across twenty annual reports; the 2011 Lexicon Partners acquisition and 2025 Robey Warshaw acquisition added no TRA beneficiaries. The TRA contractual obligation built up to a peak of $202.08M at YE2014 as Senior Managing Directors exchanged units in successive secondary offerings, then remeasured downward by $77.535M in December 2017 when the Tax Cuts and Jobs Act dropped the federal corporate rate from 35% to 21%. The TRA has paid out steadily at $9-13M annually since 2013 and stood at $69.84M at YE2025; the FY2025 cash-flow schedule shows payments continuing through at least 2035. See `contract_log.md` for the full filing-by-filing record and the year-by-year payment and obligation history.

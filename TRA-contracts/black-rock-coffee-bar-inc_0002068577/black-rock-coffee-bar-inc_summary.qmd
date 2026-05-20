@@ -1,0 +1,31 @@
+---
+title: "Black Rock Coffee Bar, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Black Rock Coffee Bar, Inc."]
+CIKs: ["0002068577"]
+status: Ongoing
+creation-date: 2025-09-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA liability $42.5M at 3/31/2026 (Q1 2026 10-Q), up from $40.6M initial recognition at 9/30/2025.
+  TRA Parties include Cynosure sponsor entities, Co-Founder family gifting trusts, and individual executives.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-09-02: S-1/A files the form-of TRA as Exhibit 10.7.
+- 2025-09-11: IPO closes; Tax Receivable Agreement executed by Black Rock Coffee Bar, Inc., Black Rock Coffee Holdings, LLC, and the Cynosure / Co-Founder-trust / individual TRA Parties.
+- 2025-09-16: 8-K reports IPO closing and files the executed TRA as Exhibit 10.2.
+
+## Explanation
+
+The TRA originates from Black Rock Coffee Bar's September 11, 2025 Up-C IPO, with the Cynosure-affiliated sponsor entities, Co-Founder family gifting trusts (Davis, Brand, Spellmeyer, Pereboom), and individual executives and directors as TRA Parties. Black Rock Coffee Bar, Inc. pays 85% of the Cumulative Net Realized Tax Benefit on Section 754 basis step-ups arising from redemptions, direct exchanges, and other exchanges of Common Units, plus imputed-interest deductions on TRA payments. The contract has not been amended or terminated. The TRA liability stood at $42.5M as of March 31, 2026, having grown from initial recognition through additional Q1 2026 unit exchanges. See `contract_log.md` for the full party list and same-contract reasoning across the form-of and executed versions.

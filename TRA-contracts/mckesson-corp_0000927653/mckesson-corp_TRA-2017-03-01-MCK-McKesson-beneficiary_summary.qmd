@@ -1,0 +1,41 @@
+---
+title: "McKesson Corporation TRA (MCK beneficiary at Change Healthcare)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["McKesson Corporation", "Change Healthcare LLC"]
+CIKs: ["0000927653", "0001651562"]
+status: Terminated
+creation-date: 2017-03-01
+termination-date: 2022-10-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2017-03-01-Echo-Sponsor"]
+role: Beneficiary
+trigger-event-type: JV formation
+counterparty-type: M&A sellers
+notes: >-
+  Only form-of on file at McKesson; executed instrument lives under
+  Change Healthcare CIK 0001651562. October 2022 early termination
+  paid McKesson $126M; FY2019 amendment extinguished $90M pre-payment.
+---
+
+## TRA Timeline
+
+#### JV formation and TRA execution
+
+- 2016-06-28: Agreement of Contribution and Sale signed; Exhibit C attaches form-of MCK TRA
+- 2016-07-05: 8-K Item 1.01 files the Contribution Agreement and form-of TRA
+- 2017-03-01: Change Healthcare JV closes; executed MCK TRA effective (executed instrument not in McKesson's CIK directory)
+
+#### FY2019 renegotiation
+
+- 2018-Q2 (FY2019): TRA renegotiated; $90M McKesson-side liability extinguished in exchange for an allocation of tax amortization (amendment instrument not filed under McKesson's CIK)
+
+#### Early termination
+
+- 2022-10-03: Change Healthcare acquired by UnitedHealth/Optum
+- 2022-10: Change Healthcare exercises TRA early-termination right; McKesson receives $126M cash payment, recorded as a Q3 FY2023 gain in Other income, net
+
+## Explanation
+
+McKesson is the beneficiary side of one of two parallel TRAs created at the March 1, 2017 formation of the Change Healthcare JV (PF2 Newco LLC / Change Healthcare LLC) under which the JV agreed to pay 85% of cash tax savings from amortization of contributed-asset tax basis (Section 754-style step-up plus contributed-basis amortization) to the MCK TRA Parties; this is an asset-contribution / drop-down TRA pattern, with the JV as obligor and McKesson as beneficiary, rather than the typical Up-C structure. The only TRA documents on file in McKesson's CIK are the form-of exhibits to the 2016 Contribution Agreement; the executed instrument and any amendments live under Change Healthcare's CIK (0001651562). The TRA was renegotiated in fiscal Q2 2019 (extinguishing $90M of McKesson-side liability for an allocation of tax amortization) and was terminated by Change Healthcare under the contract's own early-termination provisions in October 2022, shortly after the UnitedHealth/Optum acquisition closed; McKesson received a $126M cash payment that it recorded as a Q3 FY2023 gain. The termination instrument is not filed under McKesson's CIK. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,38 @@
+---
+title: "Paperweight Development Corp TRA (never executed, HACII)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Paperweight Development Corp.", "Hicks Acquisition Company II, Inc."]
+CIKs: ["0001166365", ""]
+status: Terminated
+creation-date: 2012-05-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA from the abandoned 2012 Hicks Acquisition Company II SPAC
+  combination; never executed because the underlying Cross Purchase
+  Agreement was abandoned later in 2012. PDC would have been the S-corp
+  counterparty / beneficiary; HACII would have been the public obligor.
+  Termination date not on EDGAR for PDC (the abandonment 8-K would have
+  been filed by HACII).
+---
+
+## TRA Timeline
+
+#### HACII combination announcement and form-of TRA
+
+- 2012-05-16: 8-K announces Cross Purchase Agreement with Hicks Acquisition Company II; form-of TRA attached as Exhibit A to the Cross Purchase Agreement (Exhibit 2.2)
+- 2012-06-20: Amendment No. 1 to Equity Purchase Agreement restructures warrant-holder treatment; TRA itself unchanged
+
+#### Deal abandonment
+
+- 2012 (mid-to-late): HACII transaction abandoned (announced via HACII's own filings, not in PDC's stream); HACII subsequently dissolves its trust in 2013
+
+## Explanation
+
+Paperweight Development Corp. (the S-corporation holding company for Appleton Papers / Appvion) signed a Cross Purchase Agreement with Hicks Acquisition Company II on May 16, 2012 contemplating a SPAC business combination in which HACII would become the public obligor under a Tax Receivable Agreement and PDC would sit on the beneficiary side as the contributor of Appleton Class B Exchangeable Units. The form-of TRA attached as Exhibit A to the Cross Purchase Agreement carried an 85% Sharing Percentage covering Section 754, 743(b), 734(b), and 732 basis adjustments arising from future Unit exchanges plus Section 704(c) remedial allocations and imputed-interest deductions; the preamble date and signature blocks were blank. The HACII transaction was abandoned later in 2012 without closing, HACII subsequently dissolved its trust in 2013, and no executed TRA ever came into being. Appvion's later 2017 Chapter 11 filing did not involve any TRA because none had been entered into. See `contract_log.md` for the full filing-by-filing record.

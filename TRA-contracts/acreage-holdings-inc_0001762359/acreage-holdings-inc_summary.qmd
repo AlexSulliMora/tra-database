@@ -1,0 +1,43 @@
+---
+title: "Acreage Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Acreage Holdings, Inc."]
+CIKs: ["0001762359"]
+status: Unknown
+creation-date: 2018-11-14
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "65%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Recipients got 65%; a separate Tax Receivable Bonus Plan distributed an
+  additional 20% to executives (not a TRA). Original contract and First/Second
+  Amendments not in download set; Form 15-12G filed Dec 9, 2024 (post-directory).
+---
+
+## TRA Timeline
+
+#### Up-C reverse takeover and TRA execution
+
+- 2018-11-14: Reverse takeover closes; Up-C structure established with HSCP at LLC level and Acreage Holdings America (USCo) as manager; TRA executed same day
+- 2019-02-20: 6-K describes the TRA terms (65% to TRA Recipients, 20% to Bonus Plan, 15% retained)
+- 2019-06-27?: First Amendment executed (referenced in Third Amendment recitals; not in download set)
+- 2020-09-23?: Second Amendment executed in parallel with the Amended Canopy Arrangement (referenced in Third Amendment recitals; not in download set)
+
+#### Third Amendment and Canopy USA assignment
+
+- 2022-10-24: Third Amendment adds drag-along provision and assigns all TRA Member beneficiary rights to Canopy USA for approximately $30.44M in Canopy Shares
+- 2022-11-04: First $15.25M installment of Canopy Shares issued to TRA Members
+- 2023-03-17: Second $15.2M installment issued
+
+#### Acreage deregistration
+
+- 2024-12-09: Form 15-12G filed (deregistration); TRA fate post-deregistration not verifiable from this directory
+
+## Explanation
+
+Acreage's November 14, 2018 reverse takeover established an Up-C structure with HSCP as the operating LLC, and the TRA executed the same day entitled the pre-RTO HSCP holders to 65% of the cash tax benefits USCo realizes from Section 754 basis step-ups generated when HSCP units are exchanged for Subordinate Voting Shares (a separate Tax Receivable Bonus Plan paid an additional 20% to executives). Three amendments followed; the operative one in this directory is the October 24, 2022 Third Amendment, executed alongside the Floating Share Arrangement Agreement with Canopy Growth, which assigned all TRA beneficiary rights to Canopy USA in exchange for approximately $30.44M of Canopy Shares (paid in two installments, November 2022 and March 2023) and added drag-along mechanics tied to the planned Canopy acquisition. No cash payments have ever been made under the TRA itself, and the agreement remained in force with Canopy USA as sole beneficiary as of the September 30, 2024 10-Q; Acreage then filed Form 15-12G on December 9, 2024 to deregister, so the post-acquisition fate of the TRA is not verifiable from this directory. See `contract_log.md` for the full filing-by-filing record.

@@ -47,6 +47,7 @@ HIT_COLUMNS = (
     "primary_doc",
     "ciks",
     "form",
+    "file_type",
     "display_names",
     "file_date",
     "snippet",
@@ -75,6 +76,12 @@ def _hit_to_row(hit: dict) -> dict:
         "primary_doc": primary_doc,
         "ciks": src.get("ciks"),
         "form": src.get("form"),
+        # The exhibit type of the matched document ("EX-10.1", "EX-99.1",
+        # "8-K", ...). Per-document, unlike ``form`` which is the parent
+        # filing's form type. Lets a caller keep only the documents that
+        # themselves matched the query rather than every exhibit in the
+        # filing.
+        "file_type": src.get("file_type"),
         "display_names": src.get("display_names"),
         "file_date": src.get("file_date"),
         "snippet": src.get("snippet") or (hit.get("highlight") or {}).get("text"),

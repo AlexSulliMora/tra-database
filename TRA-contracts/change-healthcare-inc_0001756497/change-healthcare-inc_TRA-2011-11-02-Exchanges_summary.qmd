@@ -1,0 +1,39 @@
+---
+title: "Change Healthcare Inc. TRA (TRA-2011-11-02-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Emdeon Inc.", "Change Healthcare Holdings, Inc.", "Change Healthcare Inc."]
+CIKs: ["0001444598", "0001444598", "0001756497"]
+status: Terminated
+creation-date: 2011-11-02
+termination-date: 2022-10-03
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2009-08-17-Management", "TRA-2011-11-02-Reorganizations", "TRA-2017-02-28-Change-Healthcare-IPO", "TRA-2017-03-01-McKesson"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amended-and-restated form of the 2009 Emdeon Exchanges TRA. Beneficiaries are H&F ITR Holdco,
+  Beagle Parent (Blackstone), and GA-H&F ITR Holdco. Terminated at UnitedHealth merger close
+  via Jan 5, 2021 Acknowledgment plus Article IV Early Termination Payment.
+---
+
+## TRA Timeline
+
+#### Origination as Amended and Restated TRA
+
+- 2011-11-02: A&R TRA (Exchanges) executed at the Blackstone going-private merger of Emdeon, replacing GA ITR Holdco with Beagle Parent LLC on the beneficiary side
+- 2019-03-15: Filed under Change Healthcare Inc.'s CIK as Exhibit 10.5 to S-1; assumed at 2019 IPO
+
+#### UnitedHealth merger and pre-acknowledgment
+
+- 2021-01-06: 8-K announces UnitedHealth merger agreement; Acknowledgment and Termination Agreement dated January 5, 2021 acknowledges that Merger consummation will constitute a Change of Control and that the Company will terminate this TRA and make the Article IV Early Termination Payment at close
+
+#### Termination at merger Effective Time
+
+- 2022-10-03: UnitedHealth merger Effective Time; TRA terminated; Article IV Early Termination Payment delivered
+
+## Explanation
+
+This TRA covers Section 754 basis step-ups on future LLC-unit exchanges and is the Amended and Restated form of Emdeon's 2009 Investors TRA (Exchanges). It was executed at the November 2011 Blackstone going-private merger when Beagle Parent LLC replaced GA ITR Holdco as the GA-side beneficiary; the contract then traveled through the 2017 McKesson JV (as one of three "Existing Echo TRAs"), the 2019 IPO of Change Healthcare Inc., and into the UnitedHealth deal. The January 5, 2021 Acknowledgment and Termination Agreement bound the Blackstone-affiliated parties to the contractual Early Termination Payment formula under Article IV of the underlying contract conditional on Merger consummation; the Merger closed October 3, 2022 and the TRA terminated at that Effective Time. See `contract_log.md` for the full filing record.

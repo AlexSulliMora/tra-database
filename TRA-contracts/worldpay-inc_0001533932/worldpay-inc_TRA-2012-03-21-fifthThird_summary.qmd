@@ -1,0 +1,45 @@
+---
+title: "Worldpay, Inc. TRA (TRA-2012-03-21-fifthThird)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vantiv, Inc.", "Worldpay, Inc.", "Fidelity National Information Services, Inc.", "Fifth Third Bancorp"]
+CIKs: ["0001533932", "0001533932", "0001136893", "0000035527"]
+status: Unknown
+creation-date: 2012-03-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-03-21-advent", "TRA-2012-03-21-jpdn", "TRA-2012-03-21-npcNOLs", "TRA-2014-05-12-mercury"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Worldpay acquired by Fidelity National Information Services (FIS) on
+  July 31, 2019; TRA survived the merger at the FIS-subsidiary level
+  (the merger 8-K terminated the loan agreement, not the TRA). Status
+  is Unknown because post-close TRA-specific disclosure under FIS has
+  not been read in this directory.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-05: Form-of TRA filed as Exhibit 10.30 to S-1/A Amendment No. 5.
+- 2012-03-21: Vantiv Up-C IPO closes; TRA executed between Vantiv, Inc., Fifth Third Bank, and FTPS Partners, LLC (an affiliate of Fifth Third); 85% of Realized Tax Benefits on Section 743(b) basis adjustments from Fifth Third's exchanges of Class B Units (and Class C Units issuable under a Warrant) of Vantiv Holding plus Imputed Interest.
+- 2012-05-08: Executed TRA filed as Exhibit 10.6 to Q1 2012 10-Q.
+
+#### Purchase addendums and Fifth Third exchange
+
+- 2015-10-23: Tax Receivable Purchase Addendum: cap-and-release of 743(b) Tax Items from the March 2012 and December 2012 Covered Exchanges (covers this TRA and the NPC NOLs TRA jointly).
+- 2016-07-27: Second Tax Receivable Purchase Addendum: adds call/put options on Subsequent Covered Exchanges.
+- 2017-08-07: Transaction Agreement: Fifth Third exchanges 19,790,000 Class B Units; Vantiv repurchases at $64.04/share; Section 3.5 covenant cross-references both Fifth Third TRAs.
+
+#### Vantiv rebrand and FIS acquisition
+
+- 2018-01-16: Vantiv rebrands as Worldpay, Inc.
+- 2019-07-31: FIS acquires Worldpay; TRA survives the merger at the FIS-subsidiary level.
+
+## Explanation
+
+This Fifth Third TRA was executed at Vantiv's March 21, 2012 Up-C IPO and covers the Section 743(b) basis step-ups generated when Fifth Third exchanges Class B Units (and warrant-issued Class C Units) of Vantiv Holding for Class A common stock or cash, plus Imputed Interest on payment-on-payment recursion; the pay-over is 85% of Realized Tax Benefits. Two Tax Receivable Purchase Addendums (October 2015 and July 2016) layered cap-and-release plus call/put-option structures over the original contract, and the August 2017 Transaction Agreement settled one large Fifth Third exchange of approximately 19.8M Class B Units alongside related TRA covenants. Vantiv rebranded as Worldpay in January 2018 and was acquired by Fidelity National Information Services on July 31, 2019; the merger 8-K terminated the loan agreement but not the TRA, which survives at the FIS-subsidiary level. Status is set Unknown here pending a read of FIS's post-close TRA disclosure for this specific contract. See `contract_log.md` for the full filing-by-filing record and the parallel-TRA mapping.

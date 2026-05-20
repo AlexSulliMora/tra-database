@@ -1,0 +1,37 @@
+---
+title: "Paya Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FinTech Acquisition Corp. III", "Paya Holdings Inc.", "Nuvei Corporation"]
+CIKs: ["0001819881", "0001819881", ""]
+status: Terminated
+creation-date: 2020-10-16
+termination-date: 2023-02-22
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Terminated under contract's own Section 4.3 Change of Control mechanism
+  upon Nuvei tender-offer acquisition. Early Termination Payment of
+  $19,520,607.90 closely matched the accrued contract liability (not a
+  negotiated discount).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-09-04: S-4/A1 attaches form-of TRA as Exhibit 10.15
+- 2020-10-16: FinTech Acquisition Corp. III closes business combination with GTCR-Ultra Holdings II; executed TRA filed as Exhibit 10.4 to the 8-K covering pre-Transaction tax attributes, Section 754 step-ups, and TRA-imputed interest
+
+#### Change-of-control termination via Nuvei acquisition
+
+- 2023-01-08: TRA Termination Agreement executed (Exhibit 10.2 to the Nuvei merger 8-K); invokes Section 4.3 Change of Control treatment and fixes Early Termination Payment at $19,520,607.90 payable immediately before Offer Acceptance Time
+- 2023-02-22: Nuvei tender offer accepted; merger closes and TRA termination becomes effective upon payment
+
+## Explanation
+
+Paya Holdings Inc. became the TRA obligor on October 16, 2020 at the closing of the FinTech Acquisition Corp. III SPAC combination with GTCR-Ultra Holdings II, with the GTCR-affiliated counterparties (GTCR-Ultra Holdings LLC and GTCR Fund XI/C LP) as beneficiaries. The TRA pays beneficiaries 85% of net cash tax savings realized from pre-Transaction tax attributes of the GTCR Blocker and Holdings entities, Section 754 basis step-ups from the closing transactions, basis increases from TRA payments themselves, and TRA-imputed interest. On January 8, 2023 Paya executed a TRA Termination Agreement in connection with Nuvei Corporation's tender-offer acquisition; the agreement invoked the contract's own Section 4.3 Change of Control trigger, fixed the Early Termination Payment at $19,520,607.90, and provided for absolute termination effective immediately before the Offer Acceptance Time. Nuvei's tender offer closed on February 22, 2023, the payment was made, and the TRA terminated; the payment closely matched the previously accrued $19.5M liability, making this a clean contract-formula payout rather than a negotiated discount. See `contract_log.md` for the full filing-by-filing record.

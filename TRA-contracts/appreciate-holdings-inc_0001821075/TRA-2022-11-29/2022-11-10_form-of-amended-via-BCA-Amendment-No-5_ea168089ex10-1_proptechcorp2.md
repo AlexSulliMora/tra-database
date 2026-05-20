@@ -1,0 +1,730 @@
+---
+title: "TO BUSINESS COMBINATION AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.1**
+
+***Execution Version***
+
+# TO BUSINESS COMBINATION AGREEMENT
+
+AMENDMENT NO. 5.
+
+**THIS AMENDMENT NO 5. TO BUSINESS COMBINATION AGREEMENT** (this "Amendment"), is made as of November 4, 2022, by and among (a) PropTech Investment Corporation II, a Delaware corporation ("PTIC II"), (b) RW National Holdings, LLC, a Delaware limited liability company (the "Company") and (c) Lake Street Landlords, LLC, a Delaware limited liability company ("Lake Street"), in its capacity as the representative of the application Company Unit Holders (in such capacity, the "Sellers' Representative"). PTIC II, the Company and the Sellers' Representative shall be referred to herein from time to time collectively as the "Parties").
+
+## BACKGROUND
+
+  -- ---- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     A.   PTIC II, the Company and the Sellers Representative entered into that certain Business Combination Agreement, dated as of May 17, 2022, as amended by that certain Amendment to Business Combination Agreement, dated May 27, 2022, as amended by that certain Amendment No. 2 to Business Combination Agreement, dated July 13, 2022, as amended by that certain Amendment No. 3 to Business Combination Agreement, dated September 7, 2022 and as amended by that certain Amendment No. 4 to the Business Combination Agreement, dated October 15, 2022 (the "Business Combination Agreement").
+  -- ---- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -- ---- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     B.   In accordance with Section 9.3 of the Business Combination Agreement, the Parties desire to amend the Business Combination Agreement in accordance with this Amendment.
+  -- ---- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto hereby agree as follows:
+
+## AGREEMENT
+
+  -- ----- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     1\.   Capitalized Terms. Capitalized terms, unless otherwise defined herein, shall have the meanings ascribed to them in the Business Combination Agreement.
+  -- ----- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -- ----- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     2\.   Amendment to Section 8.1(d) of the Business Combination Agreement. Section 8.1(d) shall be amended and restated in its entirety as follows:
+  -- ----- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"(d) by either PTIC II or the Company, if the transactions contemplated by this Agreement shall not have been consummated on or prior to December 8, 2022 (the "Termination Date"); *provided*, that (i) the right to terminate this Agreement pursuant to this Section 8.1(d) shall not be available to PTIC II if PTIC II's breach of any of its covenants or obligations under this Agreement or any Ancillary Documents shall have proximately caused the failure to consummate the transactions contemplated by this Agreement on or before the Termination Date and (ii) the right to terminate this Agreement pursuant to this Section 8.1(d) shall not be available to the Company if any Group Company's breach of its covenants or obligations under this Agreement or any Ancillary Documents, or any equityholder of the Company's breach of its covenants and obligations under the applicable Transaction Support Agreement shall have proximately caused the failure to consummate the transactions contemplated by this Agreement on or before the Termination Date;
+
+  -- ----- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     3\.   Amendment to Tax Receiveable Agreement. The Business Combination Agreement is hereby amended to include the form of Tax Receiveable Agreement in the form attached hereto as [Exhibit A](#exhibit-a).
+  -- ----- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -- ----- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     4\.   Effect of Amendment. Upon the execution and delivery of this Amendment, the Business Combination Agreement shall thereupon be deemed to be amended as set forth in this Amendment with the same effect as if the amendments made hereby were originally set forth in the Business Combination Agreement, and this Amendment and the Business Combination Agreement shall be read, taken and construed as one and the same instrument.
+  -- ----- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -- ----- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     5\.   General. Except as expressly provided in this Amendment, all of the terms and provisions of the Business Combination Agreement are and will remain in full force and effect. The amendments contained herein will not be construed as an amendment to or waiver of any other provision of the Business Combination Agreement or as a waiver of or consent to any further or future action on the part of the Parties hereto that would require the waiver or consent of the Parties hereto. ARTICLE 9 OF THE BUSINESS COMBINATION AGREEMENT SHALL APPLY TO THIS AMENDMENT AS THOUGH FULLY SET FORTH HEREIN.
+  -- ----- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\[The balance of this page is intentionally left blank.\] **IN WITNESS WHEREOF**, each of the Parties has caused this Amendment No. 5 to Business Combination Agreement to be duly executed on its behalf as of the day and year first above written.
+
+PROPTECH INVESTMENT CORPORATION II
+
+By:
+
+/s/ Thomas D. Hennessy
+
+Name:
+
+Thomas D. Hennessy
+
+Title:
+
+Chairman, Co-Chief Executive Officer and President
+
+By:
+
+/s/ Joseph Beck
+
+Name:
+
+Joseph Beck
+
+Title:
+
+Co-Chief Executive Officer and Chief Financial Officer
+
+\[*Signature Page to Amendment No. 5 to Business Combination Agreement*\] \[*Signature Page to Amendment No. 5 to Business Combination Agreement*\] \[*Signature Page to Amendment No. 5 to Business Combination Agreement*\] **[Exhibit A](#exhibit-a)** **Form of Tax Receivable Agreement** \[See Attached\] \[*[Exhibit A](#exhibit-a) to Amendment No. 5 to Business Combination Agreement*\] **[Exhibit A](#exhibit-a)** ***Execution Version*** FORM OF INCOME TAX RECEIVABLE AGREEMENT among PROPTECH INVESTMENT CORPORATION II, APPRECIATE INTERMEDIATE HOLDINGS, LLC, RW NATIONAL HOLDINGS, LLC, **LAKE STREET LANDLORDS, LLC,**
+
+RW NATIONAL HOLDINGS, LLC
+
+By:
+
+/s/ Christopher Laurence
+
+Name:
+
+Christopher Laurence
+
+Title:
+
+Chief Executive Officer
+
+SELLERS' REPRESENTATIVE
+
+By:
+
+/s/ Scott Honour
+
+Name:
+
+Scott Honour
+
+Title:
+
+Chairman
+
+and
+
+## THE PERSONS NAMED HEREIN
+
+Dated as of \[  \], 2022
+
+## Exhibit A: - Form of Joinder {#exhibit-a}
+
+Schedule 1
+
+## INCOME TAX RECEIVABLE AGREEMENT
+
+This INCOME TAX RECEIVABLE AGREEMENT (this "**TRA Agreement**"), is dated as of \[●\], 2022, by and among PropTech Investment Corporation II, a Delaware corporation (the "**Corporate Taxpayer**"), Appreciate Intermediate Holdings, LLC, a Delaware limited liability company ("**NewCo LLC**"), RW National Holdings, LLC, a Delaware limited liability company (the "**Company**"), Lake Street Landlords, LLC, a Delaware limited liability company ("**Lake Street**"), and each of the members of NewCo LLC that are Rolling Company Unitholders (as defined in the Business Combination Agreement (as defined below)) listed on Schedule 1 hereto (each such member, a "**TRA Party**" and such members collectively, the "**TRA Parties**"), and each of the other Persons from time to time that become a party to this TRA Agreement. Capitalized terms used but not defined herein shall have their respective meanings set forth in the Business Combination Agreement (as defined below).
+
+## RECITALS
+
+WHEREAS, the TRA Parties directly or indirectly hold Class B Units (as defined below) in NewCo LLC, which is classified as a partnership for U.S. federal income tax purposes;
+
+WHEREAS, it is anticipated that NewCo LLC will wholly own the Company;
+
+WHEREAS, the Corporate Taxpayer, the Company, and Lake Street in its capacity as the representative of applicable Company Unitholders entered into a Business Combination Agreement on May 17, 2022 (as amended, restated, amended and restated, modified or supplemented from time to time in accordance with such agreement, the "**Business Combination Agreement**"), pursuant to which the Rolling Company Unitholders will contribute all of their Existing Company LLC Interests (as defined in the Business Combination Agreement) to NewCo LLC in exchange for Class B Units (as defined below) and the Corporate Taxpayer will contribute to NewCo LLC the Closing Date Contribution Amount in exchange for Class A Units (as defined below);
+
+WHEREAS, the Corporate Taxpayer may receive cash proceeds from the sale, if any, by the Corporate Taxpayer of shares of common stock of the Corporate Taxpayer pursuant to that certain Common Stock Purchase Agreement, made and entered into as of May 17, 2022, by and between CF Principal Investments LLC, a Delaware limited liability company, and the Corporate Taxpayer (any such cash proceeds, the "**Stock Sale Proceeds**"), and the Corporate Taxpayer may contribute such Stock Sale Proceeds to NewCo LLC in exchange for Class A Units;
+
+WHEREAS, if all or a portion of either or both of the Closing Date Contribution Amount and the Stock Sale Proceeds or any other cash amounts of the Corporate Taxpayer contributed by the Corporate Taxpayer to NewCo LLC in exchange for Class A Units is paid or distributed to a Company Unitholder that is a holder of Class B Units that were, prior to the Closing (as defined in the Business Combination Agreement), Company Class A-1 Units or Company Class A Units (each as defined in the Business Combination Agreement), in redemption of such Class B Units pursuant to [Section 2.2](#section-2-2)(b)(v) and [Section 2.2](#section-2-2)(c) of the Business Combination Agreement, it is intended that any such Company Unitholder will be treated for U.S. federal and applicable state and local income tax purposes as selling all or a portion of such Company Unitholder's partnership interests in NewCo to the Corporate Taxpayer (to the extent any such sale transaction occurs and is so properly treated, individually and collectively, the "**Initial Sale**");
+
+WHEREAS, each Class B Unit and/or Earn Out Unit held by a TRA Party or St. Cloud Capital Partners III SBIC, L.P. ("**St. Cloud**") may be Exchanged (as defined below), together with the surrender and delivery by such holder of one (1) share of Class B Common Stock (as defined below), for one (1) share of Class A Common Stock (as defined below) or for cash in accordance with and subject to the conditions and limitations in the Limited Liability Company Agreement;
+
+WHEREAS, NewCo LLC and each direct or indirect Subsidiary treated as a partnership for U.S. federal income tax purposes has and will have in effect a valid election under Section 754 of the Code for each Taxable Year in which an Exchange occurs and any Taxable Year in which the Initial Sale, if any, occurs;
+
+WHEREAS, as a result of the Initial Sale, if any, and future Exchanges, the income, gain, loss, deduction, expense and other Tax items of the Corporate Taxpayer may be affected by Basis Adjustments (if any, as defined below) and Imputed Interest (if any, as defined below) (collectively, the "**Tax Attributes**"); and
+
+WHEREAS, the parties to this TRA Agreement desire to provide for certain payments and make certain arrangements with respect to the effect of the Tax Attributes on the liability for Covered Taxes (as defined below) of or with respect to the Corporate Taxpayer and its Subsidiaries.
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth in this TRA Agreement, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+## ARTICLE I: Definitions {#article-i}
+
+### Section 1.1: Definitions {#section-1-1}
+
+As used in this TRA Agreement, the terms set forth in this [Article I](#article-i) shall have the following meanings.
+
+Actual Tax Liability
+:   means, with respect to any Taxable Year, the sum of (i) the actual liability (which, for the avoidance of doubt, shall not be less than zero and which shall take into account any detriments arising from the Basis Adjustments and Tax Attributes, such as any restriction on deducting interest otherwise deductible but for a decrease in "adjusted taxable income" for purposes of Section 163(j) of the Code arising from depreciation, amortization, or other similar deductions in respect of the Basis Adjustments) for Covered Taxes of the Corporate Taxpayer appearing on Tax Returns for Covered Taxes of the Corporate Taxpayer for such Taxable Year and (ii) without duplication, the portion of any actual liability for Covered Taxes imposed directly on NewCo LLC (or any direct or indirect Subsidiary of NewCo LLC) under Section 6225 of the Code or any similar provision of applicable law that is allocable to the Corporate Taxpayer for such Taxable Year; *provided*, that, if applicable, such amounts shall be determined in accordance with a Determination (including interest imposed in respect thereof under applicable law); *provided*, *further*, that the actual liability for Covered Taxes described in clause (i) shall be calculated (a) using the Assumed State and Local Tax Rate, solely for purposes of calculating the U.S. state and local Actual Tax Liability of the Corporate Taxpayer, and (b) assuming, solely for purposes of calculating the liability for U.S. federal income Taxes that U.S. state and local Taxes are not deductible by the Corporate Taxpayer for U.S. federal income Tax purposes.
+
+Affiliate
+:   means, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under common control with such Person. The term "control" means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise, and the terms "controlled" and "controlling" have meaning correlative thereto. For purposes of this TRA Agreement, no TRA Party shall be considered to be an Affiliate of the Corporate Taxpayer or NewCo LLC or their respective Subsidiaries.
+
+Agreed Rate
+:   means a per annum rate of Term SOFR plus 100 basis points.
+
+Amended Schedule
+:   has the meaning set forth in [Section 2.3(b)](#section-2-3).
+
+Appraiser FMV
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Assumed State and Local Tax Rate
+:   means, for any Taxable Year with respect to Covered Taxes imposed on the Corporate Taxpayer by U.S. state and local jurisdictions, the tax rate equal to the sum of the product of (x) NewCo LLC's Tax apportionment percentage(s) for each U.S. state and local jurisdiction in which the Corporate Taxpayer files Tax Returns for the relevant Taxable Year and (y) the highest corporate Tax rate(s) for each such U.S. state and local jurisdiction in which the Corporate Taxpayer files Tax Returns for each relevant Taxable Year; provided, that the Assumed State and Local Tax Rate calculated pursuant to the foregoing shall be reduced by the assumed U.S. federal income Tax benefit received by the Corporate Taxpayer with respect to U.S. state and local Taxes (with such benefit calculated as the product of (a) the Corporate Taxpayer's marginal U.S. federal income Tax rate for such Taxable Year and (b) the Assumed State and Local Tax Rate (without regard to this proviso)); provided, further, that if there is a change in applicable Tax law that impacts the U.S. federal income Tax benefit received by the Corporate Taxpayer with respect to U.S. state and local Taxes, then the Corporate Taxpayer may modify the calculation of the assumed federal income Tax benefit using reasonable estimation methodologies for calculating the portion of the Actual Tax Liability attributable to U.S. state or local Taxes.
+
+Attributable
+:   means the portion of any Tax Attribute of the Corporate Taxpayer that is attributable to a TRA Party and shall be determined by reference to the Tax Attributes, under the following principles: (i) any Basis Adjustments shall be determined separately with respect to each TRA Party and are Attributable to each TRA Party in an amount equal to the total Basis Adjustments relating to (A)(I) the Class B Units Exchanged by such TRA Party or, without duplication, any payment made under this TRA Agreement in respect of such Class B Units Exchanged, or (II) the Class B Units that were purchased from such TRA Party pursuant to the Initial Sale, if any, and (B)(I) the Class B Units Exchanged by St. Cloud or, without duplication, any payment made under this TRA Agreement in respect of such Class B Units Exchanged, or (II) the Class B Units that were purchased from St. Cloud pursuant to the Initial Sale, if any; provided, that, any such Basis Adjustments referred to in this clause (B) shall be Attributable to the TRA Parties, pro rata, in proportion to their respective ownership of NewCo LLC Class B Units on the Closing Date immediately after the contribution by the Rolling Company Unitholders of the Rolling Company Unitholders' Existing Company LLC Interests to NewCo LLC in exchange for NewCo LLC Class B Units, and (ii) any deduction to the Corporate Taxpayer with respect to a Taxable Year in respect of any payment (including amounts Attributable to Imputed Interest) made under this TRA Agreement is Attributable to the applicable TRA Party that is required to include the Imputed Interest or other payment in income (without regard to whether such TRA Party is actually subject to Tax thereon).
+
+Basis Adjustment
+:   means the adjustment to the Tax basis of a Reference Asset under Sections 732, 734(b) and 1012 of the Code (in situations where, as a result of one or more Exchanges, NewCo LLC becomes an entity that is disregarded as separate from its owner for U.S. federal income tax purposes) or under Sections 734(b), 743(b), 754 and/or 755 of the Code (including in situations where, following the Initial Sale, if any, or any Exchange, NewCo LLC remains in existence as an entity treated as a partnership for U.S. federal income Tax purposes) and, in each case, analogous sections of state and local tax laws, as a result of the Initial Sale, if any, or any Exchange and the payments made pursuant to this TRA Agreement in respect of the Initial Sale, if any, or such Exchange (determined on an iterative basis continuing until any incremental Basis Adjustment resulting from payments made pursuant to this TRA Agreement is immaterial as reasonably determined by the Corporate Taxpayer). The amount of any Basis Adjustment resulting from the Initial Sale, if any, or any Exchange shall be determined using the Market Value with respect to the Initial Sale, if any, or such Exchange, except, for the avoidance of doubt, as otherwise required by a Determination. For the avoidance of doubt, payments made under this TRA Agreement shall not be treated as resulting in an Basis Adjustment to the extent such payments are treated as Imputed Interest.
+
+Basis Schedule
+:   has the meaning set forth in [Section 2.1](#section-2-1).
+
+Board
+:   means the Board of Directors of the Corporate Taxpayer.
+
+Business Combination Agreement
+:   has the meaning set forth in the Recitals.
+
+Business Day
+:   means any day except a Saturday, a Sunday or any other day on which commercial banks are required or authorized to close in the State of New York.
+
+Cash Exchange Payment
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Class A Common Stock
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Class B Common Stock
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Class A Unit
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Class B Unit
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Closing Date
+:   has the meaning set forth in the Business Combination Agreement.
+
+Closing Date Contribution Amount
+:   has the meaning set forth in the Business Combination Agreement.
+
+Code
+:   means the U.S. Internal Revenue Code of 1986, as amended from time to time (or any corresponding provisions of succeeding law).
+
+Company
+:   has the meaning set forth in the Preamble.
+
+Contribution Amount
+:   has the meaning set forth in the Business Combination Agreement.
+
+Corporate Taxpayer
+:   has the meaning set forth in the Preamble.
+
+Corporate Taxpayer Return
+:   means any return, declaration, report, or similar statement required to be filed with respect to Covered Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return, and declaration of estimated Tax.
+
+Covered Taxes
+:   means any and all U.S. federal, state, local, and non-U.S. taxes, assessments, or similar charges that are based on or measured with respect to net income or profits, whether on an exclusive or on an alternative basis, including any interest related to such Tax.
+
+Cumulative Net Realized Tax Benefit
+:   for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the Corporate Taxpayer, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same such Taxable Years of the Corporate Taxpayer. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedule or Amended Schedule, if any, in existence at the time of such determination; *provided*, that the computation of the Cumulative Net Realized Tax Benefit shall be adjusted to reflect any applicable Determination with respect to any Realized Tax Benefits and/or Realized Tax Detriments.
+
+Default Rate
+:   means a per annum rate of Term SOFR plus 450 basis points.
+
+Determination
+:   shall have the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of state or local tax law, as applicable, or any other event (including the execution of IRS Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+    **"DGCL"** means the General Corporation Law of the State of Delaware.
+
+Early Termination Date
+:   means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+Early Termination Effective Date
+:   means the date on which an Early Termination Schedule becomes binding pursuant to [Section 4.2](#section-4-2).
+
+Early Termination Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2).
+
+Early Termination Payment
+:   has the meaning set forth in [Section 4.3(b)](#section-4-3).
+
+Early Termination Rate
+:   means the lesser of (i) 6.5% per annum, compounded annually, and (ii) Term SOFR plus 200 basis points.
+
+Early Termination Schedule
+:   has the meaning set forth in [Section 4.2](#section-4-2).
+
+Earn Out Unit
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Exchange
+:   has the meaning set forth in the Limited Liability Company Agreement, and "**Exchanged**" has a correlative meaning.
+
+Exchange Act
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Exchange Date
+:   means the date of any Exchange.
+
+Expert
+:   has the meaning set forth in [Section 7.9](#section-7-9).
+
+Final Payment Date
+:   means, with respect to any payment required to be made pursuant to this TRA Agreement, the last date on which such payment may be made within the applicable time period prescribed for such payment under this TRA Agreement (i.e., the date on which such payment is due under this TRA Agreement). For example, the Final Payment Date in respect of a Tax Benefit Payment is determined pursuant to [Section 3.1(a)](#section-3-1) of this TRA Agreement.
+
+Future TRA
+:   has the meaning set forth in [Section 7.6(b)](#section-7-6).
+
+Hypothetical Tax Liability
+:   means, with respect to any Taxable Year, an amount, not less than zero, equal to the sum of (i) the hypothetical liability for Covered Taxes of the Corporate Taxpayer and (ii) without duplication, the portion of any hypothetical liability for Covered Taxes imposed directly on NewCo LLC (or any direct or indirect Subsidiary of NewCo LLC) under Section 6225 of the Code or any similar provision of applicable law that is allocable to the Corporate Taxpayer for such Taxable Year, in each case determined using the same methods, elections, conventions and similar practices used in computing the Actual Tax Liability; *provided* that, if applicable, such amounts shall be determined in accordance with a Determination), but, in each case, (i) calculating depreciation, amortization or similar deductions and income, gain or loss using the Non-Adjusted Tax Basis of the Reference Assets as reflected on the Schedules for such Taxable Year and (ii) excluding any deduction or other Tax benefit attributable to Imputed Interest. For the avoidance of doubt, Hypothetical Tax Liability shall be determined without taking into account the carryover or carryback of any Tax item (or portions thereof) that is attributable to a Tax Attribute, as applicable.
+
+Imputed Interest
+:   in respect of a TRA Party shall mean any interest imputed under Section 1272, 1274 or 483 or other provision of the Code and any similar provision of state or local tax law with respect to the Corporate Taxpayer's payment obligations in respect of such TRA Party under this TRA Agreement.
+
+Initial Sale
+:   is defined in the recitals of this TRA Agreement.
+
+Interest Amount
+:   has the meaning set forth in [Section 3.1(b)](#section-3-1).
+
+Intervening TRAs
+:   has the meaning set forth in [Section 7.6(b)](#section-7-6).
+
+IRS
+:   means the U.S. Internal Revenue Service.
+
+Lake Street
+:   has the meaning set forth in the Preamble.
+
+Limited Liability Company Agreement
+:   means, with respect to NewCo LLC, that certain Amended and Restated Limited Liability Company Agreement of NewCo, dated the date hereof, as such agreement may be further amended, restated, supplemented and/or otherwise modified from time to time in accordance with the terms of such agreement.
+
+Market Value
+:   shall mean, with respect to a Unit (a) sold in the Initial Sale, if any, amount paid in respect of such Unit, (b) Exchanged for a Stock Exchange Payment or that is subject to a deemed Exchange under this TRA Agreement, the Stock Value on the Exchange Date or the date of the applicable deemed Exchange, as applicable, or (c) Exchanged for a Cash Exchange Payment, the amount of the Cash Exchange Payment paid in respect of such Unit.
+
+Material Objection Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2).
+
+Net Tax Benefit
+:   has the meaning set forth in [Section 3.1(b)](#section-3-1).
+
+NewCo LLC
+:   has the meaning set forth in the Preamble.
+
+Non-Adjusted Tax Basis
+:   means, with respect to any Reference Asset at any time, the Tax basis that such asset would have had at such time if no Basis Adjustments had been made.
+
+Objection Notice
+:   has the meaning set forth in [Section 2.3(a)](#section-2-3).
+
+Permitted Transferee
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Person
+:   means any natural person, sole proprietorship, partnership, trust, unincorporated association, corporation, limited liability company, entity or governmental entity.
+
+Realized Tax Benefit
+:   means, for a Taxable Year, the excess, if any, of the Hypothetical Tax Liability over the Actual Tax Liability. If all or a portion of the Actual Tax Liability for the Taxable Year arises as a result of an audit or similar proceeding by a Taxing Authority of any Taxable Year, such liability or such portion (as applicable) shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination (and then only to the extent of the amount set forth in the Determination).
+
+Realized Tax Detriment
+:   means, for a Taxable Year, the excess, if any, of the Actual Tax Liability over the Hypothetical Tax Liability. If all or a portion of the Actual Tax Liability for the Taxable Year arises as a result of an audit or similar proceeding by a Taxing Authority of any Taxable Year, such liability or such portion (as applicable) shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination (and then only to the extent of the amount set forth in the Determination).
+
+Reconciliation Dispute
+:   has the meaning set forth in [Section 7.9](#section-7-9).
+
+Reconciliation Procedures
+:   has the meaning set forth in [Section 2.3(a)](#section-2-3).
+
+Reference Asset
+:   means an asset that is held by NewCo LLC, or by any of its direct or indirect Subsidiaries treated as a partnership or a disregarded entity (but only if such indirect Subsidiaries are held only through one or more Subsidiaries each of which is treated as a partnership or a disregarded entity) for purposes of the applicable Tax, at the time of an Exchange or the Initial Sale, if any. A Reference Asset also includes any asset that is "substituted basis property" under Section 7701(a)(42) of the Code with respect to a Reference Asset.
+
+Schedule
+:   means any of the following: (i) a Basis Schedule; (ii) a Tax Benefit Schedule; or (iii) the Early Termination Schedule, and, in each case, any amendments thereto.
+
+Securities Act
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Senior Obligations
+:   has the meaning set forth in [Section 5.1](#section-5-1).
+
+SOFR
+:   means a rate equal to the secured overnight financing rate as administered by the SOFR Administrator.
+
+SOFR Administrator
+:   means the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing rate).
+
+Stock Exchange Payment
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+Stock Sale Proceeds
+:   is defined in the recitals of this TRA Agreement.
+
+Stock Value
+:   means, on any date, (a) if the Class A Common Stock trades on a national securities exchange or automated or electronic quotation system, the arithmetic average of the high trading and the low trading price on such date (or if such date is not a trading day, the immediately preceding trading day) or (b) if the Class A Common Stock is not then-traded on a national securities exchange or automated or electronic quotation system, as applicable, the Appraiser FMV on such date of one (1) share of Class A Common Stock that would be obtained in an arms-length transaction between an informed and willing buyer and an informed and willing seller, neither of whom is under any compulsion to buy or sell, respectively, and without regard to the particular circumstances of the buyer or seller.
+
+Subsidiaries
+:   means, of any Person, any corporation, association, partnership, limited liability company or other business entity of which more than fifty percent (50%) of the voting power or equity is owned or controlled directly or indirectly by such Person, or one (1) or more of the Subsidiaries of such Person, or a combination thereof.
+
+Tax Attributes
+:   has the meaning set forth in the Recitals.
+
+Tax Benefit Payment
+:   has the meaning set forth in [Section 3.1(b)](#section-3-1).
+
+Tax Benefit Schedule
+:   has the meaning set forth in [Section 2.2](#section-2-2).
+
+Tax Return
+:   means any return, declaration, report, information returns, claims for refund, disclosures or similar statement filed or required to be filed with respect to or in connection with Covered Taxes (including any related or supporting schedules, attachments, statements or information filed or required to be filed with respect thereto).
+
+Taxable Year
+:   means a taxable year of the Corporate Taxpayer as defined in Section 441(b) of the Code or comparable section of state or local tax law, as applicable (and which may include a period of more or less than twelve (12) months for which a Tax Return is made), ending on or after the Closing Date.
+
+Taxing Authority
+:   means any domestic, federal, national, state or local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body, in each case, exercising any taxing authority or any other authority or jurisdiction of any kind in relation to tax matters.
+
+Term SOFR
+:   means, during any period, the Term SOFR Reference Rate for a tenor of one year on the day (such day, the "**Term SOFR Determination Day**") that is two (2) U.S. Government Securities Business Days prior to such day, as such rate is published by the Term SOFR Administrator; provided, however, that if as of 5:00 p.m. (New York City time) on any Term SOFR Determination Day the Term SOFR Reference Rate for a tenor of one year has not been published by the Term SOFR Administrator, then Term SOFR will be the Term SOFR Reference Rate for a tenor of one year as published by the Term SOFR Administrator on the first preceding U.S. Government Securities Business Day for which such Term SOFR Reference Rate for such tenor was published by the Term SOFR Administrator so long as such first preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such SOFR Determination Day;
+
+    provided, further, that if Term SOFR determined as provided above shall ever be less than 0%, then Term SOFR shall be deemed to be 0%;
+
+    provided, further, that if the Corporate Taxpayer and the TRA Party Representative have unanimously made the determination that Term SOFR is no longer a widely recognized benchmark rate for newly originated loans in the U.S. loan market in U.S. dollars, then the Corporate Taxpayer and the TRA Party Representative shall establish a replacement interest rate (the "**Replacement Rate**"), after giving due consideration to any evolving or then prevailing conventions in the U.S. loan market for loans in U.S. dollars for such alternative benchmark, and including any mathematical or other adjustments to such benchmark, including spread adjustments, giving due consideration to any evolving or then prevailing convention for similar loans in the U.S. loan market in U.S. dollars for such benchmark, which adjustment, method for calculating such adjustment and benchmark shall be published on an information service as unanimously selected from time-to-time by the Corporate Taxpayer and the TRA Party Representative. The Replacement Rate shall, subject to the next two sentences, replace Term SOFR for all purposes under this TRA Agreement. In connection with the establishment and application of the Replacement Rate, this TRA Agreement shall be amended, with the consent of the Corporate Taxpayer and the TRA Party Representative (which consent of the Corporate Taxpayer and the TRA Party Representative shall not be unreasonably withheld or delayed), as necessary or appropriate, in the reasonable judgment of the Corporate Taxpayer and the TRA Party Representative, to replace the definition of Term SOFR and otherwise to effect the provisions of this definition. The Replacement Rate shall be applied in a manner consistent with market practice, as unanimously determined by the Corporate Taxpayer and the TRA Party Representative.
+
+Term SOFR Reference Rate
+:   means the forward-looking term rate based on SOFR.
+
+TRA Agreement
+:   has the meaning set forth in the Preamble.
+
+TRA Disinterested Majority
+:   means a majority of the directors of the Board who are disinterested as determined by the Board in accordance with the DGCL with respect to the matter being considered by the Board; provided that to the extent a matter being considered by the Board is required to be considered by disinterested directors under the rules of the national securities exchange on which the Class A Common Stock is then-listed, the Securities Act or the Exchange Act, such rules with respect to the definition of disinterested director shall apply solely with respect to such matter.
+
+TRA Party
+:   has the meaning set forth in the Preamble.
+
+TRA Party Representative
+:   means, initially, Lake Street, and thereafter, if Lake Street voluntarily resigns in accordance with [Section 7.13](#section-7-13), such other Person that the TRA Parties determine from time to time by a plurality vote of the TRA Parties
+
+Transfer
+:   has the meaning set forth in the Limited Liability Company Agreement and the terms "**Transferee**," "**Transferor**," "**Transferred**," and other forms of the word "Transfer" shall have the correlative meanings.
+
+Treasury Regulations
+:   means the final, temporary and proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant taxable period.
+
+Unit
+:   has the meaning set forth in the Limited Liability Company Agreement.
+
+U.S. Government Securities Business Day
+:   means any day except for (a) a Saturday, (b) a Sunday or (c) a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in United States government securities.
+
+Valuation Assumptions
+:   shall mean, as of an Early Termination Date, the assumptions that in each Taxable Year ending on or after such Early Termination Date, (1) the Corporate Taxpayer will have taxable income sufficient to fully utilize for purposes of Covered Taxes the deductions arising from the Basis Adjustments and the Imputed Interest during such Taxable Year, (2) the federal, state and local income tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date and the Assumed State and Local Tax Rate for each such Taxable Year will be calculated (taking into account any tax rate changes that have become law with a prospective effective date) based on (i) such income tax rates and (ii) the apportionment factors applicable in the most recently ended Taxable Year, and (3) if, on the Early Termination Date, there are Class B Units that have not been Exchanged, then each such Class B Unit shall be deemed Exchanged in a fully taxable transaction for the Market Value (as determined in accordance with clause (b) of the definition thereof) that would be applicable if the Exchange occurred on the Early Termination Date.
+
+## ARTICLE II: Determination of Certain Realized Tax Benefit {#article-ii}
+
+### Section 2.1: Basis Schedule {#section-2-1}
+
+Within one hundred twenty (120) calendar days after the due date (including extensions) of IRS Form 1120 (or any successor form) of the Corporate Taxpayer for each Taxable Year, the Corporate Taxpayer shall deliver to each TRA Party a schedule (a "**Basis Schedule**") that shows, in reasonable detail necessary to perform the calculations required by this TRA Agreement, (i) the actual Tax basis and the Non-Adjusted Tax Basis of the Reference Assets as of the Closing Date, the date of each Exchange and the date of the Initial Sale, if any, (ii) the Basis Adjustments Attributable to such TRA Party with respect to the Reference Assets as a result of the Initial Sale, if any, or any Exchange effected by such TRA Party or St. Cloud, as applicable, in such Taxable Year and prior Taxable Years, and (iii) the period (or periods) over which such Basis Adjustments are amortizable and/or depreciable, in each case, calculated in the aggregate for all TRA Parties and solely with respect to the Initial Sale, if any, or any Exchange with respect to the TRA Party or St. Cloud, as applicable, to which such Basis Schedule is delivered. All costs and expenses incurred in connection with the provision and preparation of the Basis Schedules and Tax Benefit Schedules for each TRA Party in compliance with this TRA Agreement shall be borne 50% by the Corporate Taxpayer on the one hand and 50% by the TRA Parties on the other hand. Each Basis Schedule shall become final as provided in [Section 2.3(a)](#section-2-3) and may be amended as provided in [Section 2.3(b)](#section-2-3) (subject to the procedures set forth in [Section 2.3(b)](#section-2-3)).
+
+### Section 2.2: Tax Benefit Schedule {#section-2-2}
+
+(a) Tax Benefit Schedule. Within one hundred twenty (120) calendar days after the due date (including extensions) of IRS Form 1120 (or any successor form) of the Corporate Taxpayer for each Taxable Year, the Corporate Taxpayer shall provide to each TRA Party a schedule showing, in reasonable detail, the calculation of the Tax Benefit Payment (and any Realized Tax Benefit) or the lack of a Tax Benefit Payment (and any Realized Tax Detriment), as applicable, Attributable to such TRA Party for such Taxable Year (including, for the avoidance of doubt, any amount thereof with respect to any Initial Sale or Exchange effected by St. Cloud) (a "**Tax Benefit Schedule**"). Each Tax Benefit Schedule shall become final as provided in [Section 2.3(a)](#section-2-3) and may be amended as provided in [Section 2.3(b)](#section-2-3) (subject to the procedures set forth in [Section 2.3(b)](#section-2-3)).
+
+(b) Applicable Principles. Subject to [Section 3.3](#section-3-3), the Realized Tax Benefit (or the Realized Tax Detriment) for each Taxable Year is intended to measure the decrease (or increase) in the actual liability for Covered Taxes of the Corporate Taxpayer for such Taxable Year attributable to the Tax Attributes, determined using a "with and without" methodology. Carryovers or carrybacks of any Tax item attributable to any of the Tax Attributes shall be considered to be subject to the rules of the Code and the Treasury Regulations or the appropriate provisions of U.S. state income tax law, as applicable, governing the use, limitation, and expiration of carryovers or carrybacks of the relevant type. If a carryover or carryback of any Tax item includes a portion that is attributable to any Tax Attribute ("**TRA Portion**") and another portion that is not ("**Non-TRA Portion**"), such portions shall be considered to be used in accordance with the "with and without" methodology so that the amount of any Non-TRA Portion is deemed utilized, to the extent available, prior to the amount of any TRA Portion, to the extent available (with the TRA Portion being applied on a proportionate basis consistent with the provisions of [Section 3.3](#section-3-3)). The parties agree that (A) the payments made pursuant to this TRA Agreement (including payments of any Interest Amount to the extent that such payments are not treated as the payment of Imputed Interest) in respect of the Initial Sale, if any, or any Exchange are intended to be treated and shall be reported for all purposes, including Tax purposes, as additional contingent consideration to the applicable TRA Party or St. Cloud, as applicable, for the Initial Sale or such Exchange, as applicable, that has the effect of creating additional Basis Adjustments (if any) to the Reference Assets in the Taxable Year of payment (excluding any portion of such payment treated as Imputed Interest) and (B) such additional Basis Adjustments shall be incorporated into the calculation for the Taxable Year of the applicable payment and into the calculations for subsequent Taxable Years.
+
+### Section 2.3: Procedures, Amendments {#section-2-3}
+
+(a) Procedure. Every time the Corporate Taxpayer delivers to a TRA Party an applicable Schedule under this TRA Agreement, including any Amended Schedule delivered pursuant to [Section 2.3(b)](#section-2-3), and any Early Termination Schedule or amended Early Termination Schedule, the Corporate Taxpayer shall also use commercially reasonable efforts to (x) deliver to such TRA Party and the TRA Party Representative supporting schedules and work papers, as determined by the Corporate Taxpayer or as reasonably requested by such TRA Party (or the TRA Party Representative on behalf of one or more TRA Parties, including such TRA Party), providing reasonable detail regarding data and calculations that were relevant for purposes of preparing the Schedule and (y) allow the TRA Party Representative and its advisors reasonable access to the appropriate representatives of the Corporate Taxpayer (at no cost and expense of the TRA Parties, the TRA Party Representative, or any of its advisors). Without limiting the generality of the preceding sentence, the Corporate Taxpayer shall ensure that any Tax Benefit Schedule or Early Termination Schedule that is delivered to a TRA Party, along with any supporting schedules and work papers, provides a reasonably detailed presentation of the calculation of the Actual Tax Liability (the "with" calculation) and the Hypothetical Tax Liability (the "without" calculation) and identifies any material assumptions or operating procedures or principles that were used for purposes of such calculations. An applicable Schedule or amendment thereto shall become final and binding on all parties thirty (30) calendar days from the date on which all relevant TRA Parties and the TRA Party Representative have received the applicable Schedule or amendment thereto under [Section 7.1](#section-7-1) unless the TRA Party Representative (i) prior to such date, gives the Corporate Taxpayer written notice of a material objection to such Schedule or amendment thereto made in good faith ("**Objection Notice**"), or (ii) provides a written waiver of its right to give an Objection Notice within the period described in clause (i) above, in which case such Schedule or amendment thereto becomes binding on the date such waiver is given by the TRA Party Representative. If the Corporate Taxpayer and the TRA Party Representative, for any reason, are unable to successfully resolve the issues raised in any Objection Notice within thirty (30) calendar days after the TRA Party Representative gives the Corporate Taxpayer such Objection Notice, the Corporate Taxpayer and the TRA Party Representative shall employ the reconciliation procedures described in [Section 7.9](#section-7-9) (the "**Reconciliation Procedures**"), in which case such Schedule or Amended Schedule shall become binding in accordance with [Section 7.9](#section-7-9).
+
+(b) Amended Schedule. The applicable Schedule for any Taxable Year may be amended from time to time by the Corporate Taxpayer (i) in connection with a Determination affecting such Schedule, (ii) to correct material inaccuracies in the Schedule, including those identified as a result of the receipt of additional factual information relating to a Taxable Year after the date the Schedule was provided to a TRA Party, (iii) to comply with an Expert's determination under the Reconciliation Procedures, (iv) to reflect a change in the Realized Tax Benefit or the Realized Tax Detriment for such Taxable Year attributable to a carryback or carryforward of a loss or other Tax item to such Taxable Year, (v) to reflect a change in the Realized Tax Benefit or the Realized Tax Detriment for such Taxable Year attributable to an amended Tax Return filed for such Taxable Year, or (vi) to adjust the Basis Schedule to take into account payments made pursuant to this TRA Agreement (any such Schedule, an "**Amended Schedule**"). The Corporate Taxpayer shall provide an Amended Schedule to each TRA Party and the TRA Party Representative when the Corporate Taxpayer delivers the Basis Schedule for the following Taxable Year or within thirty (30) calendar days after the occurrence of an event referred to in clauses (i) through (vi) of the preceding sentence, whichever is later. In the event a Schedule is amended after such Schedule becomes final pursuant to [Section 2.3(a)](#section-2-3) or, if applicable, [Section 7.9](#section-7-9), (A) the Amended Schedule shall not be taken into account in calculating any Tax Benefit Payment in the Taxable Year to which the amendment relates but instead shall be taken into account in calculating the Cumulative Net Realized Tax Benefit for the Taxable Year in which the amendment actually occurs, and (B) as a result of the foregoing, any increase of the Net Tax Benefit attributable to an Amended Schedule shall accrue the Interest Amount (or any other interest hereunder) from the due date (without extensions) for filing IRS Form 1120 (or any successor form) of the Corporate Taxpayer with respect to Covered Taxes for the Taxable Year in which the amendment actually occurs until the payment date applicable to such Taxable Year under [Section 3.1(a)](#section-3-1).
+
+### Section 2.4: Section 754 Election {#section-2-4}
+
+The Corporate Taxpayer and NewCo LLC shall ensure that, for each Taxable Year in which an Exchange occurs and each Taxable Year in which the Initial Sale, if any, occurs, and with respect to which the Corporate Taxpayer and/or NewCo LLC have obligations under this TRA Agreement, NewCo LLC and each of its direct and indirect Subsidiaries that is treated as a partnership for U.S. federal income Tax purposes will have in effect a valid election under Section 754 of the Code (and under any similar provisions of applicable U.S. state or local law) for each such Taxable Year.
+
+## ARTICLE III: Tax Benefit Payments {#article-iii}
+
+### Section 3.1: Payments {#section-3-1}
+
+(a) Payments. Within five (5) Business Days after a Tax Benefit Schedule delivered to a TRA Party becomes final in accordance with [Section 2.3(a)](#section-2-3) or, if applicable, [Section 7.9](#section-7-9), the Corporate Taxpayer shall pay such TRA Party for such Taxable Year the Tax Benefit Payment, if any, determined pursuant to [Section 3.1(b)](#section-3-1) that is Attributable to such TRA Party. Each such Tax Benefit Payment shall be made by wire transfer of immediately available funds to the bank account previously designated by such TRA Party to the Corporate Taxpayer or as otherwise agreed by the Corporate Taxpayer and such TRA Party. The payments provided for pursuant to the above sentence shall be computed separately for each TRA Party. Without limiting the Corporate Taxpayer's ability to make offsets against Tax Benefit Payments to the extent permitted by [Section 3.5](#section-3-5), no TRA Party shall be required under any circumstances to make a payment or return a payment to the Corporate Taxpayer in respect of any portion of any Tax Benefit Payment previously paid by the Corporate Taxpayer to such TRA Party (including any portion of any Early Termination Payment).
+
+(b) For purposes of this TRA Agreement:
+
+(i) A "Tax Benefit Payment" in respect of a TRA Party for a Taxable Year means an amount, not less than zero, equal to the sum of (i) the Net Tax Benefit that is Attributable to such TRA Party and (ii) the Interest Amount with respect thereto.
+
+(ii) Subject to [Section 3.3](#section-3-3), the "Net Tax Benefit" for a Taxable Year shall be an amount equal to the excess, if any, of eighty-five percent (85%) of the Cumulative Net Realized Tax Benefit as of the end of such Taxable Year, over the total amount of payments previously made under the first sentence of [Section 3.1(a)](#section-3-1) (excluding payments attributable to Interest Amounts); *provided*, that if there is no such excess (or if a deficit exists), no TRA Party shall be required to make a payment (or return a payment) to the Corporate Taxpayer in respect of any portion of any Tax Benefit Payment previously paid by the Corporate Taxpayer to such TRA Party or with respect to such Taxable Year. Notwithstanding anything to the contrary in this TRA Agreement, the parties acknowledge and agree that the determination of the portion of the Tax Benefit Payment to be paid to a TRA Party under this TRA Agreement with respect to U.S. state and local Taxes shall not require separate "with and without" calculations in respect of each applicable U.S. state and local Tax jurisdiction but rather will be the product of the U.S. federal taxable income or gain for such taxable year reported on the Corporate Taxpayer's IRS Form 1120 (or any successor form) and the Assumed State and Local Tax Rate.
+
+(iii) The "Interest Amount" shall equal the interest on the Net Tax Benefit calculated at the Agreed Rate from the due date (without extensions) for filing IRS Form 1120 (or any successor form) of the Corporate Taxpayer with respect to Covered Taxes for the applicable Taxable Year until the payment date under [Section 3.1(a)](#section-3-1); *provided* that such interest shall not accrue on the amount of any Net Tax Benefit after the date on which such amount is actually paid to the applicable TRA Party, regardless of whether such payment is made prior to the due date for such payment under [Section 3.1(a)](#section-3-1) and regardless of whether the amount of any unpaid Net Tax Benefit has yet become final in accordance with [Section 2.3(a)](#section-2-3) or, if applicable, [Section 7.9](#section-7-9).
+
+(c) The TRA Parties acknowledge and agree that, as of the date of this TRA Agreement and as of the date of any Initial Sale or Exchange that may be subject to this TRA Agreement, the aggregate value of the Tax Benefit Payments cannot be reasonably ascertained for U.S. federal income or other applicable Tax purposes. Notwithstanding anything to the contrary in this TRA Agreement, the stated maximum selling price (within the meaning of Treasury Regulations Section 15A.453-1(c)(2)) with respect to any transfer of Units by a TRA Party or St. Cloud, as applicable, pursuant to an Initial Sale or an Exchange, as applicable, shall not exceed the sum of (I) the value of the Class A Common Stock or the amount of cash delivered to such TRA Party or St. Cloud, as applicable, in each case, in the Initial Sale or the Exchange, as applicable, plus (II) the amount, if any, set forth in the Exchange Notice (as defined in the LLC Agreement) or other notice delivered by such TRA Party or St. Cloud, as applicable, to the Corporate Taxpayer with respect to the relevant Initial Sale or Exchange, as applicable, or, if no such amount is specified, 80% of the amount described in clause (I). Aggregate payments under this TRA Agreement to such TRA Party in respect of such Units (other than amounts accounted for as interest under the Code) shall not exceed the amount described in the preceding clause (II).
+
+### Section 3.2: No Duplicative Payments {#section-3-2}
+
+It is intended that the provisions of this TRA Agreement will not result in duplicative payment of any amount (including of any Tax Benefit Payment, Realized Tax Benefit, or interest) required under this TRA Agreement and no determination of any Net Tax Benefit or Tax Benefit Payment with respect to a Taxable Year shall reflect a benefit from a Tax Attribute previously taken into account in a prior Taxable Year. It is also intended that the provisions of this TRA Agreement will result in 85% of the Corporate Taxpayer's Cumulative Net Realized Tax Benefits and the Interest Amount thereon being paid to the TRA Parties pursuant to this TRA Agreement. The provisions of this TRA Agreement shall be construed in the appropriate manner so that these fundamental results are achieved. For purposes of this TRA Agreement, and also for the avoidance of doubt, no Tax Benefit Payment shall be required to be calculated or made in respect of any estimated tax payments, including, without limitation, any estimated U.S. federal, state or local income tax payments.
+
+### Section 3.3: Pro Rata Payments {#section-3-3}
+
+Notwithstanding anything in [Section 3.1](#section-3-1) to the contrary, to the extent that the aggregate Realized Tax Benefit of the Corporate Taxpayer with respect to the Tax Attributes is limited in a particular Taxable Year because the Corporate Taxpayer does not have sufficient taxable income, the Net Tax Benefit of the Corporate Taxpayer shall be allocated among all parties eligible for Tax Benefit Payments under this TRA Agreement with respect to such Taxable Year in proportion to the amounts of Net Tax Benefit, respectively, that would have been Attributable to each TRA Party if the Corporate Taxpayer had sufficient taxable income so that there were no such limitation.
+
+### Section 3.4: Payment Ordering {#section-3-4}
+
+If for any reason the Corporate Taxpayer does not fully satisfy its payment obligations to make all Tax Benefit Payments due under this TRA Agreement in respect of a particular Taxable Year, then the Corporate Taxpayer and the TRA Parties agree that (i) Tax Benefit Payments for such Taxable Year shall be allocated to all parties eligible for Tax Benefit Payments with respect to such Taxable Year under this TRA Agreement in proportion to the amounts of Net Tax Benefit, respectively, that would have been Attributable to each TRA Party if the Corporate Taxpayer had sufficient cash available to make such Tax Benefit Payments and (ii) no Tax Benefit Payments shall be made in respect of any Taxable Year until all Tax Benefit Payments to all TRA Parties in respect of all prior Taxable Years have been made in full.
+
+### Section 3.5: Overpayments {#section-3-5}
+
+To the extent the Corporate Taxpayer makes a payment to a TRA Party in respect of a particular Taxable Year under [Section 3.1(a)](#section-3-1) in an amount in excess of the amount of such payment that should have been made to such TRA Party in respect of such Taxable Year (taking into account [Section 3.3](#section-3-3) and [Section 3.4](#section-3-4)) under the terms of this TRA Agreement, then (i) such TRA Party shall not receive further payments under [Section 3.1(a)](#section-3-1) until such TRA Party has foregone an amount of payments equal to such excess and (ii) to the extent such excess amount is due and payable to, and should have been paid to, any other TRA Party pursuant to the terms of this TRA Agreement, the Corporate Taxpayer will pay the amount of such TRA Party's foregone payments to such other TRA Parties to whom a payment is due and payable, and should have been paid, under this TRA Agreement in a manner such that each such other TRA Party, to the extent possible, receives aggregate payments under [Section 3.1(a)](#section-3-1) (taking into account [Section 3.3](#section-3-3) and [Section 3.4](#section-3-4)) in the amount such other TRA Party would have received if there had been no excess payment to such TRA Party.
+
+## ARTICLE IV: Termination {#article-iv}
+
+### Section 4.1: Early Termination of Agreement; Breach of Agreement {#section-4-1}
+
+(a) Corporate Taxpayer's Early Termination Right. The Corporate Taxpayer may terminate this TRA Agreement (including with respect to all amounts payable to the TRA Parties and with respect to all of the Units held by the TRA Parties, subject to the immediately succeeding sentence) at any time by causing the Corporate Taxpayer to pay to each TRA Party the Early Termination Payment in respect of such TRA Party; *provided*, that the Corporate Taxpayer may withdraw any notice to execute its termination rights under this [Section 4.1(b)](#section-4-1) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payments by the Corporate Taxpayer, neither the Corporate Taxpayer nor the TRA Parties shall have any further payment obligations under this TRA Agreement, other than with respect to (i) any Tax Benefit Payments agreed by the Corporate Taxpayer and the TRA Parties Representative as due and payable and that remain unpaid as of the Early Termination Date (which Tax Benefit Payments must be paid out and shall not be included in the Early Termination Payments) and as of the date of payment of the Early Termination Payment and (ii) any Tax Benefit Payments due for the Taxable Year ending immediately prior to or including the Early Termination Date (except to the extent that the amounts described in this clause (ii) are included in the calculation of the Early Termination Payments (at the option of the Corporate Taxpayer) or are included in clause (i)); *provided* that upon payment of all amounts, to the extent applicable and without duplication, described in this sentence, this TRA Agreement shall terminate. For the avoidance of doubt, if an Exchange occurs after the Corporate Taxpayer makes all of the required Early Termination Payments, the Corporate Taxpayer shall have no obligations under this TRA Agreement with respect to such Exchange.
+
+(b) In the event that the Corporate Taxpayer breaches any of its material obligations under this TRA Agreement, whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this TRA Agreement in a case commenced under the Bankruptcy Code or otherwise, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but not be limited to, without duplication, (1) the Early Termination Payment calculated as if an Early Termination Notice had been delivered on the date of a breach, (2) any Tax Benefit Payments that are due and payable under this TRA Agreement but that remain unpaid as of the date of a breach, and (3) any Tax Benefit Payment due for the Taxable Year ending with or including the date of a breach. Notwithstanding the foregoing, in the event that the Corporate Taxpayer breaches this TRA Agreement and this [Section 4.1(b)](#section-4-1) applies, the TRA Parties shall be entitled to elect to receive the amounts set forth in clauses (1), (2), and (3), above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this TRA Agreement within three (3) months of the date such payment is due shall be deemed to be a breach of a material obligation under this TRA Agreement for all purposes of this TRA Agreement, and that it will not be considered to be a breach of a material obligation under this TRA Agreement to make a payment due pursuant to this TRA Agreement within three (3) months of the date such payment is due. Notwithstanding anything in this TRA Agreement to the contrary, it shall not be a breach of a material obligation under this TRA Agreement if the Corporate Taxpayer fails to make any Tax Benefit Payment or other payment due pursuant to this TRA Agreement when due to the extent that the Corporate Taxpayer has insufficient funds or cannot make such payment as a result of obligations imposed in connection with the Senior Obligations, and cannot take commercially reasonable actions to obtain sufficient funds, to make such payment; *provided*, that the interest provisions of [Section 5.2](#section-5-2) shall apply to such late payment unless the Corporate Taxpayer does not have sufficient funds to make such payment as a result of a limitation imposed by any Senior Obligations, in which case, [Section 5.2](#section-5-2) shall apply, but the Default Rate shall be replaced by the Agreed Rate; *provided*, *further*, that such payment obligation shall nonetheless accrue for the benefit of the TRA Parties, and the Corporate Taxpayer shall make such payment at the first opportunity that it has sufficient funds and is otherwise able to make such payment.
+
+### Section 4.2: Early Termination Notice {#section-4-2}
+
+If the Corporate Taxpayer choose to exercise its right of early termination in accordance with [Section 4.1](#section-4-1) above, the Corporate Taxpayer shall deliver to each TRA Party and the TRA Party Representative written notice of such decision to exercise such right (an "**Early Termination Notice**") and a schedule (an "**Early Termination Schedule**") specifying the Corporate Taxpayer's decision to exercise such right and showing in reasonable detail the calculation of the Early Termination Payment(s) due for each TRA Party. Each Early Termination Schedule shall become final and binding on all parties thirty (30) calendar days from the first date on which all TRA Parties have been given such Schedule under [Section 7.1](#section-7-1) unless the TRA Party Representative (i) within thirty (30) calendar days after such date gives the Corporate Taxpayer written notice of a material objection to such Schedule made in good faith (a "**Material Objection Notice**") or (ii) provides a written waiver of its right to give a Material Objection Notice within the period described in clause (i) above, in which case such Schedule becomes binding on the date such waiver is given by the TRA Party Representative to the Corporate Taxpayer. If the Corporate Taxpayer and the TRA Party Representative, after negotiating in good faith, are unable to successfully resolve the issues raised in such Material Objection Notice within thirty (30) calendar days after the TRA Party Representative gives the Corporate Taxpayer the Material Objection Notice, the Corporate Taxpayer and the TRA Party Representative shall employ the Reconciliation Procedures in which case such Schedule shall become binding in accordance with [Section 7.9](#section-7-9). The TRA Party Representative will represent the interests of each of the TRA Parties and shall raise and pursue, in accordance with this [Section 4.2](#section-4-2), any objection to an Early Termination Schedule timely given in writing to the TRA Party Representative by a TRA Party.
+
+### Section 4.3: Payment upon Early Termination {#section-4-3}
+
+(a) Within five (5) Business Days after an Early Termination Effective Date, the Corporate Taxpayer shall pay to each TRA Party an amount equal to the Early Termination Payment in respect of such TRA Party. Such payment shall be made by wire transfer of immediately available funds to a bank account or accounts designated by such TRA Party or as otherwise agreed by the Corporate Taxpayer and such TRA Party.
+
+(b) "**Early Termination Payment**" in respect of a TRA Party shall equal the present value, discounted at the Early Termination Rate as of and starting from the applicable Early Termination Date, of all Tax Benefit Payments (excluding any Interest Amount) in respect of such TRA Party that would be required to be paid by the Corporate Taxpayer beginning from the Early Termination Date (but which have not been previously paid as of such date), and assuming that the Valuation Assumptions in respect of such TRA Party and St. Cloud, as applicable, are applied and that each such Tax Benefit Payment for each relevant Taxable Year would be paid on the due date (including extensions) under applicable law as of the Early Termination Date for filing of IRS Form 1120 (or any successor form) of the Corporate Taxpayer for each such Taxable Year.
+
+## ARTICLE V: Subordination and Late Payments {#article-v}
+
+### Section 5.1: Subordination {#section-5-1}
+
+Notwithstanding any other provision of this TRA Agreement to the contrary, any Tax Benefit Payment, Early Termination Payment or any other payment required to be made by the Corporate Taxpayer to any TRA Party under this TRA Agreement shall rank subordinate and junior in right of payment to any principal, interest or other amounts due and payable in respect of any obligations in respect of indebtedness for borrowed money of the Corporate Taxpayer and its Subsidiaries (the "**Senior Obligations**") and shall rank *pari passu* in right of payment with all current or future unsecured obligations of the Corporate Taxpayer that are not Senior Obligations. To the extent that any payment under this TRA Agreement is not permitted to be made at the time payment is due as a result of this [Section 5.1](#section-5-1) and the terms of the agreements governing the Senior Obligations, such payment obligation nevertheless shall accrue for the benefit of the TRA Parties and the Corporate Taxpayer shall make such payments at the first opportunity that such payments are permitted to be made in accordance with the terms of the Senior Obligations and [Section 5.2](#section-5-2) shall apply to such payment.
+
+### Section 5.2: Late Payments by the Corporate Taxpayer {#section-5-2}
+
+The amount of all or any portion of any Tax Benefit Payment or Early Termination Payment not made to the TRA Parties when due under the terms of this TRA Agreement, whether as a result of [Section 5.1](#section-5-1) or otherwise, shall be payable together with any interest thereon, computed at the Default Rate commencing from the Final Payment Date therefor accruing to the date of actual payment.
+
+## ARTICLE VI: No Disputes; Consistency; Cooperation {#article-vi}
+
+### Section 6.1: Participation in the Corporate Taxpayer's and NewCo LLC's Tax Matters {#section-6-1}
+
+Except as otherwise provided in this TRA Agreement, the Business Combination Agreement or the Limited Liability Company Agreement, the Corporate Taxpayer shall have full responsibility for, and sole discretion over, all Tax matters concerning the Corporate Taxpayer, its Subsidiaries and NewCo LLC, including the preparation, filing, or amending of any Tax Return and defending, contesting or settling any issue pertaining to Covered Taxes.
+
+### Section 6.2: Consistency {#section-6-2}
+
+The Corporate Taxpayer and the TRA Parties agree to report and cause their respective Affiliates to report for all purposes, including U.S. federal, state and local purposes and financial reporting purposes, all Tax-related items (including the Basis Adjustments and each Tax Benefit Payment) in a manner consistent with that set forth in this TRA Agreement or specified by the Corporate Taxpayer in any Schedule (or Amended Schedule, as applicable) provided by or on behalf of the Corporate Taxpayer under this TRA Agreement that is final and binding on the parties unless otherwise required by applicable law.
+
+### Section 6.3: Cooperation {#section-6-3}
+
+Each of the TRA Parties shall (a) furnish to the Corporate Taxpayer in a timely manner such information, documents and other materials as the Corporate Taxpayer may reasonably request for purposes of making any determination or computation necessary or appropriate under this TRA Agreement, preparing any Tax Return, or contesting or defending any audit, examination, or controversy with any Taxing Authority, (b) make itself available to the Corporate Taxpayer and their representatives to provide explanations of documents and materials and such other information as the Corporate Taxpayer or their representatives may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter. The Corporate Taxpayer shall reimburse the TRA Parties for any reasonable and documented out-of-pocket costs and expenses incurred pursuant to this [Section 6.3](#section-6-3).
+
+## ARTICLE VII: MISCELLANEOUS {#article-vii}
+
+### Section 7.1: Notices {#section-7-1}
+
+All notices, demands and other communications to be given or delivered under this TRA Agreement shall be in writing and shall be deemed to have been given (a) when personally delivered (or, if delivery is refused, upon presentment) or received by email (with confirmation of transmission) prior to 5:00 p.m. eastern time on a Business Day and, if otherwise, on the next Business Day, (b) one (1) Business Day following delivery by reputable overnight express courier (charges prepaid) or (c) three (3) calendar days following mailing by certified or registered mail, postage prepaid and return receipt requested. Unless another address is specified in writing pursuant to the provisions of this [Section 7.1](#section-7-1), notices, demands and other communications shall be sent to the addresses indicated below:
+
+If to the Corporate Taxpayer or NewCo LLC, to:
+
+Appreciate Intermediate Holdings, LLC
+
+6101 Baker Road, Suite 200
+
+Minnetonka, Minnesota 55345
+
+Attention: Chris Laurence\
+Email: claurence@renterswarehouse.com
+
+with a copy (which shall not constitute notice) to:
+
+Winthrop & Weinstine, P.A.
+
+Capella Tower, Suite 3500
+
+225 South Sixth Street
+
+Minneapolis, Minnesota 55402
+
+Attention: Dean D. Willer; Philip T. Colton\
+Email: dwiller@winthrop.com; pcolton@winthrop.com
+
+If to the TRA Party Representative, to:
+
+Lake Street Landlords, LLC\
+315 Lake Street East
+
+Wayzata, Minnesota 55391
+
+Attention: Scott Honour\
+Email: shonour@northernpacificgroup.com
+
+with a copy (which shall not constitute notice) to:
+
+Faegre Drinker Biddle & Reath LLP
+
+2200 Wells Fargo Center
+
+90 South Seventh Street
+
+Minneapolis, MN 55402
+
+Attention: Steven C. Kennedy\
+Email: steve.kennedy@faegredrinker.com
+
+If to a TRA Party, to such TRA Party's address(es) listed below such TRA Party's signature on such TRA Party's signature page to this TRA Agreement or joinder signature page to this TRA Agreement.
+
+### Section 7.2: Counterparts {#section-7-2}
+
+This TRA Agreement may be executed and delivered in one or more counterparts and by fax, email or other electronic transmission, each of which shall be deemed an original and all of which shall be considered one and the same agreement. No party shall raise the use of a fax machine, email, or other electronic transmission device or method to deliver a signature or the fact that any signature or agreement or instrument was transmitted or communicated through the use of a fax machine, email, or other electronic transmission device or method as a defense to the formation or enforceability of a contract and each party forever waives any such defense.
+
+### Section 7.3: Entire Agreement; No Third-Party Beneficiaries {#section-7-3}
+
+This TRA Agreement (together with all Exhibits and Schedules to this TRA Agreement), the Business Combination Agreement (together with the Disclosure Letters and Exhibits thereto), the Limited Liability Company Agreement, and the Confidentiality Agreement, contain the entire agreement and understanding among the parties with respect to the subject matter hereof and thereof and supersede all prior agreements and understandings, whether written or oral, relating to such subject matter in any way. Nothing in this TRA Agreement, express or implied, is intended to or shall confer upon any other Person any right, benefit or remedy of any nature whatsoever under or by reason of this TRA Agreement.
+
+### Section 7.4: Governing Law {#section-7-4}
+
+The law of the State of Delaware shall govern (a) all claims or matters related to or arising from this TRA Agreement (including any tort or noncontractual claims) and (b) any questions concerning the construction, interpretation, validity and enforceability of this TRA Agreement, and the performance of the obligations imposed by this TRA Agreement, in each case without giving effect to any choice-of-law or conflict-of-law rules or provisions (whether of the State of Delaware or any other jurisdiction) that would cause the application of the law of any jurisdiction other than the State of Delaware.
+
+### Section 7.5: Severability {#section-7-5}
+
+If any provision of this TRA Agreement is determined to be invalid, illegal or unenforceable by any governmental entity, all other provisions of this TRA Agreement shall nevertheless remain in full force and effect. Upon such determination that any provision is invalid, illegal or unenforceable, the parties hereto shall negotiate in good faith to modify this TRA Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+### Section 7.6: Successors; Assignment; Amendments; Waivers {#section-7-6}
+
+(a) No TRA Party may assign all or any portion of its rights or obligations under this TRA Agreement to any Person without the prior written approval of the TRA Disinterested Majority, except that, to the extent that a TRA Party Transfers Units to any of such TRA Party's Permitted Transferees in accordance with the terms of the Limited Liability Company Agreement, the Transferring TRA Party shall have the option to assign, without the approval of the TRA Disinterested Majority, to the Transferee of such Units the Transferring TRA Party's rights and obligations under this TRA Agreement with respect to such Transferred Units. As a condition to any such assignment, each Transferee which is a Permitted Transferee or approved by the TRA Disinterested Majority and the Corporate Taxpayer shall execute and deliver a joinder to this TRA Agreement, in the form attached hereto as [Exhibit A](#exhibit-a), agreeing to become a TRA Party for all purposes of this TRA Agreement, except as otherwise provided in such joinder. If a TRA Party Transfers Units in accordance with the terms of the Limited Liability Company Agreement but does not assign to the Transferee of such Units its rights and obligations under this TRA Agreement with respect to such Transferred Units, (i) such TRA Party shall remain a TRA Party under this TRA Agreement for all purposes, including with respect to the receipt of Tax Benefit Payments to the extent payable hereunder (including any Tax Benefit Payments in respect of the Initial Sale, if any, or of the Exchanges of such Transferred Units by such Transferee), and (ii) the Transferee of such Units shall not be a TRA Party. The Corporate Taxpayer may not assign any of its rights or obligations under this TRA Agreement to any Person (other than in connection with a Mandatory Assignment) without the prior written consent of the TRA Party Representative (not to be unreasonably withheld, conditioned or delayed). Any purported assignment in violation of the terms of this [Section 7.6](#section-7-6) shall be null and void. Notwithstanding the foregoing, once the Initial Sale, if any, or any Exchange has occurred, any and all payments that may become payable to a TRA Party pursuant to this TRA Agreement with respect to such Initial Sale, if any, or such Exchange may be assigned to any Person or Persons, as long as any such Person has executed and delivered, or, in connection with such assignment, executes and delivers, a joinder to this TRA Agreement, in form and substance reasonably satisfactory to the Corporate Taxpayer, agreeing to be bound by [Section 7.12](#section-7-12).
+
+(b) Except as provided herein, no provision of this TRA Agreement may be amended unless such amendment is approved in writing by, (i) on the one hand, the Corporate Taxpayer, and (ii) on the other hand, the TRA Parties who would be entitled to receive at least two-thirds of the total amount of the Early Termination Payments payable to all TRA Parties under this TRA Agreement if the Corporate Taxpayer had exercised its right of early termination on the date of the most recent Exchange (or if no Exchange has occurred, the date of the Initial Sale, if any,) prior to such amendment (excluding, for purposes of this sentence, all payments made to any TRA Party pursuant to this TRA Agreement since the date of such most recent Exchange); *provided*, that no such amendment shall be effective if such amendment will have a disproportionate effect on the payments one or more TRA Parties will be entitled to receive under this TRA Agreement unless such amendment is consented to in writing by each such TRA Party disproportionately affected. Notwithstanding any other provision of this TRA Agreement to the contrary, the parties hereto acknowledge that to the extent that after the date hereof the Corporate Taxpayer enters into any income Tax receivable or other similar agreement (each, a "**Future TRA**"), the Corporate Taxpayer, in its sole and absolute discretion and without the consent of any other party hereto, may amend any provision of this TRA Agreement to provide that the rights of the TRA Parties under this TRA Agreement and the rights of any parties to any Future TRA under such Future TRA are *pari passu*, including for the avoidance of doubt, amending (A) [Section 3.3](#section-3-3) to allocate the Net Tax Benefit of the Corporate Taxpayer and the "net tax benefit" (or similar corresponding term as used in any Future TRA, as applicable) of the Corporate Taxpayer under each Future TRA collectively among all parties eligible for Tax Benefit Payments under this TRA Agreement and all parties eligible for "tax benefit payments" (or similar corresponding term as used in any Future TRA, as applicable) under any such Future TRA, and, if applicable, all parties eligible for "tax benefit payments" (or similar corresponding term as used in any Future TRA, as applicable) under any Future TRA that has been executed prior to such Future TRA (individually and collectively, "**Intervening TRAs**") in proportion to the amounts of Net Tax Benefit (as such term is defined in this TRA Agreement or as such term or similar corresponding term is defined in any such Future  TRA or Intervening TRA, as applicable), respectively, that would have been Attributable (as such term is defined in this TRA Agreement or as such term or similar corresponding term is defined in any such Future  TRA or Intervening TRA, as applicable) to each such party if the Corporate Taxpayer had sufficient taxable income and (B) [Section 3.4](#section-3-4) to allocate Tax Benefit Payments due under this TRA Agreement and "tax benefit payments" (or similar corresponding term as used in any Future  TRA or any Intervening TRA, as applicable) due under any Future TRA or any Intervening TRA, as applicable, collectively among all parties eligible for Tax Benefit Payments under this TRA Agreement and all parties eligible for "tax benefit payments" (or similar corresponding term as used in any Future  TRA or any Intervening TRA, as applicable) under any such Future TRAs or any such Intervening TRAs, as applicable, in proportion to the amounts of Net Tax Benefit (as such term is defined in this TRA Agreement and as such term or similar corresponding term is defined in any such Future TRA or any such Intervening TRA, as applicable)), respectively, that would have been Attributable to each such party if the Corporate Taxpayer had sufficient cash available to make such Tax Benefit Payments and "tax benefit payments" (or similar corresponding term as used in any Future TRA or any Intervening TRA, as applicable), as applicable. No provision of this TRA Agreement may be waived unless such waiver is in writing and signed by the party against whom the waiver is to be effective.
+
+(c) All of the terms and provisions of this TRA Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the parties hereto and their respective successors, permitted assigns, heirs, executors, administrators and legal representatives. The Corporate Taxpayer shall require and cause any direct or indirect successor (whether by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of the Corporate Taxpayer, by written agreement, expressly to assume and agree to perform this TRA Agreement in the same manner and to the same extent that the Corporate Taxpayer would be required to perform if no such succession had taken place (any such assignment, a "**Mandatory Assignment**").
+
+### Section 7.7: Interpretation {#section-7-7}
+
+The headings and captions used in this TRA Agreement and the table of contents to this TRA Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this TRA Agreement. Any capitalized terms used in any Schedule or Exhibit attached hereto and not otherwise defined therein shall have the meanings set forth in this TRA Agreement. The use of the word "including" herein shall mean "including without limitation." The words "hereof," "herein," and "hereunder" and words of similar import, when used in this TRA Agreement, shall refer to this TRA Agreement as a whole and not to any particular provision of this TRA Agreement. References herein to the Preamble or to a specific Section, Subsection, Recital, Clause, Schedule or Exhibit shall refer, respectively, to the Preamble, Sections, Subsections, Recitals, Clauses, Schedules or Exhibits of this TRA Agreement. Terms defined in the singular shall have a comparable meaning when used in the plural, and vice versa. References herein to any gender shall include each other gender. The word "or" shall not be exclusive unless the context clearly requires the selection of one (1) (but not more than one (1)) of a number of items. References to "written" or "in writing" include in electronic form. References herein to any Person shall include such Person's heirs, executors, personal representatives, administrators, successors and permitted assigns; provided, however, that nothing contained in this [Section 7.7](#section-7-7) is intended to authorize any assignment or transfer not otherwise permitted by this TRA Agreement. References herein to a Person in a particular capacity or capacities shall exclude such Person in any other capacity. Any reference to "days" shall mean calendar days unless Business Days are expressly specified; provided that if any action is required to be done or taken on a day that is not a Business Day, then such action shall be required to be done or taken not on such day but on the first succeeding Business Day thereafter. References herein to any contract or agreement (including this TRA Agreement) mean such contract or agreement as amended, restated, supplemented or modified from time to time in accordance with the terms thereof. With respect to the determination of any period of time, the word "from" means "from and including" and the words "to" and "until" each means "to but excluding." References herein to any law shall be deemed also to refer to such law, as amended (and any successor laws), and all rules and regulations promulgated thereunder. The word "extent" in the phrase "to the extent" (or similar phrases) shall mean the degree to which a subject or other thing extends, and such phrase shall not mean simply "if." Except where otherwise expressly provided, all amounts in this TRA Agreement are stated and shall be paid in United States dollars. The parties to this TRA Agreement and their respective counsel have reviewed and negotiated this TRA Agreement as the joint agreement and understanding of such parties, and the language used in this TRA Agreement shall be deemed to be the language chosen by such parties to express their mutual intent, and no rule of strict construction shall be applied against any Person.
+
+### Section 7.8: Waiver of Jury Trial; Jurisdiction {#section-7-8}
+
+(a) THE PARTIES EACH HEREBY WAIVE, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY RIGHT TO TRIAL BY JURY OF ANY CLAIM, DEMAND, ACTION OR CAUSE OF ACTION (I) ARISING UNDER THIS TRA AGREEMENT OR (II) IN ANY WAY CONNECTION WITH OR RELATED OR INCIDENTAL TO THE DEALINGS OF THE PARTIES IN RESPECT OF THIS TRA AGREEMENT OR ANY OF THE TRANSACTIONS RELATED HERETO, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER, AND WHETHER IN CONTRACT, TORT, EQUITY OR OTHERWISE. THE PARTIES EACH HEREBY AGREES AND CONSENTS THAT ANY SUCH CLAIM, DEMAND, ACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY AND THAT THE PARTIES MAY FILE AN ORIGINAL COUNTERPART OF A COPY OF THIS TRA AGREEMENT WITH ANY COURT AS WRITTEN EVIDENCE OF THE CONSENT OF THE PARTIES HERETO TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.
+
+(b) Subject to [Section 7.9](#section-7-9), each of the parties hereto submits to the exclusive jurisdiction of the Chancery Court of the State of Delaware (or, if the Chancery Court of the State of Delaware declines to accept jurisdiction, any state or federal court within the State of New York, New York County) in any action, suit or proceeding arising out of or relating to this TRA Agreement, agrees that all claims in respect of such action, suit or proceeding shall be heard and determined in any such court and agrees not to bring any action, suit or proceeding arising out of or relating to this TRA Agreement in any other courts. Nothing in this [Section 7.8](#section-7-8), however, shall affect the right of any party to serve legal process in any other manner permitted by law or at equity. Each party hereto agrees that a final judgment in any action, suit or proceeding so brought shall be conclusive and may be enforced by suit on the judgment or in any other manner provided by law or at equity.
+
+### Section 7.9: Reconciliation {#section-7-9}
+
+In the event that the Corporate Taxpayer and the TRA Party Representative are unable to resolve a disagreement with respect to the calculation of amounts owed pursuant to this TRA Agreement within the relevant period designated in this TRA Agreement ("**Reconciliation Dispute**"), the Reconciliation Dispute shall be submitted for determination to a nationally recognized expert in the particular area of disagreement, acting as an expert and not as an arbitrator (the "**Expert**"), mutually acceptable to the Corporate Taxpayer and the TRA Party Representative; *provided* that solely with respect to any disagreements regarding the computation of an Early Termination Payment that relates to the taxable income projections described in clause (i) of the definition of "Valuation Assumptions," the Corporate Taxpayer and the TRA Party Representative shall each submit the Reconciliation Dispute for determination to an Expert in the area of valuation services mutually acceptable to the Corporate Taxpayer and the TRA Party Representative. The Expert shall be a partner or principal in a nationally recognized accounting or law firm and, unless the Corporate Taxpayer, and the TRA Party Representative agree in writing otherwise, the Expert shall not, and the firm that employs the Expert shall not, have any material relationship with any party to this TRA Agreement or any Affiliate of any such parties or any other actual or potential conflict of interest. If the Corporate Taxpayer and the TRA Party Representative are unable to agree on an Expert within fifteen (15) calendar days of receipt by the respondent(s) of written notice of a Reconciliation Dispute, then the Corporate Taxpayer and the TRA Party Representative shall cause the Expert to be selected by the International Chamber of Commerce Centre for Expertise in accordance with the criteria set forth above in this [Section 7.9](#section-7-9) and the Expert shall be subject to replacement by mutual agreement of the Corporate Taxpayer and the TRA Party Representative. The Expert shall resolve any matter relating to the Basis Schedule or an amendment thereto, the Early Termination Schedule or an amendment thereto, or a Tax Benefit Schedule or any amendment thereto within thirty (30) calendar days or, in each case, as soon thereafter as is reasonably practicable, in each case after the matter has been submitted to the Expert for resolution. Notwithstanding the preceding sentence, if the matter is not resolved before any payment that is the subject of a disagreement would be due (in the absence of such disagreement) or any Tax Return reflecting the subject of a disagreement is due, the undisputed amount shall be paid on the date prescribed by this TRA Agreement and such Tax Return may be filed as prepared by the Corporate Taxpayer, subject to adjustment or amendment upon resolution. The sum of (a) the costs and expenses relating to (i) the engagement (and, if applicable, selection by the International Chamber of Commerce Centre for Expertise) of such Expert and (ii) if applicable, amending any Tax Return in connection with the decision of such Expert and (b) the reasonable out-of-pocket costs and expenses of the Corporate Taxpayer and the TRA Party Representative incurred in the conduct of such proceeding shall be allocated between the Corporate Taxpayer, on the one hand, and the TRA Parties whose Tax Benefit Payments were the subject of the Resolution Dispute, on the other hand (and, in turn, among such TRA Parties in proportion to their respective unsuccessfully disputed items), in the same proportion that the aggregate amount of the disputed items so submitted to the Expert that is unsuccessfully disputed by each such party (as finally determined by the Expert) bears to the total amount of such disputed items so submitted, and each such party shall promptly reimburse the other party for the excess that such other party has paid in respect of such costs and expenses over the amount it has been so allocated. The Corporate Taxpayer may withhold payments under this TRA Agreement to collect amounts due under the preceding sentence on a TRA Party-by-TRA Party basis. Any dispute as to whether a dispute is a Reconciliation Dispute within the meaning of this [Section 7.9](#section-7-9) shall be decided by the Expert. The Expert shall finally determine any Reconciliation Dispute and the determinations of the Expert pursuant to this [Section 7.9](#section-7-9) shall be binding on the Corporate Taxpayer and each of the TRA Parties whose Tax Benefit Payments were the subject of the Resolution Dispute and may be entered and enforced in any court having jurisdiction.
+
+### Section 7.10: Withholding {#section-7-10}
+
+The Corporate Taxpayer shall be entitled to deduct and withhold, or cause there to be deducted and withheld from, any payment payable pursuant to this TRA Agreement such amounts as the Corporate Taxpayer is required to deduct and withhold with respect to the making of such payment under the Code or any provision of state, local, foreign or other tax law. To the extent that amounts are so withheld and paid over to the appropriate Taxing Authority by the Corporate Taxpayer, such withheld amounts shall be treated for all purposes of this TRA Agreement as having been paid to the Person in respect of whom such withholding was made or such payment was due and payable. Each TRA Party shall promptly provide the Corporate Taxpayer, NewCo LLC, or other applicable withholding agent with any applicable Tax forms and certifications (including IRS Form W-9 or the applicable version of IRS Form W-8) and any other related information necessary to enable the Corporate Taxpayer (or its applicable withholding agent) to determine whether any deduction or withholding is required under applicable law and to comply with any applicable reporting requirements or that are reasonably requested and shall promptly provide an update of any such Tax form or certificate previously delivered if the same has become incorrect or has expired and shall indemnify and hold harmless the Corporate Taxpayer (or its applicable withholding agent) for the entire amount of any such amounts as the Corporate Taxpayer (or its applicable withholding agent) is required to deduct and withhold.
+
+### Section 7.11: Admission of the Corporate Taxpayer into a Consolidated Group; Transfers of Corporate Assets {#section-7-11}
+
+(a) If the Corporate Taxpayer is or becomes a member of an affiliated, consolidated, combined or unitary group of corporations that files a consolidated, combined, or unitary income Tax Return pursuant to Sections 1501 et seq. of the Code or any corresponding provisions of state or local tax law, then: (i) the provisions of this TRA Agreement shall be applied with respect to the group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments and other applicable items hereunder shall be computed with reference to the consolidated, combined, or unitary taxable income of the group as a whole.
+
+(b) If any entity that is obligated to make any Tax Benefit Payment or any Early Termination Payment hereunder transfers one or more assets to a corporation with which such entity does not file a consolidated, combined, or unitary tax return pursuant to Section 1501 of the Code, or any corresponding provisions of state, local or non-U.S. Tax law, such entity, for purposes of calculating the amount of any such payment (*e.g.*, calculating the gross income of the entity and determining the Realized Tax Benefit of such entity) due hereunder, shall be treated as having disposed of such asset in a fully taxable transaction on the date of such contribution. The consideration deemed to be received by such entity shall be equal to the fair market value of the contributed asset (as reasonably determined by the governing body, or the Person responsible for management, of such entity acting in good faith), plus, without duplication, (i) the amount of debt to which such asset is subject, in the case of a contribution of an encumbered asset or (ii) the amount of debt allocated to such asset, in the case of a contribution of a partnership interest.
+
+### Section 7.12: Confidentiality {#section-7-12}
+
+(a) Subject to [Section 6.3](#section-6-3)*,* each TRA Party acknowledges and agrees that the information of the Corporate Taxpayer is confidential and, except in the course of performing any duties as necessary for the Corporate Taxpayer and its Affiliates, as required by law or legal process or to enforce the terms of this TRA Agreement in good faith, such person shall keep and retain in confidence and not disclose to any Person any confidential matters of the Corporate Taxpayer and its Affiliates and successors or concerning NewCo and its Affiliates and successors learned by the TRA Party pursuant to this TRA Agreement. This [Section 7.12](#section-7-12) shall not apply to (i) any information that has been made public by the Corporate Taxpayer or any of its Affiliates or becomes public knowledge (except as a result of an act of the TRA Party in violation of this TRA Agreement) and (ii) the disclosure of information to the extent reasonably necessary for the TRA Party to prepare and file its Tax Returns, to respond to any inquiries regarding the same from any Taxing Authority or to prosecute or defend any material action, proceeding or audit by any Taxing Authority with respect to such returns. Notwithstanding anything to the contrary in this TRA Agreement, to the extent required by applicable law or to the extent reasonably necessary for the TRA Party to comply with any applicable reportable transaction requirements under applicable law, each TRA Party (and each employee, representative or other agent of the TRA Party, as applicable) may disclose the Tax treatment and Tax structure of the Corporate Taxpayer, NewCo and their Affiliates, and any of their transactions, and all materials of any kind (including opinions or other Tax analyses) that are provided to the TRA Party relating to such Tax treatment and Tax structure.
+
+(b) If a TRA Party breaches any of the provisions of this [Section 7.12](#section-7-12), the Corporate Taxpayer shall have the right to seek to have the provisions of this [Section 7.12](#section-7-12) specifically enforced by injunctive relief by any court of competent jurisdiction without the need to post any bond or other security, it being acknowledged and agreed that any such breach shall cause irreparable injury to the Corporate Taxpayer or any of its Affiliates and that money damages alone shall not provide an adequate remedy to such Persons. Such rights and remedies shall be in addition to, and not in lieu of, any other rights and remedies available at law or in equity.
+
+(c) In no event shall this [Section 7.12](#section-7-12) limit any obligation of any party under the Limited Liability Company Agreement or the Business Combination Agreement.
+
+### Section 7.13: TRA Party Representative {#section-7-13}
+
+### Section 7.14: By executing this TRA Agreement, each of the TRA Parties shall be deemed to have irrevocably appointed the TRA Party Representative as each TRA Party's agent and attorney in fact with full power of substitution to act from and after the date hereof and to do any and all things and execute any and all documents on behalf of such TRA Parties which may be necessary, convenient or appropriate to facilitate any matters under this TRA Agreement, including: (i) execution of the documents and certificates required pursuant to this TRA Agreement; (ii) except to the extent provided in this TRA Agreement, receipt and forwarding of notices and communications pursuant to this TRA Agreement; (iii) administration of the provisions of this TRA Agreement; (iv) any and all consents, waivers, amendments or modifications deemed by the TRA Party Representative to be necessary or appropriate under this TRA Agreement and the execution or delivery of any documents that may be necessary or appropriate in connection therewith; (v) taking actions the TRA Party Representative is authorized to take pursuant to the other provisions of this TRA Agreement; (vi) negotiating and compromising, on behalf of such TRA Parties, any dispute that may arise under, and exercising or refraining from exercising any remedies available under, this TRA Agreement and executing, on behalf of such TRA Parties, any settlement agreement, release or other document with respect to such dispute or remedy; and (vii) engaging attorneys, accountants, agents or consultants on behalf of such TRA Parties in connection with this TRA Agreement and paying any fees related thereto on behalf of such TRA Parties, subject to reimbursement by such TRA Parties {#section-7-14}
+
+\[*Signature Page Follows*\] IN WITNESS WHEREOF, the undersigned have caused this TRA Agreement to be duly executed as of the date first above written.
+
+  --- ------------------------------------------------------------
+      **CORPORATE TAXPAYER**:
+
+      PropTech Investment Corporation II, a Delaware corporation
+  --- ------------------------------------------------------------
+
+By:
+
+Name:
+
+Title:
+
+  --- -----------------------------------------------------------------------------
+      **NEWCO LLC**:
+
+      Appreciate Intermediate Holdings, LLC, a Delaware limited liability company
+  --- -----------------------------------------------------------------------------
+
+By:
+
+Name:
+
+Title:
+
+  --- -----------------------------------------------------------------
+      **COMPANY**:
+
+      RW National Holdings, LLC, a Delaware limited liability company
+  --- -----------------------------------------------------------------
+
+By:
+
+Name:
+
+Title:
+
+  --- ------------------------------------------------------------------
+      **LAKE STREET**:
+
+      Lake Street Landlords, LLC, a Delaware limited liability company
+  --- ------------------------------------------------------------------
+
+By:
+
+Name:
+
+Title:
+
+*Signature Page to Income Tax Receivable Agreement* *Signature Page to Income Tax Receivable Agreement* [Exhibit A](#exhibit-a) Form of Joinder This Joinder Agreement ("**Joinder Agreement**") is a joinder to the Income Tax Receivable Agreement, dated as of \[●\], 2022 (the "**Agreement**"), by and among PropTech Investment Corporation II, a Delaware corporation (the "**Corporate Taxpayer**"), Appreciate Intermediate Holdings, LLC, a Delaware limited liability company ("**NewCo LLC**"), RW National Holdings, LLC, a Delaware limited liability company, each of the TRA Parties (as defined therein), and each of the other Persons from time to time that become a party thereto, as amended from time to time. Capitalized terms used but not defined in this Joinder Agreement shall have the meanings given to them in the Agreement. This Joinder Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to its conflict-of-law principles that would cause the application of the laws of another jurisdiction. If there is a conflict between this Joinder Agreement and the Agreement, the terms of this Joinder Agreement shall control.
+
+  --- ------------------------------
+      **TRA PARTY**:
+
+      **\[  \]**
+  --- ------------------------------
+
+By:
+
+Name:
+
+Title:
+
+  --- ----------------------
+      Address for Notices:
+
+      Attention:
+      Email:
+  --- ----------------------
+
+By signing and returning this Joinder Agreement to the Corporate Taxpayer and NewCo LLC, the undersigned accepts and agrees to be bound by and subject to all of the terms and conditions of and a TRA Party contained in the Agreement, with all attendant rights, duties and obligations of a TRA Party thereunder. The parties to the Agreement shall treat the execution and delivery hereof by the undersigned as the execution and delivery of the Agreement by the undersigned and, upon receipt of this Joinder Agreement by the Corporate Taxpayer and NewCo LLC, the signature of the undersigned set forth below shall constitute a counterpart signature to the signature page of the Agreement.
+
+\[*Remainder of Page Intentionally Left Blank.*\] IN WITNESS WHEREOF, the undersigned have caused this Joinder Agreement to be executed and delivered as of the date first set forth above.
+
+A-1
+
+\[ ● \]
+
+Name:
+
+\[Title:\]
+
+Address for Notices:
+
+Attention:
+
+Email:
+
+A-2
+
+SCHEDULE 1
+
+S-1

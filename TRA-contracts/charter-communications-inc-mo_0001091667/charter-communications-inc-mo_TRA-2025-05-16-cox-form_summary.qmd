@@ -1,0 +1,32 @@
+---
+title: "Charter Communications, Inc. TRA (TRA-2025-05-16-cox-form)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Charter Communications, Inc."]
+CIKs: ["0001091667"]
+status: Unknown
+creation-date: 2025-05-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: ["TRA-2016-05-18", "TRA-prospective-gci-divestiture"]
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only, not yet executed. Will be the Amended and Restated form of the May 18, 2016
+  TRA, adding Cox Enterprises alongside A/N. Effective date will be the Cox Transactions closing
+  (expected mid-2026). Origination date 2025-05-16 reflects the form-of's first EDGAR appearance.
+---
+
+## TRA Timeline
+
+#### Form-of filed at Cox Transaction Agreement signing
+
+- 2025-05-16: Cox Transaction Agreement signed and filed as Exhibit 2.1 to 8-K; Form-of Amended and Restated Tax Receivables Agreement attached as Exhibit G inside Exhibit 2.1
+- 2025-08-18: Pro forma 8-K confirms 50% TRA payment rate carried over from the 2016 TRA
+- 2025-09-02: Note offering 8-K incorporates Form-of TRA by reference; DEFM14A also reproduces it
+
+## Explanation
+
+This contract is a form-of (unexecuted) Amended and Restated Tax Receivables Agreement attached as Exhibit G to the May 16, 2025 Cox Transaction Agreement; it will replace the 2016 TRA at the Cox Transactions closing. The economic structure carries over from the 2016 TRA at 50%, the covered tax attribute is the same Section 754 basis adjustments from Taxable Exchanges, and A/N continues as a TRA Party; Cox Enterprises is added as a second TRA Party covering its Class C Common Units and convertible preferred units. The preamble date is blank in the form-of and will be the Cox closing date; the directory differentiator `cox-form` reflects that the document is not yet executed. Once the Cox Transactions close, this contract should be treated as a continuation of `TRA-2016-05-18` rather than a parallel TRA. See `contract_log.md` for the full filing record.

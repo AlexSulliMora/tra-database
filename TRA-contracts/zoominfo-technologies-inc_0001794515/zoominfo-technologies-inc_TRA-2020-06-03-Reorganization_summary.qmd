@@ -1,0 +1,40 @@
+---
+title: "ZoomInfo Technologies Inc. TRA (TRA-2020-06-03-Reorganization)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ZoomInfo Technologies Inc."]
+CIKs: ["0001794515"]
+status: Ongoing
+creation-date: 2020-06-03
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2020-06-03-Exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Counterparties are the pre-IPO holders of Carlyle Partners VI and TA
+  Associates Blocker entities absorbed at IPO close. Two TRAs share the
+  Net Tax Benefit allocation pro rata. Blocker Transferred Basis and
+  Remedial Allocations tagged as Basis Step-Up; Pre-Merger NOLs as NOL.
+---
+
+## TRA Timeline
+
+#### Up-C IPO, Blocker Mergers, and TRA execution
+
+- 2020-05-26: Form-of TRA (Reorganization) filed as Exhibit 10.4 to S-1/A.
+- 2020-06-03: ZoomInfo Up-C IPO closes; Blocker entities (CP VI Evergreen Holdings I and II, TA XI DO Blocker, TA SDF II/III DO Blockers, 22C DiscoverOrg Blocker, TA AP VII-B DO Blocker) merge into ZoomInfo; TRA (Reorganization) executed between ZoomInfo Technologies Inc. and the Pre-IPO Blocker Holders (Carlyle Partners VI and TA Associates fund LPs); 85% of Cumulative Net Realized Tax Benefit on Pre-Merger NOLs, Blocker Transferred Basis, Remedial Allocations, and Imputed Interest.
+
+#### Up-C structure elimination
+
+- 2021-08-20: RKSI Restructuring completed; Amendment No. 1 expands the Corporate Taxpayer definition to include ZoomInfo Intermediate Holdings LLC and adds RKSI Restructuring protective language; payment percentage and beneficiary set unchanged.
+
+#### Payment phase
+
+- 2023-2025: Cash TRA payments tracked alongside the Exchanges TRA on a pro rata Net Tax Benefit allocation (combined $94.0M in 2024 and $23.6M in 2025); per-contract split not disclosed separately.
+
+## Explanation
+
+The ZoomInfo "Reorganization" TRA was executed at the June 3, 2020 Up-C IPO close as the companion to the Exchanges TRA. Its purpose is to compensate the pre-IPO holders of seven Blocker entities (Carlyle Partners VI vehicles and TA Associates funds) that were merged into ZoomInfo at the IPO under the Master Reorganization Agreement, transferring those entities' Pre-Merger NOLs and inside basis to PubCo. ZoomInfo pays 85% of the Cumulative Net Realized Tax Benefit from those acquired attributes, with allocation shared pro rata against the parallel Exchanges TRA when both contracts are in payment. The Up-C structure elimination via the August 20, 2021 RKSI Restructuring did not terminate this TRA; the simultaneous Amendment No. 1 protected the tax-attribute calculations against the internal reorganization without altering payment percentage or beneficiary set. The two TRAs remain in force, with material cash payments running through 2024 and 2025. See `contract_log.md` for the full filing-by-filing record and the parallel-TRA mapping.

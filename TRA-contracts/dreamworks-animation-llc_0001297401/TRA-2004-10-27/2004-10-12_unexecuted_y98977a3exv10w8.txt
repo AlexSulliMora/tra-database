@@ -1,0 +1,1028 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>13
+<FILENAME>y98977a3exv10w8.txt
+<DESCRIPTION>TAX RECEIVABLE AGREEMENT
+<TEXT>
+<PAGE>
+
+
+                                                                    Exhibit 10.8
+
+
+
+                        TAX RECEIVABLE AGREEMENT (this "Agreement"), dated as of
+                              , 2004, by and among DreamWorks Animation SKG,
+                        Inc., a Delaware corporation ("DWA") and DW Investment
+                        II, Inc., a Washington subchapter S corporation ("DWI
+                        II").
+
+
+
+            WHEREAS, on       , 2004, DW Investment I, Inc., a subchapter S
+corporation ("DWI I"), distributed its entire interest in DreamWorks Animation
+LLC, a Delaware limited liability company ("DWA LLC"), to Paul G. Allen
+("Allen"), its sole shareholder, in a transaction taxable under Section 311 of
+the Code (the "Vulcan Transaction").
+
+
+
+            WHEREAS, on       , 2004, after the Vulcan Transaction, Allen
+contributed his entire interest in DWA LLC to DWI II and DWA acquired such
+interest in DWA LLC from DWI II by contribution (the "Contribution") in a
+transaction described in Section 351 of the Internal Revenue Code of 1986, as
+amended (the "Code").
+
+
+            WHEREAS, this Agreement was issued by DWA to DWI II as partial
+consideration for the DWA LLC interest transferred to DWA by DWI II in the
+Contribution and shall be treated as "other property" received by DWI II for
+purposes of Section 351(b) of the Code.
+
+            WHEREAS, DWA LLC shall have in effect an election under Section 754
+of the Code(2) for the Taxable Year in which the Vulcan Transaction occurs,
+which will result in an adjustment to the tax basis of the assets owned by DWA
+LLC as of the Closing Date (such assets and any asset whose tax basis is
+determined, in whole or in part, by reference to the adjusted basis of any such
+asset, the "Original Assets") by reason of the Vulcan Transaction and the
+issuance of this Agreement to DWI II as partial consideration in the
+Contribution.
+
+
+            WHEREAS, on       , 2004, DWA acquired all the remaining interests
+in DWA LLC from the holders of such interests, other than an interest in DWA LLC
+held by DreamWorks, Inc., a Delaware corporation ("DW Inc.").
+
+
+
+            WHEREAS, on       , 2004, after the Vulcan Transaction, DWA
+acquired all the outstanding stock of DW Inc.
+
+
+            WHEREAS, DWA is the common parent of the DWA Affiliated Group and DW
+Inc. is a member of the DWA Affiliated Group.
+
+            WHEREAS, 100% of the interests in DWA LLC are held by members of the
+DWA Affiliated Group and, as a result, the income, gain, loss, expense and other
+Tax items of DWA LLC will be reported by the DWA Affiliated Group on the DWA
+Consolidated Returns.
+
+
+
+
+
+<PAGE>
+                                                                               2
+
+
+            WHEREAS, the income, gain, loss, expense and other Tax items of DWA
+LLC may be affected by the Basis Adjustment and the Imputed Interest.
+
+            WHEREAS, the parties to this Agreement desire to make certain
+arrangements with respect to the effect of the Basis Adjustment and Imputed
+Interest on the actual liability for Covered Taxes of the DWA Affiliated Group.
+
+            NOW, THEREFORE, in consideration of the foregoing and the respective
+covenants and agreements set forth herein, and intending to be legally bound
+hereby, the parties hereto agree as follows:
+
+                                    ARTICLE I
+                                   Definitions
+
+            Definitions. As used in this Agreement, the terms set forth in this
+Article I shall have the following meanings (such meanings to be equally
+applicable to both the singular and plural forms of the terms defined).
+
+
+            "Advisory Firm" means [ ] or a nationally recognized accounting
+or law firm that is nationally recognized as being expert in Covered Tax matters
+that is agreed to by DWA and DWI II as its replacement.
+
+
+            "Advisory Firm Letter" shall mean a letter from the Advisory Firm
+stating that the relevant schedule, notice or other information to be provided
+by DWA to DWI II and all supporting schedules and work papers were prepared in a
+manner consistent with the terms of this Agreement and, to the extent not
+expressly provided in this Agreement, on a reasonable basis in light of the
+facts and law in existence on the date such schedule, notice or other
+information is delivered to DWI II.
+
+            "Agreed Rate" means, LIBOR plus 200 basis points.
+
+            "Agreement" is defined in the preamble.
+
+            "Agreement Value" is defined in Section 2.01 of this Agreement.
+
+            "Amended Tax Benefit Schedule" is defined in Section 2.03(b) of this
+Agreement.
+
+
+            "Applicable Treasury Rate" means a rate equal to (1) if an Early
+Termination Notice is delivered prior to the third anniversary of the Closing
+Date , [x.xx]% or (2) the yield to maturity as of the date an Early
+Termination Notice is delivered of United States Treasury
+
+
+
+
+
+
+
+<PAGE>
+                                                                               3
+
+
+securities with a constant maturity (the "Applicable Maturity") (as compiled and
+published in the most recent Federal Reserve Statistical Release H 15 (519))
+equal to (a) if such Early Termination Notice is delivered on or after the third
+anniversary of the Closing Date but prior to the fifth anniversary of the
+Closing Date, 10 years, (b) if such Early Termination Notice is delivered on or
+after the fifth anniversary of the Closing Date but prior to the fifteenth
+anniversary of the Closing Date, the number of years from the date such Early
+Termination Notice is delivered through the fifteenth anniversary of the Closing
+Date, or (c) if such Early Termination Notice is delivered on or after the
+fifteenth anniversary of the Closing Date, two years. If there are no United
+States Treasury securities with a constant maturity equal to the Applicable
+Maturity, the yield to maturity shall be interpolated from the United States
+Treasury securities with constant maturities that are most nearly longer than
+and shorter than the Applicable Maturity.
+
+            "Basis Adjustment" means the increase or decrease to the tax basis
+of an Original Asset (i) under Sections 743(b) and 754 of the Code and
+comparable sections of the California Revenue and Taxation Code as a result of
+the Vulcan Transaction and (ii) under Section 362(a) of the Code and the
+comparable section of the California Revenue and Taxation Code as a result of
+the receipt by DWI II of this Agreement as partial consideration in the
+Contribution, as shown on the Basis and Agreement Value Schedule. The Basis
+Adjustment shall include only the increase or decrease to the tax basis of any
+Original Asset made as of the Closing Date and for the reasons described in (i)
+and (ii) above, provided however that if there is a relevant Determination that
+all or part of the Basis Adjustment described in (ii) above occurred after the
+Closing Date by reason of the accrual or payment of any amount due to DWI II
+under this Agreement, then the increase or decrease in the basis of the Original
+Assets described in (ii) above shall include all such adjustments as they occur
+after the Closing Date in a manner consistent with such Determination.
+
+            "Basis and Agreement Value Schedule" is defined in Section 2.02(a)
+of this Agreement.
+
+            "Business Day" means any calendar day that is not a Saturday, Sunday
+or other calendar day on which banks are required or authorized to be closed in
+the City of New York.
+
+            "California State Income Tax" means any income, franchise or similar
+tax imposed by the state of California (including, without limitation, the
+Corporation Tax Law under the California Revenue and Taxation Code Section 23001
+et. seq.), and any interest, additions to tax or penalties applicable or related
+to such tax.
+
+
+            "Change of Control Event" means the occurrence of any of the
+following events, not including any events occurring prior to or in connection
+with an initial public offering of Shares (as defined below), including the
+occurrence of such initial public offering:
+
+
+            (i) during any period of 14 consecutive calendar months, individuals
+      who were directors of DWA on the first day of such period (the "Incumbent
+      Directors") cease for any reason to constitute a majority of the Board of
+      Directors of DWA (the "Board"); provided, however, that any individual
+      becoming a director subsequent to the first day of
+
+<PAGE>
+                                                                               4
+
+
+      such period whose election, or nomination for election, by DWA's
+      stockholders was approved by a vote of at least a majority of the
+      Incumbent Directors shall be considered as though such individual were an
+      Incumbent Director, but excluding, for purposes of this proviso, any such
+      individual whose initial assumption of office occurs as a result of an
+      actual or threatened proxy contest with respect to election or removal of
+      directors or other actual or threatened solicitation of proxies or
+      consents by or on behalf of a "person" (as such term is used in Section
+      13(d) of the Exchange Act), in each case other than the management of DWA,
+      the Board or the holders of DWA's Class B common stock, $0.01 par value;
+
+            (ii) the consummation of (A) a merger, consolidation, statutory
+      share exchange or similar form of corporate transaction involving (x) DWA
+      or (y) any of its Subsidiaries, but in the case of this clause (y) only if
+      DWA Voting Securities (as defined below) are issued or issuable (each of
+      the events referred to in this clause (A) being hereinafter referred to as
+      a "Reorganization") or (B) the sale or other disposition of all or
+      substantially all the assets of DWA to an entity that is not an affiliate
+      of DWA (a "Sale") if such Reorganization or Sale requires the approval of
+      DWA's stockholders under the law of DWA's jurisdiction of organization
+      (whether such approval is required for such Reorganization or Sale or for
+      the issuance of securities of DWA in such Reorganization or Sale), unless,
+      immediately following such Reorganization or Sale, (1) all or
+      substantially all the individuals and entities who were the "beneficial
+      owners" (as such term is defined in Rule 13d-3 under the Exchange Act (or
+      a successor rule thereto)) of the shares of Class A Common Stock of DWA,
+      $0.01 par value, or such other securities of DWA into which such shares
+      shall be changed by reason of a recapitalization, merger, consolidation,
+      split-up, combination, exchange of shares or other similar transaction
+      (the "Shares") or other securities eligible to vote for the election of
+      the Board (together, "DWA Voting Securities") outstanding immediately
+      prior to the consummation of such Reorganization or Sale beneficially own,
+      directly or indirectly, more than 50% of the combined voting power of the
+      then outstanding voting securities of the corporation resulting from such
+      Reorganization or Sale (including, without limitation, a corporation that
+      as a result of such transaction owns DWA or all or substantially all DWA's
+      assets either directly or through one or more subsidiaries) (the
+      "Continuing Corporation") in substantially the same proportions as their
+      ownership, immediately prior to the consummation of such Reorganization or
+      Sale, of the outstanding DWA Voting Securities (excluding any outstanding
+      voting securities of the Continuing Corporation that such beneficial
+      owners hold immediately following the consummation of the Reorganization
+      or Sale as a result of their ownership prior to such consummation of
+      voting securities of any company or other entity involved in or forming
+      part of such Reorganization or Sale other than DWA), (2) no "person" (as
+      such term is used in Section 13(d) of the Exchange Act), excluding (x) any
+      employee benefit plan (or related trust) sponsored or maintained by the
+      Continuing Corporation or any corporation controlled by the Continuing
+      Corporation, (y) Jeffrey Katzenberg and (z) David Geffen, beneficially
+      owns, directly or indirectly, 20% or more of the combined voting power of
+      the then outstanding voting securities of the Continuing Corporation and
+      (3) at least a majority of the members of the board of directors of the
+      Continuing Corporation were Incumbent Directors at the time of the
+      execution of the definitive agreement providing for such
+<PAGE>
+                                                                               5
+
+
+      Reorganization or Sale or, in the absence of such an agreement, at the
+      time at which approval of the Board was obtained for such Reorganization
+      or Sale;
+
+            (iii) the stockholders of DWA approve a plan of complete liquidation
+      or dissolution of DWA; or
+
+
+            (iv) any "person" (as such term is used in Section 13(d) of the
+      Exchange Act), corporation or other entity or "group" (as used in Section
+      14(d)(2) of the Exchange Act) (other than (A) DWA, (B) any trustee or
+      other fiduciary holding securities under an employee benefit plan of DWA
+      or an affiliate of DWA or (C) any company owned, directly or indirectly,
+      by the stockholders of DWA in substantially the same proportions as their
+      ownership of the voting power of the DWA Voting Securities) becomes the
+      beneficial owner, directly or indirectly, of securities of DWA
+      representing 20% or more of the combined voting power of the DWA Voting
+      Securities but only if the percentage so owned exceeds the aggregate
+      percentage of the combined voting power of the DWA Voting Securities then
+      owned, directly or indirectly, by Jeffrey Katzenberg and David Geffen;
+      provided, however, that for purposes of this subparagraph (iv), the
+      following acquisitions shall not constitute a Change of Control: (x) any
+      acquisition directly from DWA or (y) any acquisition by any employee
+      benefit plan (or related trust) sponsored or maintained by DWA or an
+      affiliate of DWA.
+
+
+            "Change of Control Termination Payment" is defined in Section
+4.03(c) of this Agreement.
+
+
+            "Closing Date" means       , 2004.
+
+
+            "Code" is defined in the recitals.
+
+            "Contribution" is defined in the recitals.
+
+            "Covered Taxable Year" means any Taxable Year of the DWA Affiliated
+Group ending after the Closing Date and on or before the end of the Taxable Year
+including the date which is the twentieth (20th) anniversary of the Closing
+Date.
+
+            "Covered Taxes" means Federal Income Taxes and California State
+Income Taxes.
+
+            "Determination" shall have the meaning ascribed to such term in
+Section 1313(a) of the Code or similar provision of the California Revenue and
+Taxation Code, as applicable.
+
+            "DWA" is defined in the preamble.
+
+
+
+
+<PAGE>
+                                                                               6
+
+
+            "DWA Affiliated Group" means the affiliated group of domestic
+corporations within the meaning of Section 1504(a) of the Code or the unitary
+combined group of corporations within the meaning the California Revenue and
+Taxation Code, as applicable, of which DWA is a member from time to time.
+
+            "DWA Consolidated Return" means the consolidated Federal income tax
+return or California unitary combined tax return, as applicable, of the DWA
+Affiliated Group filed with respect to any Taxable Year.
+
+            "DWA Group" means (i) the corporations that are members of the DWA
+Affiliated Group and (ii) the corporations that would be members of the DWA
+Affiliated Group but for the fact they are not includible corporations under
+Section 1504(b) of the Code.
+
+            "DWA Payment" is defined in Section 5.01 of this Agreement.
+
+            "DWA LLC" is defined in the recitals.
+
+
+            "DWA Senior Obligations" means indebtedness of DWA (including and
+together with all monetary obligations in respect of the five-year $200 million
+revolving credit facility entered into among DWA, JP Morgan Chase Bank and
+certain other lenders (the "Credit Agreement"), and interest, whether or not
+allowable, accruing on indebtedness incurred pursuant to the Credit Agreement
+after the filing of a petition initiating any proceeding under any bankruptcy,
+insolvency or similar law or that would have accrued but for such filing)
+arising under the Credit Agreement or that, by the terms of the instrument
+creating or evidencing such indebtedness, is expressly designated "senior debt"
+and made senior in right of payment to any other of the indebtedness of DWA;
+provided, that in no event shall DWA Senior Obligations include (i) indebtedness
+to any Subsidiary of DWA or any officer, director or employee of DWA or any of
+its Subsidiaries (other than indebtedness that is required to be pledged to the
+lenders under the Credit Agreement) or (ii) indebtedness to trade creditors.
+
+
+            "DWI I" is defined in the recitals.
+
+            "DWI II" is defined in the preamble.
+
+            "DW Inc." is defined in the recitals.
+
+            "DW LLC" means DreamWorks L.L.C., a Delaware limited liability
+company.
+
+            "Early Termination Notice" is defined in Section 4.02 of this
+Agreement.
+
+            "Early Termination Payment" is defined in Section 4.03(b) of this
+Agreement.
+
+
+
+
+<PAGE>
+                                                                               7
+
+
+            "Early Termination Rate" means the Applicable Treasury Rate plus 300
+basis points.
+
+            "Exchange Act" means the Securities Exchange Act of 1934, as
+amended, or any successor statute thereto.
+
+            "Federal Income Tax" means any tax imposed under Subtitle A of the
+Code or any other provision of United States Federal income tax law (including,
+without limitation, the taxes imposed by Sections 11, 55, 59A, and 1201(a) of
+the Code), and any interest, additions to tax or penalties applicable or related
+to such tax.
+
+            "Governmental Entity" means any Federal, state, local, provincial or
+foreign government or any court of competent jurisdiction, administrative agency
+or commission or other governmental authority or instrumentality, whether
+domestic or foreign.
+
+            "Hypothetical Tax Basis" means, with respect to any asset at any
+time, the tax basis that such asset would have at such time if no Basis
+Adjustment had been made.
+
+            "Hypothetical Tax Liability" means, with respect to any Covered
+Taxable Year, the liability for Covered Taxes of the DWA Affiliated Group using
+the same methods, elections, conventions and similar practices used on the
+relevant DWA Consolidated Return, but using the Hypothetical Tax Basis instead
+of the actual tax basis of each relevant asset and excluding any deduction
+attributable to the Imputed Interest.
+
+            "Imputed Interest" shall mean any interest imputed under Section
+1272, 1274 or 483 or other provision of the Code and the similar section of the
+California Revenue and Taxation Code with respect to DWA's payment obligations
+under this Agreement.
+
+            "Initial Value" shall mean the weighted average trading price of DWA
+Class A common stock on the date of its initial public offering, as reported on
+the New York Stock Exchange consolidated tape.
+
+            "IRS" means the United States Internal Revenue Service.
+
+            "LIBOR" means, for each month (or portion thereof) during any
+period, an interest rate per annum equal to the rate per annum reported, on the
+date two days prior to the first day of such month, on the Telerate Page 3750
+(or if such screen shall cease to be publicly available, as reported on Reuters
+Screen page "LIBO" or by any other publicly available source of such market
+rate) for London interbank offered rates for United States dollar deposits for
+such month (or portion thereof).
+
+            "Original Assets" is defined in the recitals.
+
+            "Person" means and includes any individual, firm, corporation,
+partnership (including, without limitation, any limited, general or limited
+liability partnership), company, limited liability company, trust, joint
+venture, association, joint stock company, unincorporated organization or
+similar entity or Governmental Entity.
+
+            "Proceeding" is defined in Section 7.08 of this Agreement.
+<PAGE>
+                                                                               8
+
+
+            "Realized Tax Benefit" means, for a Covered Taxable Year, the
+excess, if any, of the Hypothetical Tax Liability over the actual liability for
+Covered Taxes of the DWA Affiliated Group for such Covered Taxable Year. If all
+or a portion of the actual tax liability for Covered Taxes for the Covered
+Taxable Year arises as a result of an audit by a Taxing Authority of any Covered
+Taxable Year, such liability shall not be included in determining the Realized
+Tax Benefit or the Realized Tax Detriment unless and until there has been a
+Determination.
+
+            "Realized Tax Detriment" means, for a Covered Taxable Year, the
+excess, if any, of the actual liability for Covered Taxes of the DWA Affiliated
+Group over the Hypothetical Tax Liability for such Covered Taxable Year. If all
+or a portion of the actual tax liability for Covered Taxes for the Covered
+Taxable Year arises as a result of an audit by a Taxing Authority of any Covered
+Taxable Year, such liability shall not be included in determining the Realized
+Tax Benefit or Realized Tax Detriment unless and until there has been a
+Determination.
+
+            "Reconciliation Procedures" shall mean those procedures set forth in
+Section 7.09 of this Agreement.
+
+            "Scheduled Termination Date" shall mean the date on which this
+Agreement would terminate in the absence of an Early Termination Notice.
+
+            "Statutory Rate" means the October 2004 long-term applicable federal
+rate.
+
+            "Subsidiary" means any entity in which DWA, directly or indirectly,
+possesses fifty percent (50%) or more of the total combined voting power of all
+classes of its stock.
+
+            "Tax Benefit Payment" is defined in Section 3.01 of this Agreement.
+
+            "Tax Benefit Schedule" is defined in Section 2.03(a) of this
+Agreement.
+
+            "Taxable Year" means a taxable year as defined in Section 441(b) of
+the Code or comparable section of the California Revenue and Taxation Code, as
+applicable, (and, therefore, for the avoidance of doubt, may include a period of
+less than 12 months for which a Tax Return is made).
+
+            "Taxes" means (i) all forms of taxation or duties imposed, or
+required to be collected or withheld, including, without limitation, charges,
+together with any related interest, penalties or other additional amounts, (ii)
+liability for the payment of any amount of the type described in the preceding
+clause (i) as a result of being a member of an affiliated, consolidated,
+combined or unitary group, and (iii) liability for the payment of any amounts as
+a result of being party to any tax sharing agreement (other than this Agreement)
+or as a result of any express or implied obligation to indemnify any other
+person with respect to the payment of any amount described in the immediately
+preceding clauses (i) or (ii) (other than an obligation to indemnify under this
+Agreement).
+
+            "Tax Return" means any return, filing, report, questionnaire,
+information statement or other document required to be filed, including amended
+returns that may be filed, for any taxable period with any Taxing Authority
+(whether or not a payment is required to be made with respect to such filing).
+<PAGE>
+                                                                               9
+
+
+            "Taxing Authority" means the IRS and any other state, local, foreign
+or other Governmental Entity responsible for the administration of Taxes.
+
+            "Treasury Regulations" means the final, temporary and proposed
+regulations under the Code promulgated from time to time (including
+corresponding provisions of succeeding provisions) as in effect for the relevant
+taxable period.
+
+            "Valuation Assumptions" shall mean, as of any Valuation Date, the
+assumptions that (1) in each Covered Taxable Year ending after such Valuation
+Date DWA will have taxable income sufficient to fully utilize the deductions
+arising from the Basis Adjustment and the Imputed Interest during such Covered
+Taxable Year and (2) the Federal Income Tax rates and California State Income
+Tax rates that will be in effect for each such Covered Taxable Year will be
+those specified for each such Covered Taxable Year by the Code and by the
+California Revenue and Taxation Code as in effect on the Valuation Date.
+
+            "Valuation Date" means the Closing Date for purposes of determining
+the Agreement Value or the date of an Early Termination Notice for purposes of
+determining an Early Termination Payment or Change of Control Termination
+Payment.
+
+            "Vulcan Transaction" is defined in the recitals.
+
+                                   ARTICLE II
+         Determination of Realized Tax Benefit or Realized Tax Detriment
+
+            SECTION 2.01. Closing Date Basis Adjustment. DWA and DWI II hereby
+agree to treat the issuance of this Agreement as property received by DWI II as
+partial consideration for the Contribution on the Closing Date for all Tax
+purposes. DWA and DWI II further agree that as a result of the issuance of the
+Agreement, DWI II shall recognize gain on the Closing Date in an amount not to
+exceed the value of the Agreement on the Closing Date (the "Agreement Value")
+under Section 351(b) of the Code and the comparable section of the California
+Revenue and Taxation Code and the basis in the Original Assets shall be
+increased by the amount of such gain recognized under Section 362(a)(2) of the
+Code and the comparable section of the California Revenue and Taxation Code (in
+addition to any basis increase occurring as a result of the Vulcan Transaction).
+DWA and DWI II shall treat such gain and basis adjustment as occurring entirely
+on the Closing Date unless there is a Determination to the contrary. For all Tax
+purposes, DWA and DWI II hereby agree that the Agreement Value shall equal the
+present value, discounted at the Statutory Rate, of all Tax Benefit Payments
+that would be required to be paid by DWA to DWI II during the period from the
+Closing Date through the Scheduled Termination Date based on the Valuation
+Assumptions. The Valuation Assumptions are to be applied in a manner consistent
+with the illustrative example attached as Appendix A hereto.
+
+            SECTION 2.02. (a) Basis and Agreement Value Schedule. Within 120
+calendar days after the Closing Date, DWA shall deliver to DWI II a schedule
+(the "Basis and Agreement Value Schedule") that shows, in reasonable detail, for
+Covered Tax purposes (i) the actual tax basis as of the Closing Date of each
+Original Asset, (ii) the Basis Adjustment with respect to each Original Asset
+and (iii) a calculation of the Agreement Value consistent with the Basis
+<PAGE>
+                                                                              10
+
+
+Adjustment and the methodology set forth in Section 2.01. The aggregate tax
+basis of the Original Assets as of the Closing Date shall equal the aggregate
+Initial Value of the common stock of DWA received by DWI II in the Contribution
+plus the Agreement Value. At the time DWA delivers the Basis and Agreement Value
+Schedule to DWI II it shall (x) deliver to DWI II schedules and work papers
+providing reasonable detail regarding the preparation of the Basis and Agreement
+Value Schedule and an Advisory Firm Letter supporting such Basis and Agreement
+Value Schedule and (y) allow DWI II reasonable access to the appropriate
+representatives at DWA and the Advisory Firm in connection with its review of
+such schedule. The Basis and Agreement Value Schedule shall become final and
+binding on the parties unless DWI II, within 30 calendar days after receiving
+such Basis and Agreement Value Schedule, provides DWA with notice of a material
+objection to such Basis and Agreement Value Schedule made in good faith. If the
+parties, using their best efforts, are unable to successfully resolve the issues
+raised in such notice within 60 calendar days after such Basis and Agreement
+Value Schedule was delivered to DWI II, DWA and DWI II shall employ the
+Reconciliation Procedures.
+
+      (b) Amended Basis and Agreement Value Schedule. The Basis and Agreement
+Value Schedule may be amended from time to time by DWA (i) in connection with a
+Determination, (ii) to correct inaccuracies in the original Basis and Agreement
+Value Schedule identified after the Closing Date as a result of the receipt of
+additional information relating to facts or circumstances on or prior to the
+Closing Date or (iii) to comply with the expert's determination under the
+Reconciliation Procedures. At the time DWA delivers such amended Basis and
+Agreement Value Schedule to DWI II it shall (x) deliver to DWI II schedules and
+work papers providing reasonable detail regarding the preparation of the amended
+Basis and Agreement Value Schedule and an Advisory Firm Letter supporting such
+amended Basis and Agreement Value Schedule and (y) allow DWI II reasonable
+access to the appropriate representatives at DWA and the Advisory Firm in
+connection with its review of such schedule. The amended Basis and Agreement
+Value Schedule shall become final and binding on the parties unless DWI II,
+within 30 calendar days after receiving such amended Basis and Agreement Value
+Schedule, provides DWA with notice of a material objection to such amended Basis
+and Agreement Value Schedule made in good faith. If the parties, using their
+best efforts, are unable to successfully resolve the issues raised in such
+notice within 60 calendar days after such amended Basis and Agreement Value
+Schedule was delivered to DWI II, DWA and DWI II shall employ the Reconciliation
+Procedures.
+
+      SECTION 2.03 (a) Tax Benefit Schedule. Within 10 calendar days after
+filing the Federal income tax return of DWA for the relevant Covered Taxable
+Year, DWA shall provide to DWI II a schedule showing, in reasonable detail, the
+calculation of the Realized Tax Benefit or the Realized Tax Detriment for such
+Covered Taxable Year (the "Tax Benefit Schedule"). At the time DWA delivers the
+Tax Benefit Schedule to DWI II it shall (i) deliver to DWI II schedules and work
+papers providing reasonable detail regarding the preparation of the Tax Benefit
+Schedule and an Advisory Firm Letter supporting such Tax Benefit Schedule and
+(ii) allow DWI II reasonable access to the appropriate representatives at DWA
+and the Advisory Firm in connection with its review of such schedule. The Tax
+Benefit Schedule shall become final and binding on the parties unless DWI II,
+within 30 calendar days after receiving such Tax Benefit Schedule, provides DWA
+with notice of a material objection to such Tax Benefit Schedule made in good
+faith. If the parties, using their best efforts, are unable to successfully
+<PAGE>
+                                                                              11
+
+
+resolve the issues raised in such notice within 60 calendar days after such Tax
+Benefit Schedule was delivered to DWI II, DWA and DWI II shall employ the
+Reconciliation Procedures.
+
+            (b) Amended Tax Benefit Schedule. The Tax Benefit Schedule for any
+Covered Taxable Year may be amended from time to time by DWA (i) in connection
+with a Determination affecting such Tax Benefit Schedule, (ii) to correct
+inaccuracies in the original Tax Benefit Schedule identified as a result of the
+receipt of additional factual information relating to a Covered Taxable Year
+after the date the Tax Benefit Schedule was provided to DWI II, (iii) to reflect
+a change in the Realized Tax Benefit or Realized Tax Detriment for such Covered
+Taxable Year attributable to a carryback or carryforward of a loss or other tax
+item to such Covered Taxable Year, (iv) to reflect a change in the Realized Tax
+Benefit or Realized Tax Detriment for such Covered Taxable Year attributable to
+an amended tax return filed for such Covered Taxable Year (provided, however,
+that such a change attributable to an audit of a Tax Return by an applicable
+Taxing Authority shall not be taken into account on an Amended Tax Benefit
+Schedule unless and until there has been a Determination with respect to such
+change) or (v) to comply with the expert's determination under the
+Reconciliation Procedures. At the time DWA delivers such an amended Tax Benefit
+Schedule pursuant to this Section 2.03(b) (an "Amended Tax Benefit Schedule") to
+DWI II it shall (x) deliver to DWI II schedules and work papers providing
+reasonable detail regarding the preparation of the Amended Tax Benefit Schedule
+and an Advisory Firm Letter supporting such Amended Tax Benefit Schedule and (y)
+allow DWI II reasonable access to the appropriate representatives at DWA and the
+Advisory Firm in connection with its review of such schedule. Such Amended Tax
+Benefit Schedule shall become final and binding on the parties unless DWI II,
+within 30 calendar days after receiving such Amended Tax Benefit Schedule,
+provides DWA with notice of a material objection to such Amended Tax Benefit
+Schedule made in good faith. If the parties, using their best efforts, are
+unable to successfully resolve the issues raised in such notice within 60
+calendar days after such Amended Tax Benefit Schedule was delivered to DWI II,
+DWA and DWI II shall employ the Reconciliation Procedures.
+
+            (c) Applicable Principles. The Realized Tax Benefit or Realized Tax
+Detriment for each Covered Taxable Year is intended to measure the decrease or
+increase in the actual Covered Tax liability of the DWA Affiliated Group for
+such Covered Taxable Year attributable to the Basis Adjustment and Imputed
+Interest, determined using a "with and without" methodology. Carryovers or
+carrybacks of any tax item attributable to the Basis Adjustment and Imputed
+Interest (determined using such "with and without" methodology) shall be
+considered to be subject to the rules of the Code and the Treasury Regulations
+or the California Revenue and Taxation Code, as applicable, governing the use,
+limitation and expiration of carryovers or carrybacks of the relevant type. If a
+carryover or carryback of any tax item includes a portion that is attributable
+to the Basis Adjustment or Imputed Interest and another portion that is not,
+such portions shall be considered to be used in the order determined using such
+"with and without" methodology. Appendix [B] to this Agreement provides
+illustrative examples of the applicable principles described in this Section
+2.03(c) of this Agreement.
+<PAGE>
+                                                                              12
+
+
+                                  ARTICLE III
+                              Tax Benefit Payments
+
+            SECTION 3.01. Payments. (a) Within 3 calendar days of the delivery
+of the Tax Benefit Schedule to DWI II for any Covered Taxable Year (a) DWA shall
+pay to DWI II an amount equal to 85% of the Realized Tax Benefit (if any) for
+such Covered Taxable Year and (b) DWI II shall pay to DWA an amount equal to 85%
+of the Realized Tax Detriment (if any) for such Covered Taxable Year, in each
+case with interest calculated at the Agreed Rate from the due date (without
+extensions) for filing the Tax Return with respect to Covered Taxes for such
+Covered Taxable Year. Each such payment (a "Tax Benefit Payment") shall be made
+by wire transfer of immediately available funds to a bank account of the
+recipient previously designated by it to the other party. For the avoidance of
+doubt, no Tax Benefit Payment shall be made in respect of estimated tax
+payments, including, without limitation, Federal Income Tax payments.
+
+            (b) Within 3 calendar days of the delivery of an Amended Tax Benefit
+Schedule to DWI II for any Covered Taxable Year, DWA shall pay to DWI II, or DWI
+II shall pay to DWA, as appropriate, an amount equal to the difference between
+the Realized Tax Benefit or the Realized Tax Detriment reflected on such Amended
+Tax Benefit Schedule and the Realized Tax Benefit or the Realized Tax Detriment
+reflected on the Tax Benefit Schedule or prior amended Tax Benefit Schedule for
+the relevant Covered Taxable Year.
+
+            SECTION 3.02. No Duplicative Payments. No duplicative payment of any
+amount (including interest) will be required under this Agreement.
+
+                                   ARTICLE IV
+                                   Termination
+
+            SECTION 4.01. Early Termination of Agreement. DWA may terminate this
+Agreement at any time by paying to DWI II the Early Termination Payment as of
+the date of the Early Termination Notice. DWA may terminate this Agreement upon
+the occurrence of a Change of Control Event by paying to DWI II the Change of
+Control Termination Payment as of the date of the Early Termination Notice. Upon
+payment of the Early Termination Payment or the Change of Control Termination
+Payment by DWA, neither DWI II nor DWA shall have any further payment
+obligations under this Agreement, other than for any (a) Tax Benefit Payment
+agreed to by DWA and DWI II as due and payable but unpaid as of the Early
+Termination Notice and (b) Tax Benefit Payment due for the Covered Taxable Year
+ending with or including the date of the Early Termination Notice (except to the
+extent that the amount described in clause (a) or (b) is included in the Early
+Termination Payment or Change of Control Termination Payment).
+
+            SECTION 4.02. Early Termination Notice. If DWA chooses to exercise
+its right of early termination under Section 4.01 above, DWA shall deliver to
+DWI II a notice (the "Early Termination Notice") specifying DWA's intention to
+exercise such right and showing in reasonable detail the calculation of the
+Early Termination Payment or the Change of Control Termination Payment, as the
+case may be. At the time DWA delivers the Early Termination Notice to DWI II it
+shall (a) deliver to DWI II schedules and work papers providing reasonable
+detail regarding the calculation of the Early Termination Payment or the Change
+of Control Termination Payment, as the case may be, in a manner consistent with
+the guidelines set forth in
+<PAGE>
+                                                                              13
+
+
+Section 4.03 of this Agreement and an Advisory Firm Letter supporting such Early
+Termination Notice and (b) allow DWI II reasonable access to the appropriate
+representatives at DWA and the Advisory Firm in connection with its review of
+such Early Termination Notice. Such Early Termination Notice shall become final
+and binding on the parties unless DWI II, within 30 calendar days after
+receiving such Early Termination Notice, provides DWA with notice of a material
+objection to such Early Termination Notice made in good faith. If the parties,
+using their best efforts, are unable to successfully resolve the issues raised
+in such notice within 60 calendar days after such Early Termination Notice was
+delivered to DWI II, DWA and DWI II shall employ the Reconciliation Procedures.
+
+            SECTION 4.03. Payment upon Early Termination. (a) Within 3 calendar
+days of the delivery to DWI II of the Early Termination Notice or any amendment
+to the Early Termination Notice, DWA shall pay to DWI II an amount equal to the
+Early Termination Payment or the Change of Control Termination Payment, as the
+case may be. Such payment shall be made by wire transfer of immediately
+available funds to a bank account designated by the relevant party.
+
+            (b) The Early Termination Payment as of the date of an Early
+Termination Notice shall equal the present value, discounted at the Early
+Termination Rate, of all Tax Benefit Payments that would be required to be paid
+by DWA to DWI II during the period from the date of the Early Termination Notice
+through the Scheduled Termination Date assuming (1) the Valuation Assumptions
+are applied and (2) any loss carryovers generated by the Basis Adjustment or the
+Imputed Interest and available as of the date of the Early Termination Notice
+will be utilized by DWA on pro rata basis from the date of the Early Termination
+Notice through the Scheduled Termination Date. For the avoidance of doubt, the
+Early Termination Payment would be equal to the Agreement Value if the Early
+Termination Notice were delivered as of the Closing Date and the Early
+Termination Rate were equal to the Statutory Rate.
+
+            (c) The Change of Control Termination Payment as of the date of an
+Early Termination Notice shall equal the Early Termination Payment as of such
+date multiplied by 70%.
+
+            SECTION 4.04. No Other Right of Early Termination. For the avoidance
+of doubt, DWI II shall not be entitled to cause an early termination of this
+Agreement.
+
+                                    ARTICLE V
+                         Subordination and Late Payments
+
+            SECTION 5.01. Subordination. Notwithstanding any other provision of
+this Agreement to the contrary, any Tax Benefit Payment, Early Termination
+Payment or Change of Control Termination Payment required to be made by DWA to
+DWI II under this Agreement (a "DWA Payment") shall rank subordinate and junior
+in right of payment to any principal, interest or other amounts due and payable
+in respect of any DWA Senior Obligations and shall rank pari passu with all
+current or future unsecured obligations of DWA that are not DWA Senior
+Obligations.
+<PAGE>
+                                                                              14
+
+
+            SECTION 5.02. Late Payments by DWA. The amount of all or any portion
+of a DWA Payment not made to DWI II when due under the terms of this Agreement
+shall be payable together with any interest thereon, computed at the Agreed Rate
+and commencing from the date on which such DWA Payment was due and payable.
+
+            SECTION 5.03. Late Payments by DWI II. The amount of all or any
+portion of a Tax Benefit Payment required to be made by DWI II to DWA under this
+Agreement that is not made to DWA when due under the terms of this Agreement
+shall be payable together with any interest thereon, computed at the Agreed Rate
+and commencing from the date on which such Tax Benefit Payment was due and
+payable.
+
+                                   ARTICLE VI
+                      No Disputes; Consistency; Cooperation
+
+            SECTION 6.01. DWI II Participation In DWA Tax Matters. Except as
+otherwise provided herein, DWA shall have full responsibility for, and sole
+discretion over, all Tax matters concerning any member of the DWA Group,
+including without limitation the preparation, filing or amending of any Tax
+Return and defending, contesting or settling any issue pertaining to Taxes.
+Notwithstanding the foregoing, DWA shall notify DWI II of, and keep DWI II
+reasonably informed with respect to, and DWI II shall have the right to
+participate in and monitor (but, for the avoidance of doubt, not to control) the
+portion of any audit of the DWA Group by a Taxing Authority the outcome of which
+is reasonably expected to affect DWI II's rights and obligations under this
+Agreement, and shall provide to DWI II reasonable opportunity to provide
+information and other input to DWA and its advisors concerning the conduct of
+any such portion of such audits. No member of the DWA Group shall settle or
+otherwise resolve any audit or other challenge by a Taxing Authority relating to
+the basis of the Original Assets or the deduction of Imputed Interest without
+the consent of DWI II, which DWI II shall not unreasonably withhold, condition
+or delay. Nothing in this Agreement shall alter DWI I's full responsibility for,
+and sole discretion over, any audit of DWI I or any of its affiliates relating
+to the Vulcan Transaction.
+
+            SECTION 6.02. Consistency. Unless there is a Determination to the
+contrary, DWA, on its own behalf and on behalf of each member of the DWA Group,
+and DWI II, on its own behalf and on behalf of each of its affiliates, agree to
+report and cause to be reported for all purposes, including Federal, state and
+local Tax purposes and financial reporting purposes, all Tax-related items
+(including without limitation the Basis Adjustment and each Tax Benefit Payment)
+in a manner consistent with that specified by DWA in any schedule, letter or
+certificate required to be provided by or on behalf of DWA under this Agreement.
+In the event that an Advisory Firm is replaced with another firm acceptable to
+DWA and DWI II, such replacement Advisory Firm shall be required to perform its
+services under this Agreement using procedures and methodologies consistent with
+the previous Advisory Firm, unless otherwise required by law or DWA and DWI II
+agree to the use of other procedures and methodologies.
+
+            SECTION 6.03. Cooperation. DWI II shall (and shall cause its
+affiliates to) (a) furnish to DWA in a timely manner such information, documents
+and other materials as DWA may reasonably request for purposes of making any
+determination or computation necessary or appropriate under this Agreement,
+preparing any Tax Return or contesting or defending any
+<PAGE>
+                                                                              15
+
+
+audit, examination or controversy with any Taxing Authority, (b) make its
+employees available to DWA and its representatives to provide explanations of
+documents and materials and such other information as the DWA or its
+representative may reasonably request in connection with any of the matters
+described in clause (a) above, and (c) reasonably cooperate in connection with
+any such matter.
+
+                                   ARTICLE VII
+                               General Provisions
+
+            SECTION 7.01. Notices. All notices, requests, claims, demands and
+other communications hereunder shall be in writing and shall be deemed duly
+given and received (a) on the date of delivery if delivered personally, or by
+facsimile upon confirmation of transmission by the sender's fax machine if sent
+on a Business Day (or otherwise on the next Business Day) or (b) on the first
+Business Day following the date of dispatch if delivered by a recognized
+next-day courier service. All notices hereunder shall be delivered as set forth
+below, or pursuant to such other instructions as may be designated in writing by
+the party to receive such notice:
+
+            if to DWA, to:
+
+                        DreamWorks Animation SKG, Inc.
+                        Grandview Building
+                        1000 Flower Street
+                        Glendale, California 91201
+                        Fax: (818) 659-6123
+                        Attention:   Katherine Kendrick, Esq.
+                                     General Counsel
+
+            with a copy to:
+
+                        Cravath, Swaine & Moore LLP
+                        Worldwide Plaza
+                        825 Eighth Avenue
+                        New York, NY 10019-7475
+                        Fax:  (212) 474-3700
+                        Attention:   Stephen L. Gordon, Esq.
+
+
+            if to DWI II, to:
+
+
+                        DW Investment II, Inc.
+                        505 Fifth Avenue South, Suite 900
+                        Seattle, WA 98104
+                        Fax: (206) 342-3000
+                        Attention:   W. Lance Conn
+
+
+
+
+
+<PAGE>
+                                                                              16
+
+                                     Executive Vice President, Investment
+                                     Management; and Executive Vice President,
+                                     Legal
+
+            with a copy to:
+
+                        Skadden Arps Meagher & Flom LLP
+                        Four Times Square
+                        New York, New York 10036
+                        Fax:  (212) 735-2000
+                        Attention:   Nicholas Saggese, Esq. and David Rievman,
+                                     Esq.
+
+Any party may change its address or fax number by giving the other party written
+notice of its new address or fax number in the manner set forth above.
+
+            SECTION 7.02. Counterparts. This Agreement may be executed in one or
+more counterparts, all of which shall be considered one and the same agreement
+and shall become effective when one or more counterparts have been signed by
+each of the parties and delivered to the other parties, it being understood that
+all parties need not sign the same counterpart.
+
+            SECTION 7.03. Entire Agreement; No Third Party Beneficiaries. This
+Agreement constitutes the entire agreement and supersedes all prior agreements
+and understandings, both written and oral, among the parties with respect to the
+subject matter hereof. This Agreement shall be binding upon and inure solely to
+the benefit of each party hereto and their respective successors and permitted
+assigns, and nothing in this Agreement, express or implied, is intended to or
+shall confer upon any other Person any right, benefit or remedy of any nature
+whatsoever under or by reason of this Agreement.
+
+            SECTION 7.04. Governing Law. This Agreement shall be governed by,
+and construed in accordance with, the laws of the State of New York without
+giving effect to applicable principles of conflict of laws.
+
+            SECTION 7.05. Severability. If any term or other provision of this
+Agreement is invalid, illegal or incapable of being enforced by any law or
+public policy, all other terms and provisions of this Agreement shall
+nevertheless remain in full force and effect so long as the economic or legal
+substance of the transactions contemplated hereby is not affected in any manner
+materially adverse to any party. Upon such determination that any term or other
+provision is invalid, illegal or incapable of being enforced, the parties hereto
+shall negotiate in good faith to modify this Agreement so as to effect the
+original intent of the parties as closely as possible in an acceptable manner in
+order that the transactions contemplated hereby are consummated as originally
+contemplated to the greatest extent possible.
+
+            SECTION 7.06. Successors; Assignment; Amendments. DWI II may not
+assign this Agreement to any person without the prior written consent of DWA,
+which consent shall not be unreasonably withheld, conditioned or delayed;
+provided, however, (i) DWI II may pledge some or all of its rights, interests or
+entitlements under this Agreement to any U.S. money center bank in connection
+with a bona fide loan or other indebtedness and (ii) DWI II may assign some or
+all its rights, interests or entitlements under this Agreement to any related
+entity within the
+<PAGE>
+                                                                              17
+
+
+meaning of Section 267(b) or 707(b) of the Code, in each case without the prior
+written consent of DWA. DWA may not assign any of its rights, interests or
+entitlements under this Agreement without the consent of DWI II, not to be
+unreasonably withheld or delayed. Subject to each of the two immediately
+preceding sentences, this Agreement will be binding upon, inure to the benefit
+of and be enforceable by, the parties and their respective successors and
+assigns including any acquiror of all or substantially all of the assets of DWA.
+In the event that DWA ceases to be the common parent of the DWA Affiliated
+Group, the successor common parent of such group shall assume all of DWA's
+rights and obligations under this Agreement.
+
+            No amendment to this Agreement shall be effective unless it shall be
+in writing and signed by DWA and DWI II.
+
+            SECTION 7.07. Titles and Subtitles. The titles of the sections and
+subsections of this Agreement are for convenience of reference only and are not
+to be considered in construing this Agreement.
+
+            SECTION 7.08. Submission to Jurisdiction; Waivers. With respect to
+any suit, action or proceeding relating to this Agreement (collectively, a
+"Proceeding"), each party to this Agreement irrevocably (a) consents and submits
+to the exclusive jurisdiction of the courts of the States of New York and
+Delaware and any court of the United States located in the Borough of Manhattan
+in New York City or the State of Delaware; (b) waives any objection which such
+party may have at any time to the laying of venue of any Proceeding brought in
+any such court, waives any claim that such Proceeding has been brought in an
+inconvenient forum and further waives the right to object, with respect to such
+Proceeding, that such court does not have jurisdiction over such party; (c)
+consents to the service of process at the address set forth for notices in
+Section 7.01 herein; provided, however, that such manner of service of process
+shall not preclude the service of process in any other manner permitted under
+applicable law; and (d) waives, to the fullest extent permitted by applicable
+law, any and all rights to trial by jury in connection with any Proceeding.
+
+            SECTION 7.09. Reconciliation. In the event that DWA and DWI II are
+unable to resolve a disagreement within the relevant period designated in this
+Agreement, the matter shall be submitted for determination to a nationally
+recognized expert in the particular area of disagreement mutually acceptable to
+both parties. The expert shall be employed by a nationally recognized accounting
+firm or a law firm (other than the Advisory Firm), and the expert shall not, and
+the firm that employs the expert shall not, have any material relationship with
+either DWA or DWI II or other actual or potential conflict of interest. If the
+matter is not resolved before any payment that is the subject of a disagreement
+is due or any Tax Return reflecting the subject of a disagreement is due, such
+payment shall be made on the date prescribed by this Agreement and such Tax
+Return may be filed as prepared by DWA or its affiliate, subject to adjustment
+or amendment upon resolution. The costs and expenses relating to the engagement
+of such expert or amending any return shall be borne by the party who did not
+have the prevailing position, or if a compromise is reached by the DWA and DWI
+II, the costs and expenses shall be borne equally by the parties. The expert
+shall determine which party prevails. The determinations of the expert pursuant
+to this Section 7.09 shall be binding on DWA and DWI II absent manifest error.
+<PAGE>
+                                                                              18
+
+IN WITNESS WHEREOF, DWA and DWI II have duly executed this Agreement as of the
+date first written above.
+
+                                        DREAMWORKS ANIMATION SKG, INC.,
+
+                                           By
+                                              ----------------------------------
+                                               Name:
+                                               Title:
+
+                                        Address:
+
+
+                                        DWI II,
+
+
+                                           By
+                                              ----------------------------------
+                                               Name:
+                                               Title:
+
+                                        Address:
+
+
+
+                                            ------------------------------------
+
+</TEXT>
+</DOCUMENT>

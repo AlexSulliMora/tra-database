@@ -1,0 +1,44 @@
+---
+title: "Endeavor Group Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Endeavor Group Holdings, Inc."]
+CIKs: ["0001766363"]
+status: Unknown
+creation-date: 2021-04-28
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA preserved through March 2025 Silver Lake go-private merger via
+  Amendment No. 1 (CoC trigger disarmed; merger cash treated as
+  covered exchanges). Endeavor filed Form 15-12G 2025-04-03; status
+  post-deregistration is off-EDGAR.
+---
+
+## TRA Timeline
+
+#### Withdrawn 2019 IPO
+
+- 2019-09-16: First form-of TRA filed as Ex 10.16 to S-1/A (precursor; lacks KKR Representative)
+- 2019-09-26: Final 2019 S-1/A before IPO abandoned
+
+#### 2021 Up-C IPO and TRA execution
+
+- 2021-04-20: 2021 form-of TRA filed as Ex 10.23 to S-1/A (adds KKR Representative)
+- 2021-04-28: Up-C IPO closes; TRA executed among Endeavor, Endeavor Manager, Endeavor OpCo, the TRA Parties, Representative, KKR Representative, and SL Representative
+- 2021-06-02: Executed TRA filed as Ex 10.5 to Q1 2021 10-Q
+
+#### Silver Lake go-private merger and Amendment No. 1
+
+- 2024-04-03: Going-private Transaction Agreement signed with Silver Lake-led acquirer
+- 2025-03-24: Merger closes; TRA Amendment No. 1 executed (effective March 23, 2025) disarming the change-of-control acceleration and treating merger cash transfers and post-close Rollover Unit transfers as covered exchanges; TRA persists post-close
+- 2025-04-03: Endeavor files Form 15-12G deregistration (not in directory); TRA continues off-EDGAR
+
+## Explanation
+
+Endeavor Group Holdings entered into its Tax Receivable Agreement at the April 28, 2021 Up-C IPO close, paying 85% of realized tax benefits from Exchange Covered Tax Assets (basis step-ups from Redemptions and Direct Exchanges of LLC Units and Zuffa Interests) plus Pre-IPO Covered Tax Assets (basis and NOLs inherited from the Blocker Entity reorganization), with imputed-interest deductions on payments. The TRA liability grew from $32M in late 2021 to $1,011.7M at YE2022 and stood at $881.5M at YE2024 across Silver Lake, KKR, and other pre-IPO holders. At the March 24, 2025 close of the Silver Lake-led go-private merger, Endeavor executed Amendment No. 1 rather than terminating the TRA: the amendment disarms the Section 4.1 change-of-control acceleration so the merger itself does not trigger Early Termination Payments, and treats cash transfers of OpCo equity in the merger plus post-close Rollover Unit transfers as covered exchanges so the underlying tax-attribute production continues. This outcome is unusual relative to other Up-C-going-private peers that used negotiated terminations. Endeavor filed Form 15-12G on April 3, 2025; status is `Unknown` because TRA performance after deregistration is off-EDGAR. See `contract_log.md` for the full filing-by-filing record.

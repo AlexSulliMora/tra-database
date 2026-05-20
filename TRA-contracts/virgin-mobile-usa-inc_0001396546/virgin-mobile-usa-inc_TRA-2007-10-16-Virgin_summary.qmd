@@ -1,0 +1,33 @@
+---
+title: "Virgin Mobile USA, Inc. TRA (TRA-2007-10-16-Virgin)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Virgin Mobile USA, Inc.", "Corvina Holdings Limited"]
+CIKs: ["0001396546", "0001396546"]
+status: Terminated
+creation-date: 2007-10-16
+termination-date: 2009-11-24
+tax-asset-type: [NOL]
+sharing-ratio: "100%"
+parallel-tras: ["TRA-2007-10-16-Sprint"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Tax Receivable Termination Agreement (July 27, 2009) provided a $48,750,000 cash payment to the Virgin Group at the Sprint Nextel merger close; the termination instrument document is not in the downloaded filings but operative provisions are documented in the DEFM14A and 8-K narratives. Section 3.03 cross-coordination with the parallel Sprint TRA."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-09-25: Form-of Virgin Group TRA filed as Exhibit 10.3 to final S-1/A
+- 2007-10-16: Virgin Mobile USA Up-C IPO closes; executed Virgin Group Tax Receivable Agreement filed at 100% of Net Tax Benefit to Corvina Holdings Limited (Virgin Group), covering pre-IPO NOL carryforwards contributed via Bluebottle USA Investments and VMU GP LLC; Section 3.03 pro-rata coordination with the parallel Sprint TRA (8-K)
+
+#### Sprint Nextel acquisition and negotiated termination
+
+- 2009-07-27: Tax Receivable Termination Agreement signed concurrent with the Sprint Nextel / VMU Merger Agreement; provides a $48,750,000 cash payment to the Virgin Group at the merger close in exchange for full mutual release (8-K)
+- 2009-11-24: Merger closes; termination effective with $48,750,000 paid in cash (Sprint Nextel's election); Form 15 deregistration follows December 7, 2009
+
+## Explanation
+
+Virgin Mobile USA, Inc. executed the parallel Virgin Group Tax Receivable Agreement at its October 16, 2007 Up-C IPO, paying Corvina Holdings Limited (the Virgin Group's British Virgin Islands holding vehicle) 100% of Net Tax Benefit on pre-IPO NOL carryforwards contributed to VMU through Bluebottle USA Investments and VMU GP LLC at the IPO Reorganization. Section 3.03 cross-coordinated payments with the parallel Sprint Nextel TRA so the combined obligations could not exceed the Overall Realized Tax Benefit. On July 27, 2009 the parties signed a standalone Tax Receivable Termination Agreement contingent on the Sprint Nextel merger close, providing a $48,750,000 negotiated termination payment (with Sprint Nextel given an option to pay in Sprint Nextel common stock instead). At the November 24, 2009 merger close Sprint Nextel elected cash and the payment was made, fully terminating the contract; Virgin Mobile USA deregistered December 7, 2009. The standalone termination agreement document is not in the downloaded filing set; operative provisions are documented in the DEFM14A and the announcement 8-K. See `contract_log.md` for the full coverage note and the parallel-Sprint-TRA cross-reference.

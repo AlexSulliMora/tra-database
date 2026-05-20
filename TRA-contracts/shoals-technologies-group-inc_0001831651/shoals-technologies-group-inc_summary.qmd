@@ -1,0 +1,37 @@
+---
+title: "Shoals Technologies Group TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Shoals Technologies Group, Inc."]
+CIKs: ["0001831651"]
+status: Terminated
+creation-date: 2021-01-29
+termination-date: 2022-12-06
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via negotiated $58M Aggregate Early Termination Payment substituted
+  for the contract's normal Section 4.1 formula; gain on termination of $110.9M
+  reported in FY2022 10-K.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-12-30: Form-of TRA filed as Exhibit 10.2 to S-1 with "[DATE]" preamble placeholder
+- 2021-01-29: Up-C IPO closes; TRA executed at 85% sharing rate with Oaktree Power, founder Dean Solon, and Exchange/Reorganization TRA Holders
+
+#### Negotiated termination
+
+- 2022-11-29: TRA Amendment executed inserting a fixed $58.0M Aggregate Early Termination Payment, replacing the contract's Section 4.1 mechanism
+- 2022-12-06: Company exercises termination right concurrent with follow-on Class A offering; $58M paid pro-rata to TRA Holders
+- 2023-02-28: FY2022 10-K reports $110.9M gain on termination (TRA carrying value less $58M payment), implying the negotiated payment was materially below the contract's pre-amendment ETP formula
+
+## Explanation
+
+Shoals Technologies Group, Inc. executed a Tax Receivable Agreement on January 29, 2021 at its Up-C IPO close, paying 85% of cumulative net realized tax benefits to Oaktree Power Opportunities Fund IV, founder Dean Solon, and the Exchange/Reorganization TRA Holders. Covered attributes included Section 754 basis step-ups from LLC Interest exchanges plus pre-IPO Closing Date Basis. Less than two years later, the parties negotiated a terminating amendment dated November 29, 2022, substituting a fixed $58.0M Aggregate Early Termination Payment for the contract's normal ETP formula; Shoals exercised the new termination right on December 6, 2022 concurrent with a Class A follow-on offering. The $110.9M gain on termination indicates the negotiated payment was materially below the pre-amendment ETP value. The TRA remains terminated as of the FY2025 10-K with no successor agreement. See `contract_log.md` for the amendment text and the operative-section changes.

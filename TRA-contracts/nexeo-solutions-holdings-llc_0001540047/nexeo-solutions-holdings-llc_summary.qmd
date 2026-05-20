@@ -1,0 +1,35 @@
+---
+title: "Nexeo Solutions Holdings, LLC TRA (predecessor to Nexeo Solutions, Inc.)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Nexeo Solutions Holdings, LLC", "WL Ross Holding Corp.", "Nexeo Solutions, Inc."]
+CIKs: ["0001540047", "0001604416", "0001604416"]
+status: Terminated
+creation-date: 2016-06-09
+termination-date: 2019-03-01
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Predecessor LLC was a voluntary SEC filer (registered notes). Form-of TRA
+  was filed under this CIK pre-close; executed TRA, amendments, and
+  termination live under PubCo CIK 0001604416 (Nexeo Solutions, Inc.).
+---
+
+## TRA Timeline
+
+#### SPAC merger announcement and form-of TRA
+
+- 2016-03-23: 8-K filed under this LLC's CIK announcing the Merger Agreement with WL Ross Holding Corp.; form-of TRA attached as Exhibit 10.2 (85% sharing of net realized tax benefits from Section 754 basis step-ups, Blocker NOLs, and imputed interest)
+- 2016-06-09: Business combination closes; TRA executed under PubCo CIK 0001604416
+
+#### Termination at Univar merger
+
+- 2019-03-01: TRA terminated for a negotiated $60.0M payment at the close of the Univar acquisition; documented under PubCo CIK 0001604416
+
+## Explanation
+
+Nexeo Solutions Holdings, LLC was the privately held LLC acquired by WL Ross Holding Corp. in the June 9, 2016 SPAC business combination; the LLC was itself a voluntary SEC filer because of registered notes outstanding, and so filed the form-of Tax Receivable Agreement under its own CIK as Exhibit 10.2 to the merger-announcement 8-K. The post-merger PubCo (WL Ross renamed Nexeo Solutions, Inc.) is the actual TRA obligor and executed the contract at closing, obligating it to pay 85% of net realized tax benefits from the Section 754 basis step-ups, the pre-existing Nexeo LLC attributes, the TPG Accolade Blocker NOLs, and imputed interest, to TPG-affiliated beneficiaries. The TRA was terminated at the March 1, 2019 close of the Univar acquisition for a negotiated $60.0M payment. The full executed contract history, including the termination agreement, lives under PubCo CIK 0001604416; see `../nexeo-solutions-inc_0001604416/nexeo-solutions-inc_summary.qmd`. See `contract_log.md` for the full filing-by-filing record on this LLC CIK.

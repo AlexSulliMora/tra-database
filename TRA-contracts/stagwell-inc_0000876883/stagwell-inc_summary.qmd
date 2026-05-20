@@ -1,0 +1,40 @@
+---
+title: "Stagwell TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["MDC Partners Inc.", "MDC Stagwell Holdings Inc.", "Stagwell Inc."]
+CIKs: ["0000876883", "0000876883", "0000876883"]
+status: Ongoing
+creation-date: 2021-08-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Sole beneficiary is Stagwell Media LP (Mark Penn's vehicle). April 4, 2025
+  final Class C Exchange added ~$229.7M to TRA liability (all remaining Paired
+  Units exchanged at once). First $2.6M cash payment in Q1 2026.
+---
+
+## TRA Timeline
+
+#### MDC / Stagwell combination and TRA execution
+
+- 2021-07-13: Form-of TRA embedded as Annex M inside the 424B3 prospectus with bracketed parties and placeholder date
+- 2021-08-02: MDC / Stagwell combination closes; TRA executed at 85% sharing rate with Midas OpCo Holdings LLC and Stagwell Media LP, covering Section 754 basis adjustments from Paired Equity Interest exchanges and imputed interest
+
+#### Initial accrual phase
+
+- 2022-Q1: First exchanges of Paired Units; initial TRA liability of $20.8M recorded
+
+#### Final Class C exchange and shift to active payment
+
+- 2025-04-04: Final Class C Exchange; all remaining Paired Units exchanged for Class A Common Stock; TRA liability jumps by ~$229.7M (revised figure per FY2025 10-K) to $254.9M at year-end 2025
+- 2026-Q1: First $2.6M cash payment under the TRA
+
+## Explanation
+
+Stagwell Inc. (formerly MDC Partners Inc., then MDC Stagwell Holdings Inc.) executed a Tax Receivable Agreement on August 2, 2021 at the closing of the MDC / Stagwell combination, paying 85% of cumulative net realized tax benefits to Stagwell Media LP (Mark Penn's vehicle) for Section 754 basis adjustments from exchanges of Paired Equity Interests (OpCo Common Units paired with Class C Common Stock) plus imputed interest. The contract has no amendments, restatements, or termination instruments. The TRA accrued gradually from $20.8M at Q1 2022 to $26.7M at FY2024 year-end, then jumped to $254.9M at FY2025 year-end when Stagwell Media exercised a final Class C Exchange of all remaining Paired Units on April 4, 2025, generating ~$229.7M of new basis step-up liability. Q1 2026 saw the first cash payment of $2.6M. The TRA remains in force and is transitioning from accrual to active payment phase. See `contract_log.md` for the executed text and the liability trajectory.

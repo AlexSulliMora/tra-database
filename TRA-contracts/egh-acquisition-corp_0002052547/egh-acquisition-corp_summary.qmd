@@ -1,0 +1,36 @@
+---
+title: "EGH Acquisition Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["EGH Acquisition Corp.", "Hecate Energy Group, LLC", "Hecate Holdings LLC"]
+CIKs: ["0002052547", "", ""]
+status: Unknown
+creation-date: 2026-01-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of only; Business Combination Agreement signed but Hecate
+  closing pending. Creation date is BCA signing date. BCA outside
+  date is May 11, 2027; status flips to Ongoing on close or
+  Terminated if BCA is terminated.
+---
+
+## TRA Timeline
+
+#### SPAC IPO and target search
+
+- 2025-05-12: EGH Acquisition Corp. closes $150M Cayman SPAC IPO (Nasdaq EGHA)
+
+#### Hecate Business Combination announcement
+
+- 2026-01-21: Business Combination Agreement signed with Hecate Energy Group, LLC and Hecate Holdings LLC
+- 2026-01-27: 8-K filed disclosing the BCA (Ex 2.1); form-of TRA embedded as Exhibit C with placeholder preamble date `[bullet], 2026` and unidentified PubCo name and Agent
+
+## Explanation
+
+EGH Acquisition Corp. is a Cayman SPAC that signed a Business Combination Agreement with Hecate Energy Group, LLC and Hecate Holdings LLC on January 21, 2026, establishing a standard Up-C structure at closing under which EGH redomesticates to Delaware, issues Class V common stock to Hecate Holdings, and enters into a Tax Receivable Agreement with Hecate Holdings as TRA Holder. The form-of TRA attached as Exhibit C to the BCA pays 85% of net realized tax benefits from basis step-ups under future exchanges of Parent Hecate Units (paired with Class V shares) for Class A common stock, plus imputed interest deductions on payments. The form-of remains unexecuted: preamble date, post-domestication PubCo name, and Agent identity are all placeholders, with execution scheduled concurrent with closing. As of the Q1 2026 10-Q (period ending March 31, 2026) the Hecate Business Combination has not closed; the BCA outside date is May 11, 2027. Status is `Unknown` pending the closing 8-K or a BCA termination filing. See `contract_log.md` for the full filing-by-filing record.

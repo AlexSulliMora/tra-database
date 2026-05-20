@@ -1,0 +1,38 @@
+---
+title: "Rush Street Interactive TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rush Street Interactive, Inc.", "dMY Technology Group, Inc."]
+CIKs: ["0001793659", "0001793659"]
+status: Ongoing
+creation-date: 2020-12-29
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Q2 2025 transition from "unrecognized" liability (full valuation allowance)
+  to recognized $112.7M after management determined $145.8M of U.S. DTAs are
+  more likely than not realizable. Liability grew to $130.1M at year-end 2025;
+  $107.8M change-in-TRA-liability ran through 2025 P&L.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-07-29: 8-K announces the Business Combination Agreement; form-of TRA is Exhibit E to the BCA
+- 2020-10-09: Amended and Restated BCA filed
+- 2020-12-29: SPAC business combination closes between dMY Technology Group (renamed Rush Street Interactive, Inc.) and Rush Street Interactive, LP; TRA executed with RSI ASLP, Inc. (Corporate Sub), Rush Street Interactive LP, and the TRA Parties (Neil Bluhm, Gregory Carlin, Richard Schwartz, Mattias Stetz, Einar Roosileht, related trusts and entities, Rush Street Interactive GP as TRA Party Representative), paying 85% of net income tax savings from BCA basis step-ups, future RSILP Unit exchanges, and imputed-interest deductions
+- 2021-01-05: 8-K files the executed TRA as exhibit 10.4
+
+#### Initial GAAP recognition of TRA liability
+
+- 2025-Q2: Management determines $145.8M of U.S. deferred tax assets are more likely than not realizable; recognizes initial TRA liability of $112.7M (vs. $104.3M "unrecognized" at year-end 2024). Liability grows to $130.1M at December 31, 2025
+
+## Explanation
+
+Rush Street Interactive's December 29, 2020 SPAC business combination (dMY Technology Group acquiring Rush Street Interactive, LP) created a TRA paying 85% of net income tax savings to the pre-business-combination LP holders (Bluhm, Carlin, Schwartz, Stetz, Roosileht, and related vehicles), covering basis step-ups from the BCA, future exchanges of Retained RSI Units, and imputed-interest deductions on TRA payments. No amendments or terminations have been filed; a February 2025 LP-agreement amendment modified partnership tax-distribution definitions but did not touch the TRA. Through year-end 2024 the TRA liability was carried as "unrecognized" under a full valuation allowance ($104.3M); in Q2 2025 management's three-year cumulative-income analysis prompted initial GAAP recognition of $112.7M, growing to $130.1M at December 31, 2025 with $107.8M of change-in-TRA-liability running through 2025 P&L. The TRA contract itself is unchanged; the transition was an accounting-classification event. See `contract_log.md` for the full filing-by-filing record and the equity-vs-liability bifurcation note for post-June-30-2025 exchanges.

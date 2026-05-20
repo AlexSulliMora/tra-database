@@ -1,0 +1,39 @@
+---
+title: "Anywhere Real Estate Group TRA (Realogy 62.5% beneficiary at WEX)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Realogy Corporation", "Realogy Group LLC", "Anywhere Real Estate Group LLC", "Wright Express Corporation", "Cendant Corporation"]
+CIKs: ["0001355001", "0001355001", "0001355001", "0001309108", "0000723612"]
+status: Terminated
+creation-date: 2005-02-22
+termination-date: 2009-06-26
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  Realogy held 62.5% of Cendant's beneficiary interest (via 2006 Cendant
+  spin); Avis Budget retained 37.5%. Underlying TRA between WEX (obligor)
+  and Cendant/Cartus, filed under WEX CIK 0001309108.
+---
+
+## TRA Timeline
+
+#### Underlying TRA and 2006 Cendant separation
+
+- 2005-02-22: WEX IPO TRA executed between Wright Express, Cendant, and Cendant Mobility Services (filed under WEX CIK, not Realogy)
+- 2006-07-27: Cendant Separation and Distribution Agreement assigns 62.5% of Cendant's beneficiary interest to Realogy (with the Cartus portion); 37.5% stays with what becomes Avis Budget Group
+
+#### Recurring TRA payments to Realogy
+
+- 2008-Q2 to 2009-Q2: Trailing twelve-month payments of $12M / $9M / $6M as the 15-year amortization runs
+
+#### Prepayment Agreement terminates Realogy's beneficiary interest
+
+- 2009-06-26: WEX and Realogy execute Tax Receivable Prepayment Agreement (8-K Exhibit 10.1); $51M gross / approximately $49M net to Realogy; mutual release of Article III obligations for Realogy's 62.5% share only
+
+## Explanation
+
+The underlying Tax Receivable Agreement was executed on February 22, 2005 between Wright Express Corporation (WEX, the PubCo obligor), Cendant Corporation, and Cendant Mobility Services Corporation at WEX's IPO; WEX agreed to pay 85% of federal tax savings from the Section 754-style basis step-up in WEX's tangible and intangible assets arising from Cendant's disposition of WEX, with the step-up amortizing over 15 years. The 2006 Cendant Separation and Distribution Agreement passed 62.5% of Cendant's beneficiary interest (the Cartus portion) to Realogy; the remaining 37.5% stayed with the entity later renamed Avis Budget Group. Recurring payments to Realogy ran at $6-12M annually until June 26, 2009, when WEX and Realogy executed a Tax Receivable Prepayment Agreement (filed under Realogy's CIK as Exhibit 10.1 to an 8-K) settling Realogy's 62.5% interest for $51M gross / approximately $49M net and mutually releasing the parties from all further Article III obligations on that share; Apollo Investment Fund VI guaranteed certain Realogy indemnities. Realogy's beneficiary interest is therefore terminated; the residual 37.5% Avis Budget interest would need to be checked under that CIK and is out of scope here. See `contract_log.md` for the full filing-by-filing record and the obligor-side cross-reference to WEX CIK 0001309108.

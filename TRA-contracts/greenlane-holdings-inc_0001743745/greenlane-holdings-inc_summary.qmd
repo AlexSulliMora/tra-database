@@ -1,0 +1,41 @@
+---
+title: "Greenlane Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Greenlane Holdings, Inc."]
+CIKs: ["0001743745"]
+status: Ongoing
+creation-date: 2019-04-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Recorded TRA liability has remained $0 throughout 2019-2025 under a full
+  valuation allowance, despite all Operating Company Common Units being
+  redeemed or exchanged by year-end 2022. Contract remains legally in force.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-04-04: S-1 files the form-of TRA as Exhibit 10.4
+- 2019-04-17: TRA executed between Greenlane Holdings, Inc., Greenlane Holdings, LLC, and the LLC Members (founders Aaron LoCascio and Adam Schoenfeld plus other holders)
+- 2019-04-23: Up-C IPO closes; 8-K attaches the executed TRA as Exhibit 10.4
+
+#### KushCo merger and Up-C economic collapse
+
+- 2021-08-31: KushCo Holdings business combination closes; structured so as not to constitute a Change of Control under the TRA; no payment or amendment triggered
+- 2022-12-31: All Operating Company Common Units have been redeemed or exchanged; Greenlane is the sole member of the Operating Company. Section 754 step-ups generated, but TRA liability remains $0 under the full valuation allowance.
+
+#### Strategic pivot
+
+- 2026-03: FY2025 10-K reports a pivot to a digital-asset treasury strategy centered on BERA; recorded TRA liability still $0; contract remains in legal force
+
+## Explanation
+
+Greenlane's TRA originated at its April 17, 2019 Up-C IPO and obligates the public company to pay 85% of net tax benefit to the continuing LLC Members (founders Aaron LoCascio and Adam Schoenfeld plus the non-founder member class) on Section 754 basis step-ups from future redemptions or exchanges of Greenlane Holdings, LLC Common Units, plus imputed interest. The contract was never amended through the August 2021 KushCo merger (the fairness opinion and the S-4/424B3 both represented that the transaction did not constitute a Change of Control) or in any subsequent filing. By year-end 2022 all Common Units had been redeemed or exchanged, completing the Up-C wind-down, but a full valuation allowance on the underlying deferred tax assets has kept the recorded TRA liability at $0 throughout 2019-2025 with no cash payments made. The 2025 pivot to a digital-asset treasury strategy could in principle restore realizability if BERA-related taxable income materializes, but the contract remains legally in force with no recognized liability. See `contract_log.md` for the full filing record.

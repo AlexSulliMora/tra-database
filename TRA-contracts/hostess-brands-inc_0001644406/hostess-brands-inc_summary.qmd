@@ -1,0 +1,43 @@
+---
+title: "Hostess Brands, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Gores Holdings, Inc.", "Hostess Brands, Inc.", "The J.M. Smucker Company"]
+CIKs: ["0001644406", "0001644406", "0000091419"]
+status: Unknown
+creation-date: 2016-11-04
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  January 26, 2018 Buyout and Amendment paid Apollo $34M to exit the TRA; CDM
+  block remained in force. Smucker acquisition (Nov 7, 2023) contained no TRA
+  language; post-close fate not visible under Hostess CIK (deregistered). Track
+  via Smucker (CIK 0000091419) for assumed-liability disclosures.
+---
+
+## TRA Timeline
+
+#### Up-C de-SPAC and TRA execution
+
+- 2016-07-05: Form-of TRA filed as Exhibit 10.4 to the merger-signing 8-K with Gores Holdings
+- 2016-11-04: Executed TRA dated as of de-SPAC close, 85% of cash tax savings to Apollo and Metropoulos beneficiary blocks
+- 2016-11-09: De-SPAC closing 8-K attaches the executed TRA as Exhibit 10.15
+
+#### Apollo buyout (amendment)
+
+- 2017-04-10: Between-Holders Letter Agreement reassigns 5 percentage points of AP Hostess's Participation Percentage to the CDM block pro rata (not filed as exhibit; referenced in later recitals)
+- 2018-01-26: Buyout and Amendment Agreement: Apollo exits the TRA for $34M cash plus contingent $10M CoC payment if a definitive CoC agreement signed within one year (window expired without trigger); CDM block remains
+
+#### Smucker acquisition (silent on TRA)
+
+- 2023-09-10: Smucker merger agreement signed; the merger agreement and signing 8-K contain no TRA references
+- 2023-11-07: Smucker merger closes; Hostess Brands continues as a wholly-owned Smucker subsidiary; closing 8-K does not reference the TRA; no Item 1.02 termination filed; Hostess deregisters
+
+## Explanation
+
+Hostess Brands executed its Tax Receivable Agreement at the November 2016 de-SPAC combination with Gores Holdings, paying 85% of the cash tax savings on Section 754 basis step-ups (from exchanges of Hostess Holdings Class B Units), pre-IPO Hostess Holdings tax attributes, and imputed interest to the Apollo block (AP Hostess Holdings, L.P.) and the Metropoulos block (Hostess CDM Co-Invest series, CDM Hostess Class C series, and C. Dean Metropoulos individually). In January 2018, Apollo exited the TRA via a $34M buyout amendment with a contingent $10M change-of-control payment that never triggered; the contract continued in force for the CDM block only. The November 2023 Smucker acquisition was structured silently with respect to the TRA: no termination amendment, no Item 1.02 filing, no closing-8-K reference, and the TRA legal obligor (Hostess Brands, Inc.) survived as a wholly-owned Smucker subsidiary. The TRA may continue as an assumed obligation or have been quietly settled post-close; Hostess deregistered so its fate is not visible under the Hostess CIK and tracking requires Smucker's filings. See `contract_log.md` for the full filing-by-filing record.

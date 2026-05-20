@@ -1,0 +1,19 @@
+---
+title: Parsley Energy TRA 
+author: Alex Sullivan Mora 
+date: 2026-05-17
+company-names: [Parsley Energy, Pioneer Natural Resources] 
+CIKs: [0001594466, 0001038357]
+status: terminated
+---
+
+
+## TRA Timeline
+
+#### Parsley Energy's Up-C IPO
+ - 2014-01-24: First public S-1 filing with unexecuted TRA filed as exhibit
+ - 2014-05-29: Reported completion of Up-C IPO and filing of executed TRA
+
+#### Acquisition by Pioneer Natural Resources
+ - 2020-10-21: Announced a plan of merger with Pioneer Natural Resources, and a TRA amendment which would terminate the TRA with a negotiated payment following completion of the merger
+ - 2021-01-12: Reported completion of the merger

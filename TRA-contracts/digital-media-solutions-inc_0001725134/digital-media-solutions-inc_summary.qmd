@@ -1,0 +1,38 @@
+---
+title: "Digital Media Solutions, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Leo Holdings", "Digital Media Solutions, Inc."]
+CIKs: ["0001725134", "0001725134"]
+status: Unknown
+creation-date: 2020-07-15
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Same CIK was Leo Holdings (SPAC) before July 2020 business combination. Chapter 11 filed
+  September 11, 2024; Form 15-12G deregistered August 13, 2024. Final TRA disposition not visible
+  in EDGAR filings; lives on Delaware bankruptcy docket.
+---
+
+## TRA Timeline
+
+#### Origination at SPAC business combination
+
+- 2020-04-24: 8-K/A with Business Combination Agreement; form-of TRA filed as Exhibit G
+- 2020-06-24: DEFM14A with form-of TRA as Annex L
+- 2020-07-15: TRA executed at Leo Holdings / DMS business combination closing; PubCo Digital Media Solutions, Inc., LLC member Prism Data, plus CEP V / Clairvest sellers as TRA Parties
+
+#### Going-concern doubt and bankruptcy
+
+- 2024-04-19: 8-K reports Second Amendment and Waiver to Truist Credit Facility waiving payment defaults; going-concern doubt flagged
+- 2024-08-13: Form 15-12G deregistration (per SEC submissions metadata, not in directory)
+- 2024-09-11: Chapter 11 filing in Delaware (per public reporting; bankruptcy 8-K not in directory)
+
+## Explanation
+
+This SPAC business combination TRA originated at the July 15, 2020 close of the Leo Holdings / Digital Media Solutions transaction and obligated the post-Closing PubCo to pay TRA Parties (Prism Data LLC plus CEP V / Clairvest entities, with Clairvest GP Manageco as Agent) 85% of realized U.S. federal, state, and local income-tax savings on pre-Closing Blocker NOLs and Section 754 basis step-ups from later exchanges. The contract appears to have remained in force from origination through the firm's last 10-Q (Q1 2024). DMS deregistered August 13, 2024 and filed Chapter 11 in Delaware on September 11, 2024; the legal disposition of the TRA (rejection as an executory contract, treatment as an unsecured claim, or worthlessness) lives on the Delaware bankruptcy docket rather than in EDGAR filings. Status is `Unknown` because the dispositive bankruptcy treatment is not visible from this directory's contents. See `contract_log.md` for the full filing record.

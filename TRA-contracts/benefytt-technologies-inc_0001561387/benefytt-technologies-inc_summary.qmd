@@ -1,0 +1,36 @@
+---
+title: "Benefytt Technologies, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Health Insurance Innovations, Inc.", "Benefytt Technologies, Inc.", "Daylight Beta Parent Corp."]
+CIKs: ["0001561387", "0001561387", ""]
+status: Terminated
+creation-date: 2013-02-13
+termination-date: 2020-08-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Renamed from Health Insurance Innovations to Benefytt Technologies in early
+  2020. Terminated at Madison Dearborn take-private close (Aug 21, 2020) via
+  a TRA Termination Agreement substituting a $40,014,495 fixed payment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-01-15: S-1/A first attaches the form-of TRA as Exhibit 10.5
+- 2013-02-13: Up-C IPO closes; executed TRA dated February 13, 2013 filed as Exhibit 10.2 to the IPO 8-K with Michael W. Kosloske's Series B Member vehicles (HPI and HPI Sub) as beneficiaries
+
+#### Madison Dearborn take-private and termination
+
+- 2020-07-12: TRA Termination Agreement filed as Exhibit 10.2 to the merger announcement 8-K; substitutes a $40,014,495 cash Termination Payment for the Article 4.01 Early Termination Payment formula, conditional on merger close
+- 2020-08-21: Madison Dearborn merger closes; TRA terminated immediately prior to the Merger Effective Time and the $40,014,495 Termination Payment becomes payable
+
+## Explanation
+
+Health Insurance Innovations (later renamed Benefytt Technologies) completed its Up-C IPO on February 13, 2013 and executed an 85% Tax Receivable Agreement with the founder Michael W. Kosloske's Series B Member vehicles, covering Section 754 basis step-ups from future Series B Membership Interest exchanges plus imputed-interest deductions. On July 12, 2020, concurrent with the Madison Dearborn merger agreement, the parties signed a TRA Termination Agreement (titled as a termination, not an amendment) that substituted a mutually agreed $40,014,495 cash payment for the contract's Section 4.01 ETP formula, conditional on merger close. The Madison Dearborn take-private closed August 21, 2020, the TRA terminated immediately prior to the Effective Time, and the payment became due. Benefytt deregistered after the close. See `contract_log.md` for the full filing-by-filing record.

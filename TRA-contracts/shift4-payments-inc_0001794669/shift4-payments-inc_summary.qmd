@@ -1,0 +1,40 @@
+---
+title: "Shift4 Payments TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Shift4 Payments, Inc."]
+CIKs: ["0001794669"]
+status: Ongoing
+creation-date: 2020-06-04
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Feb 7 2026 Up-C collapse via Rook (Isaacman) TRA assignment-and-waiver
+  functionally cancels the founder's beneficiary share; contract continues for
+  Searchlight. Recorded liability $365.5M at 12/31/2024.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-06-01: Form-of TRA filed as Exhibit 10.1 to S-1/A with blank preamble date
+- 2020-06-04: Up-C IPO closes; TRA executed at 85% sharing rate with Rook Holdings (Isaacman's vehicle) and three Searchlight entities as TRA Holders
+
+#### Beneficiary roster events
+
+- 2022-05-24: Searchlight redeems all remaining LLC Interests but retains TRA beneficiary rights per Section 7.6(a); not an amendment
+
+#### Up-C collapse and Rook beneficiary cancellation
+
+- 2025-12-18: Isaacman resigns as Executive Chairman following confirmation as NASA Administrator
+- 2026-02-07: Transaction Agreement signed and executed; Rook redeems its LLC Interests in a taxable exchange and assigns its TRA rights to PubCo, which then waives those rights; explicitly not an Early Termination Notice; Searchlight's rights persist and the contract continues
+
+## Explanation
+
+Shift4 Payments, Inc. executed a Tax Receivable Agreement on June 4, 2020 at its Up-C IPO, paying 85% of cumulative net realized tax benefits to founder vehicle Rook Holdings, Inc. (Jared Isaacman) and three Searchlight entities. Covered attributes include Section 754 basis step-ups from LLC Interest redemptions, ~$44M of pre-IPO net operating losses, ~$74M of intangible and goodwill basis, and imputed interest. The contract was unmodified through five years of operation despite multiple outbound acquisitions (Credorax in 2022, Global Blue in 2025) and a Searchlight full-redemption event in 2022. After Isaacman's December 2025 resignation following his NASA confirmation, the February 7, 2026 Transaction Agreement collapsed the Up-C and effected a Rook TRA assignment-and-waiver: Rook's beneficiary share was assigned to PubCo and waived, functionally cancelling the founder's portion of the TRA while leaving Searchlight as the sole active beneficiary and the contract itself in force. See `contract_log.md` for the executed contract, the assignment-and-waiver, and the operative-section comparisons.

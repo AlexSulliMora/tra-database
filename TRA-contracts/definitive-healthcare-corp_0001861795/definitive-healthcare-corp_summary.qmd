@@ -1,0 +1,41 @@
+---
+title: "Definitive Healthcare Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Definitive Healthcare Corp."]
+CIKs: ["0001861795"]
+status: Ongoing
+creation-date: 2021-09-14
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Two large goodwill impairments (FY2024 $688.9M, FY2025 $196.1M) drove TRA remeasurement
+  gains totaling $98.6M, reducing the recorded TRA liability from ~$156M at IPO to $27.2M at
+  Dec 31, 2025. August 2023 non-reliance restatement was financial-statement only, not TRA amendment.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-08-20: Form-of TRA first filed as Exhibit 10.14 to S-1
+- 2021-09-14: TRA executed (preamble dated September 14, 2021) between Definitive Healthcare Corp., AIDH TopCo LLC, and pre-IPO sponsors Advent, Spectrum Equity, 22C Capital, Jason Krantz, and management
+- 2021-11-08: Executed TRA filed as Exhibit 10.10 to the first 10-Q
+
+#### Non-reliance restatement (financial-statement, not contract)
+
+- 2023-07-31: Non-reliance 8-K filed; FY2022 TRA liability later restated from $156.3M to $155.1M in 10-K/A and 10-Q/A filed August 2023; no TRA contract terms modified
+
+#### Goodwill impairment-driven remeasurement gains
+
+- 2024-FY: $688.9M goodwill impairment drove $76.9M TRA remeasurement gain; year-end TRA liability $63.2M
+- 2025-FY: Additional $196.1M goodwill impairment drove $21.7M TRA remeasurement gain; year-end TRA liability $27.2M
+
+## Explanation
+
+This Up-C TRA originated at the September 2021 IPO between Definitive Healthcare Corp. as PubCo and the Continuing Pre-IPO LLC Members plus Reorganization Parties (Advent, Spectrum Equity, 22C Capital, founder Jason Krantz, and management) as TRA Holders; the payment percentage is 85% on three tax-asset categories (Blocker-acquired tax attributes, Section 754 basis step-ups on later exchanges, and imputed-interest deductions). The contract has not been amended, restated, or terminated; the only "restatement" in the firm's history is the August 2023 non-reliance financial-statement correction, which adjusted the FY2022 carrying liability by $1.2M without touching the contract. Two large goodwill impairments in FY2024 and FY2025 drove the recorded TRA liability from approximately $156M at IPO to $27.2M at December 31, 2025 via $98.6M of cumulative remeasurement gains. Cash payments under the TRA began modestly in FY2023 ($0.2M) and grew to $13.8M in FY2025. See `contract_log.md` for the full filing record.

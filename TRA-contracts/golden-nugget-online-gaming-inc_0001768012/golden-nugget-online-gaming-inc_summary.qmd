@@ -1,0 +1,35 @@
+---
+title: "Golden Nugget Online Gaming, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Golden Nugget Online Gaming, Inc.", "Landcadia Holdings II, Inc.", "DraftKings Inc."]
+CIKs: ["0001768012", "0001883685"]
+status: Terminated
+termination-date: 2022-05-05
+creation-date: 2020-12-29
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holder is Landry's Fertitta, LLC (single counterparty). Terminated at
+  the DraftKings merger close with zero cash payment; $24.2M carrying-value
+  liability extinguished as part of the deal.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-12-29: Landcadia Holdings II's Up-C business combination with Landry's Fertitta, LLC closes; renamed Golden Nugget Online Gaming, Inc.; TRA executed as Exhibit 10.2 to the closing 8-K
+
+#### DraftKings acquisition and termination
+
+- 2021-08-09: 8-K/A files the Merger Agreement with DraftKings; the recitals expressly provide for TRA termination at the Gulf Effective Time with no amounts due
+- 2022-05-05: DraftKings acquisition closes; TRA terminated and the $24.2M carrying-value liability extinguished without cash payment
+
+## Explanation
+
+The TRA originated at the December 29, 2020 Up-C business combination between Landcadia Holdings II (a SPAC) and Landry's Fertitta, LLC, which renamed the public company to Golden Nugget Online Gaming. The contract obligated GNOG to pay 85% of cumulative net realized tax benefits to LF LLC (the single TRA counterparty), covering Section 754 basis step-ups on future exchanges of LHGN HoldCo units. Termination was negotiated into the August 2021 DraftKings Merger Agreement, which provided that the TRA would extinguish at the merger close with no amounts due. The acquisition closed May 5, 2022; the $24.2M carrying-value TRA liability was fully released without cash payment, and GNOG's public-company existence ended at the merger. See `contract_log.md` for the full filing record and the DraftKings cross-reference.

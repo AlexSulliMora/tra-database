@@ -1,0 +1,37 @@
+---
+title: "Alight Inc TRA (CIK 1844744 filings)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Acrobat Holdings, Inc.", "Alight, Inc."]
+CIKs: ["0001844744", "0001844744"]
+status: Ongoing
+creation-date: 2021-07-02
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-07-02 (CIK 0001809104)"]
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Same TRA as the one filed under CIK 1809104 (the FTAC/Alight successor CIK).
+  This CIK's directory captures pre-close DRS/S-4/424B3 form-of drafts only;
+  executed exhibit not in this directory.
+---
+
+## TRA Timeline
+
+#### Drafting and S-4 disclosures
+
+- 2021-02-16: DRS embeds form-of TRA as Annex J (preamble blank)
+- 2021-03-29: S-4 attaches form-of TRA as Annex J
+- 2021-06-04: Final 424B3 prospectus carries the same form-of TRA before the FTAC shareholder vote
+
+#### SPAC business combination and TRA execution
+
+- 2021-07-02: Alight Business Combination closes; TRA executed (executed text filed under CIK 0001809104 as Exhibit 10.2 to closing 8-K)
+- 2021-09-30: Q3 10-Q records initial TRA liability at $605M (initial fair value $578M)
+
+## Explanation
+
+This CIK (0001844744) carries pre-close drafting filings for the Tax Receivable Agreement executed on July 2, 2021 at the closing of the SPAC business combination between Foley Trasimene Acquisition Corp. and Tempo Holding Company, LLC; the executed signed contract was filed under the successor CIK 0001809104, where post-merger reporting continued. Alight pays 85% of the cash tax savings it realizes from (i) the Blockers' pre-combination tax attributes and existing tax basis, (ii) Section 754 basis step-ups generated when Continuing Members exchange Alight Holdings units (with Class V common stock) for Class A common stock, and (iii) imputed interest plus basis-on-payment top-ups. No amendments or terminations appear at either CIK; payments are running through the contract per its original terms (see the parallel summary at CIK 1809104). For ongoing TRA state and payment history, refer to the CIK 1809104 summary. See `contract_log.md` for the full filing-by-filing record of the drafting iterations captured under this CIK.

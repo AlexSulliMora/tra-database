@@ -1,0 +1,40 @@
+---
+title: "Enfusion, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Enfusion, Inc.", "Clearwater Analytics Holdings, Inc."]
+CIKs: ["0001868912", ""]
+status: Terminated
+creation-date: 2021-10-19
+termination-date: 2025-04-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amendment No. 1 (2025-01-10) capped all TRA obligations at $30M
+  aggregate and provided auto-termination at Clearwater merger
+  close. Pre-cap hypothetical exposure was approximately $105.4M
+  on $124.1M of deferred tax asset at YE2024.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-10-12: Form-of TRA filed as Ex 10.3 to S-1/A (unexecuted, preamble date blank)
+- 2021-10-19: Up-C IPO closes; TRA executed between Enfusion, Inc. and the persons named therein (Continuing LLC Members and Blocker shareholders)
+- 2022-03-30: Executed TRA filed as Ex 10.3 to FY2021 10-K
+
+#### Clearwater merger and termination amendment
+
+- 2025-01-10: Amendment No. 1 signed concurrently with the Clearwater Analytics merger agreement; caps all remaining TRA obligations at $30M aggregate, provides auto-termination at merger Effective Time, and requires recipient acknowledgments and releases
+- 2025-01-13: 8-K filed with merger agreement (Ex 2.1) and Amendment No. 1 (Ex 10.1)
+- 2025-04-17: Enfusion stockholders approve the merger
+- 2025-04-21: Clearwater merger closes; TRA automatically terminates by operation of Amendment No. 1; Enfusion deregistered
+
+## Explanation
+
+Enfusion entered into its Tax Receivable Agreement at the October 19, 2021 Up-C IPO close, paying 85% of realized tax benefits from Section 754 basis step-ups arising from exchanges of Continuing LLC Members' Common Units for Class A common stock and from inherited Blocker tax attributes. Enfusion never carried a material recognized TRA liability through 2024 because realization beyond a small amount was not probable, although the FY2024 10-K's full-exchange hypothetical disclosure placed pre-cap exposure at approximately $105.4M on $124.1M of deferred tax asset. On January 10, 2025 Enfusion signed Amendment No. 1 concurrently with the Clearwater Analytics merger agreement: the amendment caps all remaining TRA obligations at an aggregate $30M Final TRA Payment payable at merger close, provides for automatic TRA termination at the Effective Time, and extinguishes any other Tax Benefit Payment or Early Termination Payment claim. The Clearwater merger closed April 21, 2025 and the TRA terminated by operation of Amendment No. 1; Enfusion was deregistered the same day. See `contract_log.md` for the full filing-by-filing record.

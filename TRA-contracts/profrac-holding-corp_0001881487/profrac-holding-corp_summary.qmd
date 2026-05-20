@@ -1,0 +1,41 @@
+---
+title: "ProFrac Holding TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ProFrac Holding Corp."]
+CIKs: ["0001881487"]
+status: Ongoing
+creation-date: 2022-05-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Wilks-family-controlled Up-C IPO TRA. April 2023 full Up-C redemption
+  (~104.2M LLC Units) raised the noncurrent liability from ~$0 at YE2022
+  to $68.1M at YE2023; not a termination, just the contract's intended
+  mechanism playing out. Liability $86.6M at YE2025. November 2022 USWS
+  acquisition created no new TRA.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-11-29: S-1/A attaches form-of TRA as Exhibit 10.2
+- 2022-05-17: TRA executed at IPO closing (date of report May 12, 2022); executed copy filed May 23, 2022 as Exhibit 10.1 to closing 8-K (Wilks family entities, KWELL Holdings, THRC Holdings on Schedule A)
+
+#### Full Up-C redemption (not a termination)
+
+- 2023-04-10 through 2023-04-13: All eligible TRA Holders submit redemption notices for the entire 104.2M ProFrac LLC Units; Class B shares cancelled and Class A issued; basis step-ups push noncurrent TRA liability from ~$0 to $68.1M at year-end 2023
+
+#### Continuing liability accrual
+
+- 2025-12-31: Liability $86.6M ($4.6M current + $82.0M noncurrent)
+
+## Explanation
+
+ProFrac Holding Corp. became the TRA obligor on May 17, 2022 at the closing of its Up-C IPO, with the pre-IPO unitholders of ProFrac Holdings, LLC (the Wilks family and affiliated entities including THRC Holdings, KWELL Holdings, and several family trusts) as TRA Holders acting through Farris C. Wilks and THRC Holdings as Agents. The TRA pays beneficiaries 85% of cash tax savings from Section 754 basis step-ups arising from Exchanges (redemptions of LLC Units for Class A shares or cash) plus TRA-imputed interest, with Early Termination Payments discounted at SOFR + 150 bps. In April 2023 the TRA Holders submitted redemption notices for the entire 104.2 million ProFrac LLC Units they held, executing a full Up-C redemption that triggered the basis step-ups the TRA was designed to monetize; the noncurrent liability moved from approximately $0 at year-end 2022 to $68.1M at year-end 2023 and stands at $86.6M at year-end 2025. The November 2022 U.S. Well Services acquisition created no new TRA because USWS carried none post-bankruptcy. No amendment, restatement, or termination has been filed; the TRA remains in force through the Q1 2026 10-Q. See `contract_log.md` for the full filing-by-filing record.

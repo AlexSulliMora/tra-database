@@ -1,0 +1,38 @@
+---
+title: "Snap One Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Snap One Holdings Corp.", "Resideo Technologies, Inc."]
+CIKs: ["0001856430", "0001740332"]
+status: Terminated
+creation-date: 2021-07-27
+termination-date: 2024-06-14
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Zero-payment TRA Waiver and Termination Letter executed concurrent with the
+  Resideo merger agreement; waiver itself was not filed as an SEC exhibit. Pre-
+  termination TRA liability was $93.4M at March 29 2024.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2021-07-02: Form-of TRA filed as Exhibit 10.13 to S-1 with bracketed preamble date
+- 2021-07-27: TRA executed at 85% sharing rate with Crackle Holdings L.P. as Initial TRA Party (which then liquidated and distributed TRA rights to H&F-affiliated partners)
+- 2021-07-29: IPO closes; H&F Copper Holdings VIII serves as TRA Party Representative
+- 2021-08-27: Executed TRA filed as Exhibit 10.14 to Q2 2021 10-Q
+
+#### Resideo acquisition and zero-payment termination
+
+- 2024-04-14: Resideo Merger Agreement signed; TRA Waiver and Termination Letter delivered concurrently, waiving all amounts due or that may become payable and terminating the TRA at the merger Effective Time
+- 2024-06-14: Resideo merger closes; TRA terminates by operation of the waiver with zero payment; Snap One deregisters via Form 25
+
+## Explanation
+
+Snap One Holdings Corp. executed a Tax Receivable Agreement on July 27, 2021 in connection with its IPO that closed two days later, paying 85% of cash tax savings to Crackle Holdings L.P. (immediately liquidated and distributed to H&F-affiliated partners) for pre-IPO basis adjustments and net operating losses. The contract was not amended through three years of operation. Concurrent with the April 14, 2024 Resideo merger agreement, the TRA Parties delivered a Waiver and Termination Letter waiving all unpaid amounts and terminating the TRA at the merger Effective Time; the negotiated termination payment was zero against a pre-termination booked liability of approximately $93.4M (long-term plus current at March 29, 2024). The Resideo merger closed June 14, 2024 and the TRA extinguished by operation of the waiver. The TRA Waiver itself was never filed as an SEC exhibit; it is referenced in the Merger Agreement Section 6.14 and described substantively in the Q1 2024 10-Q. See `contract_log.md` for the executed contract and the termination-mechanism analysis.

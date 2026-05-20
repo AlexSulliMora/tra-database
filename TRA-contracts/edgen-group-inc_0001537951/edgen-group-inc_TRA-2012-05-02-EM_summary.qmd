@@ -1,0 +1,38 @@
+---
+title: "Edgen Group Inc. TRA (TRA-2012-05-02-EM)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Edgen Group Inc.", "Sumitomo Corporation of America"]
+CIKs: ["0001537951", ""]
+status: Terminated
+creation-date: 2012-05-02
+termination-date: 2013-11-20
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-05-02-BL"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA with Edgen Murray II, L.P. Terminated at zero cost via
+  standalone Exchange and TRA Termination Agreement executed
+  concurrently with the Sumitomo merger; effective at 2013-11-20
+  merger close. Sumitomo Corporation of America is a non-EDGAR filer.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-27: Form-of TRA filed as Ex 10.13 to S-1/A No. 3 (templated both EM and B&L TRAs)
+- 2012-05-02: IPO closes; TRA executed between Edgen Group Inc. and Edgen Murray II, L.P.
+- 2012-05-10: Executed EM TRA filed as Ex 10.4 to Q1 2012 10-Q
+
+#### Sumitomo merger and termination
+
+- 2013-10-01: Sumitomo merger agreement signed; standalone Exchange and TRA Termination Agreement attached as Ex 10.1 to same 8-K, extinguishing both parallel TRAs at zero cost effective at merger close
+- 2013-11-20: Merger closes; TRA terminates at zero payment
+
+## Explanation
+
+Edgen Group entered into its EM Tax Receivable Agreement at the May 2, 2012 Up-C IPO close, paying Edgen Murray II, L.P. 85% of cash tax savings realized from Section 754 basis step-ups and imputed interest arising from future exchanges of EDG Holdco LLC units for Class A common stock. The IPO disclosure projected approximately $21.2M of aggregate TRA payments over 15 years, but no TRA liability was ever accrued because no exchanges occurred during the firm's brief independent life. On October 1, 2013 Edgen Group signed a merger agreement with Sumitomo Corporation of America, and the same 8-K filed a standalone Exchange and Tax Receivable Termination Agreement that extinguished both parallel TRAs at zero cost effective at merger closing. The merger closed November 20, 2013 and terminated the EM TRA without any negotiated payment. See `contract_log.md` for the full filing-by-filing record.

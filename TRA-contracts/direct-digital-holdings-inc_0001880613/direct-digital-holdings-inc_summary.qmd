@@ -1,0 +1,37 @@
+---
+title: "Direct Digital Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Direct Digital Holdings, Inc."]
+CIKs: ["0001880613"]
+status: Ongoing
+creation-date: 2022-02-15
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Full valuation allowance recorded FY2024 derecognized $5.2M TRA liability; contract still in
+  force (no termination instrument, no amendment, exhibit table continues to list the original TRA).
+  Sole TRA beneficiary is Direct Digital Management LLC (founders' vehicle).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2022-01-18: Form-of TRA filed as Exhibit 10.2 to S-1/A
+- 2022-02-15: TRA executed (preamble dated February 15, 2022) at the IPO Organizational Transactions closing; sole TRA Party is Direct Digital Management LLC, the founders' holding vehicle
+- 2022-02-16: Executed TRA filed as Exhibit 10.2 to the IPO-close 8-K
+
+#### Valuation-allowance derecognition
+
+- 2025-FY: FY2024 10-K reports derecognition of the entire $5.2M TRA liability after full valuation allowance recorded against the underlying deferred tax assets; contract remains legally in force
+- 2026-FY: FY2025 10-K confirms derecognition and continues to maintain the full valuation allowance; zero TRA liability on balance sheet
+
+## Explanation
+
+This is a textbook Up-C TRA executed at Direct Digital's February 2022 IPO, with Direct Digital Holdings, Inc. as the Corporate Taxpayer, Direct Digital Holdings, LLC as the OpCo, and Direct Digital Management LLC (the founders' vehicle, signed by Mark D. Walker as Managing Partner) as the sole TRA Party. The payment percentage is 85% of Cumulative Net Realized Tax Benefit on Section 754 Basis Adjustments and imputed interest arising from Class A Unit redemptions and Direct Exchanges. In FY2024 the firm recorded a full valuation allowance against the deferred tax assets underlying the TRA and derecognized the $5.2M balance-sheet liability; the FY2025 10-K maintains that allowance and continues to list the original 2022-02-15 TRA in the exhibit table without an "as amended" qualifier, so the contract is legally in force despite the zero recorded liability. No amendments, restatements, or change-of-control events have been observed. See `contract_log.md` for the full filing record.

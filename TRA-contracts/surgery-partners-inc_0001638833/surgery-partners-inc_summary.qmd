@@ -1,0 +1,41 @@
+---
+title: "Surgery Partners, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Surgery Partners, Inc."]
+CIKs: ["0001638833"]
+status: Terminated
+creation-date: 2015-09-30
+termination-date: 2024-12-31
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Not an Up-C; TRA covers only pre-IPO NOLs and imputed interest. Amendment No. 1
+  converted variable payments to a fixed schedule through 2024; the TRA ran out by
+  schedule completion rather than via a termination instrument. End-of-life date
+  approximated as 2024-12-31 (final scheduled payment year).
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2015-09-30: Reorganization and IPO closed; executed Income Tax Receivable Agreement filed as Exhibit 10.1 to the Q3 2015 10-Q
+
+#### Sponsor recapitalization and fixed-schedule conversion
+
+- 2017-05-09: Amendment No. 1 filed concurrent with the Bain Capital recapitalization and the NSH Holdco acquisition; converted variable payments to a fixed schedule (Base Amount times Applicable Tax Rate) running through 2024
+- 2017-09-08: TRA Waiver and Assignment Agreement with the Doyle Parties (departing CEO and family trusts) executed; Doyle Parties assigned their future ITR Payment rights back to the Corporation for cash
+- 2018-03-16: Form-of TRA Waiver Agreement filed as Exhibit 10.11 to the FY2017 10-K, documenting the broader employee-waiver program template
+
+#### Schedule run-out
+
+- 2024-12-31: Final scheduled payment year under Amendment No. 1's fixed schedule
+
+## Explanation
+
+Surgery Partners, Inc. executed this TRA on September 30, 2015 at its IPO Reorganization, agreeing to pay 85% of cash tax savings on the use of pre-IPO NOL carryforwards and imputed interest; unlike most TRAs in this set, Surgery Partners is not an Up-C, so there are no future exchange-driven step-ups, only the one-shot NOL inheritance. Amendment No. 1 (May 2017), executed as a condition precedent to the Bain Capital recapitalization and the NSH Holdco acquisition, replaced the variable-payment formula with a fixed annual schedule of Base Amount times Applicable Tax Rate running through 2024. A separate waiver-and-assignment program in September 2017 bought out the Doyle Parties (departing CEO and family trusts) for cash in exchange for their future ITR Payment rights, with a generic form filed in the FY2017 10-K to document the broader employee-waiver program. The fixed schedule completed with the 2024 payment; the FY2025 10-K no longer carries a separate TRA liability, so the contract ran out by schedule completion rather than by a freestanding termination instrument. See `contract_log.md` for the full filing-by-filing record.

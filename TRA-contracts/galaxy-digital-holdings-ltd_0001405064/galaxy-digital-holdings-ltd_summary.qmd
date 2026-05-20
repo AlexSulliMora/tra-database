@@ -1,0 +1,40 @@
+---
+title: "Galaxy Digital Holdings Ltd. TRA (pre-redomestication PubCo)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Galaxy Digital Holdings Ltd.", "Galaxy Digital Inc."]
+CIKs: ["0001405064", "0001859392"]
+status: Terminated
+creation-date: 2018-07-31
+termination-date: 2025-05-13
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: pre-IPO holders
+notes: >-
+  Cayman-domiciled foreign private issuer; original 2018 TRA document predates
+  the downloaded filing range. Amended and Restated TRA executed at the
+  May 13, 2025 redomestication under successor CIK 0001859392.
+---
+
+## TRA Timeline
+
+#### Original TRA execution
+
+- 2018-07-31?: Original Tax Receivables Agreement executed between Galaxy Digital Holdings Ltd. (Old GDHI), GDH Intermediate LLC, GDH GP LLC, and certain TRA Limited Partners (85% sharing rate; date taken from later A&R recitals, original instrument not in this directory)
+
+#### Planned redomestication and amendment
+
+- 2022-01-28: S-4 files form-of Amended and Restated TRA as Exhibit 10.3, contemplating a Delaware redomestication paired with a BitGo merger
+- 2025-03-27: S-4/A No. 7 refiles a restructured form-of A&R TRA reflecting a domestication-then-merger mechanic; the BitGo combination has been abandoned
+- 2025-04-07: 424B3 management circular sets the GDHL shareholder vote for May 9, 2025
+
+#### Redomestication close and parent-role transfer
+
+- 2025-05-13: Reorganization closes; A&R TRA executed under successor Delaware PubCo Galaxy Digital Inc. (CIK 0001859392). GDHL ceases to be the TRA obligor; the in-force contract continues under the successor.
+
+## Explanation
+
+Galaxy Digital Holdings Ltd. was the Cayman Islands PubCo of an Up-C structure that originated a Tax Receivables Agreement dated July 31, 2018, paying 85% of cumulative net realized tax benefits from Section 754 basis step-ups on exchanges of LP units to a pool of TRA Limited Partners. Between January 2022 and March 2025 GDHL filed and repeatedly amended an S-4 registering a redomestication to Delaware; the planned amended-and-restated TRA was filed as a form-of exhibit but not executed under GDHL's CIK. The reorganization closed on May 13, 2025: GDHL domesticated to Delaware as GDHI, GDHI merged into Galaxy Digital Inc. (CIK 0001859392), and the A&R TRA was executed under the successor's CIK. Treated as terminated at the GDHL level because the parent role moved off this CIK; the same economic TRA continues under the successor. See `contract_log.md` for the form-of comparison and `../galaxy-digital-inc_0001859392/galaxy-digital-inc_TRA-2025-05-13_summary.qmd` for the successor's record.

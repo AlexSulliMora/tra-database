@@ -1,0 +1,31 @@
+---
+title: "Charter Communications, Inc. TRA (TRA-prospective-gci-divestiture, GCI Spinco obligor, Charter beneficiary)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Charter Communications, Inc.", "GCI Spinco"]
+CIKs: ["0001091667", ""]
+status: Unknown
+creation-date: 2024-11-12
+termination-date:
+tax-asset-type: [Other tax credit]
+sharing-ratio: "100%"
+parallel-tras: ["TRA-2016-05-18", "TRA-2025-05-16-cox-form"]
+role: Beneficiary
+trigger-event-type: Spin-off
+counterparty-type: Other
+notes: >-
+  Prospective only: term description in the Liberty Broadband Merger Agreement, no draft contract.
+  Charter is the beneficiary (unusual for this firm); GCI Spinco is the prospective obligor.
+  Conditional on GCI Divestiture closing by June 30, 2027. No GCI Spinco CIK assigned yet.
+---
+
+## TRA Timeline
+
+#### Contemplated as part of Liberty Broadband Combination
+
+- 2024-11-12: Liberty Broadband Combination Merger Agreement filed as Exhibit 2.1 to 8-K; Section 5.24 outlines the GCI Divestiture and the prospective TRA covering 100% of the tax benefit arising from any additional tax gain at GCI Spinco where corporate cash-tax payable for a year exceeds $420 million
+- 2025-03 to 2026-03: S-4 / S-4-A / DEF 14A filings reproduce the description; GCI Spinco contract text not yet drafted or filed
+
+## Explanation
+
+This is a prospective TRA outlined only as a term sketch inside the Liberty Broadband Combination Merger Agreement; no draft contract text exists on EDGAR yet. Under the contemplated structure, GCI Spinco (a planned spin-off of GCI's commercial fiber and managed services business) would be the obligor and Charter Communications would be the beneficiary, the only contract in this directory where Charter is on the beneficiary side. The trigger is a $420 million annual cash-tax threshold at GCI Spinco, above which Charter would receive 100% of the tax benefit on the additional tax gain. The TRA's existence is conditional on the GCI Divestiture closing on or before June 30, 2027. When executed, the contract will be filed under a separate GCI Spinco CIK; a cross-reference should be added at that time. See `contract_log.md` for the full filing record.

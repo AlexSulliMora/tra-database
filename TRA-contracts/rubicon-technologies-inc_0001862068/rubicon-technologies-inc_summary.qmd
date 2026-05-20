@@ -1,0 +1,37 @@
+---
+title: "Rubicon Technologies TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rubicon Technologies, Inc.", "Founder SPAC"]
+CIKs: ["0001862068", "0001862068"]
+status: Unknown
+creation-date: 2022-08-15
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form 15-12G filed January 22, 2025 (per SEC metadata, outside this directory).
+  Last visible status is in_force with zero recognized liability (full
+  valuation allowance). TRA's post-deregistration fate cannot be determined
+  from EDGAR; deregistration alone does not terminate the contract.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-08-15: SPAC business combination between Founder SPAC and Rubicon Technologies, LLC closes; TRA executed between Rubicon Technologies, Inc., Rubicon Technologies Holdings LLC, and the TRA Holders (Unblocked holders of Class B Units plus Blocked Unitholders), paying 85% of Cumulative Net Realized Tax Benefit on Section 754 basis step-ups, NOLs acquired in Blocker Mergers, and imputed-interest deductions
+- 2022-08-19: 8-K files the executed TRA as exhibit 10.10
+
+#### Deregistration
+
+- 2024-12-03: Securities Purchase Agreement with MBI Holdings, LP for Series B Convertible Preferred Stock (per December 6, 2024 8-K)
+- 2025-01-22: Form 15-12G filed deregistering Class A common stock under Section 12(g) (per SEC metadata, outside this directory)
+
+## Explanation
+
+Rubicon Technologies' August 15, 2022 SPAC business combination (Founder SPAC acquiring Rubicon Technologies, LLC) created a TRA paying 85% of Cumulative Net Realized Tax Benefit to the Continuing LLC Members and Blocked Unitholders, covering Section 754 basis step-ups on exchanges of Class B Units, NOLs acquired in the Blocker Mergers, and imputed-interest deductions on TRA payments. No amendments or terminations were filed during the firm's public life. No TRA liability was ever recognized: the Company carried a full valuation allowance against the underlying deferred tax assets throughout the contract's life, and the FY2023 10-K illustrated the magnitude only hypothetically (about $335.5M of undiscounted 85% payments if all Class B Units were exchanged at $10/share). Rubicon filed Form 15-12G on January 22, 2025 (per SEC metadata, after this directory's coverage), deregistering its Class A common stock; the TRA's post-deregistration fate cannot be determined from EDGAR because deregistration by itself does not terminate the contract and no extrinsic-event filing is visible. See `contract_log.md` for the full filing-by-filing record and the coverage-gap list of post-December-2024 filings to retrieve in a future run.

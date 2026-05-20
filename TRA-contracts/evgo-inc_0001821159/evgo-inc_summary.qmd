@@ -1,0 +1,41 @@
+---
+title: "EVgo Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["EVgo Inc.", "Climate Change Crisis Real Impact I Acquisition Corporation"]
+CIKs: ["0001821159", "0001821159"]
+status: Ongoing
+creation-date: 2021-07-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  EVgo Holdings (LS Power-affiliated) is initial sole TRA Holder;
+  LS Power Equity Advisors is Agent. December 2024 23M-unit
+  redemption produced contingent tax attributes; unrecorded
+  contingent liability $33.2M at YE2025 (full valuation allowance
+  posture; not yet probable).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-01-21: Business Combination Agreement signed; form-of TRA attached as Exhibit F
+- 2021-01-22: 8-K filed disclosing BCA and form-of TRA
+- 2021-07-01: CRIS / EVgo business combination closes; SPAC renamed EVgo Inc.; TRA executed by EVgo Inc., CRIS Thunder Merger LLC, EVgo Holdings, and LS Power Equity Advisors as Agent
+- 2021-07-08: Executed TRA filed as Ex 10.8 to Super 8-K
+
+#### December 2024 redemption (contingent liability disclosed)
+
+- 2024-12-16: EVgo Holdings redeems 23,000,000 EVgo OpCo Units (and Class B shares) for Class A common stock and sells in secondary offering; redemption produces favorable tax attributes that would trigger 85% TRA payments
+- 2025-03-06: FY2024 10-K discloses contingent unrecorded TRA liability of $33.8M; no accrual because cash tax benefit not deemed probable
+- 2026-03-09: FY2025 10-K updates contingent unrecorded liability to $33.2M; contract remains in force
+
+## Explanation
+
+EVgo Inc. executed its Tax Receivable Agreement at the July 1, 2021 close of the SPAC business combination between Climate Change Crisis Real Impact I Acquisition Corporation and EVgo Holdings, LLC, structuring the combined company as an Up-C with EVgo Inc. as PubCo and EVGO OPCO, LLC as the operating partnership. The contract pays 85% of net cash tax savings from Section 754 basis step-ups on Redemptions or Call-Right acquisitions of EVgo OpCo Units, certain pre-business-combination tax basis available to the Corporate Taxpayer Group, and imputed-interest deductions on TRA payments; EVgo Holdings (an LS Power-affiliated vehicle) is the initial sole TRA Holder and LS Power Equity Advisors serves as Agent. No transactions through 2023 triggered a TRA payment, and a December 2024 23,000,000-unit redemption by EVgo Holdings produced contingent tax attributes that have not been accrued because cash tax benefit is not deemed probable under EVgo's full valuation allowance posture. The unrecorded contingent liability stood at $33.2M at YE2025 (down from $33.8M at YE2024), with no amendments or terminations on file. See `contract_log.md` for the full filing-by-filing record.

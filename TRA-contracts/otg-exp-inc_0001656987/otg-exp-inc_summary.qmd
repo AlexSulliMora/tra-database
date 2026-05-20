@@ -1,0 +1,36 @@
+---
+title: "OTG EXP TRA (never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["OTG EXP, Inc."]
+CIKs: ["0001656987"]
+status: Terminated
+creation-date: 2016-02-02
+termination-date: 2018-10-25
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA attached to the abandoned 2016 Up-C IPO; never executed.
+  Origin date assigned from exhibit filing date (preamble date was blank);
+  termination date set to the SEC STAFF ACTION marking abandonment.
+---
+
+## TRA Timeline
+
+#### Contemplated Up-C IPO and form-of TRA
+
+- 2016-01-07: Initial S-1 describes the contemplated TRA at 85% payment rate covering Section 754 basis step-ups, pre-IPO NOLs, and TRA-imputed interest
+- 2016-02-02: S-1/A first attaches the form-of TRA as Exhibit 10.8 (preamble date blank, signatures absent)
+- 2016-02-04: Final S-1/A with substantively identical TRA disclosure
+
+#### Abandonment
+
+- 2018-10-25: SEC STAFF ACTION marks the registration abandoned; IPO never closed and form-of TRA never executed
+
+## Explanation
+
+OTG EXP, Inc. was the shell-form Delaware PubCo for OTG Management's contemplated Up-C IPO, registered across an S-1 and four S-1/A amendments in January and February 2016. The form-of Tax Receivable Agreement was first attached as Exhibit 10.8 to the February 2, 2016 S-1/A, naming OTG EXP, Inc. as Corporate Taxpayer, OTG Management, LLC as the OpCo, and pre-IPO LLC members as Beneficiaries to be listed on a closing-date Exhibit A; the agreement carried an 85% payment rate covering Section 754 basis step-ups from future LLC Unit exchanges, certain pre-IPO net operating loss carryforwards, and imputed-interest deductions on TRA payments themselves. The IPO never closed, the form-of was never signed, and the SEC marked the registration abandoned via a STAFF ACTION on October 25, 2018. No further filings have appeared under this CIK. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,34 @@
+---
+title: "Falcon's Beyond Global, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Falcon's Beyond Global, Inc."]
+CIKs: ["0001937987"]
+status: Ongoing
+creation-date: 2023-10-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Up-C formed by FAST Acquisition Corp. II / Falcon's Beyond Global, LLC SPAC business
+  combination. Full valuation allowance on the underlying deferred tax assets, so no
+  TRA liability has been recognized on the balance sheet to date.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2023-10-06: Business combination closes; executed TRA filed as Exhibit 10.1 to October 12, 2023 8-K
+
+#### Narrow clarifying amendment
+
+- 2024-10-24: Amendment No. 1 filed as Exhibit 10.5 to Q3 2024 10-Q; revises last sentence of Section 7.6(a) so transferring TRA Holders retain Tax Benefit Payment rights when they transfer LLC Units without assigning TRA rights
+
+## Explanation
+
+Falcon's Beyond Global, Inc. went public on October 6, 2023 through the FAST Acquisition Corp. II / Falcon's Beyond Global, LLC SPAC business combination and committed to pay the pre-business-combination LLC members 85% of cash tax savings from Section 754 basis step-ups arising on future redemptions or direct exchanges of LLC Units for Class A common stock. The October 2024 amendment is a narrow scrivener-style change clarifying that the economic right to Tax Benefit Payments travels with the original TRA Holder rather than the transferee when LLC Units are transferred without an assignment of TRA rights. No payment terms, beneficiary classes, or termination triggers changed. The TRA remains in force; no TRA liability has been recognized because a full valuation allowance sits on the underlying deferred tax assets. See `contract_log.md` for the full filing-by-filing record.

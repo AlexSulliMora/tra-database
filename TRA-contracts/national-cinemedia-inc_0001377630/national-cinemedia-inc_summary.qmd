@@ -1,0 +1,39 @@
+---
+title: "National CineMedia, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["National CineMedia, Inc."]
+CIKs: ["0001377630"]
+status: Ongoing
+creation-date: 2007-02-13
+termination-date:
+tax-asset-type: [Basis Step-Up, Other tax credit]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Headline 90% rate (vs the modal 85%). NCM LLC went through Chapter 11 in
+  2023; the TRA was affirmed (not rejected) under the Plan. Regal's TRA
+  rights were waived 2023-07-14; AMC and Cinemark remain as beneficiaries.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2007-02-13: TRA executed at NCMI IPO close among NCMI, NCM LLC, and the three Founding Members (AMC, Cinemark, Regal); 90% of Realized Tax Benefit on Initial ESA Modification Payments, Initial Deemed Exchange step-ups, and Positive Theatre Access Adjustments
+- 2007-02-16: 8-K files the executed TRA as Exhibit 10.7
+
+#### Chapter 11 and Regal exit
+
+- 2023-04-11: NCM LLC files Chapter 11 (SDTX)
+- 2023-06-27: 8-K files the Plan of Reorganization; the Joint Venture Agreements (including the TRA) are designated for assumption to preserve the Up-C structure
+- 2023-07-14: Joint Venture Termination and Settlement Agreement effective; Regal waives and releases all rights and interests under the TRA, contract continues with AMC and Cinemark
+- 2023-08-07: NCM LLC emerges from Chapter 11; the TRA is assumed under section 365, no new parallel TRA is executed
+- 2024-03-18: FY 2023 10-K records a $24.2M increase in the TRA payable to ESA Parties driven by a methodology change to include forecasted exchanges
+
+## Explanation
+
+National CineMedia, Inc. executed a Tax Receivable Agreement at its February 2007 Up-C IPO obligating PubCo to pay 90% (a notable deviation from the modal 85%) of Realized Tax Benefits on the Initial ESA Modification Payments, the Initial Deemed Exchange of LLC interests, and Positive Theatre Access Adjustments, to the three Founding Members (AMC, Cinemark, Regal) and their ESA-party affiliates. NCM LLC filed Chapter 11 in April 2023; in an unusual outcome for an obligor-side bankruptcy, NCMI affirmed and the Plan assumed the TRA as an executory contract under section 365 to preserve the Up-C structure. Concurrently, Regal waived and released all of its TRA rights via the Joint Venture Termination and Settlement Agreement effective July 14, 2023; the contract continues in force with AMC and Cinemark as the remaining beneficiaries. A new TRA contemplated for the post-emergence New NCM Common Unit holders (the former secured lenders) was never executed. See `contract_log.md` for the full filing-by-filing record.

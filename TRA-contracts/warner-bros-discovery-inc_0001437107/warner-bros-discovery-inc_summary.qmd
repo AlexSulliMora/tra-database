@@ -1,0 +1,36 @@
+---
+title: "Warner Bros. Discovery, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Warner Bros. Discovery, Inc.", "Discovery, Inc.", "AT&T Inc."]
+CIKs: ["0001437107", "0001437107", "0000732717"]
+status: Ongoing
+creation-date: 2021-05-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  TRA is a contingent-fallback Tax Receivable Annex embedded inside the May 17, 2021 Tax Matters Agreement with AT&T, not a standalone document. Dormant: payments trigger only if Covered Attributes (failure-of-Intended-Tax-Treatment or specified Internal Restructuring step-ups) exceed a $700M Threshold Amount; 15-year horizon from April 8, 2022 close.
+---
+
+## TRA Timeline
+
+#### AT&T spin-merge and Tax Matters Agreement execution
+
+- 2021-05-17: Tax Matters Agreement executed by AT&T (Remainco), Magallanes / WarnerMedia Holdings (Spinco), and Discovery, Inc. (RMT Partner) for the WarnerMedia spin-and-Reverse-Morris-Trust; Tax Receivable Annex embedded as Annex A at 85% of Realized Covered Tax Benefits with $700M Threshold Amount and 15-year horizon (8-K Exhibit 10.7)
+
+#### Closing and operational amendment
+
+- 2022-04-08: Spin-merge closes; Discovery becomes Warner Bros. Discovery, Inc.; concurrent Letter Agreement amends the Annex to add the NQPS Basis Step-Up trigger rules (three branches for combining or isolating NQPS against Other Covered Attributes relative to the $700M Threshold); TMA remains in full force and effect (filed as Exhibit 10.61 to FY2022 10-K)
+
+#### 2026 Netflix / Discovery Global split (TRA preserved)
+
+- 2026-01-19: WBD announces transaction to spin off Discovery Global Media (Cable Networks) and merge the Streaming & Studios Business into Netflix; the 2026 form TMA defines the AT&T TRA as the "Existing TMA" and adds Schedule B coordination provisions but does not modify or terminate it
+
+## Explanation
+
+Warner Bros. Discovery, Inc. (formerly Discovery, Inc.) became the TRA payor under a Tax Receivable Annex embedded in the May 17, 2021 Tax Matters Agreement executed with AT&T (as Remainco) and Magallanes / WarnerMedia Holdings (as Spinco) for the WarnerMedia spin-and-Reverse-Morris-Trust that closed April 8, 2022 and created WBD. The TRA is structurally a contingent-fallback contract: WBD owes AT&T 85% of Realized Covered Tax Benefits but only if Covered Attributes (basis step-ups arising from failure-of-Intended-Tax-Treatment scenarios or from specified Internal Restructuring transactions) exceed a $700 million Threshold Amount; the contract runs 15 years from the April 8, 2022 closing. A concurrent April 8, 2022 Letter Agreement amended the Annex to add specific trigger rules for the NQPS Basis Step-Up (an Internal Restructuring Step A12 step-up on WM Columbus Holdings NQPS), with three branches for combining or isolating NQPS against Other Covered Attributes relative to the Threshold. No filing through FY2025 discloses a Tax Receivable Payment to AT&T or a Covered Attribute event exceeding the Threshold; the TRA is live but dormant. The 2026 Netflix / Discovery Global split preserves the AT&T-Discovery TRA under the "Existing TMA" definition without modification. See `contract_log.md` for the Annex A text, the Letter Agreement provisions, and the 2026-split open question on Intended-Tax-Treatment triggering.

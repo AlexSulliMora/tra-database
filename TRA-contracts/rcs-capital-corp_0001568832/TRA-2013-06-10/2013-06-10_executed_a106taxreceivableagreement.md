@@ -1,0 +1,357 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+ Exhibit 10.6
+
+# TAX RECEIVABLE AGREEMENT
+
+RCS CAPITAL CORPORATION, · RCAP HOLDINGS, LLC · REALTY CAPITAL SECURITIES, LLC, · RCS ADVISORY SERVICES, LLC · AMERICAN NATIONAL STOCK TRANSFER, LLC · Dated as of June 10, 2013.
+
+## TAX RECEIVABLE AGREEMENT {#tax-receivable-agreement}
+
+This TAX RECEIVABLE AGREEMENT dated as of June 10, 2013 (as amended from time to time, this "**Agreement**"), is entered into among RCS Capital Corporation, a Delaware corporation (the "**Corporation**"), RCAP Holdings, LLC, a Delaware limited liability company ("**RCAP Holdings**"), Realty Capital Securities, LLC, a Delaware limited liability company, RCS Advisory Services, LLC, a Delaware limited liability company, and American National Stock Transfer, LLC, a Delaware limited liability company.
+
+## RECITALS
+
+WHEREAS, RCAP Holdings holds Operating Subsidiaries Group Units in each of the Operating Subsidiaries, each of which is treated as a partnership for U.S. federal income tax purposes;
+
+WHEREAS, as a result of any exchange of Operating Subsidiaries Group Units for Class A Shares of the Corporation in the future pursuant to and in accordance with the Exchange Agreement (as such terms are defined below) (an "**Exchange**", and each such date an Exchange occurs, an "**Exchange Date**"), with concurrent cancellation of an equal number of Class B Shares of the Corporation, the Corporation is expected to incur lower Tax (as defined below) liabilities on an ongoing basis with respect to the operations of the Operating Subsidiaries;
+
+WHEREAS, the Operating Subsidiaries and any of their direct and indirect subsidiaries that are treated as partnerships for U.S. federal income tax purposes have or will have in effect an election under Section 754 of the Internal Revenue Code of 1986, as amended (the "**Code**"), for each Taxable Year (as defined below) in which an Exchange occurs, which election is expected to result in an adjustment to the Tax basis of the assets owned by the Operating Subsidiaries and such subsidiaries, solely with respect to the Corporation; and
+
+WHEREAS, the parties to this Agreement desire to make certain arrangements to share any tax benefits realized by the Corporation as a result of any Exchange.
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein and for other good and valuable consideration, the receipt and sufficiency of which hereby are acknowledged, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+ARTICLE 1\
+Definitions
+
+### Section 1.01: Definitions {#section-1-01}
+
+As used in this Agreement, the terms set forth in this Article 1 shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined):
+
+"**Advisory Firm**" means WeiserMazars, LLP, or any other accounting firm that is nationally recognized as being expert in Tax matters and that is appointed by the Board and is reasonably acceptable to the Principals.
+
+"**Advisory Firm Letter**" means a letter from the Advisory Firm stating that the relevant schedule, notice or other information to be provided by the Corporation to the Applicable Principal and all supporting schedules and work papers were prepared by the Corporation in good faith.
+
+"**Affiliate**" means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls (as defined below), is Controlled by, or is under common Control with, such first Person.
+
+"**Agreed Rate**" means LIBOR plus 100 basis points.
+
+"**Agreement**" is defined in the preamble of this Agreement.
+
+"**Amended Schedule**" is defined in [Section 2.04(b)](#section-2-04).
+
+"**Applicable Principal**" means in respect of that portion of any Tax Benefit Payment that arises from an Exchange or a deemed Exchange pursuant to clause (v) of the definition of "**Valuation Assumptions**", the Exchanging Principal or Principal deemed to Exchange, as applicable.
+
+"**Basis Adjustment**" means the adjustment to the Tax basis of an Exchange Asset as a result of an Exchange and the payments made pursuant to this Agreement, as calculated under [Section 2.01](#section-2-01), under Section 732(b) of the Code (in a situation where, as a result of one or more Exchanges, an Operating Subsidiary becomes an entity that is disregarded as separate from its owner for Tax purposes) or Sections 743(b) and 754 of the Code (including in situations where, following an Exchange, an Operating Subsidiary remains in existence as an entity for Tax purposes) or otherwise, as applicable, and, in each case, comparable sections of state, local and foreign Tax laws. Notwithstanding any other provision of this Agreement, the amount of any Basis Adjustment resulting from an Exchange of one or more Operating Subsidiaries Group Units shall be determined without regard to any Pre-Exchange Transfer of such Operating Subsidiaries Group Units and as if any such Pre-Exchange Transfer had not occurred.
+
+A "**Beneficial Owner**" of a security means a Person who directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security, and/or (ii) investment power, which includes the power to dispose of, or to direct the disposition of, such security. The terms "**Beneficially Own**" and "**Beneficial Ownership**" shall have correlative meanings.
+
+"**Board**" means the board of directors of the Corporation.
+
+"**Business Day**" means Monday through Friday of each week, except that a legal holiday recognized as such by the government of the United States of America or the State of New York shall not be regarded as a Business Day.
+
+"**Change of Control**" means the occurrence of any of the following events:
+
+(i)          any "person" or "group" (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act, as in effect on the date the IPO is consummated) other than RCAP Holdings and its Affiliates:
+
+(A)         is or becomes the "beneficial owner" (as defined in Rules 13d-3 and 13d-5 under the Exchange Act, as in effect on the date the IPO is consummated), directly or indirectly, of 50% or more of the voting stock of the Corporation or, in the context of a consolidation, merger or other corporate reorganization in which the Corporation is not the surviving entity, 50% or more of the voting stock generally entitled to elect directors of such surviving entity (or in the case of a triangular merger, of the parent entity of such surviving entity), calculated on a fully diluted basis; or
+
+(B)         has obtained the power (whether or not exercised) to elect a majority of the Board or the board of directors (or equivalent governing body) of any of the Corporation' successors;
+
+(ii)         the Board or the board of directors (or equivalent governing body) of any successor of the Corporation shall cease to consist of a majority of Continuing Directors;
+
+(iii)        the sale, assignment, conveyance, transfer, lease or other disposition (directly or indirectly, whether by way of merger, asset sale, equity sale, consolidation or otherwise), in one or a series of related transactions, of 50% or more of the value of the Operating Subsidiaries taken as a whole to any "person" or "group" (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act, as in effect on the date the IPO is consummated) other than (i) to the Corporation, any Controlled Affiliate of the Corporation, RCAP Holdings or any Affiliate of RCAP Holdings, or (ii) pursuant to the Reorganization. As used herein, the term "**Reorganization**" shall mean a transaction or series of related transactions pursuant to which an entity (the ownership interests of which are held by the same Persons and in the same relative proportions as the ownership interests of the Operating Subsidiaries immediately prior to the transaction(s)) is interposed as the direct owner of all ownership interests of the Operating Subsidiaries.
+
+"**Class A Shares**" means shares of Class A common stock, par value $0.001 per share, of the Corporation.
+
+"**Class B Shares**" means shares of Class B common stock, par value $0.001 per share, of the Corporation.
+
+"**Code**" is defined in the Recitals of this Agreement.
+
+"**Continuing Directors**" means the directors of the Corporation on the date of the pricing of the IPO and each other director of the Corporation if such director's election or nomination for election to the Corporation's board of directors is approved by a majority of the then Continuing Directors.
+
+"**Control**" means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+"**Corporation**" is defined in the Preamble of this Agreement.
+
+"**Corporation Return**" means the U.S. federal, state, local and/or foreign Tax Return, as applicable, of the Corporation filed with respect to Taxes for any Taxable Year.
+
+"**Cumulative Net Realized Tax Benefit**" for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the Corporation, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same period. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedule or Amended Schedule, if any, in existence at the time of such determination.
+
+"**Default Rate**" means LIBOR plus 300 basis points.
+
+"**Determination**" shall have the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of state, local and foreign Tax law, as applicable, or any other event (including the execution of a Form 870−AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+"**Dispute**" is defined in Section 7.08(a).
+
+"**Early Termination Date**" means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+"**Early Termination Notice**" is defined in [Section 4.02](#section-4-02).
+
+"**Early Termination Schedule**" is defined in [Section 4.02](#section-4-02).
+
+"**Early Termination Payment**" is defined in [Section 4.03(b)](#section-4-03).
+
+"**Early Termination Rate**" means the long-term Treasury rate in effect on the applicable date.
+
+"**Exchange**" is defined in the Recitals of this Agreement; "**Exchanged**" and "**Exchanging**" shall have correlative meanings.
+
+"**Exchange Act**" means the Securities Exchange Act of 1934, as amended.
+
+"**Exchange Agreement**" means the Exchange Agreement dated as of June 10, 2013, between the Corporation and RCAP Holdings, as the same may be amended from time to time in accordance with the terms thereof.
+
+"**Exchange Assets**" means assets held by any of the Operating Subsidiaries, or by any of their respective direct or indirect subsidiaries that is treated as a partnership or disregarded entity for purposes of the applicable Tax, at the time of an Exchange.
+
+"**Exchange Basis Schedule**" is defined in [Section 2.02](#section-2-02).
+
+"**Exchange Date**" is defined in the Recitals of this Agreement.
+
+"**Exchange Payment**" is defined in [Section 5.01](#section-5-01).
+
+"**Expert**" is defined in Section 7.09.
+
+"**Hypothetical Tax Liability**" means, with respect to any Taxable Year, the liability for Taxes of the Corporation (or the Operating Subsidiaries, but only with respect to income realized by the Operating Subsidiaries the Tax liability for which is allocable to the Corporation for such Taxable Year using the same methods, elections, conventions and similar practices used on the relevant Corporation Return) but using the Non-Stepped Up Tax Basis instead of the Tax basis reflecting the Basis Adjustments of the Exchange Assets and excluding any deduction attributable to Imputed Interest.
+
+"**Imputed Interest**" shall mean any interest imputed under Section 1272, 1274 or 483 or other provision of the Code and any similar provision of state, local and foreign Tax law with respect to the Corporation's payment obligations under this Agreement.
+
+"**Initiating Party**" is defined in Section 7.08(a).
+
+"**IPO**" means the initial public offering of the Class A Shares that is being consummated on the date hereof.
+
+"**IRS**" means the U.S. Internal Revenue Service.
+
+"**LIBOR**" means for each month (or portion thereof) during any period, an interest rate per annum equal to the rate per annum reported, on the date two days prior to the first day of such month, as published by Reuters (or other commercially available source providing quotations of LIBOR) for London interbank offered rates for U.S. dollar deposits for such month (or portion thereof).
+
+"**LLC Agreements**" means, collectively, (a) the Second Amended and Restated Limited Liability Company Agreement of Realty Capital Securities, LLC dated as of June 10, 2013; (b) the Amended and Restated Limited Liability Company Agreement of RCS Advisory Services, LLC dated as of June 10, 2013; and (c) the Amended and Restated Limited Liability Company Agreement of American National Stock Transfer, LLC dated as of June 10, 2013, as they may each be amended from time to time in accordance with the terms thereof.
+
+"**Market Value**" means, with respect to the Class A Shares, on any given date: (i) if the Class A Shares are listed for trading on the New York Stock Exchange, the closing sale price per share of the Class A Shares on the New York Stock Exchange on that date (or, if no closing sale price is reported, the last reported sale price), (ii) if the Class A Shares are not listed for trading on the New York Stock Exchange, the closing sale price (or, if no closing sale price is reported, the last reported sale price) as reported on that date in composite transactions for the principal national securities exchange registered pursuant to Section 6(g) of the Exchange Act, on which the Class A Shares are listed, (iii) if the Class A Shares are not so listed on a national securities exchange, the last quoted bid price for the Class A Shares on that date in the over-the-counter market as reported by OTC Markets Group, Inc. or a similar organization, or (iv) if the Class A Shares are not so quoted by OTC Markets Group, Inc. or a similar organization such value as the Board, in its sole discretion, shall determine in good faith.
+
+"**Material Objection Notice**" has the meaning set forth in [Section 4.02](#section-4-02).
+
+"**Non-Stepped Up Tax Basis**" means, with respect to any asset at any time, the Tax basis that such asset would have had at such time if no Basis Adjustment had been made.
+
+"**Notice**" is defined in [Section 7.01](#section-7-01).
+
+"**Objection Notice**" is defined in [Section 2.04(a)](#section-2-04).
+
+"**Operating Subsidiaries**" means (i) Realty Capital Securities, LLC, (ii) RCS Advisory Services, LLC, and (iii) American National Stock Transfer, LLC, each a Delaware limited liability company.
+
+"**Operating Subsidiaries Group Unit**" has the meaning set forth in the Exchange Agreement.
+
+"**Panel**" is defined in Section 7.08(a).
+
+"**Payment Date**" means any date on which a payment is required to be made pursuant to this Agreement.
+
+"**Permitted Transferee**" shall mean any of the Permitted Transferees (as defined in the LLC Agreements).
+
+"**Person**" means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity or other entity.
+
+"**Pre-Exchange Transfer**" means any transfer (including upon the death of a member) of one or more Operating Subsidiaries Group Units (i) that occurs prior to an Exchange of such Operating Subsidiaries Group Units, and (ii) to which Section 743(b) of the Code applies.
+
+"**Principal**" means each of RCAP Holdings and any other Person that becomes a Principal pursuant to Section 7.06.
+
+"**Realized Tax Benefit**" means, for a Taxable Year and for all Taxes collectively, the net excess, if any, of the Hypothetical Tax Liability over the actual liability for Taxes of the Corporation (or the Operating Subsidiaries, but only with respect to income realized by the Operating Subsidiaries the Tax liability for which is allocable to the Corporation for such Taxable Year using the same methods, elections, conventions and similar practices used on the relevant Corporation Return), determined, for the avoidance of doubt, using the "with or without" methodology. If all or a portion of the actual liability for Taxes of the Corporation (or the Operating Subsidiaries, but only with respect to income realized by the Operating Subsidiaries the Tax liability for which is allocable to the Corporation for such Taxable Year using the same methods, elections, conventions and similar practices used on the relevant Corporation Return) for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+"**Realized Tax Detriment**" means, for a Taxable Year and for all Taxes collectively, the net excess, if any, of the actual liability for Taxes of the Corporation (or the Operating Subsidiaries, but only with respect to income realized by the Operating Subsidiaries the Tax liability for which is allocable to the Corporation for such Taxable Year using the same methods, elections, conventions and similar practices used on the relevant Corporation Return) over the Hypothetical Tax Liability for such Taxable Year determined, for the avoidance of doubt, using the "with or without" methodology. If all or a portion of the actual liability for Taxes of the Corporation (or the Operating Subsidiaries, but only with respect to income realized by the Operating Subsidiaries the Tax liability for which is allocable to the Corporation for such Taxable Year using the same methods, elections, conventions and similar practices used on the relevant Corporation Return) for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+"**Reconciliation Dispute**" has the meaning set forth in Section 7.09.
+
+"**Reconciliation Procedures**" means those procedures set forth in Section 7.09.
+
+"**Responding Party**" is defined in Section 7.08(a).
+
+"**Schedule**" means any Exchange Basis Schedule or Tax Benefit Schedule and the Early Termination Schedule.
+
+"**Senior Obligations**" is defined in [Section 5.01](#section-5-01).
+
+"**Subsidiaries**" means, with respect to any Person, as of any date of determination, any other Person as to which such Person, owns, directly or indirectly, or otherwise controls more than 50% of the voting shares or other similar interests or the sole general partner interest or managing member or similar interest of such Person.
+
+"**Tax**" means any and all U.S. federal, state, local and foreign tax, assessments or similar charges that are based on or measured with respect to net income or profits, whether as an exclusive or on an alternative basis, and any interest related to such tax.
+
+"**Tax Benefit Payment**" is defined in [Section 3.01(b)](#section-3-01).
+
+"**Tax Benefit Schedule**" is defined in [Section 2.03](#section-2-03).
+
+"**Tax Return**" means any return, declaration, report or similar statement required to be filed with respect to Taxes (including any attached schedules), including any information return, claim for refund, amended return and declaration of estimated Tax.
+
+"**Taxable Year**" means a Taxable year of the Corporation as defined in Section 441(b) of the Code or comparable section of state, local or foreign Tax law, as applicable (and, therefore, for the avoidance of doubt, may include a period of less than 12 months for which a Tax Return is prepared), in which there is a Basis Adjustment or increased depreciation, amortization or interest deductions attributable to an Exchange.
+
+"**Taxing Authority**" means any domestic, foreign, federal, national, state, county or municipal or other local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body exercising any Taxing authority or any other authority exercising Tax regulatory authority.
+
+"**Treasury Regulations**" means the final, temporary and proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant Taxable period.
+
+"**Valuation Assumptions**" means, as of an Early Termination Date, or following a Change of Control, as applicable, the assumptions that: (i) in each Taxable Year ending on or after such Early Termination Date, the Corporation will have sufficient Taxable income to fully offset the deductions in such Taxable Year attributable to any Basis Adjustment, increased depreciation or amortization deductions attributable to an Exchange, and Imputed Interest; (ii) the U.S. federal income Tax rates and state, local and foreign income Tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date; (iii) any loss carryovers generated by any Basis Adjustment or Imputed Interest and available as of the date of the Early Termination Schedule will be used by the Corporation on a pro rata basis from the date of the Early Termination Schedule through the scheduled expiration date of such loss carryovers; (iv) any non-amortizable assets will be disposed of on the fifteenth anniversary of the Early Termination Date; *provided*, *however*, that, in the event of a Change of Control, non-amortizable assets shall be deemed disposed of at the earlier of (A) the time of sale of the relevant asset and (B) as generally provided in clause (iv) of this definition of Valuation Assumptions; and (v) if, at the Early Termination Date, there are Operating Subsidiaries Group Units that have not been Exchanged, then each such Operating Subsidiaries Group Unit shall be deemed to be Exchanged for the Market Value of the Class A Shares and the amount of cash that would be transferred if the Exchange occurred on the Early Termination Date.
+
+### Section 1.02: Other Definitional and Interpretative Provisions {#section-1-02}
+
+The words "**hereof**", "**herein**" and "**hereunder**" and words of like import used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. References to Articles, Sections, Exhibits and Schedules are to Articles, Sections, Exhibits and Schedules of this Agreement unless otherwise specified. All Exhibits and Schedules annexed hereto or referred to herein are hereby incorporated in and made a part of this Agreement as if set forth in full herein. Any capitalized terms used in any Exhibit or Schedule but not otherwise defined therein, shall have the meaning as defined in this Agreement. Any singular term in this Agreement shall be deemed to include the plural, and any plural term the singular. Whenever the words "**include**", "**includes**" or "**including**" are used in this Agreement, they shall be deemed to be followed by the words "**without limitation**", whether or not they are in fact followed by those words or words of like import. "**Writing**", "**written**" and comparable terms refer to printing, typing and other means of reproducing words (including electronic media) in a visible form. References to any agreement or contract are to that agreement or contract as amended, modified or supplemented from time to time in accordance with the terms thereof. References to any Person include the successors and permitted assigns of that Person. References from or through any date mean, unless otherwise specified, from and including or through and including, respectively.
+
+ARTICLE 2\
+Determination of Cumulative Realized Tax Benefit
+
+### Section 2.01: Basis Adjustment {#section-2-01}
+
+(a)          Exchange Assets. For purposes of this Agreement, as a result of an Exchange, the Operating Subsidiaries (and any direct and indirect subsidiary of the Operating Subsidiaries that is treated as a partnership for U.S. federal income tax purposes) shall be entitled to a Basis Adjustment for each Exchange Asset with respect to the Corporation, the amount of which Basis Adjustment will be the excess, if any, of: (i) the sum of (A) the Market Value of the Class A Shares, cash or the amount of any other consideration transferred to the Applicable Principal pursuant to the Exchange as payment for the Exchanged Operating Subsidiaries Group Units, to the extent attributable to such Exchange Assets, plus (B) the amount of payments made pursuant to this Agreement with respect to such Exchange, to the extent attributable to such Exchange Assets, plus (C) the amount of debt and other liabilities allocated to the Operating Subsidiaries Group Units acquired pursuant to such Exchange, to the extent attributable to such Exchange Assets; over (ii) the Corporation's share of the Operating Subsidiaries' (or such subsidiary partnership's) basis for such Exchange Assets immediately after the Exchange, attributable to the Operating Subsidiaries Group Units exchanged, determined as if (A) the Operating Subsidiaries (or such subsidiary partnership) were to remain in existence as an entity for Tax purposes, and (B) the Operating Subsidiaries (or such subsidiary partnership) had not made the election provided by Section 754 of the Code.
+
+(b)          Imputed Interest. For the avoidance of doubt, payments made under this Agreement shall not be treated as resulting in a Basis Adjustment to the extent such payments are treated as Imputed Interest.
+
+### Section 2.02: Exchange Basis Schedule {#section-2-02}
+
+Within 45 calendar days after the filing of the U.S. federal income Tax return of the Corporation for each Taxable Year, the Corporation shall deliver to each Principal a schedule (the "**Exchange Basis Schedule**") that shows, in reasonable detail, for purposes of federal income Taxes, (a) the actual unadjusted Tax basis of the Exchange Assets as of each applicable Exchange Date, (b) the Basis Adjustment with respect to the Exchange Assets as a result of the Exchanges effected in such Taxable Year, calculated in the aggregate, (c) the period or periods, if any, over which the Exchange Assets are amortizable and/or depreciable, and (d) the period or periods, if any, over which each Basis Adjustment is amortizable and/or depreciable (which, for non-amortizable assets, shall be based on the Valuation Assumptions). The parties expect that all or substantially all of the Basis Adjustment with respect to the Exchange Assets will relate to good will and/or going concern value, which adjustment will be amortized over 15 years for U.S. federal income tax purposes.
+
+### Section 2.03: Tax Benefit Schedule {#section-2-03}
+
+Within 45 calendar days after the filing of the U.S. federal income Tax return of the Corporation for any Taxable Year in which there is a Realized Tax Benefit or Realized Tax Detriment, the Corporation shall provide to each Principal a schedule showing, in reasonable detail, the calculation of the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year (a "**Tax Benefit Schedule**"). The Tax Benefit Schedule will become final as provided in [Section 2.04(a)](#section-2-04) and may be amended as provided in [Section 2.04(b)](#section-2-04) (subject to the procedures set forth in [Section 2.04(b)](#section-2-04)). Notwithstanding any other provision of this Agreement, the Corporation may seek, at its own expense, an opinion from a nationally recognized law firm regarding whether any Basis Adjustment with respect to Exchange Assets will result in any amortization or depreciation being available to the Corporation, and the Corporation shall be permitted to rely on such opinion in creating any Tax Benefit Schedule.
+
+### Section 2.04: Procedures, Amendments {#section-2-04}
+
+(a)          Procedure. Every time the Corporation delivers to the Applicable Principal an applicable Schedule under this Agreement, including any Amended Schedule delivered pursuant to [Section 2.04(b)](#section-2-04), but excluding any Early Termination Schedule or amended Early Termination Schedule, the Corporation shall also (i) deliver to the Applicable Principal schedules and work papers providing reasonable detail regarding the preparation of such Schedule and an Advisory Firm Letter supporting such Schedule and (ii) allow the Applicable Principal reasonable access, at no cost to the Applicable Principal, to the appropriate representatives at the Corporation and the Advisory Firm in connection with a review of such Schedule. The applicable Schedule shall become final and binding on all parties unless the Applicable Principal, within 30 calendar days after receiving an Exchange Basis Schedule or amendment thereto or a Tax Benefit Schedule or amendment thereto, provides the Corporation with notice of a material objection to such Schedule ("**Objection Notice**") made in good faith. If the parties, for any reason, are unable to successfully resolve the issues raised in such notice within 30 calendar days of receipt by the Corporation of an Objection Notice with respect to such Exchange Basis Schedule or Tax Benefit Schedule, the Corporation and the Applicable Principal shall employ the reconciliation procedures as described in Section 7.09 (the "**Reconciliation Procedures**").
+
+(b)          Amended Schedule. The applicable Schedule for any Taxable Year may be amended from time to time by the Corporation (i) in connection with a Determination affecting such Schedule, (ii) to correct material inaccuracies in the Schedule identified as a result of the receipt of additional factual information relating to a Taxable Year after the date the Schedule was provided to the Applicable Principal, (iii) to comply with the Expert's determination under the Reconciliation Procedures, (iv) to reflect a material change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to a carryback or carryforward of a loss or other Tax item to such Taxable Year, (v) to reflect a material change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to an amended Tax Return filed for such Taxable Year, or (vi) to adjust the Exchange Basis Schedule to take into account payments made pursuant to this Agreement (such Schedule, an "**Amended Schedule**").
+
+ARTICLE 3\
+Tax Benefit Payments
+
+### Section 3.01: Payments {#section-3-01}
+
+(a)          Within ten business days of a Tax Benefit Schedule that was delivered to an Applicable Principal becoming final in accordance with [Section 2.04(a)](#section-2-04), the Corporation shall pay to the Applicable Principal for such Taxable Year the Tax Benefit Payment determined pursuant to [Section 3.01(b)](#section-3-01). Each such Tax Benefit Payment shall be made by wire transfer of immediately available funds to a bank account of the Applicable Principal previously designated by such Applicable Principal to the Corporation. For the avoidance of doubt, no Tax Benefit Payment shall be made in respect of estimated Tax payments, including U.S. federal income Tax payments.
+
+(b)          A "**Tax Benefit Payment**" means an amount, not less than zero, equal to 85% of the sum of the Net Tax Benefit and the Interest Amount. The "**Net Tax Benefit**" for each Taxable Year shall be an amount equal to the excess, if any, of the Cumulative Net Realized Tax Benefit as of the end of such Taxable Year over the total amount of payments previously made under this [Section 3.01](#section-3-01), excluding payments attributable to the Interest Amount; *provided*, *however*, that for the avoidance of doubt, no Principal shall be required to return any portion of any previously received Tax Benefit Payment under any circumstances. The "**Interest Amount**" for a given Taxable Year shall equal the interest on the Net Tax Benefit for such Taxable Year calculated at the Agreed Rate from the due date (without regard to extensions) for filing the Corporation Return with respect to Taxes for the most recently ended Taxable Year until the Payment Date. The Net Tax Benefit and the Interest Amount shall be determined separately with respect to each separate Exchange. Notwithstanding the foregoing, for each Taxable Year ending on or after the date of a Change of Control, all Tax Benefit Payments, whether paid with respect to Operating Subsidiaries Group Units that were Exchanged (i) prior to the date of such Change of Control, or (ii) on or after the date of such Change of Control, shall be calculated by utilizing the assumptions in clauses (i), (iii) and (iv) of the definition of Valuation Assumptions, substituting in each case the term "the closing date of a Change of Control" for an "Early Termination Date".
+
+### Section 3.02: No Duplicative Payments {#section-3-02}
+
+It is intended that the provisions of this Agreement will not result in duplicative payment of any amount (including interest) required under this Agreement. It is also intended that the provisions of this Agreement will result in 85% of the Corporation's Cumulative Net Realized Tax Benefit, and the Interest Amount thereon, being paid to the Principals pursuant to this Agreement. The provisions of this Agreement shall be construed in the appropriate manner to achieve these fundamental results.
+
+### Section 3.03: Pro Rata Payments {#section-3-03}
+
+For the avoidance of doubt, to the extent that (i) the Corporation's deductions with respect to any Basis Adjustment are limited in a particular Taxable Year or (ii) the Corporation lacks sufficient funds to satisfy or is prevented under any credit agreement or other arrangement from satisfying its obligations to make all Tax Benefit Payments due in a particular Taxable Year, the limitation on the deduction, or the Tax Benefit Payments that may be made, as the case may be, shall be taken into account or made for the Applicable Principal in the same proportion as Tax Benefit Payments would have been made absent the limitations in clauses (i) and (ii) of this [Section 3.03](#section-3-03), as applicable.
+
+ARTICLE 4\
+Termination
+
+### Section 4.01: Early Termination and Breach of Agreement {#section-4-01}
+
+(a)          The Corporation may terminate this Agreement with respect to all of the Operating Subsidiaries Group Units held (or previously held and Exchanged) by all Principals at any time by paying to the Principals the Early Termination Payment; *provided*, *however*, that this Agreement shall terminate only upon the receipt of the Early Termination Payment by all Principals, and *provided*, *further*, that the Corporation may withdraw any notice to execute its termination rights under this [Section 4.01(a)](#section-4-01) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payments by the Corporation, neither the Principals nor the Corporation shall have any further payment obligations under this Agreement, other than for any (i) Tax Benefit Payment agreed by the Corporation acting in good faith and the Applicable Principal to be due and payable but unpaid as of the Early Termination Notice and (ii) Tax Benefit Payment due for the Taxable Year ending with or including the date of the Early Termination Notice (except to the extent that the amount described in clause (ii) is included in the Early Termination Payment). For the avoidance of doubt, if an Exchange occurs after the Corporation makes the Early Termination Payments with respect to all Principals, the Corporation shall have no obligations under this Agreement with respect to such Exchange, and its only obligations under this Agreement in such case shall be its obligations to all Principals under [Section 4.03(a)](#section-4-03).
+
+(b)          If the Corporation breaches any of its material obligations under this Agreement, whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under the Bankruptcy Code, Title 11, U.S.C., or otherwise, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but shall not be limited to, (i) the Early Termination Payment calculated as if an Early Termination Notice had been delivered on the date of a breach, (ii) any Tax Benefit Payment agreed by the Corporation acting in good faith and any Applicable Principal to be due and payable but unpaid as of the date of a breach, and (iii) any Tax Benefit Payment due for the Taxable Year ending with or including the date of a breach. Notwithstanding the foregoing, if the Corporation breaches this Agreement, the Principals shall be entitled to elect to receive the amounts set forth in clauses (i), (ii) and (iii) above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within three months of the date such payment is due shall be deemed to be a breach of a material obligation under this Agreement for all purposes of this Agreement, and that it shall not be considered to be a breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within three months of the date such payment is due.
+
+(c)          The Corporation, each of the Operating Subsidiaries and each of the Principals hereby acknowledge that, as of the date of this Agreement, the aggregate value of the Tax Benefit Payments cannot reasonably be ascertained for U.S. federal income Tax or other applicable Tax purposes.
+
+### Section 4.02: Early Termination Notice {#section-4-02}
+
+If the Corporation chooses to exercise its right of early termination under [Section 4.01](#section-4-01), the Corporation shall deliver to each present or former Principal a notice of such intention to exercise such right ("**Early Termination Notice**") and a schedule (the "**Early Termination Schedule**") specifying the Corporation's intention to exercise such right and showing in reasonable detail the calculation of the Early Termination Payment. The Early Termination Schedule shall become final and binding on all parties unless an Applicable Principal, within 30 calendar days after receiving the Early Termination Schedule, provides the Corporation with notice of a material objection to such Schedule made in good faith ("**Material Objection Notice**"). If the parties, for any reason, are unable to successfully resolve the issues raised in such notice within 30 calendar days after receipt by the Corporation of the Material Objection Notice, the Corporation and the relevant Principal shall employ the Reconciliation Procedures as described in Section 7.09 of this Agreement.
+
+### Section 4.03: Payment upon Early Termination {#section-4-03}
+
+(a)          Within ten Business Days after the Early Termination Schedule has become final and binding, the Corporation shall pay to each Applicable Principal an amount equal to the Early Termination Payment. Such payment shall be made by wire transfer of immediately available funds to a bank account designated by the Applicable Principal.
+
+(b)          The "**Early Termination Payment**" as of the date of the delivery of an Early Termination Schedule shall equal with respect to the Applicable Principal the present value, discounted at the Early Termination Rate as of such date, of all Tax Benefit Payments that would be required to be paid by the Corporation to the Applicable Principal beginning from the Early Termination Date and assuming that the Valuation Assumptions are applied.
+
+ARTICLE 5\
+Subordination and Late Payments
+
+### Section 5.01: Subordination {#section-5-01}
+
+Notwithstanding any other provision of this Agreement to the contrary, any Tax Benefit Payment or Early Termination Payment required to be made by the Corporation to the Principals under this Agreement (an "**Exchange Payment**") shall rank subordinate and junior in right of payment to any principal, interest or other amounts due and payable in respect of any obligations in respect of indebtedness for borrowed money of the Corporation and its Subsidiaries ("**Senior Obligations**") and shall rank *pari passu* with all current or future unsecured obligations of the Corporation that are not Senior Obligations.
+
+### Section 5.02: Late Payments by the Corporation {#section-5-02}
+
+The amount of all or any portion of any Exchange Payment not made to any Principal when due (without regard to [Section 5.01](#section-5-01)) under the terms of this Agreement shall be payable together with any interest thereon, computed at the Default Rate and commencing from the date on which such Exchange Payment was due and payable.
+
+ARTICLE 6\
+No Disputes; Consistency; Cooperation
+
+### Section 6.01: Principal Participation in the Corporation and the Operating Subsidiaries's Tax Matters {#section-6-01}
+
+Except as otherwise provided herein, the Corporation shall have full responsibility for, and sole discretion over, all Tax matters concerning the Corporation and the Operating Subsidiaries, including the preparation, filing or amending of any Tax Return and defending, contesting or settling any issue pertaining to Taxes. Notwithstanding the foregoing, the Corporation shall notify each relevant Principal of, and keep such Principal reasonably informed with respect to the portion of any audit of the Corporation and the Operating Subsidiaries by a Taxing Authority the outcome of which is reasonably expected to affect such Principal's rights and obligations under this Agreement, and shall provide to such Principal reasonable opportunity to provide information and other input to the Corporation, the Operating Subsidiaries and their respective advisors concerning the conduct of any such portion of such audit; *provided*, *however*, that the Corporation and the Operating Subsidiaries shall not be required to take any action that is inconsistent with any provision of the LLC Agreements.
+
+### Section 6.02: Consistency {#section-6-02}
+
+Except upon the written advice of an Advisory Firm or unless there is a Determination to the contrary, the Corporation and the Applicable Principal agree to report and cause to be reported for all purposes, including U.S. federal, state, local and foreign Tax purposes and financial reporting purposes, all Tax-related items (including the Basis Adjustment and each Tax Benefit Payment) in a manner consistent with that specified by the Corporation in any Schedule required to be provided by or on behalf of the Corporation under this Agreement. Any Dispute concerning such advice shall be subject to the terms of Section 7.09. If an Advisory Firm is replaced, such replacement Advisory Firm shall be required to perform its services under this Agreement using procedures and methodologies consistent with the previous Advisory Firm, unless (a) otherwise required by law or (b) the Corporation and the Applicable Principal agree to the use of other procedures and methodologies.
+
+### Section 6.03: Cooperation {#section-6-03}
+
+The Applicable Principal shall (a) furnish to the Corporation in a timely manner such information, documents and other materials as the Corporation may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending any audit, examination or controversy with any Taxing Authority, (b) make itself available to the Corporation and its representatives to provide explanations of documents and materials and such other information as the Corporation or its representatives may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter described in clause (a) above. The Corporation shall reimburse the Applicable Principal for any reasonable third-party costs and expenses incurred pursuant to this [Section 6.03](#section-6-03).
+
+ARTICLE 7\
+Miscellaneous
+
+### Section 7.01: Notices {#section-7-01}
+
+Any notice, request, claim, demand, approval, consent, waiver or other communication required or permitted to be given to any party in connection with this Agreement (each, a "**Notice**") shall be in writing and shall be (a) delivered in person, (b) sent by facsimile transmission (with the original thereof also contemporaneously given by another method specified in this [Section 7.01](#section-7-01)), (c) sent by a nationally-recognized overnight courier service, or (d) sent by certified or registered mail (postage prepaid, return receipt requested), at the following locations (or at such other location for a party as shall be specified to the other parties by like Notice). Any Notice shall only be duly given and effective upon receipt (or refusal of receipt).
+
+If to the Corporation, to:
+
+405 Park Ave., 15^th^ Floor\
+New York, NY 10022\
+Facsimile: (212) 415-6567\
+Attention: Legal Counsel
+
+with a copy to:
+
+Proskauer Rose LLP\
+Eleven Times Square\
+New York, New York 10036\
+Facsimile: (212) 969-2900
+
+  ----------------------- ----------------------- -----------------------
+                          Attention:              Peter M. Fass, Esq.\
+                                                  James P. Gerkis, Esq.
+
+  ----------------------- ----------------------- -----------------------
+
+if to any of the Operating Subsidiaries, to:
+
+405 Park Ave., 15^th^ Floor\
+New York, NY 10022\
+Facsimile: (212) 415-6567\
+Attention: Legal Counsel
+
+with a copy to:
+
+Proskauer Rose LLP\
+Eleven Times Square\
+New York, New York 10036\
+Facsimile: (212) 969-2900
+
+  ----------------------- ----------------------- -----------------------
+                          Attention:              Peter M. Fass, Esq.\
+                                                  James P. Gerkis, Esq.
+
+  ----------------------- ----------------------- -----------------------
+
+if to RCAP Holdings, to:
+
+405 Park Ave., 15^th^ Floor\
+New York, NY 10022\
+Facsimile: (212) 415-6567\
+Attention: Legal Counsel
+
+with a copy to:
+
+Proskauer Rose LLP\
+Eleven Times Square\
+New York, New York 10036\
+Facsimile: (212) 969-2900 Section 7.02.         *Counterparts.* This Agreement may be executed (including by facsimile transmission) with counterpart signature pages or in any number of counterparts, each of which shall be deemed to be an original and all of which shall, taken together, be deemed to be one and the same instrument.
+
+  ----------------------- ----------------------- -----------------------
+                          Attention:              Peter M. Fass, Esq.\
+                                                  James P. Gerkis, Esq.
+
+      \[PERMITTED TRANSFEREE\]
+
+      Name:  
+      Address:
+
+      Address for Notices:
+
+      \[                                       \]
+  --- ---------------------------------------------

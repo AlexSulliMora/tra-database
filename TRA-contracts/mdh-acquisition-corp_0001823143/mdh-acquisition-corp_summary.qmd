@@ -1,0 +1,32 @@
+---
+title: "MDH Acquisition Corp. TRA (never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["MDH Acquisition Corp."]
+CIKs: ["0001823143"]
+status: Terminated
+creation-date: 2021-07-21
+termination-date: 2022-04-01
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of only; TRA never executed. SPAC Business Combination Agreement
+  with Olive Ventures / OP Group / Paylink terminated April 1 2022
+  before close, so the contemplated TRA was never signed.
+---
+
+## TRA Timeline
+
+#### Contemplated SPAC business combination
+
+- 2021-07-21: 8-K announces Business Combination Agreement with Olive Ventures Holdings, OP Group Holdings LLC, Normandy Holdco LLC, and CF OMS LLC; form-of TRA attached as Exhibit 10.1, contemplated to be executed simultaneously with Closing
+- 2022-04-01: MDH and OP Group execute Termination of Business Combination Agreement
+- 2022-04-04: Joint press release announces the termination; the TRA was never signed
+
+## Explanation
+
+MDH Acquisition Corp. was a SPAC that filed a form-of Tax Receivable Agreement as Exhibit 10.1 to its July 21, 2021 Business Combination Agreement 8-K, contemplating an Up-C structure under which the post-combination PubCo (Olive Ventures Holdings, Inc.) would have paid CF OMS LLC and the Blocker Owner 85% of cash tax savings on Section 754 step-ups from the CF OMS Sale and from future exchanges of OP Group Common Units and Earnout Units, plus imputed interest and Blocker Pre-IPO Tax Assets. The form-of carries a blank preamble date and unsigned signature blocks and was contemplated to be entered into "Simultaneously with the Closing"; because MDH and OP Group mutually terminated the Business Combination Agreement on April 1, 2022 before any Closing occurred, the TRA was never executed. MDH continued as a shell SPAC through its Q3 2022 10-Q without further TRA references. The contract is recorded here as Terminated with creation-date and termination-date set to the BCA filing and termination dates respectively to flag the never-executed status while preserving the form-of record. See `contract_log.md` for the full filing-by-filing record.

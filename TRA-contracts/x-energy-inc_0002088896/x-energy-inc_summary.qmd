@@ -1,0 +1,34 @@
+---
+title: "X-Energy, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["X-Energy, Inc."]
+CIKs: ["0002088896"]
+status: Ongoing
+creation-date: 2026-04-27
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Origin date inferred from IPO close (2026-04-27); contract still in form-of
+  state in the directory. Post-IPO 8-K with the executed TRA falls outside the
+  current download window. Blocker Tax Attributes tagged as NOL because they
+  carry over pre-existing corporate tax attributes; Basis Adjustments tagged
+  as Basis Step-Up. The Existing Basis component is also Basis Step-Up.
+---
+
+## TRA Timeline
+
+#### Up-C IPO registration and TRA execution
+
+- 2026-04-03: Form-of TRA filed as Exhibit 10.13 to S-1/A (Blocker Companies still placeholders).
+- 2026-04-15: Revised form-of TRA filed as Exhibit 10.13 to S-1/A; Blocker Companies named, merger-tense recitals shift to "merged"; operative terms unchanged.
+- 2026-04-27?: IPO closes; TRA executed at close per the 424B4 prospectus. Origination date inferred from trigger event; not yet confirmed by post-IPO 8-K.
+
+## Explanation
+
+The X-Energy TRA was contemplated at the firm's April 2026 Up-C IPO and executed on or about the April 27, 2026 close. X-Energy, Inc. (PubCo) pays the pre-IPO holders of XERC Common Units (the Exchange TRA Parties) and the Blocker Shareholders (who received PubCo stock via Blocker Mergers) 85% of cash tax savings realized from four covered tax-attribute categories: Existing Basis carrying over to PubCo, Section 754 Basis Adjustments from future exchanges of XERC Common Units, Blocker Tax Attributes acquired in the Blocker Mergers, and Interest Deductions arising from TRA payments themselves. The contract includes standard Up-C TRA early-termination and change-of-control acceleration provisions. The executed TRA itself sits in a post-IPO 8-K outside this directory's current download window; status is Ongoing per the IPO close, with the origin date inferred and pending confirmation from the post-IPO filing. See `contract_log.md` for the form-of drafting history and the coverage gap note.

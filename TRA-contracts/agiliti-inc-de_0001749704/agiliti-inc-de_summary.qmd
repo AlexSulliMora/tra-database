@@ -1,0 +1,38 @@
+---
+title: "Agiliti Inc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Agiliti, Inc."]
+CIKs: ["0001749704"]
+status: Unknown
+creation-date: 2019-01-04
+termination-date:
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  THL take-private merger closed May 7, 2024; same controlling shareholder
+  before and after, so likely no Change of Control under Section 4.01. TRA's
+  post-close fate not verifiable; Agiliti deregistered.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2019-01-04: Federal Street Acquisition Corp. business combination closes; TRA executed as Exhibit 10.4 to closing 8-K
+
+#### Administrative amendment
+
+- 2023-06-07: Amendment No. 1 modifies Section 2.1(a) (Tax Benefit Schedule delivery deadline); 85% rate, attributes, and termination mechanics unchanged
+
+#### THL take-private and ambiguous status
+
+- 2024-05-07: THL/Apex take-private merger closes; no TRA termination instrument or Item 1.02 disclosure in the closing 8-K; Agiliti deregisters
+
+## Explanation
+
+Agiliti's TRA was executed on January 4, 2019 at the closing of the SPAC business combination with Federal Street Acquisition Corp., committing PubCo to pay 85% of the cash tax savings it realized from utilization of pre-combination NOLs of the UHS Group (the operating entity, formerly Universal Hospital Services). The contract was lightly amended on June 7, 2023 by Amendment No. 1, which only adjusted the deadline for delivering the Tax Benefit Schedule and left the rate, beneficiary set, and termination mechanics intact. Annual payments ran the obligation down from $39.9M at year-end 2021 to $4.9M at March 31, 2024 ($10.9M paid in Q1 2024 alone). The May 7, 2024 THL take-private merger closed without any TRA termination instrument or Item 1.02 disclosure, and because THL was the existing 72% majority holder the transaction may not have triggered Section 4.01 Change of Control; Agiliti deregistered, so the post-close fate of the residual TRA balance cannot be verified from EDGAR alone. See `contract_log.md` for the full filing-by-filing record and the payment-schedule trajectory.

@@ -1,0 +1,38 @@
+---
+title: "Forgent Power Solutions, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Forgent Power Solutions, Inc."]
+CIKs: ["0002080126"]
+status: Ongoing
+creation-date: 2026-02-04
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries are the Continuing Equity Owners (Forgent Parent I, II, III, IV LPs,
+  Neos Partners-affiliated). Covers Pre-IPO Tax Assets, Closing Date Blocker Attributes
+  (per F Reorganization), and basis step-ups from future exchanges. First post-IPO 10-Q
+  recognizes $207.286M TRA liability.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2026-01-09: Form-of TRA filed as Exhibit 10.2 to S-1
+- 2026-02-04: Up-C IPO closes at $27.00 per Class A share (56,000,000 shares); TRA executed
+- 2026-02-10: Executed TRA filed as Exhibit 10.2 to IPO 8-K
+
+#### First post-IPO TRA disclosures
+
+- 2026-03-16: Q2 FY26 10-Q (period ended 12/31/2025); discloses TRA in subsequent-events note (IPO closed after the balance-sheet date)
+- 2026-05-14: Q3 FY26 10-Q (period ended 3/31/2026); first balance sheet with TRA liability ($207.286M), recognized after concluding it is probable Forgent will generate sufficient future taxable income to use all related tax benefits
+
+## Explanation
+
+Forgent Power Solutions, Inc. went public on February 4, 2026 in an Up-C IPO and committed to pay the Continuing Equity Owners (Forgent Parent I, II, III, and IV LPs, all Neos Partners-affiliated vehicles) 85% of cash tax savings from Pre-IPO Tax Assets (Closing Date Blocker Attributes tracked through an F Reorganization that made Forgent Intermediate LLC a disregarded subsidiary), basis step-ups on future redemptions or exchanges of Opco LLC Interests, and imputed interest deductions on TRA payments. The first periodic filing after IPO close is the May 14, 2026 10-Q (Q3 FY26), which recognizes a $207.286M TRA liability after the Company concluded it is probable Forgent will generate sufficient future taxable income to use the related tax benefits. The TRA is in force with no amendments, restatements, or terminations on file; given the firm is approximately three months post-IPO, no 10-K has yet been filed. See `contract_log.md` for the full filing-by-filing record.

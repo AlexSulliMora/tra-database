@@ -1,0 +1,38 @@
+---
+title: "Foundation Building Materials, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Foundation Building Materials, Inc."]
+CIKs: ["0001688941"]
+status: Terminated
+creation-date: 2017-02-08
+termination-date: 2021-01-29
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Atypical 90% rate (most Up-C TRAs use 85%). Beneficiary is LSF9 Cypress Parent 2 LLC
+  (Lone Star vehicle). Terminated via standalone Tax Receivable Termination Agreement
+  with a negotiated buyout (the LITP Payout Calculation per redacted Annex A), in lieu
+  of the Section 4.01 ETP formula. Implied magnitude approximately $89.5M (discounted).
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2017-01-13: Form-of TRA filed as Exhibit 10.3 to S-1 (counterparty placeholder "[Lone Star]")
+- 2017-02-08: IPO closes; TRA executed
+
+#### ASP Flag (American Securities) take-private termination
+
+- 2020-11-13: LITP Payout Calculation spreadsheet (Annex A) finalized
+- 2020-11-14: Tax Receivable Termination Agreement signed concurrent with Merger Agreement; provides for a negotiated Termination Payment in lieu of Section 4.01 ETP formula, conditional on merger close
+- 2021-01-29: ASP Flag merger closes; TRA terminates upon payment of the negotiated Termination Payment
+
+## Explanation
+
+Foundation Building Materials, Inc. went public on February 8, 2017 and committed to pay LSF9 Cypress Parent 2 LLC (a Lone Star Funds vehicle) 90% of cash tax savings from Pre-IPO Tax Assets (pre-IPO NOLs and similar) and IPO-Related Tax Assets (IPO-related basis step-ups), an atypically high payout rate. On November 14, 2020, concurrent with signing the ASP Flag (American Securities) take-private merger agreement, the parties executed a standalone Tax Receivable Termination Agreement: the Section 4.01(d) Change-of-Control Early Termination Option Notice was waived and a negotiated Termination Payment computed from a redacted LITP Payout Calculation spreadsheet substituted for the contract's mechanical ETP formula, conditional on merger close. The merger closed on January 29, 2021, automatically terminating the TRA upon payment. The exact Termination Payment is not disclosed on EDGAR; the September 30, 2020 carrying value was $89.5M (discounted), which brackets the magnitude. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,36 @@
+---
+title: "Bakkt Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bakkt Holdings, Inc.", "VPC Impact Acquisition Holdings", "Intercontinental Exchange Holdings, Inc."]
+CIKs: ["0001820302", "", ""]
+status: Terminated
+creation-date: 2021-10-15
+termination-date: 2025-11-03
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated at Up-C Collapse via Amendment No. 1 (Oct 16, 2025) capping the
+  Majority TRA Parties' (ICE and Naheta) ETP at the Oct 16, 2025 value and
+  net-settling into Class A shares. Aggregate settlement $26.9M.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-09-17: DEFM14A previews the Form of Tax Receivable Agreement as Annex G
+- 2021-10-15: VPC Impact / Bakkt Opco business combination closes; executed TRA dated October 15, 2021 filed as Exhibit 10.5 to the 2021-10-21 8-K
+
+#### Up-C Collapse and termination
+
+- 2025-10-16: Amendment No. 1 signed, conditional on Up-C Collapse; resets Early Termination Rate to 18%, caps Majority TRA Parties' payment at Oct 16, 2025 value, and is paired with a Contribution Agreement net-settling ICE and Naheta into equity
+- 2025-11-03: Up-C Collapse consummated, triggering Section 4.1(c) Change of Control acceleration and terminating the TRA; aggregate settlement of $26.9M ($5.7M cash to non-Majority TRA Parties; remainder net-settled into Class A shares for ICE and Naheta)
+
+## Explanation
+
+Bakkt Holdings became public on October 15, 2021 through the VPC Impact Acquisition SPAC business combination and that day executed an 85% Tax Receivable Agreement with the Opco equityholders (principally Intercontinental Exchange and Akshay Naheta) covering Section 754 basis step-ups on future Paired Interest exchanges. No TRA liability was ever recorded because of a full valuation allowance against the underlying deferred tax assets. On October 16, 2025, Bakkt signed Amendment No. 1 (effective on Up-C Collapse) that fixed the Early Termination Rate at 18%, capped the Majority TRA Parties' Early Termination Payment at the Oct 16, 2025 figure, and was paired with a Contribution Agreement net-settling ICE and Naheta into Class A shares (and ICE's portion into Series A Non-Voting Convertible Preferred). The Up-C Collapse closed November 3, 2025 triggering the Change of Control acceleration; aggregate settlement expense was $26.9 million for FY2025. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,700 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+[]{#toc101000_107}Annex G
+
+# TAX RECEIVABLE AGREEMENT
+
+This TAX RECEIVABLE AGREEMENT (as amended from time to time, this "Agreement"), dated as of \[, 2021\], is hereby entered into by and among Perella Weinberg Partners, a Delaware corporation (the "Corporation"), PWP Holdings LP, a Delaware limited partnership (the "OP"), PWP Professional Partners LP, a Delaware limited partnership (the "Partnership"), and each of the Partners (as defined herein).
+
+## RECITALS
+
+WHEREAS, the Partners hold Class A Units in the OP (the "Class A Units") directly or indirectly through the Partnership;
+
+WHEREAS, a wholly owned subsidiary of the Corporation is the general partner of the OP;
+
+WHEREAS, the Class A Units are exchangeable with the Corporation in certain circumstances for Class A shares of the Corporation (the "Class A Shares") and/or cash pursuant to the OP Agreement (as defined below);
+
+WHEREAS, certain of the Partners will be treated for U.S. federal income tax purposes as selling all or a portion of their Class A Units (the "Initial Sale") to the Corporation pursuant to the transactions described in that certain Business Combination Agreement, dated as of December 29, 2020, by and among Fintech Acquisition Corp. IV, a Delaware corporation, Fintech Investor Holdings IV, LLC, a Delaware limited liability company, Fintech Masala Advisors, LLC, a Delaware limited liability company, the OP, PWP GP LLC, a Delaware limited liability company, the Partnership and Perella Weinberg Partners LLC, a Delaware limited liability company (such transactions collectively, the "De-SPAC Transaction");
+
+WHEREAS, the Partnership may distribute Class A Units (including in redemption of Partnership units) to its partners, each of whom is a Partner, in accordance with the Partnership Agreement;
+
+WHEREAS, the OP and each of its direct and indirect Subsidiaries that are treated as partnerships for United States federal income tax purposes will have in effect an election under section 754 of the Internal Revenue Code of 1986, as amended (the "Code"), for the Taxable Year that includes the De-SPAC Date (as defined below) and for each other Taxable Year in which an exchange by a Partner of Class A Units for Class A Shares and/or cash occurs, which election is intended to result in an adjustment to the tax basis of the assets owned by the OP and such Subsidiaries at the time of an exchange or redemption by a Partner of Class A Units for Class A Shares and/or cash on or after the date hereof, (collectively, including the Initial Sale and any Applicable Sale (as defined below), an "Exchange") (such time, the "Exchange Date") (such assets whose tax basis is adjusted as a result of an Exchange, as well as any asset whose tax basis is determined, in whole or in part, by reference to the adjusted basis of any such asset, the "Adjusted Assets") by reason of such Exchange and the receipt of payments under this Agreement;
+
+WHEREAS, the income, gain, loss, expense, and other Tax items of (i) the OP and such Subsidiaries allocable to the Corporation may be affected by the Basis Adjustment (as defined below) with respect to the Adjusted Assets and (ii) the Corporation may be affected by the Imputed Interest (as defined below); and
+
+G-1
+
+#####  {#section align="left"}
+
+WHEREAS, the parties to this Agreement desire to make certain arrangements with respect to the effect of the Basis Adjustment and Imputed Interest on the actual liability for Taxes of the Corporation.
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the undersigned parties agree as follows:
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+As used in this Agreement, the terms set forth in this [Article I](#article-i) shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined).
+
+AAA
+:   is defined in Section 7.08 of this Agreement.
+
+Adjusted Assets
+:   is defined in the recitals of this Agreement.
+
+Advisory Firm
+:   means any "big four" accounting firm or any law firm that is nationally recognized as being expert in Tax matters and that is agreed to by the Board.
+
+Affiliate
+:   means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first Person.
+
+Agreed Rate
+:   means LIBOR during any period for which such rate is published in accordance with the definition thereof. If LIBOR ceases to be published in accordance with the definition thereof, the Corporation and the Partnership shall work together in good faith to select an Agreed Rate with similar characteristics that gives due consideration to the prevailing market conventions for determining rates of interest in the United States at such time.
+
+Agreement
+:   is defined in the preamble of this Agreement.
+
+Amended Schedule
+:   is defined in [Section 2.03(b)](#section-2-03) of this Agreement.
+
+Amount Realized
+:   means, in respect of an Exchange by an Applicable Partner, the amount that is deemed for purposes of this Agreement to be the amount realized by the Applicable Partner on the Exchange, which shall be the sum of (i) the Market Value of the Class A Shares, the amount of cash, and the amount or fair market value of other consideration transferred to the Exchanging Partner in the Exchange, and (ii) the Share of Liabilities attributable to the Class A Units Exchanged.
+
+Applicable Partner
+:   means any Partner to whom any portion of a Realized Tax Benefit is Attributable hereunder.
+
+Applicable Sale
+:   is defined in the OP Agreement.
+
+Attributable
+:   The portion of any Realized Tax Benefit of the Corporation that is Attributable to an Applicable Partner shall be determined by reference to (i) the assets from which arise the depreciation, amortization, or other similar deductions for recovery of cost or basis ("Depreciation") and with respect to increased basis upon a disposition of an asset, or (ii) the Imputed Interest or any payment that produces the Realized Tax Benefit, under the following principles:
+
+    --- ------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(i\)   Any Realized Tax Benefit arising from a deduction to the Corporation with respect to a Taxable Year for Depreciation arising in respect of a Basis Adjustment to an Adjusted
+    --- ------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    G-2
+
+    #####  {#section-1 align="left"}
+
+    --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Asset is Attributable to the Applicable Partner to the extent that the ratio of all Depreciation for the Taxable Year in respect of Basis Adjustments resulting from all Exchanges by the Applicable Partner bears to the aggregate of all Depreciation for the Taxable Year in respect of Basis Adjustments resulting from all Exchanges by all Partners.
+    --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- -------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(ii\)   Any Realized Tax Benefit arising from the disposition of an asset is Attributable to the Applicable Partner to the extent that the ratio of all Basis Adjustments resulting from all Exchanges by the Applicable Partner with respect to such asset bears to the aggregate of all Basis Adjustments resulting from all Exchanges by all Partners with respect to such asset.
+    --- -------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- --------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(iii\)   Any Realized Tax Benefit arising from a deduction to the Corporation with respect to a Taxable Year in respect of Imputed Interest is Attributable to the Applicable Partner that is required to include the Imputed Interest in income (without regard to whether such Partner is actually subject to tax thereon).
+    --- --------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- -------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(iv\)   For the avoidance of doubt, in the case of a Basis Adjustment arising with respect to an Exchange under section 734(b) of the Code, depreciation, amortization or other similar deductions for recovery of cost or basis shall constitute Depreciation only to the extent that such depreciation, amortization or other similar deductions may produce a Realized Tax Benefit (and not to the extent that such depreciation, amortization or other similar deductions may be for the benefit of a Person other than the Corporation), as reasonably determined by the Corporation.
+    --- -------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Basis Adjustment
+:   means the adjustment to the Tax basis of an Adjusted Asset under section 732 of the Code (in situations where, as a result of one or more Exchanges, the OP becomes an entity that is disregarded as separate from its owner for tax purposes) or sections 734(b), 743(b), 754, 755 and 1012 of the Code (including in situations where, following an Exchange, the OP remains in existence as an entity for Tax purposes) and, in each case, comparable sections of state, local and foreign Tax laws as a result of an Exchange and the payments made pursuant to this Agreement, other than a payment of Imputed Interest. Notwithstanding any other provision of this Agreement, the amount of any Basis Adjustment resulting from an Exchange of one or more Class A Units shall be determined without regard to any Pre-Exchange Transfer of such Class A Units and as if any such Pre-Exchange Transfer had not occurred.
+
+Beneficial Owner
+:   of a security means a Person who directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security and/or (ii) investment power, which includes the power to dispose, or to direct the disposition of, such security. The terms "Beneficially Own" and "Beneficial Ownership" shall have correlative meanings.
+
+Board
+:   means the board of directors of the Corporation.
+
+Business Day
+:   means any day other than (i) a Saturday or a Sunday and (ii) a day on which banks in the State of New York are authorized or obligated by law, governmental decree, or executive order to be closed.
+
+Change of Control
+:   means an event set forth in any one of the following paragraphs shall have occurred:
+
+    --- ------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(i\)   any Person (or any group of Persons acting together which would constitute a "group" for purposes of Section 13(d) of the Exchange Act is or becomes the Beneficial
+    --- ------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    G-3
+
+    #####  {#section-2 align="left"}
+
+    --- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Owner, directly or indirectly, of securities of the Corporation (not including in the securities Beneficially Owned by such Person any securities acquired directly from the Corporation or its Affiliates) representing fifty percent (50%) or more of the combined voting power of the Corporation's then outstanding securities, excluding any Person who becomes such a Beneficial Owner in connection with a transaction described in clause (I) of paragraph (iii) below;
+    --- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- -------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(ii\)   the following individuals cease for any reason to constitute a majority of the number of directors then serving on the Board: individuals who, on the De-SPAC Date, constitute the Board and any new director (other than a director whose initial assumption of office is in connection with an actual or threatened election contest, including, but not limited to, a consent solicitation, relating to the election of directors of the Corporation) whose appointment or election by the Board or nomination for election by the Corporation's shareholders was approved or recommended by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors on the De-SPAC Date or whose appointment, election, or nomination for election was previously so approved or recommended;
+    --- -------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(iii\)   there is consummated a merger or consolidation of the Corporation or any direct or indirect Subsidiary with any other corporation or other entity, other than (I) a merger or consolidation (A) which results in the voting securities of the Corporation outstanding immediately prior to such merger or consolidation continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or any parent thereof), in combination with the ownership of any trustee or other fiduciary holding securities under an employee benefit plan of the Corporation or any Subsidiary, more than fifty percent (50%) of the combined voting power of the securities of the Corporation or such surviving entity or any parent thereof outstanding immediately after such merger or consolidation and (B) immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the Corporation, the entity surviving such merger or consolidation or, if the Corporation or the entity surviving such merger or consolidation is then a subsidiary, the ultimate parent thereof, or (II) a merger or consolidation effected to implement a recapitalization of the Corporation (or similar transaction) in which no Person is or becomes the Beneficial Owner, directly or indirectly, of securities of the Corporation (not including in the securities Beneficially Owned by such Person any securities acquired directly from the Corporation or its Affiliates) representing fifty percent (50%) or more of the combined voting power of the Corporation's then outstanding securities; or
+    --- --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    --- -------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    \(iv\)   the shareholders of the Corporation approve a plan of complete liquidation or dissolution of the Corporation or there is consummated an agreement for the sale or disposition by the Corporation of all or substantially all of the Corporation's assets, other than (A) a sale or disposition by the Corporation of all or substantially all of the Corporation's assets to an entity, at least fifty percent (50%) of the combined voting power of the voting securities of which are owned by shareholders of the Corporation following the completion of such transaction in substantially the same proportions as their ownership of the Corporation immediately prior to such sale or (B) a sale or disposition of all or substantially all of the Corporation's assets immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed of, if such entity is a subsidiary, the ultimate parent thereof.
+    --- -------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    Notwithstanding the foregoing, a Change of Control shall not be deemed to have occurred as a result of any transaction or series of integrated transactions following which any Continuing PWP
+
+    G-4
+
+    #####  {#section-3 align="left"}
+
+    Person or any group of Continuing PWP Persons possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of the Corporation (or any successor thereto), whether through the ownership of voting securities, as trustee or executor, by contract or otherwise, including, without limitation, the ownership, directly or indirectly, of securities having the power to elect a majority of the Board or the board of directors or similar body governing the affairs of any successor to the Corporation.
+
+Class A Shares
+:   is defined in the recitals of this Agreement.
+
+Class A Units
+:   is defined in the recitals of this Agreement.
+
+Code
+:   is defined in the recitals of this Agreement.
+
+Continuing PWP Person
+:   means, immediately prior to and immediately following any relevant date of determination, (A) the Partnership or any of its Affiliates or (B)(i) an individual who is a current or former partner, managing director or other employee of the Corporation, the Partnership and/or their respective Subsidiaries, (ii) any Person in which any one or more of such individuals directly or indirectly, singly or as a group, holds a majority of the controlling interests, (iii) any Person that is a family member of such individual or individuals or (iv) any trust, foundation or other estate planning vehicle for which such individual acts as a trustee or beneficiary.
+
+Control
+:   means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract, or otherwise.
+
+Corporate Entity
+:   means any direct or indirect Subsidiary of the Corporation which is classified as a corporation for U.S. federal income tax purposes.
+
+Corporation
+:   is defined in the preamble of this Agreement.
+
+Corporation Return
+:   means the U.S. federal Tax Return and/or state and/or local and/or foreign Tax Return, as applicable, of the Corporation filed with respect to Taxes of any Taxable Year.
+
+Cumulative Net Realized Tax Benefit
+:   for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the Corporation, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same period. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedule or Amended Schedule, if any, in existence at the time of such determination.
+
+Default Rate
+:   means the Agreed Rate plus 500 basis points.
+
+De-SPAC Transaction
+:   is defined in the recitals of this Agreement.
+
+De-SPAC Date
+:   means the date on which the Corporation first acquires economic interests in the OP pursuant to the De-SPAC Transaction or, for purposes of the definition of Change of Control, the date as of which the first board of directors constituting the first board slate of the Corporation was approved as part of the closing of the De-SPAC Transaction.
+
+Determination
+:   has the meaning ascribed to such term in section 1313(a) of the Code or similar provision of state, local and foreign tax law, as applicable, or any other event (including the execution of a Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+    G-5
+
+    #####  {#section-4 align="left"}
+
+Dispute
+:   is defined in Section 7.08(a) of this Agreement.
+
+Early Termination Date
+:   means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+Early Termination Notice
+:   is defined in Section 4.02 of this Agreement.
+
+Early Termination Payment
+:   is defined in Section 4.03(b) of this Agreement.
+
+Early Termination Rate
+:   means the Agreed Rate plus 300 basis points.
+
+Early Termination Schedule
+:   is defined in Section 4.02 of this Agreement.
+
+Exchange
+:   is defined in the recitals of this Agreement, and "Exchanged" and "Exchanging" shall have correlative meanings.
+
+Exchange Act
+:   means the Securities Exchange Act of 1934, as amended from time to time.
+
+Exchange Basis Schedule
+:   is defined in [Section 2.01](#section-2-01) of this Agreement.
+
+Exchange Date
+:   is defined in the recitals of this Agreement.
+
+Exchange Payment
+:   is defined in Section 5.01 of this Agreement.
+
+Excluded Assets
+:   is defined in Section 7.11(b) of this Agreement.
+
+Expert
+:   is defined in Section 7.09 of this Agreement.
+
+Hypothetical Tax Liability
+:   means, with respect to any Taxable Year, the liability for Taxes of the Corporation (or the OP, but only with respect to Taxes imposed on the OP and allocable to the Corporation) using the same methods, elections, conventions and similar practices used on the relevant Corporation Return (and/or Tax Return of the OP) but using the Non-Stepped Up Tax Basis instead of the tax basis reflecting the Basis Adjustments of the Adjusted Assets, excluding any deduction or other Tax benefit attributable to Imputed Interest or attributable to making a payment pursuant to this Agreement.
+
+Imputed Interest
+:   means any interest imputed under section 1272, 1274 or 483 or other provision of the Code and any similar provision of state, local and foreign tax law with respect to a Corporation's payment obligations under this Agreement.
+
+Initial Sale
+:   is defined in the recitals of this Agreement.
+
+LIBOR
+:   means for each month (or portion thereof) during any period, an interest rate per annum equal to the rate per annum reported, on the date two Business Days prior to the first Business Day of such month, as published on the applicable Bloomberg screen page (or other commercially available source providing quotations of LIBOR ) for 1-month London interbank offered rates for U.S. dollar deposits for such month (or portion thereof).
+
+Market Value
+:   means the closing price of the Class A Shares on the applicable Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided that if the closing price is not reported by the *Wall Street Journal* for the applicable Exchange Date, then the Market Value shall mean the closing price of the Class A Shares on the Business Day immediately
+
+    G-6
+
+    #####  {#section-5 align="left"}
+
+    preceding such Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided, further, that if the Class A Shares are not then listed on a National Securities Exchange or Interdealer Quotation System, "Market Value" shall mean the cash consideration paid for Class A Shares, or the fair market value of the other property delivered for Class A Shares, as determined by the Board in good faith.
+
+Material Objection Notice
+:   is defined in Section 4.02 of this Agreement.
+
+Net Tax Benefit
+:   is defined in Section 3.01(b) of this Agreement.
+
+New York Courts
+:   is defined in Section 7.08(f) of this Agreement.
+
+Non-Stepped Up Tax Basis
+:   means, with respect to any asset at any time, the tax basis that such asset would have had at such time if no Basis Adjustment had been made.
+
+Objection Notice
+:   is defined in [Section 2.03(a)](#section-2-03) of this Agreement.
+
+OP
+:   is defined in the preamble of this Agreement.
+
+OP Agreement
+:   means the Amended and Restated Agreement of Limited Partnership of the OP, as such is from time to time amended or restated.
+
+Partners
+:   means (i) each party listed on Schedule I attached hereto, and (ii) each other Person who from time to time executes a joinder to this Agreement in the form attached hereto as Exhibit A, and each is referred to herein as a "Partner".
+
+Partnership
+:   is defined in the preamble of this Agreement.
+
+Partnership Agreement
+:   means the Fourth Amended and Restated Limited Partnership Agreement of the Partnership, as such may be amended or restated from time to time.
+
+Payment Date
+:   means any date on which a payment is required to be made pursuant to this Agreement.
+
+Permitted Owners
+:   means the Partnership, the Partners, the Partners' family members, and trusts for the benefit of, and entities wholly owned by, a Partner and/or a Partner's family members, and any transferee pursuant to a transfer expressly permitted by the OP Agreement or the Partnership Agreement.
+
+Person
+:   means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity, or other entity.
+
+Pre-Exchange Transfer
+:   means any transfer (including upon the death of a Partner) of one or more Class A Units that occurs prior to an Exchange of such Class A Units, and to which section 743(b) of the Code applies.
+
+Realized Tax Benefit
+:   means, for a Taxable Year and for all Taxes collectively, the net excess, if any, of the Hypothetical Tax Liability over the actual liability for Taxes of the Corporation (or the OP, but only with respect to Taxes imposed on the OP and allocable to the Corporation for such Taxable Year), such actual Tax liability to be computed with the adjustments described in this Agreement. If all or a portion of the actual liability for Taxes of the Corporation, or the OP (but only with
+
+    G-7
+
+    #####  {#section-6 align="left"}
+
+    respect to Taxes imposed on the OP and allocable to the Corporation for such Taxable Year), for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+Realized Tax Detriment
+:   means, for a Taxable Year and for all Taxes collectively, the net excess, if any, of the actual liability for Taxes of the Corporation (or the OP, but only with respect to Taxes imposed on the OP and allocable to the Corporation for such Taxable Year) over the Hypothetical Tax Liability for such Taxable Year, such actual Tax liability to be computed with the adjustments described in this Agreement. If all or a portion of the actual liability for Taxes of the Corporation, or the OP (but only with respect to Taxes imposed on the OP and allocable to the Corporation for such Taxable Year), for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+Reconciliation Dispute
+:   is defined in Section 7.09 of this Agreement.
+
+Reconciliation Procedures
+:   means those procedures set forth in Section 7.09 of this Agreement.
+
+Schedule
+:   means any Exchange Basis Schedule, Tax Benefit Schedule, or Early Termination Schedule.
+
+Senior Obligations
+:   is defined in Section 5.01 of this Agreement.
+
+Share of Liabilities
+:   means, as to any Class A Unit at the time of an exchange, the portion of the OP's "liabilities" (as such term is defined in section 752 and section 1001 of the Code) allocated to that Class A Unit pursuant to section 752 of the Code and the applicable Treasury Regulations.
+
+Subsidiaries
+:   means, with respect to any Person, as of any date of determination, any other Person as to which such Person, owns, directly or indirectly, or otherwise controls more than 50% of the voting shares or other similar interests or the sole general partner interest or managing member or similar interest of such Person.
+
+Tax Benefit Payment
+:   is defined in Section 3.01(b) of this Agreement.
+
+Tax Benefit Schedule
+:   is defined in [Section 2.02](#section-2-02) of this Agreement.
+
+Tax Return
+:   means any return, declaration, report, or similar statement required to be filed with respect to Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return, and declaration of estimated Tax.
+
+Taxable Year
+:   means a taxable year as defined in section 441(b) of the Code or comparable section of state, local or foreign tax law, as applicable, (and, therefore, for the avoidance of doubt, may include a period of less than 12 months for which a Tax Return is made) ending on or after an Exchange Date in which there is a Basis Adjustment due to an Exchange.
+
+Taxes
+:   means any and all U.S. federal, state, local, and foreign taxes, assessments, or similar charges that are based on or measured with respect to net income or profits, whether on an exclusive or on an alternative basis, including, for the avoidance of doubt, taxes imposed under Section 59A, and any interest related to such Tax.
+
+    G-8
+
+    #####  {#section-7 align="left"}
+
+Taxing Authority
+:   means any domestic, foreign, federal, national, state, county, or municipal or other local government, any subdivision, agency, commission, or authority thereof, or any quasi-governmental body exercising any taxing authority or any other authority exercising Tax regulatory authority.
+
+Treasury Regulations
+:   means the final, temporary, and proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant taxable period.
+
+Valuation Assumptions
+:   means the assumptions that (1) in each Taxable Year ending on or after the Early Termination Date, the Corporation will have taxable income sufficient to fully utilize the deductions arising from the Basis Adjustment and the Imputed Interest during such Taxable Year, (2) the federal income tax rates and state, local, and foreign income tax rates for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the date of the Early Termination Payment, (3) any loss carryovers generated by the Basis Adjustment or the Imputed Interest and available as of the Early Termination Date will be utilized by the Corporation on a pro rata basis from the Early Termination Date through the fifteenth (15^th^) anniversary thereof, (4) any non-amortizable assets are deemed to be disposed of on the fifteenth (15^th^) anniversary of the earlier of the Basis Adjustment and the Early Termination Date, provided that in the event of a Change of Control, non-amortizable assets shall be deemed disposed of at the earlier of (i) the time of sale of the relevant asset or (ii) as generally provided in this Valuation Assumption (4), and (5) if, at the Early Termination Date, there are Class A Units that have not been Exchanged, then each such Class A Unit shall be deemed to be Exchanged for the Market Value of the Class A Shares and the amount of cash that would be transferred if the Exchange occurred on the Early Termination Date.
+
+## ARTICLE II: DETERMINATION OF REALIZED TAX BENEFIT {#article-ii}
+
+### Section 2.01: Exchange Basis Schedule {#section-2-01}
+
+Within 225 calendar days after the filing of the U.S. federal income tax return of the Corporation for each Taxable Year in which any Exchange has been effected, the Corporation shall deliver to the Applicable Partner a schedule (the "Exchange Basis Schedule") that shows, in reasonable detail, for purposes of Taxes, (i) the actual unadjusted tax basis of the Adjusted Assets as of each applicable Exchange Date, (ii) the Basis Adjustment with respect to the Adjusted Assets as a result of the Exchanges effected in such Taxable Year and all prior Taxable Years, calculated (a) in the aggregate and (b) solely with respect to Exchanges by the Applicable Partner, (iii) the period or periods, if any, over which the Adjusted Assets are amortizable and/or depreciable, and (iv) the period or periods, if any, over which each Basis Adjustment is amortizable and/or depreciable (which, for non-amortizable assets shall be based on the Valuation Assumptions).
+
+### Section 2.02: Tax Benefit Schedule {#section-2-02}
+
+Within 225 calendar days after the filing of the U.S. federal income tax return of the Corporation for any Taxable Year in which there is a Realized Tax Benefit or Realized Tax Detriment, the Corporation shall provide to the Applicable Partner a schedule showing, in reasonable detail, the calculation of the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year (a "Tax Benefit Schedule"). The Schedule will become final as provided in [Section 2.03(a)](#section-2-03) of this Agreement and may be amended as provided in [Section 2.03(b)](#section-2-03) of this Agreement (subject to the procedures set forth in [Section 2.03(a)](#section-2-03)).
+
+### Section 2.03: Procedures, Amendments {#section-2-03}
+
+\(a\) Procedure. Every time the Corporation delivers to the Applicable Partner an applicable Schedule under this Agreement, including any Amended Schedule delivered pursuant to
+
+G-9
+
+### Section 2.03: Section {#section-2-03}
+
+#####  {#section-8 align="left"}
+
+filing the Corporation Return with respect to Taxes for the most recently ended Taxable Year until the Payment Date. In the case of a Tax Benefit Payment made in respect of an Amended Schedule, the "Interest Amount" shall equal the interest on the Net Tax Benefit for such Taxable Year calculated at the Agreed Rate from the date of such Amended Schedule becoming final in accordance with [Section 2.03(a)](#section-2-03) until the Payment Date. Notwithstanding the foregoing, for each Taxable Year ending on or after the date of a Change of Control, all Tax Benefit Payments paid with respect to Class A Units that were Exchanged (i) prior to the date of such Change of Control or (ii) on or after the date of such Change of Control, shall be calculated by using Valuation Assumptions (1), (3), and (4), substituting in each case the terms "the date on which a Change of Control becomes effective" for an "Early Termination Date". The Net Tax Benefit and the Interest Amount shall be determined separately with respect to each separate Exchange, on a Class A Unit-by-Class A Unit basis by reference to the Amount Realized by the Applicable Partner on the Exchange of a Class A Unit and the resulting Basis Adjustment to the Corporation.
+
+Section 3.02 No Duplicative Payments. It is intended that the provisions of this Agreement will not result in duplicative payment of any amount (including interest) required under this Agreement. It is also intended that the provisions of this Agreement will result in 85% of the Corporation's Cumulative Net Realized Tax Benefit, and the Interest Amount thereon, being paid to the Applicable Partners pursuant to this Agreement. The provisions of this Agreement shall be construed in the appropriate manner so that these fundamental results are achieved.
+
+Section 3.03 Pro Rata Payments. For the avoidance of doubt, to the extent (i) the Corporation's deductions with respect to any Basis Adjustment or Imputed Interest are limited in a particular Taxable Year or (ii) the Corporation lacks sufficient funds to satisfy its obligations to make all Tax Benefit Payments due in a particular Taxable Year, the limitation on the deductions, or the Tax Benefit Payments that may be made, as the case may be, shall be taken into account or made for the Applicable Partner in the same proportion as Tax Benefit Payments would have been made absent the limitations set forth in clauses (i) and (ii) of this paragraph, as applicable.
+
+## ARTICLE IV
+
+**TERMINATION**
+
+Section 4.01 Early Termination and Breach of Agreement.
+
+\(a\) The Corporation may terminate this Agreement with respect to all of the Class A Units held (or previously held and distributed or exchanged) by the Partnership and all Partners at any time by paying to the Partners the Early Termination Payment; provided, however, that this Agreement shall only terminate upon the receipt of the Early Termination Payment by all Partners, and provided, further, that the Corporation may withdraw any notice to execute its termination rights under this Section 4.01(a) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payment by the Corporation, neither the OP nor the Corporation shall have any further payment obligations under this Agreement in respect of the Partners, other than for any (a) Tax Benefit Payment agreed to by the Corporation and a Partner as due and payable but unpaid as of the Early Termination Notice and (b) Tax Benefit Payment due for the Taxable Year ending with or including the date of the Early Termination Notice (except to the extent that the amount described in clause (b) is included in the Early Termination Payment). For the avoidance of doubt, if an Exchange occurs after the Corporation makes the Early Termination Payment with respect to all Partners, the Corporation shall have no obligations under this Agreement with respect to such Exchange, and its only obligations under this Agreement in such case shall be its obligations to all Partners under Section 4.03(a).
+
+G-11
+
+#####  {#section-9 align="left"}
+
+\(b\) In the event that the Corporation breaches any of its material obligations under this Agreement, whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under the Bankruptcy Code or otherwise, and does not cure such breach within ninety (90) days of receipt of notice of such breach from a Partner, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such breach and shall include, but not be limited to, (1) the Early Termination Payment calculated as if an Early Termination Notice had been delivered on the date of a breach, (2) any Tax Benefit Payment agreed to by the Corporation and any Partner as due and payable but unpaid as of the date of a breach, and (3) any Tax Benefit Payment due for the Taxable Year ending with or including the date of a breach. Notwithstanding the foregoing, in the event that the Corporation breaches this Agreement, and this Section 4.01(b) applies, the Partners shall be entitled to elect to receive the amounts set forth in clauses (1), (2), and (3), above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within three months of the date such payment is due shall be deemed to be a breach of a material obligation under this Agreement for all purposes of this Agreement, and that it will not be considered to be a breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within three months of the date such payment is due. Notwithstanding anything in this Agreement to the contrary, it shall not be a breach of a material obligation under this Agreement if the Corporation fails to make any Tax Benefit Payment when due to the extent that the Corporation has insufficient funds, and cannot take commercially reasonable actions to obtain sufficient funds, to make such payment; provided that the interest provisions of Section 5.02 shall apply to such late payment (unless the Corporation does not have sufficient cash to make such payment as a result of limitations imposed by any Senior Obligations, in which case, Section 5.02 shall apply, but the Default Rate shall be replaced by the Agreed Rate).
+
+\(c\) The undersigned parties hereby acknowledge and agree that the timing, amounts, and aggregate value of Tax Benefit Payments pursuant to this Agreement are not reasonably ascertainable.
+
+Section 4.02 Early Termination Notice. If the Corporation chooses to exercise its right of early termination under Section 4.01 above, the Corporation shall deliver to each Partner notice of such intention to exercise such right (the "Early Termination Notice") and a schedule (the "Early Termination Schedule") specifying the Corporation's intention to exercise such right and showing in reasonable detail the calculation of the Early Termination Payment. The applicable Early Termination Schedule shall become final and binding on all parties unless a Partner, within thirty (30) calendar days after receiving the Early Termination Schedule thereto, provides the Corporation with notice of a material objection to such Schedule made in good faith ("Material Objection Notice"). If the parties, for any reason, are unable to successfully resolve the issues raised in such notice within thirty (30) calendar days after receipt by the Corporation of the Material Objection Notice, the Corporation and such Partner shall employ the Reconciliation Procedures as described in Section 7.09 of this Agreement.
+
+Section 4.03 Payment upon Early Termination. (a) Within fifteen (15) calendar days after agreement between a Partner and the Corporation of the Early Termination Schedule, the Corporation shall pay to such Partner an amount equal to the Early Termination Payment. Such payment shall be made by wire transfer of immediately available funds to a bank account designated by such Partner.
+
+\(b\) The "Early Termination Payment" for any Partner, as of the date of the delivery of an Early Termination Schedule, shall equal the present value, discounted at the Early Termination Rate as of such date, of all Tax Benefit Payments that would be required to be paid by the Corporation to such Partner beginning on the Early Termination Date and assuming that the Valuation Assumptions are applied.
+
+G-12
+
+#####  {#section-10 align="left"}
+
+## ARTICLE V
+
+**SUBORDINATION AND LATE PAYMENTS**
+
+Section 5.01 Subordination. Notwithstanding any other provision of this Agreement to the contrary, any Tax Benefit Payment or Early Termination Payment required to be made by the Corporation to a Partner or to all Partners under this Agreement (an "Exchange Payment") shall rank subordinate and junior in right of payment to any principal, interest, or other amounts due and payable in respect of any obligations in respect of indebtedness for borrowed money of the Corporation ("Senior Obligations") and shall rank pari passu with all current or future unsecured obligations of the Corporation that are not Senior Obligations.
+
+Section 5.02 Late Payments by the Corporation. The amount of all or any portion of any Exchange Payment not made to any Partner when due under the terms of this Agreement shall be payable together with any interest thereon, computed at the Default Rate and commencing on the date on which such Exchange Payment was due and payable.
+
+## ARTICLE VI
+
+**NO DISPUTES; CONSISTENCY; COOPERATION**
+
+Section 6.01 Partner Participation in the Corporation's and OP's Tax Matters. Except as otherwise provided herein, the Corporation shall have full responsibility for, and sole discretion over, all Tax matters concerning the Corporation and the OP, including without limitation the preparation, filing, or amending of any Tax Return and defending, contesting, or settling any issue pertaining to Taxes. Notwithstanding the foregoing, the Corporation shall notify the Partners of, and keep the Partners reasonably informed with respect to, the portion of any audit of the Corporation and the OP by a Taxing Authority the outcome of which is reasonably expected to affect the Partners' rights and obligations under this Agreement, and shall provide to the Partners reasonable opportunity to provide information and other input to the Corporation, the OP and their respective advisors concerning the conduct of any such portion of such audit; provided, however, that the Corporation and the OP shall not be required to take any action that is inconsistent with any provision of the OP Agreement.
+
+Section 6.02 Consistency. Unless there is a Determination or the opinion of an Advisory Firm that is reasonably acceptable to the Corporation and the Partnership providing otherwise, the Corporation and the Partners agree to report and cause to be reported for all purposes, including federal, state, local and foreign Tax purposes and financial reporting purposes, all Tax-related items (including without limitation the Basis Adjustment and each Tax Benefit Payment) in a manner consistent with that specified by the Corporation in any Schedule required to be provided by or on behalf of the Corporation under this Agreement. Any Dispute concerning such advice shall be subject to the terms of Section 7.09. In the event that an Advisory Firm is replaced with another Advisory Firm, such replacement Advisory Firm shall perform its services under this Agreement using procedures and methodologies consistent with the previous Advisory Firm, unless otherwise required by law or unless the Corporation and the Partnership agree to the use of other procedures and methodologies.
+
+Section 6.03 Cooperation. Each Partner shall (a) furnish to the Corporation in a timely manner such information, documents and other materials as the Corporation may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending any audit, examination or controversy with any Taxing Authority, (b) make itself available to the Corporation and its representatives to provide explanations of documents and materials and such other information as the Corporation or its
+
+G-13
+
+#####  {#section-11 align="left"}
+
+representatives may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter, and the Corporation shall reimburse each Partner for any reasonable third-party costs and expenses incurred pursuant to this Section.
+
+## ARTICLE VII
+
+**MISCELLANEOUS**
+
+Section 7.01 Notices. All notices, requests, claims, demands and other communications hereunder shall be deemed to be sufficient if contained in a written instrument delivered in person or sent by email (provided a copy is thereafter promptly delivered by any other means as provided in this Section 7.01 or receipt is otherwise confirmed by the receiving party) or nationally recognized overnight courier, addressed to such party at the address or email address set forth below or such other address or email address as may hereafter be designated in writing by such party to the other parties:
+
+if to the Corporation, to:
+
+Perella Weinberg Partners
+
+\[                                          \]
+
+if to the OP, to:
+
+PWP Holdings LP
+
+\[                                          \]
+
+if to the Partnership, to:
+
+PWP Professional Partners LP
+
+\[                                          \]
+
+if to any Partner, to:
+
+the address and email address set forth for such Partner in the records of the Partnership or the OP, as applicable.
+
+Any party may change its address or fax number by giving the other party written notice of its new address or fax number in the manner set forth above.
+
+Section 7.02 Counterparts. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart. Delivery of an executed signature page to this Agreement by facsimile or other electronic transmission shall be as effective as delivery of a manually signed counterpart of this Agreement.
+
+Section 7.03 Entire Agreement; No Third Party Beneficiaries. This Agreement constitutes the entire agreement and supersedes all prior agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof. This Agreement shall be binding upon and inure solely to the benefit of each party hereto and their respective successors and permitted assigns, and nothing in this Agreement, express or implied, is intended to or shall confer upon any other Person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+G-14
+
+#####  {#section-12 align="left"}
+
+Section 7.04 Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to the conflict of laws principles thereof that would mandate the application of the laws of another jurisdiction.
+
+Section 7.05 Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+Section 7.06 Successors; Assignment; Amendments; Waivers.
+
+\(a\) No Partner (other than the Partnership or a Partner in accordance with the Partnership Agreement) may assign this Agreement to any person without the prior written consent of the Corporation; provided, however, that (i) to the extent that a Partner effectively transfers Class A Units to a party other than the Partnership in accordance with the terms of the OP Agreement, and any other agreements that the Partners may have entered into with each other, or a Partner may have entered into with the Corporation, the Partnership and/or the OP, the transferring party shall assign to the transferee of such Class A Units the transferring party's rights under this Agreement with respect to such transferred Class A Units, and such transferee shall become a party to this Agreement, as long as such transferee has executed and delivered, or, in connection with such transfer, executes and delivers, a joinder to this Agreement, in the form attached hereto as Exhibit A, agreeing to become a "Partner" for all purposes of this Agreement, except as otherwise provided in such joinder, and (ii) once an Exchange has occurred, any and all payments that may become payable to a Partner pursuant to this Agreement with respect to such Exchange may be assigned to any Person or Persons, as long as any such Person has executed and delivered, or, in connection with such assignment, executes and delivers, a joinder to this Agreement, in the form attached hereto as Exhibit B, agreeing to be bound by Section 7.12 and acknowledging specifically the second paragraph in this Section 7.06. For the avoidance of doubt, to the extent that a Partner or other Person transfers Class A Units to a Partner as may be permitted by any agreement to which the OP is a party, the Partner receiving such Class A Units shall have all rights under this Agreement with respect to such transferred Class A Units as such Partner has under this Agreement with respect to the other Class A Units held by such Partner.
+
+\(b\) Notwithstanding the foregoing provisions of this Section 7.06, no transferee described in clause (i) of the immediately preceding paragraph shall have the right to enforce the provisions of [Section 2.03](#section-2-03), 4.02, 6.01 or 6.02 of this Agreement, and no assignee described in clause (ii) of the immediately preceding paragraph shall have any rights under this Agreement except for the right to enforce its right to receive payments under this Agreement.
+
+\(c\) No provision of this Agreement may be amended unless such amendment is approved in writing by each of the Corporation, the OP, and Partners who would be entitled to receive more than fifty percent (50%) of the Early Termination Payments payable to all Partners hereunder if the Corporation had exercised its right of early termination on the date of the most recent Exchange prior to such amendment (excluding, for purposes of this sentence, all payments made to any Partner pursuant to this Agreement since the date of such most recent Exchange); provided that no such amendment shall be effective if such amendment will have a disproportionate adverse effect on the payments certain Partners will or may receive under this Agreement unless (i) such disproportionate
+
+G-15
+
+#####  {#section-13 align="left"}
+
+effect is a result of tax laws imposed by government authorities in non-U.S. jurisdictions or (ii) all such Partners disproportionately affected consent in writing to such amendment. No provision of this Agreement may be waived unless such waiver is in writing and signed by the party against whom the waiver is to be effective.
+
+\(d\) All of the terms and provisions of this Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the parties hereto and their respective successors, assigns, heirs, executors, administrators and legal representatives. The Corporation shall require and cause any direct or indirect successor (whether by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of the Corporation, by written agreement, expressly to assume and agree to perform this Agreement in the same manner and to the same extent that the Corporation would be required to perform if no such succession had taken place.
+
+Section 7.07 Titles and Subtitles. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+Section 7.08 Submission to Jurisdiction; Dispute Resolution.
+
+\(a\) Any dispute, controversy or claim arising out of or relating to this Agreement, including, without limitation, the validity, interpretation, performance, breach, alleged breach, negotiation or termination of this Agreement ("Dispute"), shall be submitted to mandatory, final and binding arbitration administered by the American Arbitration Association ("AAA") in accordance with its Commercial Arbitration Rules in effect at the time of filing of the demand for arbitration, except as modified herein. The place of arbitration shall be New York, New York. For the avoidance of doubt, all parties hereto irrevocably waive any defense or objection to the AAA forum.
+
+\(b\) Any such arbitration shall be heard by one arbitrator who shall be agreed upon by the parties to the Dispute within twenty (20) days of receipt by the respondent to the arbitration of a copy of the demand for arbitration. If the parties do not agree upon an arbitrator within this time limit, an arbitrator shall be appointed by the AAA in accordance with the listing, striking and ranking procedure in the Commercial Arbitration Rules, with each party being given a limited number of strikes, except for cause. Any arbitrator appointed by the AAA shall be a retired judge or a practicing attorney with no less than fifteen (15) years of experience with corporate and limited partnership matters. In rendering an award, the arbitrator shall be required to follow the laws of the state of Delaware.
+
+\(c\) The AAA arbitration shall be the sole and exclusive forum for resolution of the Dispute, and the award shall be in writing, state the reasons for the award, and be final and binding, and not subject to appeal. Judgment thereon may be entered in any court of competent jurisdiction. The arbitrator shall not be permitted to award punitive, multiple or other non-compensatory damages. Any fees, expenses or costs (including attorneys' fees, costs and expenses) incident to enforcing the award shall be charged against the party resisting such enforcement. The parties to the Dispute will share equally the arbitration costs and bear their own fees and expenses except as directed by the arbitrator.
+
+\(d\) The parties agree that the arbitration shall be kept confidential and that the existence of the proceeding and any element of it (including but not limited to any pleadings, briefs or other documents submitted or exchanged, any documents disclosed by one party to another, testimony or other oral submission, and any award or decision) shall not be disclosed beyond the arbitrators, the AAA, the parties to the Dispute, their legal and professional advisors, and any person necessary for the conduct of the arbitration, except as may be required in judicial proceedings relating to the arbitration,
+
+G-16
+
+#####  {#section-14 align="left"}
+
+or by law, regulatory or governmental authority. Any court proceedings relating to the arbitration hereunder, including, without limiting the generality of the foregoing, to prevent or compel arbitration or to confirm, correct, vacate or otherwise enforce an arbitration award, shall be filed under seal with the court, to the extent permitted by applicable law.
+
+\(e\) Barring good cause shown (as determined in the sole discretion of the arbitrator), discovery shall be limited to pre-hearing disclosure of documents that each side will present in support of its case, and, in response to reasonable documents requests, non-privileged documents in the responding party's possession, custody or control, not otherwise readily available to the party seeking the documents, and reasonably believed to exist, that may be relevant to the outcome of disputed issues.
+
+\(f\) By agreeing to arbitration, the parties do not intend to deprive any court of its jurisdiction to issue a pre-arbitral injunction, pre-arbitral attachment, or other order in aid of arbitration proceedings and the enforcement of any award. Without prejudice to such provisional remedies as may be available under the jurisdiction of a court, the arbitrator shall have full authority to grant provisional remedies and to direct the parties to request that any court modify or vacate any temporary or preliminary relief issued by such court, and to award damages for the failure of any party to respect the arbitrator's orders to that effect. In any such judicial action: each of the parties (i) irrevocably and unconditionally consents to the exclusive jurisdiction and venue of the federal or state courts located in New York County, New York (the "New York Courts") for the purpose of any pre-arbitral injunction, pre-arbitral attachment, or other order in aid of arbitration proceedings, and to the non-exclusive jurisdiction of such courts for the enforcement of any judgment on any award; (ii) irrevocably waives, to the fullest extent they may effectively do so, any objection, including any objection to the laying of venue or based on the grounds of forum non conveniens or any right of objection to jurisdiction on account of its place of incorporation or domicile, which it may now or hereafter have to the bringing of any such action or proceeding in any New York Courts; (iii) irrevocably consents to service of process by first class certified mail, return receipt requested, postage prepaid; and (iv) hereby irrevocably waives any and all right to trial by jury.
+
+\(g\) Each Partner irrevocably acknowledges and agrees that any proceeding brought by such Partner under this Agreement may only be brought and maintained as an individual proceeding in such Partner's individual capacity. Any claim brought by a Partner must be brought and maintained in such Partner's individual capacity only and not as a plaintiff or class member in any purported class, collective or representative proceeding. Each Partner waives the right to commence or participate in any group, representative, class or collective action and shall not be entitled to join or consolidate disputes by or against others in any arbitration, or to include in any arbitration any dispute as a representative or member of a class, or to act in any arbitration in the interest of the general public or in a private attorney general capacity.
+
+Section 7.09 Reconciliation. In the event that the Corporation and a Partner are unable to resolve a disagreement with respect to the matters governed by Sections 2.03, 4.02, and 6.02 within the relevant period designated in this Agreement ("Reconciliation Dispute"), the Reconciliation Dispute shall be submitted for determination to a nationally recognized expert (the "Expert") in the particular area of disagreement mutually acceptable to both parties. The Expert shall be a partner in a nationally recognized accounting firm or a law firm (other than the Advisory Firm), and the Expert shall not, and the firm that employs the Expert shall not, have any material relationship with either the Corporation or such Partner or other actual or potential conflict of interest. If the parties are unable to agree on an Expert within fifteen (15) calendar days of receipt by the respondent(s) of written notice of a Reconciliation Dispute, the Expert shall be appointed by the International Chamber of Commerce Centre for Expertise. The Expert shall resolve any matter relating to the Exchange Basis Schedule or an amendment thereto or the Early Termination Schedule or an amendment thereto within thirty
+
+G-17
+
+#####  {#section-15 align="left"}
+
+(30) calendar days and shall resolve any matter relating to a Tax Benefit Schedule or an amendment thereto within fifteen (15) calendar days or as soon thereafter as is reasonably practicable, in each case after the matter has been submitted to the Expert for resolution. Notwithstanding the preceding sentence, if the matter is not resolved before the date any payment that is the subject of a disagreement would be due (in the absence of such disagreement) or any Tax Return reflecting the subject of a disagreement is due, such payment shall be paid on the date such payment would be due and such Tax Return may be filed as prepared by the Corporation, subject to adjustment or amendment upon resolution. The costs and expenses relating to the engagement of such Expert or amending any Tax Return shall be borne by the Corporation, except as provided in the next sentence. The Corporation and such Partner shall bear their own costs and expenses of such proceeding, unless such Partner has a prevailing position that is more than ten percent (10%) of the payment at issue, in which case the Corporation shall reimburse such Partner for any reasonable out-of-pocket costs and expenses in such proceeding. Any dispute as to whether a dispute is a Reconciliation Dispute within the meaning of this Section 7.09 shall be decided by the Expert. The Expert shall finally determine any Reconciliation Dispute and the determinations of the Expert pursuant to this Section 7.09 shall be binding on the Corporation and such Partner and may be entered and enforced in any court having jurisdiction.
+
+Section 7.10 Withholding. The Corporation shall be entitled to deduct and withhold from any payment payable pursuant to this Agreement such amounts as the Corporation is required to deduct and withhold with respect to the making of such payment under the Code, or any provision of state, local or foreign tax law. To the extent that amounts are so withheld and paid over to the appropriate Taxing Authority by the Corporation, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the Applicable Partner.
+
+Section 7.11 Admission of the Corporation into a Consolidated Group; Transfers of Corporate Assets.
+
+\(a\) If the Corporation becomes a member of an affiliated or consolidated group of corporations that files a consolidated income tax return pursuant to sections 1501 et seq. of the Code or any corresponding provisions of state, local or foreign law, then: (i) the provisions of this Agreement shall be applied with respect to the group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments, and other applicable items hereunder shall be computed with reference to the consolidated taxable income of the group as a whole.
+
+\(b\) Notwithstanding any other provision of this Agreement, if the Corporation acquires one or more assets that, as of an Exchange Date, have not been contributed to the OP (other than the Corporation's interests in the OP) (such assets, "Excluded Assets"), then all Tax Benefit Payments due hereunder shall be computed as if such assets had been contributed to the OP on the date such assets were first acquired by the Corporation; provided, however, that if an Excluded Asset consists of stock in a corporation, then, for purposes of this Section 7.11(b), such corporation (and any corporation Controlled by such corporation) shall be deemed to have contributed its assets to the OP on the date on which the Corporation acquired stock of such corporation.
+
+\(c\) If any entity that is obligated to make an Exchange Payment hereunder transfers one or more assets to a corporation with which such entity does not file a consolidated tax return pursuant to section 1501 of the Code, such entity, for purposes of calculating the amount of any Exchange Payment (e.g., calculating the gross income of the entity and determining the Realized Tax Benefit of such entity) due hereunder, shall be treated as having disposed of such asset in a fully taxable transaction on the date of such contribution. The consideration deemed to be received by such entity shall be equal to the fair market value of the contributed asset (as reasonably determined by the
+
+G-18
+
+#####  {#section-16 align="left"}
+
+governing body, or the Person responsible for management, of such entity acting in good faith), plus (i) the amount of debt to which such asset is subject, in the case of a contribution of an encumbered asset or (ii) the amount of debt allocated to such asset, in the case of a contribution of a partnership interest.
+
+Section 7.12 Confidentiality. A Partner's rights to access or receive any information about the Corporation or its business are conditioned on such Partner's willingness and ability to assure that the Corporation information will be used solely by such Partner for purposes reasonably related to such Partner's interest as a Partner and that such Corporation information will not become publicly available as a result of such Partner's rights to access or receive such Corporation information. Each Partner hereby acknowledges that the Corporation creates and will be in possession of confidential information, the improper use or disclosure of which could have a material adverse effect upon the Corporation, the Partnership and the OP and their respective Affiliates. Each Partner further acknowledges and agrees that the Corporation information constitutes a valuable trade secret of the Corporation and agrees to maintain any such information provided to it in the strictest confidence. Accordingly, without limiting the generality of the foregoing:
+
+\(a\) Notwithstanding [Article II](#article-ii) and Article VI, the Corporation shall have the right to keep confidential from the Partners (and their respective agents and attorneys) for such period of time as the Corporation deems reasonable, any information: (i) that the Corporation believes to be in the nature of trade secrets; (ii) other information, the disclosure of which the Corporation believes is not in the best interest of the Corporation, the Partnership and the OP or could damage the Corporation, the Partnership, the OP or their respective businesses; or (iii) which the Corporation, the Partnership or the OP (or their respective Affiliates, employees, officers, directors, members, partners or personnel) is required by law or by agreement with a third party to keep confidential; provided, that the Corporation shall make available to a Partner, upon reasonable request, information required by such Partner to comply with applicable laws, rules and regulations, as well as any requests from any federal or state regulatory body having jurisdiction over such Partner. Notwithstanding the immediately preceding proviso, in no event shall the Corporation be required to disclose to any Partner the identity of, or any account details relating to, any other Partner (or any other investor in the Corporation, the Partnership, the OP or any of their respective Affiliates) unless it is required to do so by law applicable to it, as determined by a court of competent jurisdiction.
+
+\(b\) Except as permitted by this Section 7.12 or as required by applicable law, each party hereto agrees that the provisions of this Agreement, all of the information and documents described in [Article II](#article-ii) and Article VI, all understandings, agreements and other arrangements between and among the parties (or any of them), and all other non-public information received from, or otherwise relating to, any Partner, the OP, the Partnership, the Corporation and/or their respective Affiliates shall be confidential, and shall not disclose or otherwise release to any other Person such matters, without the written consent of the Corporation.
+
+\(c\) The confidentiality obligations of the parties under this Section 7.12 shall not apply to: (i) the disclosure by a Partner of information to another Partner's Affiliates, partners, officers, agents, board members, trustees, attorneys, auditors, employees, prospective transferees permitted hereunder, financial advisors and other professional advisors (provided, that such prospective transferees and other Persons agree to hold confidential such information substantially in accordance with this Section 7.12 or are otherwise bound by a duty of confidentiality to such Partner) solely on a need-to-know basis, which Persons shall be bound by this Section 7.12 as if they were Partners, as applicable; (ii) the disclosure of information to the extent necessary for a Partner to prepare and file his or her tax returns, to respond to any inquiries regarding the same from any taxing authority or to prosecute or defend any action, proceeding or audit by any taxing authority with respect to such returns; (iii) information already known to the general public at the time of disclosure or that became
+
+G-19
+
+#####  {#section-17 align="left"}
+
+known prior to such disclosure through no act or omission by any Partner (or any investor in the Corporation, the Partnership, the OP or any of their respective Affiliates) or any Person acting on behalf of any of the foregoing; (iv) information received from a source not bound by a duty of confidentiality to the Corporation, the Partnership, the OP, any Partner or any Affiliate of any of the foregoing; (v) any party to the extent that the disclosure by such party of information otherwise determined to be confidential is required by applicable law (foreign or domestic) or legal process (including pursuant to an arbitration proceeding), or by any federal, state, local or foreign regulatory body with jurisdiction over such party; (vi) disclosures made in connection with any lawsuit initiated to enforce any rights granted under this Agreement; or (vii) the disclosure of confidential information to rating agencies to the extent such disclosure is required by such rating agencies; provided, that prior to disclosing such confidential information, a party shall, to the extent permitted by applicable law, notify the Corporation thereof, which notice shall include the basis upon which such party believes the information is required to be disclosed. Notwithstanding the foregoing or anything to the contrary herein, in no event shall this Section 7.12(c) permit any Partner to disclose the identity of, or any account details relating to, any other Partner (or any other investor in any the Corporation, the OP, the Partnership or any of their respective Affiliates), without the prior written consent of the Corporation (which may be given or withheld in the Corporation's sole discretion) unless the applicable Partner delivers to the Corporation a written opinion of counsel to such Partner (which opinion and counsel shall be reasonably acceptable to the Corporation) to the effect that such disclosure is required under applicable law.
+
+\(d\) To the extent that a Partner is subject to the United States Freedom of Information Act or any similar public disclosure or public records act statutes: (i) such Partner acknowledges the Corporation's and the Corporation's position that the information intended to be protected by the provisions of Sections 7.12(a) and 7.12(b) constitutes or includes sensitive financial data, proprietary data, commercial and financial information and/or trade secrets that are being provided to and/or entered into with such Partner with the specific understanding that such documents and information will remain confidential; (ii) the Corporation advises such Partner that the documents and information intended to be protected by the provisions of Sections 7.12(a) and 7.12(b) would not be supplied to such Partner without an understanding that such documents and information will be held and treated by such Partner as confidential information; and (iii) to the extent that such Partner is nevertheless required to disclose any such confidential information, (A) such Partner shall, unless legally prohibited, give the Corporation prior notice of any such required disclosure and (B) such Partner shall in any event maintain the confidentiality of the Corporation's information (including this Agreement) to at least the same extent as, and in a manner no less favorable to the Corporation, the Partnership and the OP than the manner in which, it maintains the confidentiality of comparable information in respect of any other private investment vehicles in which such Partner invests (whether such vehicles are focused on private investments, public investments or otherwise). Notwithstanding the foregoing or anything to the contrary herein, in no event shall this Section 7.12(d) permit any Partner to disclose the identity of, or any account details relating to, any other Partner (or any other investor in any other Affiliate of the Corporation, the Partnership or the OP), without the prior written consent of the Corporation (which may be given or withheld in the Corporation's sole discretion) unless such Partner delivers to the Corporation a written opinion of counsel to such Partner (which opinion and counsel shall be reasonably acceptable to the Corporation) to the effect that such disclosure is required under applicable law.
+
+\(e\) The Corporation, the Partnership and the OP shall be entitled to enforce the obligations of each Partner under this Section 7.12 to maintain the confidentiality of the information described herein. The remedies provided for in this Section 7.12 are in addition to and not in limitation of any other right or remedy of the Corporation or the Corporation provided by law or equity, this Agreement or any other agreement entered into by or among one or more of the Partners and/or the Corporation. Each Partner expressly acknowledges that the remedy at law for damages resulting from
+
+G-20
+
+#####  {#section-18 align="left"}
+
+a breach of this Section 7.12 may be inadequate and that the Corporation, the Partnership and the OP shall be entitled to institute an action for specific performance of a Partner's obligations hereunder. The Corporation shall be entitled to consider the different circumstances of different Partners with respect to the restrictions and obligations imposed on Partners hereunder to the full extent permitted by law, and, to the full extent permitted by law, the Corporation may, in its good faith discretion, waive or modify such restrictions and obligations with respect to a Partner without waiving or modifying such restrictions and obligations for other Partners.
+
+\(f\) In addition, to the full extent permitted by law, each Partner agrees to indemnify (i) the Corporation, the Partnership and the OP, (ii) any Person made, or threatened to be made, a party to a proceeding by reason of its status as a manager, member, director, officer, employee, agent or representative of the Corporation, the Partnership or the OP, and (iii) such other Persons (including Affiliates, employees or agents of the Corporation, the Partnership or the OP) as the Corporation, the Partnership and the OP may designate from time to time (whether before or after the event giving rise to potential liability) against any claim, demand, controversy, dispute, cost, loss, damage, expense (including attorneys' fees), judgment and/or liability incurred by or imposed upon the Corporation or any such indemnified Person in connection with any action, suit or proceeding (including any proceeding before any administrative or legislative body or agency), to which the Corporation or any such indemnified Person may be made a party or otherwise involved or with which the Corporation or any such indemnified Person shall be threatened, by reason of the Partner's obligations (or breach thereof) set forth in this Section 7.12.
+
+\(g\) Notwithstanding any other provision of this Agreement (including this Section 7.12), a Partner may disclose any confidential information otherwise subject to the confidentiality obligations of this Section 7.12 to any federal, state, local or foreign regulatory or self-regulatory body or any securities exchange or listing authority to the extent required or requested by such body, exchange or authority, or as necessary and appropriate in connection with filings, or as otherwise legally required. Notwithstanding anything to the contrary herein, each Partner and assignee (and each employee, representative, or other agent of such Partner or assignee, as applicable) may disclose to any and all Persons, without limitation of any kind, the tax treatment and tax structure of (x) the Corporation, the OP, the Partnership and their Affiliates and (y) any of their transactions, and all materials of any kind (including opinions or other tax analyses) that are provided to the Partners relating to such tax treatment and tax structure.
+
+Section 7.13 OP Agreement. To the extent this Agreement imposes obligations upon the OP or a partner thereof, this Agreement shall be treated as part of the "partnership agreement" of the OP as described in section 761(c) of the Code and sections 1.704-1(b)(2)(ii)(h) and 1.761-1(c) of the Treasury Regulations.
+
+Section 7.14 Joinder. The Corporation hereby agrees that, to the extent it acquires a general partner interest, managing member interest or similar interest in any Person after the date hereof, it shall cause such Person to execute and deliver a joinder to this Agreement promptly upon acquisition of such interest, and such person shall be treated in the same manner as the OP for all purposes of this Agreement. The Corporation hereby agrees to cause any Corporate Entity that acquires an interest in the OP (or any entity described in the foregoing sentence) to execute a joinder to this Agreement (to the extent such Person is not already a party hereto) promptly upon such acquisition, and such Corporate Entity shall be treated in the same manner as the Corporation for all purposes of this Agreement. The OP shall have the power and authority (but not the obligation) to permit any Person who becomes a limited partner in the OP to execute and deliver a joinder to this Agreement promptly upon acquisition of limited partnership interests in the OP by such Person, and such Person shall be treated as a "Partner" for all purposes of this Agreement.
+
+G-21
+
+#####  {#section-19 align="left"}
+
+Section 7.15 Headings. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning hereof.
+
+\[Signature page follows\]
+
+G-22
+
+#####  {#section-20 align="left"}
+
+IN WITNESS WHEREOF, the Corporation, the OP, and the Partners have duly executed this Agreement as of the date first written above.
+
+Perella Weinberg Partners
+
+By:
+
+Name:
+
+Title:
+
+PWP Holdings LP
+
+By:
+
+Name:
+
+Title:
+
+PWP Professional Partners LP
+
+By:
+
+Name:
+
+Title:
+
+\[ Signatures Continue in Counterpart \]
+
+G-23
+
+#####  {#section-21 align="left"}
+
+  -------------------------------- -- --
+
+  \[Partners -- to be inserted\]      
+  -------------------------------- -- --
+
+By:
+
+Name:
+
+Title:
+
+G-24
+
+#####  {#section-22 align="left"}
+
+Exhibit A
+
+## JOINDER
+
+Perella Weinberg Partners, a Delaware corporation (the "Corporation"), has entered into that certain Tax Receivable Agreement by and among the Corporation, PWP Holdings LP, a Delaware limited partnership (the "OP"), PWP Professional Partners LP, a Delaware limited partnership (the "Partnership"), and each of the Partners (as defined therein), dated as of \[•\], 2021 (as amended or supplemented, the "Tax Receivable Agreement"). The undersigned ("New Partner") is required to execute this Joinder pursuant to Section 7.06(a)(i) of the Tax Receivable Agreement for the purposes of such person agreeing to become a "Partner" for all purposes of the Tax Receivable Agreement and to be bound by and fully comply with the terms of the Tax Receivable Agreement. The New Partner has agreed to execute this Joinder in consideration of the receipt of his, her or its Class A Units (as defined in the Tax Receivable Agreement).
+
+NOW, THEREFORE, the New Partner hereby agrees to (a) become a party to the Tax Receivable Agreement with all right, title and interest as, and all obligations of, a "Partner" (as defined in the Tax Receivable Agreement) for all purposes of the Tax Receivable Agreement and (b) be bound by and fully comply with the terms of the Tax Receivable Agreement. The New Partner's notice address for purposes of Section 7.01 of the Tax Receivable Agreement is:
+
+  ------------
+  Address:
+
+  Phone:
+  Email:
+  Attention:
+  ------------
+
+G-25
+
+#####  {#section-23 align="left"}
+
+IN WITNESS WHEREOF, the New Partner has executed this Joinder, this  day of , .
+
+\[New Partner\]
+
+By:
+
+Name:
+
+Title:
+
+*Signature Page to Tax Receivable Agreement*
+
+G-26
+
+#####  {#section-24 align="left"}
+
+Exhibit B
+
+**JOINDER**
+
+Perella Weinberg Partners, a Delaware corporation (the "Corporation"), has entered into that certain Tax Receivable Agreement by and among the Corporation, PWP Holdings LP, a Delaware limited partnership (the "OP"), PWP Professional Partners LP, a Delaware limited partnership (the "Partnership"), and each of the Partners (as defined therein), dated as of \[•\], 2021 (as amended or supplemented, the "Tax Receivable Agreement"). The undersigned ("Assignee") is required to execute this Joinder pursuant to Section 7.06(a)(ii) of the Tax Receivable Agreement for the purposes of such person agreeing to be bound by Section 7.12 of the Tax Receivable Agreement and acknowledging specifically the second paragraph in Section 7.06 of the Tax Receivable Agreement and to be bound by and fully comply with the terms of the Tax Receivable Agreement. The Assignee has agreed to execute this Joinder in consideration of the receipt of certain payments under the Tax Receivable Agreement.
+
+NOW, THEREFORE, the Assignee hereby agrees to (a) become a party to the Tax Receivable Agreement and (b) be bound by and fully comply with the terms of the Tax Receivable Agreement, including to be bound by Section 7.12 of the Tax Receivable Agreement. The Assignee also hereby expressly acknowledges the second paragraph in Section 7.06 of the Tax Receivable Agreement. The Assignee's notice address for purposes of Section 7.01 of the Tax Receivable Agreement is:
+
+  ------------
+  Address:
+
+  Phone:
+  Email:
+  Attention:
+  ------------
+
+G-27
+
+#####  {#section-25 align="left"}
+
+IN WITNESS WHEREOF, the Assignee has executed this Joinder, this  day of , .
+
+\[Assignee\]
+
+By:
+
+Name:
+
+Title:
+
+G-28
+
+#####  {#section-26 align="left"}
+
+Schedule I
+
+[\[List Partners\]]{.underline}
+
+G-29
+
+#####  {#section-27 align="left"}

@@ -1,0 +1,45 @@
+---
+title: "Olaplex Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Olaplex Holdings, Inc."]
+CIKs: ["0001868726"]
+status: Terminated
+creation-date: 2021-09-29
+termination-date: 2026-03-26
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via March 26, 2026 Limited Waiver and Amendment contingent on
+  Henkel merger close; Advent funds waived all remaining payments,
+  Non-Waiving Parties to receive $14.82M aggregate at merger close
+  (approximately 9% of $165M carrying value). Reverts to in-force if
+  merger agreement terminates.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2021-09-13: S-1 files the form-of Income Tax Receivable Agreement as Exhibit 10.3 (85% sharing of cash tax savings from Pre-IPO Tax Assets and imputed interest)
+- 2021-09-29: IPO closes; TRA executed between Olaplex Holdings and the Pre-IPO Stockholders (Advent funds via Penelope Group Holdings, plus named individuals); initial $232.9M payable recorded
+- 2021-11-10: Q3 2021 10-Q files the executed TRA as Exhibit 10.2
+
+#### Annual payments
+
+- 2022: $16.5M payment
+- 2023: $16.6M payment
+- 2024: $12.6M payment
+- 2025: $12.1M payment; year-end carrying value $165.1M
+
+#### Henkel merger and TRA termination
+
+- 2026-03-26: Limited Waiver and Amendment executed concurrent with the Henkel merger agreement; inserts new Section 4.01(f) automatically terminating the TRA at the merger Effective Time, with the Advent funds and named individuals (TRA Waiving Parties) irrevocably waiving all remaining payments and a $14,822,247.50 aggregate payment to Non-Waiving TRA Parties at close in lieu of the Section 4.01(d) Change-of-Control formula (Schedule A per-recipient amounts redacted)
+
+## Explanation
+
+Olaplex Holdings, Inc. completed a traditional IPO on September 29, 2021 and executed an Income Tax Receivable Agreement at closing obligating PubCo to pay 85% of cash tax savings on the Pre-IPO Tax Assets (basis step-ups and related attributes from the Pre-IPO Reorganization) plus imputed interest, to the former limited partners of Penelope Group Holdings (principally Advent International funds) and a roster of named individual holders of vested equity awards. The contract paid $57.8M cumulative cash through year-end 2025 against an initial $232.9M payable. In connection with Henkel's announced acquisition, Olaplex and the TRA parties signed a Limited Waiver and Amendment on March 26, 2026 inserting a new Section 4.01(f) automatically terminating the TRA at the merger Effective Time; the Advent funds (majority of TRA economics) waived all remaining payments, and $14.82M aggregate goes to Non-Waiving Parties in lieu of the Section 4.01(d) formula (approximately 9% of the $165.1M carrying value). The termination is contingent on Henkel close; if the merger agreement terminates, the Waiver and Amendment is null and void ab initio and the TRA continues in force. See `contract_log.md` for the full filing-by-filing record.

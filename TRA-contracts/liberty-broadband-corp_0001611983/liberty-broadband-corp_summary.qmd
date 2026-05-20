@@ -1,0 +1,42 @@
+---
+title: "Liberty Broadband Corporation TRA (Beneficiary at GCI Liberty)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Liberty Broadband Corporation", "GCI Liberty, Inc."]
+CIKs: ["0001611983", "0002047008"]
+status: Ongoing
+creation-date: 2025-07-14
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "100%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: Spin-off
+counterparty-type: Other
+notes: >-
+  100% of Excess Realized Tax Benefit on 338(h)(10)/336(e)-election
+  step-up; LBRD expects no payment unless GCI Divestiture cash tax tops
+  $420M. Charter Parent TRA Joinder pending at Combination close.
+---
+
+## TRA Timeline
+
+#### Combination framework and TRA design
+
+- 2024-11-12: Charter-LBRD Merger Agreement signed; framework contemplates a separately-executed GCI TRA with Charter joining as beneficiary post-close
+- 2025-01-22: DEFM14A discloses the $420M threshold negotiated between Charter and LBRD as the trigger for any TRA payment
+
+#### GCI Liberty spin-off and TRA execution
+
+- 2025-06-19: Separation and Distribution Agreement attaches form-of TRA as Exhibit H; Section 7.12 sets up the Parent TRA Joinder mechanic
+- 2025-07-14: GCI Liberty spin-off completes at 4:30 p.m. NY time; TRA executed between LBRD (beneficiary) and GCI Liberty (Nevada SpinCo, obligor)
+- 2025-07-15: 8-K files the executed TRA as Exhibit 10.2
+
+#### Post-spin status and pending joinder
+
+- 2026-02-05: 2025 10-K confirms GCI Divestiture corporate-level tax liability estimated significantly less than $420M; no TRA receivable recognized
+- 2026-04-28: Q1 2026 10-Q confirms Charter-LBRD Combination still pending; Parent TRA Joinder unexecuted
+
+## Explanation
+
+Liberty Broadband is the beneficiary under a single TRA executed on July 14, 2025, concurrent with the spin-off of GCI Liberty, Inc. (Nevada SpinCo) from LBRD; SpinCo, the obligor, pays LBRD 100% of the Excess Realized Tax Benefit attributable to basis step-ups arising from joint Section 338(h)(10) and protective Section 336(e) elections that the parties made on the Contribution and Distribution. The economic significance turns on a $420M threshold negotiated during the Charter-LBRD Combination talks: only cash tax payable on the GCI Divestiture in excess of $420M flows through the TRA, and the LBRD 2025 10-K discloses that management expects the actual liability to be significantly below that level, so the TRA is in force legally but is expected to yield no payment. The Charter-LBRD Combination (Merger Agreement dated November 12, 2024) contemplates Charter assuming LBRD's beneficiary position via a Parent TRA Joinder effective immediately after the Merger Closing, but as of the most recent filing reviewed (May 14, 2026), the Combination remains pending and the joinder has not been executed. See `contract_log.md` for the full filing-by-filing record.

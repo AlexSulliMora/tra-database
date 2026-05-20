@@ -1,0 +1,32 @@
+---
+title: "Viant Technology Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Viant Technology Inc."]
+CIKs: ["0001828791"]
+status: Ongoing
+creation-date: 2021-02-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "FY2025 marked the first year Viant recorded a TRA liability ($12.4M) after concluding it was more likely than not that the underlying deferred tax assets would be realized; valuation allowance released, $10.9M TRA expense recognized."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-02-02: Form-of TRA (Exchanges) filed as Exhibit 10.2 to S-1/A
+- 2021-02-09: Up-C IPO closes; executed Tax Receivable Agreement (Exchanges) dated February 9, 2021 paying 85% of net cash tax savings on Section 754 basis step-ups from future LLC Unit exchanges by the Vanderhook Parties and Viant Technology Equity Plan LLC (10-K Exhibit 10.3, filed March 23, 2021)
+
+#### First liability recognition
+
+- 2025-12-31: FY2025 10-K records first TRA liability of $12.4M and a $10.9M TRA expense following valuation-allowance release; status remains in force
+
+## Explanation
+
+Viant Technology Inc. executed an 85% Up-C Tax Receivable Agreement (Exchanges) at its February 9, 2021 IPO close, paying the continuing LLC members (the Vanderhook Parties and the Viant Technology Equity Plan LLC) 85% of net cash tax savings on Section 754 basis step-ups arising from future exchanges of LLC Units for Class A common stock. From 2021 through FY2024 Viant held a full valuation allowance on the underlying deferred tax assets and disclosed an unrecorded TRA liability rising from $10.3M to $11.2M. In FY2025 Viant concluded it was now more likely than not that the deferred tax assets would be realized, released the valuation allowance, and recorded a $12.4M TRA liability with a $10.9M TRA expense; this is a payment-status transition, not a contract-life-cycle event. No amendments, restatements, or terminations have been filed. See `contract_log.md` for the full filing record and the credit-agreement and LLC-agreement amendment carve-outs.

@@ -1,0 +1,38 @@
+---
+title: "Rani Therapeutics Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rani Therapeutics Holdings, Inc."]
+CIKs: ["0001856725"]
+status: Terminated
+creation-date: 2021-08-03
+termination-date: 2025-12-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Zero-payment termination; no liability was ever recorded (full valuation
+  allowance, no Paired Interest exchanges generated tax benefits). Termination
+  agreement not filed as a separate EDGAR exhibit.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-16: S-1/A files form-of TRA as exhibit 10.1
+- 2021-08-03: Up-C IPO closes; TRA executed between Rani Therapeutics Holdings, Inc. and the Continuing LLC Owners of Rani Therapeutics, LLC, paying 85% of cash tax savings on Section 754 basis step-ups and imputed interest
+- 2022-03-31: First 10-K files the executed TRA as exhibit 10.1
+
+#### Termination and release
+
+- 2025-12-31: Tax Receivable Agreement Termination and Release Agreement signed between Rani Holdings and InCube Labs (acting on behalf of all TRA Parties); mutual release of all obligations with no payment owed
+- 2026-01-02: 8-K discloses the termination under Item 1.02; signed agreement is not attached as an EDGAR exhibit
+- 2026-03-26: 10-K confirms the termination in narrative disclosure
+
+## Explanation
+
+Rani Therapeutics' Up-C IPO on August 3, 2021 created a TRA paying 85% of cash tax savings from Section 754 basis step-ups (and imputed interest) to the Continuing LLC Owners on future Redemptions or Direct Exchanges of Class A Common Units. No amendments followed and no Paired Interest exchanges occurred during the contract's life, so no liability was ever recorded under a full valuation allowance. The TRA was terminated December 31, 2025 via a standalone Termination and Release Agreement with InCube Labs (acting for all TRA Parties), executed concurrent with a private placement and governance restructuring; the agreement was a zero-dollar mutual release rather than a substituted termination payment. The signed termination instrument was not filed as a separate EDGAR exhibit; its terms are established by the January 2, 2026 8-K narrative and the March 26, 2026 10-K disclosure. See `contract_log.md` for the full filing-by-filing record and the manual-verification flag on the missing termination exhibit.

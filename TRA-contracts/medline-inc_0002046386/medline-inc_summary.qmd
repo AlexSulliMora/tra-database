@@ -1,0 +1,40 @@
+---
+title: "Medline Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Medline Inc."]
+CIKs: ["0002046386"]
+status: Ongoing
+creation-date: 2025-12-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Sponsor Parties: Blackstone, Carlyle, Hellman & Friedman; also Mills
+  family, Platinum Falcon, Hux Investment. Mar 2026 secondary offering
+  added $479M; Mar 28 2026 liability $4,021M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-11-04: Form-of TRA first filed as S-1/A Exhibit 10.2
+- 2025-12-16: TRA executed at IPO close among Medline Inc., Medline Holdings LP, the Sponsor Parties (Blackstone, Carlyle, Hellman & Friedman), the Mills family vehicles, Platinum Falcon, Hux Investment, and additional named TRA Parties
+- 2025-12-17: Medline IPOs on Nasdaq under MDLN
+- 2025-12-22: 8-K Item 1.01 files the executed TRA as Exhibit 10.2
+
+#### Post-IPO balance evolution
+
+- 2025-12-31: First 10-K records initial TRA liability of $3,542M
+- 2026-Q1: March 2026 secondary resale offering triggers additional Continuing Unitholder exchanges, adding $479M to the TRA liability
+- 2026-03-28: Liability $4,021M ($12M current + $4,009M noncurrent)
+- 2026-Q1: Permitted-transferee assignments under Section 7.6 reshuffle ~$1.4B of TRA receivables among pre-IPO owners without modifying the contract
+
+## Explanation
+
+Medline Inc. executed the TRA on December 16, 2025 concurrent with its December 17 Up-C IPO on Nasdaq, agreeing to pay 90% of cash tax savings (above the more common 85% rate) to the Sponsor Parties (Blackstone, Carlyle, Hellman & Friedman), the Mills family vehicles, Platinum Falcon, Hux Investment, and other named TRA Parties on four attribute categories: Medline Inc.'s allocable share of existing tax basis in Medline Holdings assets acquired at IPO, increases in that allocable share and basis adjustments from Common Unit exchanges, pre-IPO tax basis acquired through the Blocker Transfers, and imputed interest on TRA payments. The initial liability of $3,542M at December 31, 2025 grew to $4,021M at March 28, 2026 after the March 2026 secondary resale offering triggered additional Continuing Unitholder exchanges adding $479M; certain pre-IPO owners separately assigned approximately $1.4B of their TRA receivables to other pre-IPO owners under the Section 7.6 permitted-transferee mechanic, which reshuffles the beneficiary roster without modifying the contract. The TRA remains in force; no payments, remeasurements, amendments, or terminations have occurred. See `contract_log.md` for the full filing-by-filing record.

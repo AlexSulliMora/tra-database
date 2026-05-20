@@ -1,0 +1,39 @@
+---
+title: "Silvercrest Asset Management Group TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Silvercrest Asset Management Group Inc."]
+CIKs: ["0001549966"]
+status: Ongoing
+creation-date: 2013-06-26
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Executed TRA never separately filed; incorporated by reference to the April 19
+  2013 S-1/A form-of. Origin date verified via later employment agreements that
+  cite the June 26, 2013 TRA. Cortina (2019) and Jamison (2015) M&A added Class B
+  Unit beneficiaries via the existing TRA without amendment.
+---
+
+## TRA Timeline
+
+#### Up-C reorganization and TRA execution
+
+- 2012-11-13: Earlier form-of TRA filed with S-1/A for a 2012 IPO that did not consummate
+- 2013-04-19: Refreshed form-of TRA filed with the 2013 S-1/A; this is the form executed at reorganization
+- 2013-06-26: Corporate reorganization closes and TRA executed at 85% sharing rate with Silvercrest L.P. principals as Class B Unit holders
+- 2013-07-02: IPO closes on NASDAQ under SAMG
+
+#### Beneficiary additions via M&A (no amendment required)
+
+- 2015-03-30: Jamison, Eaton & Wood asset acquisition; mixed cash and Class B Unit consideration, with Class B Units automatically covered by the existing TRA
+- 2019-07-01: Cortina Asset Management acquisition closes; ~20% of consideration in Class B Units to Cortina principals, again folded into the existing TRA beneficiary group
+
+## Explanation
+
+Silvercrest Asset Management Group Inc. executed a single Tax Receivable Agreement on June 26, 2013 at its Up-C reorganization, with the IPO closing six days later on July 2, 2013. The contract pays 85% of cash tax savings to Silvercrest L.P. principals from Section 754 basis step-ups on Class B Unit exchanges, pre-IPO net operating losses and other tax assets, plus imputed interest deductions. No amendment, restatement, or termination instrument has been filed across the 2013-2026 window. Two M&A transactions (Jamison in 2015 and Cortina in 2019) added Class B Unit holders to the beneficiary group via the standard Up-C drop-down mechanism the TRA contemplated from inception, without requiring an amendment. The TRA remains in force as of the FY2024 10-K and continues to generate small periodic payments triggered by ongoing Class B-to-Class A exchanges. See `contract_log.md` for the form-of texts and the M&A drop-down treatment.

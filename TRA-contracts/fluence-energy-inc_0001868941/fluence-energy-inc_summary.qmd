@@ -1,0 +1,36 @@
+---
+title: "Fluence Energy, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Fluence Energy, Inc."]
+CIKs: ["0001868941"]
+status: Ongoing
+creation-date: 2021-10-27
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries are Siemens Industry, Inc. and AES Grid Stability, LLC (the "Founders").
+  Only $0.3M cumulative paid through FY2025; the Company has concluded TRA payments are
+  not probable given projected inability to fully utilize related tax benefits.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-10-19: Form-of TRA filed as Exhibit 10.1 to S-1/A
+- 2021-10-27: Executed TRA dated October 27, 2021; filed as Exhibit 10.2 to IPO 8-K on November 1, 2021
+
+#### Beneficiary redemptions (contract events, not amendments)
+
+- 2022-06-30: Siemens Industry, Inc. redeems all 58,586,695 of its LLC Interests; first triggering event for basis step-ups under the TRA
+- 2023-12-08: AES Grid Stability redeems 7,087,500 LLC Interests in connection with the December 2023 secondary offering
+
+## Explanation
+
+Fluence Energy, Inc. went public on October 27, 2021 in an Up-C IPO and committed to pay its two Founder beneficiaries, Siemens Industry, Inc. and AES Grid Stability, LLC, 85% of cash tax savings from Section 754 basis step-ups on exchanges of LLC Units for Class A common stock plus net operating losses, excess interest deductions, and credit carryforwards attributable to such items. Both Founders subsequently exercised redemption rights (Siemens redeemed in full on June 30, 2022; AES redeemed a portion on December 8, 2023), generating the basis step-ups that define the Covered Tax Assets. Despite these triggering events, only $0.3 million of cumulative TRA payments have been recognized through FY2025 because the Company has concluded payments under the TRA are not probable given a projected inability to fully utilize the related tax benefits; hypothetical full-utilization payments would equal approximately $117M. The TRA remains legally in force with no amendments or terminations on file. See `contract_log.md` for the full filing-by-filing record.

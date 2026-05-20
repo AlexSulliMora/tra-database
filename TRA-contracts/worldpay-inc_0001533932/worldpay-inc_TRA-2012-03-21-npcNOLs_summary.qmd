@@ -1,0 +1,45 @@
+---
+title: "Worldpay, Inc. TRA (TRA-2012-03-21-npcNOLs)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vantiv, Inc.", "Worldpay, Inc.", "Fidelity National Information Services, Inc.", "Fifth Third Bancorp"]
+CIKs: ["0001533932", "0001533932", "0001136893", "0000035527"]
+status: Unknown
+creation-date: 2012-03-21
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-03-21-advent", "TRA-2012-03-21-fifthThird", "TRA-2012-03-21-jpdn", "TRA-2014-05-12-mercury"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Advent and JPDN portions terminated 2013-10-23; Fifth Third's residual share
+  survived through the July 31, 2019 FIS acquisition. Section 197 NPC intangibles
+  amortization tagged as Basis Step-Up per skill convention.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-05: Form-of TRA filed as Exhibit 10.33 to S-1/A Amendment No. 5.
+- 2012-03-21: Vantiv Up-C IPO closes; TRA executed between Vantiv, Inc., Fifth Third Bank, FTPS Partners, LLC, the Advent Stockholders, Advent International Corporation, and JPDN Enterprises, LLC; 85% of Realized Tax Benefits on NPC Group, Inc.'s pre-IPO NOLs, capital losses, charitable deductions, AMT credit carryforwards, and Section 197 intangible amortization.
+- 2012-05-08: Executed TRA filed as Exhibit 10.9 to Q1 2012 10-Q.
+
+#### Partial terminations (Advent and JPDN exits)
+
+- 2013-10-23: Advent Termination Agreement releases Advent's portion; JPDN Termination Agreement releases JPDN's portion. Fifth Third's share remains in force.
+
+#### Fifth Third settlement structure
+
+- 2015-10-23: Tax Receivable Purchase Addendum settles Fifth Third's portion of the NPC NOLs for 2016 and thereafter (jointly with the Fifth Third basis-step-up TRA).
+- 2016-07-27: Second Tax Receivable Purchase Addendum extends call/put settlement to Pre-IPO NPC Intangibles for 2017 and thereafter.
+
+#### FIS acquisition
+
+- 2019-07-31: FIS acquires Worldpay; Fifth Third's residual NPC NOLs TRA interest survives the merger at the FIS-subsidiary level.
+
+## Explanation
+
+This TRA covers Vantiv subsidiary NPC Group, Inc.'s pre-IPO tax attributes: NOLs, capital losses, charitable deductions, AMT credit carryforwards, and Section 197 amortization of pre-IPO acquired intangibles. The three pre-IPO investor groups (Fifth Third, Advent, JPDN) share at percentages tied to their pre-IPO Vantiv Holding ownership, with Vantiv paying 85% of Realized Tax Benefits across all covered attributes. The contract partially terminated on October 23, 2013 when Advent and JPDN exited via the same termination instruments that settled their separate basis-step-up TRAs; Fifth Third's share remained in force and was subsequently settled in stages via the October 2015 and July 2016 Tax Receivable Purchase Addendums (cap-and-release and call/put structures jointly with the Fifth Third basis-step-up TRA). Worldpay's 2018 10-K aggregates Fifth Third's residual NPC NOLs interest with the Fifth Third basis-step-up TRA on the same "TRA with Fifth Third Bank" line. The Fifth Third residual interest survived Worldpay's July 31, 2019 acquisition by FIS; status is Unknown pending FIS post-close disclosure. See `contract_log.md` for the parallel-TRA mapping and the full filing-by-filing record.

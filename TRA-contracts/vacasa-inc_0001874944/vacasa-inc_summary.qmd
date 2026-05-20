@@ -1,0 +1,33 @@
+---
+title: "Vacasa, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vacasa, Inc.", "TPG Pace Solutions Corp."]
+CIKs: ["0001874944", "0001874944"]
+status: Terminated
+creation-date: 2021-12-06
+termination-date: 2025-04-30
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: "Terminating amendment waived the Early Termination Payment in full (zero TRA-side consideration) conditional on the Casago Holdings going-private merger close."
+---
+
+## TRA Timeline
+
+#### Up-C SPAC close and TRA execution
+
+- 2021-12-06: TPG Pace Solutions / Vacasa Holdings business combination closes; original Tax Receivable Agreement executed at 85%, covering Exchange and Reorganization Covered Tax Assets plus certain NOL carryforwards (8-K)
+- 2022-03-01: First post-close 10-K records full valuation allowance on U.S. deferred tax assets; no TRA liability recognized
+
+#### Casago going-private and TRA termination
+
+- 2024-12-30: Amendment No. 1 to TRA executed concurrent with the Casago Merger Agreement, inserting a new Section 4.4 that terminates the TRA upon merger close with the Early Termination Payment waived (8-K)
+- 2025-04-30: Casago Holdings merger closes; the TRA terminated in full with zero TRA-side consideration; Vacasa delisted from Nasdaq effective May 1, 2025 (8-K Item 1.02)
+
+## Explanation
+
+Vacasa, Inc. became the public managing member of Vacasa Holdings LLC via the TPG Pace Solutions Up-C SPAC business combination that closed December 6, 2021, and at the same close it executed an 85% Tax Receivable Agreement with the pre-merger LLC unitholders, Blocker owners, and other Exchange and Reorganization TRA Parties (Silver Lake / SLP Venice, Riverwood Capital, Level Equity, Travel + Leisure, and other named holders). Vacasa carried a full U.S. valuation allowance throughout its public life and never recognized a TRA liability. On December 30, 2024 Vacasa signed an Agreement and Plan of Merger with Casago Holdings, LLC and concurrently executed Amendment No. 1 to the TRA inserting a new Section 4.4 that automatically terminated the TRA upon merger close with the Early Termination Payment waived in full (no negotiated consideration substituted). The merger closed April 30, 2025 and the TRA terminated that day. See `contract_log.md` for the amendment text, the rejected Davidson Kempner competing bid, and a full filing-by-filing record.

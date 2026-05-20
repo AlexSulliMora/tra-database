@@ -1,0 +1,38 @@
+---
+title: "DynaVox Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["DynaVox Inc."]
+CIKs: ["0001479426"]
+status: Unknown
+creation-date: 2010-04-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Liability written to $0 in Q3 FY2013 on full valuation allowance.
+  October 18, 2013 amendment scopes out CoC acceleration; text
+  referenced in FY2013 10-K but not exhibited. No filings after FY2013;
+  firm deregistered and assets later sold to Tobii AB (2014).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2010-03-19: Form-of TRA first filed as Ex 10.3 to S-1/A No. 2 (unexecuted)
+- 2010-04-21: Up-C IPO closes; TRA executed
+- 2010-04-27: Executed TRA filed as Ex 10.3 to IPO close 8-K (Item 1.01)
+
+#### Economic extinguishment and CoC amendment
+
+- 2013-05-17: Q3 FY2013 10-Q records $43.9M write-down of TRA liability to zero following full valuation allowance on deferred tax assets
+- 2013-09-26: FY2013 10-K confirms $0 liability and discloses subsequent-event TRA amendment effective 2013-10-18 scoping out the change-of-control acceleration (amendment text not exhibited)
+
+## Explanation
+
+DynaVox Inc. executed its Tax Receivable Agreement at the April 21, 2010 Up-C IPO close, with DynaVox Systems Holdings LLC and the pre-IPO Members as counterparties. The contract pays 85% of realized tax benefits from Section 754 basis step-ups arising from exchanges of Holdings Units for Class A common stock, with the standard Early Termination and change-of-control acceleration provisions. The TRA was economically extinguished in Q3 fiscal 2013 when DynaVox placed a full valuation allowance on its deferred tax assets, writing the $43.9M liability down to zero; the contract remained legally in force. The FY2013 10-K discloses a subsequent-event amendment effective October 18, 2013 that scopes out the original Section 4.03 change-of-control acceleration so that a change of control (other than liquidation/dissolution) extinguishes the TRA with no payment owed; the amendment text was not exhibited and is not in the directory. No filings after FY2013 are available (the firm deregistered its Class A stock and its assets were later sold to Tobii AB in 2014); status is `Unknown` because the TRA's ultimate fate cannot be confirmed from filings on hand. See `contract_log.md` for the full filing-by-filing record and the coverage gap discussion.

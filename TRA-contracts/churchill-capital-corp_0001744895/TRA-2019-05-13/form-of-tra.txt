@@ -1,0 +1,1231 @@
+SOURCE: Exhibit 2.1 (Agreement and Plan of Merger) to 8-K filed 2019-01-15
+Filer CIK: 0001744895 (Churchill Capital Corp)
+Accession: 0001144204-19-001664
+Exhibit E of the Merger Agreement: Form of Tax Receivable Agreement
+Status: FORM-OF (unexecuted); preamble date blank ("dated as of [________], 2019")
+TRA Company: Camelot Holdings (Jersey) Limited (later post-merger subsidiary of Clarivate Analytics PLC)
+TRA Party Representative: Onex Partners IV LP
+TRA Parties: parties listed on Schedule A ([To come] in the form-of)
+Payment percentage: 85% of Realized Tax Benefits
+Covered Tax Assets: Basis Assets, NOLs of the Company, certain UK/German/Japanese tax attributes (basis-step-up and NOL types only)
+Notes: The executed TRA was entered into prior to merger close (May 13, 2019) per the DEFM14A. The executed document of record lives under Clarivate Analytics PLC's CIK, NOT Churchill Capital Corp's. Churchill was the SPAC acquirer, not the TRA obligor; Churchill was deregistered (Form 15-12B) on 2019-05-24.
+
+==== BEGIN FORM-OF TAX RECEIVABLE AGREEMENT (extracted from Exhibit 2.1) ====
+
+TAX RECEIVABLE AGREEMENT
+
+This TAX RECEIVABLE AGREEMENT (as the same
+may be amended, restated, amended and restated, supplemented or otherwise modified from time to time, this “Agreement”),
+dated as of [________], 2019, is hereby entered into by and among Camelot Holdings (Jersey) Limited, a limited company organized
+under the laws of the Island of Jersey (the “Company”), Onex Partners IV LP, a Cayman Islands exempted limited
+partnership (along with any successor as provided in Section 7.15, the “TRA Party Representative”), and the
+parties listed on Schedule A, as such schedule is amended from time to time (each, a “TRA Party”). Capitalized
+terms used herein have the respective meanings set forth in Section 1.1.
+
+RECITALS
+
+WHEREAS, the TRA Parties as of the date
+hereof are record owners of all of the ordinary shares in the capital of the Company;
+
+WHEREAS, after the date hereof, the Company
+and its Subsidiaries (the “Company Group”) will be entitled to utilize certain Tax assets, Tax deductions or
+other Tax attributes (as more fully described herein, the “Covered Tax Assets”);
+
+WHEREAS, the income, gain, loss, expenses,
+deductions and other Tax items of the Company Group may be affected by the Covered Tax Assets; and
+
+WHEREAS, the Company has agreed to make
+payments to the TRA Parties in respect of the aggregate reduction in Taxes payable by the Company Group as a result of the utilization
+(or deemed utilization) of the Covered Tax Assets on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the
+foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto
+agree as follows:
+
+Article
+I.
+
+DEFINITIONS
+
+Section 1.1        Definitions. As used
+in this Agreement, the terms set forth in this Article I shall have the following meanings (such meanings to be equally applicable
+to both (i) the singular and plural and (ii) the active and passive forms of the terms defined).
+
+“Acquisition” means the
+acquisitions contemplated by that certain Stock and Asset Purchase Agreement, dated July 10, 2016, as amended, among Camelot UK
+Bidco Limited, Thompson Reuters Corporation, Thompson Reuters Global Resources and Thompson Reuters U.S. LLC.
+
+“Actual Tax Liability”
+means, with respect to the Covered Tax Periods for a given calendar year, the Tax liability of the Company Group for such Covered
+Tax Periods, applying the principles in Section 2.2(b) and assuming a U.S. state and local income tax rate equal to the Assumed
+State Rate.
+
+  1 
+
+“Advisory Firm” means
+any law firm or accounting firm mutually selected by the Company and the TRA Party Representative that is nationally recognized
+as being expert in Tax matters and is not an Affiliate of the Company or the TRA Party Representative.
+
+“Advisory Firm Letter”
+means a letter from the Advisory Firm stating that the relevant schedule, notice or other information to be provided by the Company
+to the TRA Parties and all supporting schedules and work papers were prepared in a manner consistent with the terms of this Agreement
+and, to the extent not expressly provided in this Agreement, on a reasonable basis in light of the facts and applicable law in
+existence on the date to which such schedule, notice or other information relates.
+
+“Affiliate” means, with
+respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled
+by, or is under common Control with, such first Person.
+
+“Agreed Rate” means,
+(i) with respect to any applicable period, the highest rate applicable to drawings under any senior revolving credit facility of
+the Company and its Subsidiaries during such period + 100 basis points, (ii) if no rate is available under [clause (i) for the
+applicable period, the highest rate applicable to term loans of the Company and its Subsidiaries during such period + 100 basis
+points, and (iii) if no rate is available under clause (i) or (ii) during such period a rate equal to LIBOR + 400 basis points.
+
+“Agreement” is defined
+in the preamble.
+
+“Amended Schedule” is
+defined in Section 2.3(b) of this Agreement.
+
+“Applicable Percentage”
+means, with respect to a TRA Party, the percentage set forth opposite such TRA Party’s name on Schedule A (as such schedule
+is amended from time to time).
+
+“Approved Assignment”
+is defined in Section 7.15(d) of this Agreement.
+
+“Assumed Rate” means,
+(i) with respect to any applicable period, the highest rate applicable to drawings under any senior revolving credit facility of
+the Company and its Subsidiaries during such period, (ii) if no rate is available under clause (i) for the applicable period, the
+highest rate applicable to term loans of the Company and its Subsidiaries during such period, and (iii) if no rate is available
+under clause (i) or (ii) during such period a rate equal to LIBOR + 300 basis points.
+
+“Assumed State Rate”
+means seven percent (7%); provided, that, if there is a change in applicable state or local tax law that results in a material
+change to the state and local income tax rate of the Company Group, then the Company and the TRA Party Representative shall negotiate
+in good faith to amend the Assumed State Rate to reflect an appropriate rate.
+
+“Basis Assets” means
+any U.S. federal, state, local, and United Kingdom amortization and depreciation deductions, and any reduction of U.S. federal,
+state, local and United Kingdom taxable income and gain, attributable to existing Tax basis in the assets (other than cash, cash
+equivalents and receivables) owned by the Company Group as of the date hereof.
+
+  2 
+
+“Board” means the board
+of directors of the Company or any parent entity of the Company that directly or indirectly owns all of the outstanding shares
+in the capital of the Company.
+
+“Business Day” means
+any day excluding Saturday, Sunday and any day that is a legal holiday under the laws of the State of New York or the United Kingdom
+or is a day on which banking institutions located in New York or London are closed.
+
+“Change Notice” is defined
+in Section 3.4 of this Agreement.
+
+“Change in Control” has
+the meaning given the term “Change in Control” in the Company’s 2016 Equity Incentive Plan (as in effect on the
+date hereof).
+
+“Code” means the U.S.
+Internal Revenue Code of 1986, as amended.
+
+“Company” is defined
+in the preamble of this Agreement.
+
+“Company Group” is defined
+in the preamble of this Agreement.
+
+“Control” means the possession,
+direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership
+of voting securities, by contract or other agreement.
+
+“Covered Tax Assets”
+means, in each case, as applied under U.S. federal, state and local, United Kingdom, German or Japanese Law,
+
+(a)       the
+Basis Assets;
+
+(b)       NOLs
+of the Company and (without duplication) any member of the Company Group existing as of the date of this Agreement;
+
+(c)       Tax
+Credits of the Company and (without duplication) any member of the Company Group existing as of the date of this Agreement;
+
+(d)       deductions
+arising in respect of debt issuance costs, original issue discount, premiums or other costs associated with the Financing Agreements;
+
+(e)       deductions
+in respect of transaction expenses attributable to the Acquisition; and
+
+(f)       deductions
+attributable to Imputed Interest.
+
+  3 
+
+provided that (i) in order to determine whether any item
+described in clauses (a)-(b) is a Covered Tax Asset or a Non-Covered Tax Asset, the Tax Period of a relevant member of the Company
+Group that includes the date hereof (the “Straddle Year”) shall be deemed to end as of the end of the date hereof,
+and, except as otherwise provided below, the Company and the TRA Party Representative shall, acting reasonably, together determine
+the amount of any such item arising in the Straddle Year, or any portion thereof, that is included in the amount of the Covered
+Tax Assets; (ii) Covered Tax Assets shall include any Covered Tax Asset that becomes an NOL following the date of this Agreement
+as a result of such Covered Tax Asset not being fully utilized in the year in which it arises; and (iii) the only German or Japanese
+Tax attributes that shall be included within the term Covered Tax Assets will be German and Japanese Tax attributes described in
+clause (b) above. For the avoidance of doubt, Covered Tax Assets shall only include Tax attributes of the Company Group arising
+or available under U.S. federal, state, local, United Kingdom, German or Japanese Law.
+
+“Covered Tax Benefit”
+for the Covered Tax Periods for a given calendar year means 85% of the Realized Tax Benefits for such calendar year.
+
+“Covered Tax Period”
+means all Tax Periods of any member of the Company Group (beginning with the first Tax Period of such member of the Company Group
+that includes January 1, 2019) that end during the 12-month period ending on December 31 of each calendar year.
+
+“Credit Event” means
+the occurrence of any of the following events:
+
+(a)       an
+involuntary proceeding shall be commenced or an involuntary petition shall be filed seeking (i) liquidation, reorganization or
+other relief in respect of the Company or any of its Subsidiaries or its debts, or of a substantial part of its assets, under any
+U.S. federal, state or non-U.S. bankruptcy, insolvency, receivership or similar law now or hereafter in effect or (ii) the appointment
+of a receiver, trustee, custodian, sequestrator, conservator or similar official for the Company or any of its Subsidiaries or
+for a substantial part of its assets, and, in any such case, such proceeding or petition shall continue undismissed for 60 days
+or an order or decree approving or ordering any of the foregoing shall be entered;
+
+(b)       the
+Company or any of its Subsidiaries shall (i) voluntarily commence any proceeding or file any petition seeking liquidation, reorganization
+or other relief under any U.S. federal, state or non-U.S. bankruptcy, insolvency, receivership or similar law now or hereafter
+in effect, (ii) consent to the institution of, or fail to contest in a timely and appropriate manner, any proceeding or petition
+described in clause (a) above, (iii) apply for or consent to the appointment of a receiver, trustee, custodian, sequestrator, conservator
+or similar official for the Company or any Subsidiary of the Company or for a substantial part of its assets, (iv) file an answer
+admitting the material allegations of a petition filed against it in any such proceeding, (v) make a general assignment for the
+benefit of creditors or (vi) take any action for the purpose of effecting any of the foregoing; or
+
+(c)       the
+Company or any of its Subsidiaries engages in any other action or fails to take any action that constitutes an ‘event of
+default’ under any indebtedness or guarantee having an aggregate principal amount (including undrawn committed or available
+amounts and including amounts owing to all creditors under any combined or syndicated credit arrangement) of more than $10 million
+if such event of default is not waived by the applicable creditor or cured by the Company within 30 days of its occurrence.
+
+  4 
+
+“Credit Event Notice”
+is defined in Section 4.1(c) of this Agreement.
+
+“Determination” shall
+mean (i) a “Determination” as described in Section 1313(a) of the Code and (ii) any event (including the execution
+of a Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+“Early Payment Right”
+is defined in Section 4.1(e) of this Agreement.
+
+“Early Payment Right Notice”
+is defined in Section 4.1(e) of this Agreement.
+
+“Early Termination Date”
+means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+“Early Termination Notice”
+is defined in Section 4.2 of this Agreement.
+
+“Early Termination Option Notice”
+is defined in Section 4.1(d) of this Agreement.
+
+“Early Termination Payment”
+is defined in Section 4.3(b) of this Agreement.
+
+“Early Termination Rate”
+means with respect to any Early Termination Payment, WACC as of the Early Termination Date.
+
+“Early Termination Schedule”
+is defined in Section 4.2 of this Agreement.
+
+“Excess Payment” is defined
+in Section 3.2 of this Agreement.
+
+“Exchange Act” means
+the Securities Exchange Act of 1934, as amended.
+
+“Expert” is defined in
+Section 7.11 of this Agreement.
+
+“Financing Agreements”
+means each of (i) the indenture, dated as of October 3, 2016 (as amended, supplemented or otherwise modified from time to time)
+among, inter alia, Camelot Finance S.A., the guarantors party thereto and Wilmington Trust, National Association, as trustee; and
+(ii) that certain credit agreement, dated as of October 3, 2016 (as amended, supplemented or otherwise modified from time to time),
+by and among, inter alia, Camelot UK Holdco Limited, Camelot UK Bidco Limited Credit Suisse AG, Cayman Islands Branch, as administrative
+agent and collateral agent, and certain other parties thereto.
+
+“Imputed Interest” means
+the portion of any Tax Benefit Payment payable by the Company to a TRA Party pursuant to this Agreement that is to be treated as
+imputed interest under any applicable provision of Tax law.
+
+“Independent Directors”
+means the members of the Board other than members of the Board that have been appointed or designated by a TRA Party or its Affiliates.
+
+“IRS” means the U.S.
+Internal Revenue Service.
+
+“Law” means any U.S.
+federal, state, local or non-U.S. statute, law, ordinance, regulation, rule, code, order, injunction, judgment, determination,
+directive, ruling, decree, requirement or rule of law, or any other provision, decision or requirement having the force and effect
+of law.
+
+  5 
+
+“LIBOR” means during
+any period, the rate which appears on the Bloomberg Page BBAM1 (or on such other substitute Bloomberg page that displays rates
+at which U.S. dollar deposits are offered by leading banks in the London interbank deposit market), or the rate which is quoted
+by another source selected by the Board as an authorized information vendor for the purpose of displaying rates at which U.S. dollar
+deposits are offered by leading banks in the London interbank deposit market (a "Alternate Source"), at approximately
+11:00 a.m., London time, two (2) Business Days prior to the first day of such period as the London interbank offered rate for U.S.
+dollars having a borrowing date and a maturity comparable to such period (or if there shall at any time, for any reason, no longer
+exist a Bloomberg Page BBAM1 (or any substitute page) or any LIBOR Alternate Source, a comparable replacement rate determined by
+the Board at such time; provided, that at no time shall LIBOR be less than 0%.
+
+“NOLs” means net operating
+loss carryforwards, capital loss carryforwards, non-capital losses, net capital losses and any disallowed interest expense carryforwards,
+in each case, under any Tax Law.
+
+“Non-Covered Tax Assets”
+means (a) any Tax attribute of the Company Group first generated in a Tax Period or portion thereof beginning after the date hereof,
+which shall include the allocation of any Tax attributes arising in a Straddle Year as set forth in the definition of Covered Tax
+Assets and shall exclude any Covered Tax Assets, and (b) any Tax attribute of the Company Group that is not relevant to determining
+the Tax liabilities of the Company Group, and (c) any Tax attribute of any corporation or other entity acquired by the Company
+or any of its Subsidiaries by purchase, merger, or otherwise (in each case, from a Person or Persons other than the Company and
+its Subsidiaries and, in each case, whether or not such corporation or other entity survives) after the date hereof that relates
+to periods (or portions thereof) ending on or prior to the date of such acquisition; provided that Non-Covered Tax Assets
+shall not include any NOL of the Company or its Subsidiaries arising in a year following the date hereof as a result of a Covered
+Tax Asset not being fully utilized; provided, further, that Non-Covered Tax Assets shall not include tax basis in
+or other tax attributes arising from cash, cash equivalents or receivables.
+
+“Non-Tax Benefit Tax Liability”
+means, with respect to the Covered Tax Periods for a given calendar year, the overall liability for Taxes of the Company Group
+for such Covered Tax Periods using the same methods, elections, conventions and practices used on the Company Group’s actual
+Tax Returns, but excluding the use of Covered Tax Assets and calculated assuming a combined U.S. state and local income tax rate
+equal to the Assumed State Rate.
+
+“Non-TRA Portion” is
+defined in Section 2.2(b) of this Agreement.
+
+“Objection Notice” is
+defined in Section 2.3(a)(i) of this Agreement.
+
+“Payment Date” means
+the date on which a Tax Benefit Payment is required to be made by the Company pursuant to this Agreement.
+
+  6 
+
+“Person” means any individual,
+corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental
+entity or other entity.
+
+“Quarterly Measurement Date”
+means each of (i) March 31, (ii) June 30, (iii) September 30, and (iv) December 31.
+
+“Realized Tax Benefit”
+means, for the Covered Tax Periods for a given calendar year, the excess, if any, of the Non-Tax Benefit Tax Liability of the Company
+Group for such calendar year over the Actual Tax Liability of the Company Group for such calendar year (as determined based on
+the principles set forth in Section 2.2(b)). If all or a portion of the liability for Taxes for a Covered Tax Period arises as
+a result of an audit or assessment by a Taxing Authority of any Covered Tax Period, such liability shall not be reflected in the
+determination of the Realized Tax Benefit unless and until there has been a Determination.
+
+“Reconciliation Dispute”
+is defined in Section 7.11 of this Agreement.
+
+“Reconciliation Procedures”
+means those procedures set forth in Section 7.11 of this Agreement.
+
+“Register” is defined
+in Section 7.8(d) of this Agreement.
+
+“Schedule” means (i)
+any Tax Benefit Schedule and (ii) the Early Termination Schedule.
+
+“Securities Act” means
+the Securities Act of 1933, as amended.
+
+“Subsidiaries” means,
+with respect to any Person, as of any date of determination, any other Person as to which such Person owns, directly or indirectly,
+or otherwise controls more than fifty percent (50%) of the voting power or other similar interests or the sole general partner
+interest or managing member or similar interest of such Person.
+
+“Tax Benefit Payment”
+is defined in Section 3.1(b) of this Agreement.
+
+“Tax Benefit Schedule”
+is defined in Section 2.2(a) of this Agreement.
+
+“Tax Claim” is defined
+in Section 6.1 of this Agreement.
+
+“Tax Credit” means tax
+credits that may be utilized to offset any Tax.
+
+“Tax Period” means (i)
+with respect to each member of the Company Group organized in the United States, the taxable year of such member of the Company
+Group as defined in Section 441(b) of the Code and any comparable section of state or local law; and (ii) with respect to each
+member of the Company Group organized in a jurisdiction other than the United States, the applicable fiscal period of such member
+of the Company Group for income tax purposes.
+
+“Tax Return” means any
+return, declaration, report or similar statement required to be filed with respect to Taxes (including any attached schedules),
+including, without limitation, any information return, claim for refund, amended return and declaration of estimated Tax.
+
+  7 
+
+“Taxes” means any and
+all U.S. federal, state, local, UK, German or Japanese taxes, assessments or similar charges measured with respect to net income,
+capital gains or profits and any interest or additions related to such taxes.
+
+“Taxing Authority” means
+any U.S. federal, state, local and non-U.S. government, any subdivision, agency, commission or authority thereof, or any quasi-governmental
+body exercising any taxing authority or any other authority exercising regulatory authority with respect to Taxes.
+
+“TRA Party” is defined
+in the preamble to this Agreement.
+
+“TRA Party Representative”
+is defined in the preamble to this Agreement.
+
+“TRA Portion” is defined
+in Section 2.2(b) of this Agreement.
+
+“Valuation Assumptions”
+means, as of an Early Termination Date, the assumptions that (a) in each Covered Tax Period ending on or after such Early Termination
+Date, the applicable Company Group will generate taxable income sufficient to fully utilize all Covered Tax Assets (in accordance
+with all applicable limitations) during such Covered Tax Period or (where limitations would prevent such utilization in the Covered
+Tax Period that includes the Early Termination Date) future Covered Tax Periods, as applicable; (b) subject to clause (c), the
+Tax rates that will be in effect for each Covered Tax Period in a particular taxing jurisdiction will be those specified for each
+Covered Tax Period as in effect on the Early Termination Date (or, where no such rate for a future Covered Tax Period is specified,
+the tax rate in effect for the Covered Tax Period that includes the Early Termination Date); (c) the effective U.S. state and local
+income tax rates that will be in effect for all applicable Covered Tax Periods shall be the Assumed State Rate; (d) any non-amortizable
+assets will be disposed of on the later of the fifteenth anniversary of the date hereof or the Early Termination Date in a fully
+taxable transaction for all applicable income Tax purposes; provided, such non-amortizable assets shall be deemed disposed
+of at the time of sale of the relevant asset if earlier than such fifteenth anniversary; (e) any payment obligations pursuant to
+this Agreement will be satisfied on the date that any Tax Return to which such payment obligation relates is required to be filed
+excluding any extensions (so no interest on the applicable payment obligation will accrue for the period between such date and
+the date that would otherwise be the Payment Date).
+
+“WACC” means the weighted
+average cost of capital of the Company and its Subsidiaries, as reasonably determined by the Board in good faith applying customary
+market conventions and subject to the TRA Party Representative’s approval (such approval not to be unreasonably withheld).
+Any dispute relating to the determination of WACC for purposes of this Agreement shall be settled by the Expert consistent with
+the principles set forth in Section 7.11.
+
+  8 
+
+Article
+II.
+
+DETERMINATION
+OF REALIZED TAX BENEFIT
+
+Section 2.1        Covered Tax Assets.
+The Company, on the one hand, and the TRA Parties, on the other hand, acknowledge that the Company Group may, and to the fullest
+extent permitted by applicable law and consistent with the principles set forth under Section 2.2(b) shall, reduce the amount of
+Taxes that the Company Group would otherwise be required to pay in the future as a result of the Covered Tax Assets.
+
+Section 2.2        Tax Benefit Schedule.
+
+(a)           Tax
+Benefit Schedule. Within 45 calendar days after the filing of the final U.S. federal income Tax Return to be filed by the Company
+Group with respect to a Covered Tax Period for a given calendar year, the Company shall provide to the TRA Party Representative
+a schedule showing, in reasonable detail, (i) the calculation of the Covered Tax Benefit (if any) with respect to the Covered Tax
+Periods for the applicable calendar year and the Tax Benefit Payment (if any) for the Covered Tax Periods for such calendar year
+(together, a “Tax Benefit Schedule”) and (ii) supporting information (including work papers and valuation reports)
+reasonably necessary to support the calculation of such payment. The Tax Benefit Schedule will become final as provided in Section
+2.3(a) and may be amended as provided in Section 2.3(b) (subject to the procedures set forth in Section 2.3(a)). The Company shall
+cause the members of the Company Group to gather Tax-related information and prepare applicable Tax Returns on a schedule that
+permits it to timely deliver a Tax Benefit Schedule with respect to all Covered Tax Periods in a given calendar year consistent
+with the timing described in this Section 2.2(a).
+
+(b)           Applicable
+Principles. For purposes of calculating the Covered Tax Benefit, carryovers or carrybacks of any Tax item attributable to the
+Covered Tax Assets shall be considered to be subject to the rules of the Code or any other applicable Tax law governing the use,
+limitation and expiration of carryovers or carrybacks of the relevant type; provided, however, that the Covered Tax Assets treated
+as resulting in a Realized Tax Benefit for one Covered Tax Period shall not be treated as resulting in a Realized Tax Benefit for
+any other Covered Tax Period. In addition, for purposes of determining the Realized Tax Benefit for any Covered Tax Period, each
+member of the Company Group (or, as applicable, the combined, consolidated or other affiliated income Tax group of which such member
+is a part) shall be assumed (i) to utilize any item of loss, deduction or credit arising in such Covered Tax Period (and permitted
+to be utilized in such Covered Tax Period) before carrying back or carrying forward to such Covered Tax Period, or otherwise utilizing
+in such Covered Tax Period, any Covered Tax Asset that is permitted to be so carried back, carried forward or utilized; (ii) to
+utilize any available Covered Tax Asset that is permitted (or, for the avoidance of doubt, that would be so permitted but for a
+Non-Covered Tax Asset) to be carried back, carried forward or utilized in such Covered Tax Period before carrying forward, carrying
+back or utilizing in such Covered Tax Period any Non-Covered Tax Assets (and notwithstanding anything else the utilization of such
+Covered Tax Asset shall be treated as giving rise to a Realized Tax Benefit to the extent of such utilization), and (iii) to utilize
+any Covered Tax Asset in the earliest Covered Tax Period in which such Covered Tax Asset is permitted to be utilized. If a carryover
+or carryback of any Tax attributes includes a portion that is attributable to a Covered Tax Asset (a “TRA Portion”)
+and another portion that is not (a “Non-TRA Portion”), the Company Group shall be assumed to utilize the TRA
+Portion before utilizing the Non-TRA Portion (and notwithstanding anything else the utilization of such TRA Portion shall be treated
+as giving rise to a Realized Tax Benefit to the extent of such utilization).
+
+  9 
+
+Section 2.3        Procedures, Amendments.
+
+(a)           Procedure.
+Each time the Company delivers an applicable Schedule to the TRA Party Representative under this Agreement, including any Amended
+Schedule delivered pursuant to Section 2.3(b) and any Early Termination Schedule or amended Early Termination Schedule delivered
+pursuant to the procedures set forth in Section 4.2, the Company shall also (i) deliver supporting schedules and work papers, as
+determined by the Company or as reasonably requested by the TRA Party Representative, that provide a reasonable level of detail
+regarding the data and calculations that were relevant for purposes of preparing the Schedule; (ii) deliver an Advisory Firm Letter
+supporting such Schedule; (iii) deliver a declaration signed by the [chief financial officer] of the Company to the effect that
+the activities underlying the computations reflected in the Schedule have been made without regard to any transaction a significant
+purpose of which is to reduce or defer any Tax Benefit or Early Termination Payment; and (iv) allow the TRA Party Representative
+and its advisors to have reasonable access to the appropriate representatives, as reasonably determined by the Company or as reasonably
+requested by the TRA Party Representative, at the Company and the Advisory Firm in connection with a review of such Schedule. Without
+limiting the generality of the preceding sentence, the Company shall ensure that any Tax Benefit Schedule that is delivered to
+the TRA Party Representative along with any supporting schedules and work papers, provides a reasonably detailed presentation of
+the calculation of the Actual Tax Liability (the “with” calculation) and the Non-Tax Benefit Tax Liability (the “without”
+calculation), and identifies any material assumptions or operating procedures or principles that were used for purposes of such
+calculations. An applicable Schedule or amendment thereto shall become final and binding on the Parties thirty calendar days from
+the date on which the TRA Party Representative first received the applicable Schedule or amendment thereto unless:
+
+(i)       the
+TRA Party Representative, within thirty calendar days after receiving the applicable Schedule or amendment thereto, provides the
+Company with written notice of an objection to such Schedule that is made in good faith and that sets forth in reasonable detail
+the TRA Party Representative’s material objections (an “Objection Notice”); or
+
+(ii)       the
+TRA Party Representative provides a written waiver of its right to deliver an Objection Notice within the time period described
+in clause (i) above, in which case such Schedule or amendment thereto becomes binding on the date the waiver from the TRA Party
+Representative is received by the Company.
+
+In the event that the TRA Party Representative timely delivers
+an Objection Notice pursuant to clause (i) above, and if the TRA Party Representative and the Company, for any reason, are unable
+to successfully resolve the issues raised in the Objection Notice within thirty calendar days after receipt by the Company of the
+Objection Notice, the Company and the TRA Party Representative shall employ the reconciliation procedures as described in Section
+7.11 (the “Reconciliation Procedures”).
+
+  10 
+
+(b)       Amended
+Schedule. The applicable Schedule with respect to any Covered Tax Period may be amended from time to time by the Company (i)
+in connection with a Determination affecting the Schedule; (ii) to correct material inaccuracies in the Schedule identified as
+a result of the receipt of additional factual information relating to a Covered Tax Period after the date the Schedule was provided
+to the TRA Party Representative; (iii) to reflect a material change (relative to the amounts in the original Schedule) in the Realized
+Tax Benefit for such Covered Tax Period attributable to an amended Tax Return filed for such Covered Tax Period; or (iv) to comply
+with the Expert’s determination under the Reconciliation Procedures (such amended Schedule, an “Amended Schedule”);
+provided, however, that such a change under clause (i) shall not be taken into account on an Amended Schedule unless and until
+there has been a Determination with respect to such change. The Company shall deliver any Amended Schedule to the TRA Party Representative
+within 30 calendar days of any of the following events described in clauses (i) through (iv) occurring, and any such Amended Schedule
+shall be subject to the procedures set forth in Section 2.3(a).
+
+Article
+III.
+
+TAX
+BENEFIT PAYMENTS
+
+Section 3.1        Payments.
+
+(a)           Payments.
+
+(i)       On
+the later of (x) the fifth Business Day after a Tax Benefit Schedule with respect to the Covered Tax Periods for a given calendar
+year becoming final in accordance with Section 2.3(a) or Section 7.11 or (y) March 31 of the second calendar year that begins after
+the close of the calendar year in question (for example, for Covered Tax Periods ending during calendar year 2019, March 31, 2021),
+the Company shall, subject to clause (ii) below, pay to each of the TRA Parties an amount equal to the TRA Party’s Applicable
+Percentage multiplied by the Tax Benefit Payment with respect to such Covered Tax Periods, determined pursuant to Section 3.1(b).
+Each Tax Benefit Payment shall be made by wire transfer of immediately available funds to a bank account designated to the Company
+by the applicable TRA Party or otherwise agreed by the Company and the applicable TRA Party.
+
+(ii)       Notwithstanding
+anything in this Agreement to the contrary, but without limiting Section 5.1(b) or Section 5.2, it shall not be a breach of this
+Agreement if the Company fails to make any Tax Benefit Payment or other payment hereunder when due in cash to the extent that (i)
+the Company does not have sufficient cash or other liquid assets to make such payment or is otherwise prohibited from lawfully
+making such payment, and (ii) the Financing Agreements (including any senior debt documents that may from time to time replace
+or refinance any Financing Agreements) do not permit the Company’s Subsidiaries to distribute sufficient cash or other liquid
+assets to the Company to make such payment.
+
+(b)           Amount
+of Payments. A “Tax Benefit Payment” shall equal, with respect to the Covered Tax Periods for a given calendar
+year, the amount of Covered Tax Benefits, if any, for the Covered Tax Periods for such calendar year, increased by
+
+(i)       interest
+calculated at the Assumed Rate, calculated with respect to each portion of the Covered Tax Benefit from the due date (without extensions)
+of the Tax Return giving rise to the applicable portion of the Covered Tax Benefit until the Payment Date; and
+
+  11 
+
+(ii)       any
+increase in a Covered Tax Benefit that has become final under Section 2.3(b), together with interest calculated at the Assumed
+Rate from the original Payment Date with respect to the Schedule that was amended;
+
+provided, however, that the amounts described in Section 3.1(b)(ii)
+shall not be taken into account in determining a Tax Benefit Payment attributable to any Covered Tax Period to the extent such
+amounts were taken into account in determining any Tax Benefit Payment for a preceding Covered Tax Period (the purpose of this
+provision being to prevent duplication with respect to the making of Tax Benefit Payments). Notwithstanding the foregoing, unless
+a TRA Party elects to terminate this Agreement in the event of a Change in Control pursuant to Section 4.1(d), for each Covered
+Tax Period ending on or after a Change in Control, all Tax Benefit Payments shall be calculated by using Valuation Assumptions
+(a) and (d) substituting in each case the terms “closing date of a Change in Control” for “Early Termination
+Date.”
+
+Section 3.2        Offsets. In the event
+that a Tax Benefit Schedule is amended pursuant to Section 2.3(b) for any Covered Tax Period reflecting a decrease in the Tax Benefit
+Payment for such Covered Tax Period and payments have previously been made based on the greater Tax Benefit Payment (such excess,
+an “Excess Payment”), any amounts that would otherwise be due to the TRA Parties at any subsequent time under
+Section 3.1(b) shall be reduced (but not below zero) until the aggregate amount of such reduction equals the amount of such Excess
+Payment. For the avoidance of doubt, if all future payments are insufficient to repay any Excess Payment, the TRA Parties shall
+have no obligation to return such Excess Payment to the Company.
+
+Section 3.3        No Duplicative Payments.
+It is intended that the provisions of this Agreement will not result in duplicative payment of any amount (including interest)
+required under this Agreement.
+
+Section 3.4        Change Notices. If
+the Company or any of its Subsidiaries receives a 30-day letter, a final audit report, a statutory notice of deficiency or similar
+written notice from the IRS or any Taxing Authority (a “Change Notice”), which, if sustained, would result in
+(a) a reduction in the amount of Realized Tax Benefit with respect to a Covered Tax Period preceding the Tax Period in which the
+Change Notice is received or (b) a reduction in the amount of Tax Benefit Payments the Company will be required to pay to the TRA
+Parties with respect to Covered Tax Periods after and including the year in which the Change Notice is received, prompt written
+notice shall be given to the TRA Party Representative. After the date on which a Change Notice is received, to the extent provided
+in the following sentence, Tax Benefit Payments required to be made under this Agreement shall be paid by the Company to an escrow
+agent to be jointly selected by the Company and the TRA Party Representative until a Determination has been reached with respect
+to such Change Notice. The amount of Tax Benefit Payments that shall be placed into escrow shall be the aggregate amount of Tax
+Benefit Payments that the Company and the TRA Party Representative reasonably agree would be reduced with respect to then-current
+payment obligations of the Company hereunder if such Change Notice results in an adverse Determination. Amounts that the Company
+pays into escrow pursuant to this Section 3.4 shall not be considered paid to the TRA Parties for purposes of this Agreement until
+released to the TRA Parties pursuant to this Section 3.4 (and obligations of the Company to make payments with respect to escrowed
+amounts shall accrue interest at the Assumed Rate until such release). At the time of a Determination with respect to a Change
+Notice giving rise to escrowed amounts pursuant to this Section 3.4, (i) if the Determination results in no adjustment in any Tax
+Benefit Payments under this Agreement, then the relevant escrowed amounts shall be distributed to the TRA Parties; (ii) if the
+Determination results in an adjustment to Tax Benefit Payments under this Agreement, then the escrowed amounts shall be distributed
+to the Company and/or the TRA Parties in accordance with the relevant Amended Schedule prepared pursuant to Section 2.3(b). For
+the avoidance of doubt, (i) the provisions of this Section 3.4 shall be interpreted in a manner so as to avoid duplication with
+respect to amounts that are offset pursuant to Section 3.2; and (ii) in no event will any TRA Party be required to return or repay
+to the Company any amounts that have been paid or released to such TRA Party pursuant to this Agreement.
+
+  12 
+
+Section 3.5        Cash Payment Deferrals.
+Notwithstanding the other provisions of this Article III, with respect to only the Tax Benefit Payment for Covered Tax Periods
+for the calendar year ended December 31, 2019 and the Tax Benefit Payment for Covered Tax Periods for the calendar year ended December
+31, 2020, at the option of the Company, the Company may elect to defer the cash payment of the portion (if any) of such Tax Benefit
+Payment that is in excess of $30 million. Any portion of a Tax Benefit Payment that is deferred pursuant to this Section 3.5 (including
+any interest accrued with respect thereto, a “Deferred Payment”) (i) will continue to represent an amount required
+to be paid by the Company to the TRA Parties under this Agreement and will continue to accrue interest at the Agreed Rate until
+paid to the TRA Parties; (ii) will, with respect to any Deferred Payment with respect to Covered Tax Periods for the calendar year
+ended December 31, 2019, be required to be paid with the Tax Benefit Payment with respect to the Covered Tax Periods for the calendar
+year ended December 31, 2020 to the extent that the Tax Benefit Payment with respect to the Covered Tax Periods for the calendar
+year ended December 31, 2020 is less than $30 million; (iii) will, with respect to any Deferred Payment that has not been paid
+as of the due date for the Tax Benefit Payment with respect to Covered Tax Periods for the calendar year ended December 31, 2021,
+become payable with the Tax Benefit Payment with respect to Covered Tax Periods for the calendar year ended December 31, 2021;
+and (iv) will become immediately due and payable in connection with any Early Termination Payment. For the avoidance of doubt,
+(x) the Company’s election to defer the cash payment of a portion of a Tax Benefit Payment in excess of $30 million under
+this Section 3.5 shall not constitute a breach of this Agreement, but the Company’s failure to make a Deferred Payment in
+cash at the time required by Section 3.5(ii), Section 3.5(iii) or Section 3.5(iv) shall constitute a breach of this Agreement;
+and (y) the deferral mechanism provided in this Section 3.5 shall not delay or otherwise be applicable with respect to any Early
+Termination Payment payable pursuant to Article IV. Without the consent of the TRA Party Representative, at any time where there
+is a Deferred Payment under this Section 3.5 that has not yet been paid to the TRA Parties, the Company shall not (and shall not
+permit its Affiliates to) make any distribution of cash or other property to the equity holders of the Company or any entity that
+is a parent entity of the Company.
+
+  13 
+
+Article
+IV.
+
+TERMINATION
+
+Section 4.1        Early Termination of Agreement;
+Breach of Agreement; Credit Events.
+
+(a)           Company’s
+Early Termination Right. With written approval of the Company (following the receipt of Board approval, which includes the
+affirmative vote of at least a majority of the Independent Directors, the Company may request to terminate this Agreement by paying
+to the TRA Parties the Early Termination Payment (such request, a “Company Early Termination Request”). The
+TRA Party Representative shall have the right to refuse two separate Company Early Termination Requests, and after any such refusal
+the Company shall not have the right to issue another Company Early Termination Request until at least one year after the date
+of the issuance of the prior Company Early Termination Request that was refused by the TRA Party Representative. After the TRA
+Party Representative refuses two separate Company Early Termination Requests made consistent with the terms of this Section 4.1(a),
+the TRA Party Representative shall not be entitled to refuse any subsequent Company Early Termination Request that is made by the
+Company consistent with the terms of this Section 4.1(a).
+
+(b)           Acceleration
+upon Breach of Agreement. In the event that the Company breaches any of its material obligations under this Agreement, whether
+as a result of failure to make any payments when due (subject to Section 3.1(a)(ii)), failure to honor any material obligation
+required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under any applicable
+bankruptcy or similar rules or otherwise, then all obligations hereunder shall be accelerated and such obligations shall be calculated
+as if an Early Termination Notice had been delivered on the date of the breach. The parties agree that, subject to Section 3.1(a)(ii),
+the failure to make any material payment due pursuant to this Agreement within three months of the date such payment is due shall
+be deemed to be a breach of a material obligation under this Agreement for all purposes of this Agreement, and that it will not
+be considered a breach of a material obligation under this Agreement to make a payment due pursuant to this Agreement within three
+months of the date such payment is due.
+
+(c)           Acceleration
+upon a Credit Event. In the event that the Company or the TRA Party Representative becomes aware that an event described in
+clause (c) in the definition of Credit Event exists with respect to the Company or any of its Subsidiaries, such party shall provide
+written notice to the other party (the “Credit Event Notice”). In the event that (i) the Credit Event is not
+cured within ten days of delivery of such Credit Event Notice or (ii) upon the occurrence of an event described in clause (a) or
+(b) in the definition of Credit Event, and the event described in clause (i) or (ii) results in an acceleration of payments due
+under the related Financing Agreement, all obligations hereunder shall be accelerated (subject to Section 3.1(a)(ii)) and such
+obligations shall be calculated as if an Early Termination Notice had been delivered on the date of the Credit Event.
+
+(d)          Change
+in Control. In connection with a Change in Control, at the election of any TRA Party, all obligations hereunder with respect
+to such TRA Party shall be accelerated. The Company hereby agrees to provide twenty days prior written notice to each TRA Party
+of a Change in Control (an “Early Termination Option Notice”). Within ten days of receipt of the Early Termination
+Option Notice, each TRA Party shall provide written notice of its determination of whether to terminate this Agreement. If a TRA
+Party elects to terminate this Agreement, then all obligations hereunder with respect to such TRA Party shall be accelerated (subject
+to Section 3.1(a)(ii)) and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date
+of delivery of such written notice.
+
+  14 
+
+(e)           Early
+Payment Right. On or after the fifteenth anniversary of the date hereof, each TRA Party shall have the right (the “Early
+Payment Right”) to terminate this Agreement with respect to such TRA Party by providing written notice to the Company
+(the “Early Payment Right Notice”). If a TRA Party elects to exercise its Early Payment Right, then all obligations
+hereunder with respect to such TRA Party shall be accelerated (subject to Section 3.1(a)(ii)) and such obligations shall be calculated
+as if an Early Termination Notice had been delivered on the date of delivery of the Early Payment Right Notice.
+
+Section 4.2        Early Termination Notice.
+If the Company chooses to exercise its right of early termination under Section 4.1(a), the Company shall deliver to the TRA Party
+Representative notice of the Company’s decision to exercise such right (the “Early Termination Notice”).
+Upon the delivery of the Early Termination Notice or the occurrence of an event described in Section 4.1(b), (c), (d), or (e),
+within 45 calendar days of the date of such Early Termination Notice or the event described in Section 4.1(b), (c), (d), or (e)
+that is treated as having given rise to the delivery of an Early Termination Notice, the Company shall deliver a schedule (the
+“Early Termination Schedule”) showing in reasonable detail the information required pursuant to Section 2.2
+(as applied to an Early Termination Payment) and the calculation of the Early Termination Payment. The delivery and finalization
+of such Early Termination Schedule shall be governed by Section 2.3.
+
+Section 4.3        Payment upon Early Termination.
+
+(a)           Payment
+Mechanics. Within ten Business Days after the Early Termination Schedule becomes final and binding on the parties hereto, the
+Company shall (subject to Section 3.1(a)(ii)) pay to each of the TRA Parties its Early Termination Payment. Payments made pursuant
+to this Section 4.3(a) shall be made by wire transfer of immediately available funds to a bank account designated by the applicable
+TRA Party or as otherwise agreed by the Company and such TRA Party. For the avoidance of doubt, any publicly traded parent entity
+of the Company shall have the right to consummate a public offering of shares pursuant to an effective registration statement under
+the Securities Act and use the net proceeds of such offering to meet its obligations to make an Early Termination Payment in cash
+to the TRA Parties pursuant to the terms of this Agreement. Notwithstanding the foregoing, the TRA Parties may elect, following
+written notice to the Company by the TRA Party Representative, to waive the payment of the Early Termination Payment in cash and
+receive stock of the Company in lieu thereof to the extent mutually agreeable to the Company and the TRA Party Representative and
+to the extent practicable.
+
+(b)           Amount
+of Payment. The “Early Termination Payment” with respect to any TRA Party means (without duplication) (i)
+an amount equal to such TRA Party’s Applicable Percentage of the present value as of the date of delivery (or deemed delivery)
+of the Early Termination Notice, discounted at the Early Termination Rate as of such date, of all Tax Benefit Payments that would
+be required to be paid by the Company to the TRA Parties beginning from the Early Termination Date applying the Valuation Assumptions;
+(ii) the aggregate amount of Deferred Payments under Section 3.5 that have not been paid that are owing to such TRA Party; (iii)
+any Tax Benefit Payment agreed to by the Company and the TRA Party Representative as due and payable with respect to such TRA Party
+that is unpaid as of such date; (iv) any Tax Benefit Payment due and payable with respect to such TRA Party for a Covered Tax Period
+ending prior to, with or including such date; and (v) all amounts held in escrow in respect of a Change Notice with respect to
+such TRA Party; and including, in each case, any interest that is due to the TRA Party in respect of such amounts (which shall
+include (without duplication) interest accruing on the amount described in clause (i) at the Assumed Rate or at the Agreed Rate
+(to the extent Section 5.2 is applicable)). For purposes of determining the portion of any Early Termination Payment described
+in clause (i), any matters that have given rise to a Change Notice will be considered to have been resolved in a manner that maximizes
+the amounts payable to the TRA Parties. For purposes of calculating the present value pursuant to this Section 4.3(b) of all Tax
+Benefit Payments that would be required to be paid after the Early Termination Date, it shall be assumed that absent the Early
+Termination Notice all portions of Tax Benefit Payments would be due under this agreement and paid on the due date (without extensions)
+for filing the Tax Return that gave rise to the applicable portion of the Tax Benefit Payments.
+
+  15 
+
+Article
+V.
+
+COMPANY
+OBLIGATIONS AND LATE PAYMENTS
+
+Section 5.1        Company Obligations.
+
+(a)           Any
+Tax Benefit Payments and Early Termination Payment required to be made by the Company to the TRA Parties under this Agreement shall
+rank pari passu in right of payment with all current or future unsecured obligations of the Company. Any partial Tax Benefit
+Payments or Early Termination Payments made to the TRA Parties under this Agreement (for example, as a result of the application
+of Section 3.1(a)(ii) or Section 3.5) shall be paid to the TRA Parties pro rata in proportion to the amount such TRA Parties would
+have received in respect of such payments had such payments been made in full.
+
+(b)           The
+Company shall not, and shall cause its Subsidiaries to not, without the prior written consent of the TRA Party Representative (not
+to be unreasonably withheld, conditioned or delayed), amend the terms of any Financing Agreement or enter into any agreement or
+indenture if the terms of such agreement, indenture or amendment would materially restrict (or in the case of amendments, further
+restrict beyond the restrictions set forth in the Financing Agreements in effect as of the date hereof (or, if amended to allow
+for greater capacity with respect to the payment of Tax Benefit Payments or Early Termination Payments, as of the date of such
+amendment)) the Company’s ability to make the Tax Benefit Payments or the Early Termination Payment under this Agreement,
+including any agreement that would, directly or indirectly, restrict the ability of the Company’s Subsidiaries to make distributions
+(by dividend, loan or otherwise) to the Company to fund amounts payable under this Agreement. The Company agrees that any senior
+debt documents that may from time to time replace or refinance any Financing Agreement shall, unless the TRA Party Representative
+otherwise consents in writing, permit the payment of distributions by the Company’s Subsidiaries to the Company to the extent
+required to make the Tax Benefit Payments and the Early Termination Payment, including, in each case, any payments previously deferred
+as a result of the operation of Section 3.1(a)(ii), without any default blockers, financial tests or other conditions.
+
+Section 5.2        Late Payments by the Company. The amount of all or any portion of any
+Tax Benefit Payment or Early Termination Payment required to be made by the Company to any TRA Party under this Agreement that
+is not made to such TRA Party when due under the terms of this Agreement shall be payable together with any interest thereon, computed
+at the Agreed Rate and commencing from the date on which such payment was due and payable.
+
+  16 
+
+Article
+VI.
+
+Company
+Tax Matters; Consistency; Cooperation
+
+Section 6.1        Participation in Company
+Tax Matters. Except as otherwise provided herein, the Company shall have full responsibility for, and sole discretion over,
+all Tax matters concerning the Company Group, including, without limitation, the preparation, filing or amending of any Tax Return
+and defending, contesting or settling any issue pertaining to Taxes (a “Tax Claim”); provided that the
+Company shall act in good faith in connection with its control of any matter which is reasonably expected to affect the TRA Parties’
+rights and obligations under this Agreement; provided, further, that the Company shall not enter into any settlement with
+respect to, or agree to concede, any Tax Claim that could have a material effect on the TRA Parties’ rights (including the
+right to receive payments) under this Agreement without the consent of the TRA Party Representative (not to be unreasonably withheld,
+conditioned or delayed). The Company shall notify the TRA Party Representative of, and keep the TRA Party Representative reasonably
+informed with respect to, the portion of any audit of the Company Group by a Taxing Authority the outcome of which is reasonably
+expected to affect the TRA Parties’ rights and obligations under this Agreement, and shall give the TRA Party Representative
+reasonable opportunity to provide information and participate (at its own expense) in the applicable portion of such audit.
+
+Section 6.2        Cooperation. Each
+of the Company, on the one hand, and the TRA Parties, on the other hand, shall (a) furnish to the other party in a timely manner
+such information, documents and other materials as the other party may reasonably request for purposes of making or approving any
+determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending
+any audit, examination or controversy with any Taxing Authority relating to this Agreement; (b) make itself available to the other
+party and its representatives to provide explanations of documents and materials and such other information as the requesting party
+or its representatives may reasonably request in connection with any of the matters described in clause (a) above; and (c) reasonably
+cooperate in connection with any such matter, and the requesting party shall reimburse the other party for any reasonable out-of-pocket
+costs and expenses incurred pursuant to this Section 6.2.
+
+Article
+VII.
+
+Miscellaneous
+
+Section 7.1        Notices. All notices,
+requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given and received (a)
+on the date of delivery if delivered personally, or by facsimile upon confirmation of transmission by the sender’s fax machine
+if sent on a Business Day (or otherwise on the next Business Day if sent after the close of normal business hours or on any non-Business
+Day); (b) on the first Business Day following the date of dispatch if delivered by a recognized next-day courier service; or (c)
+when sent by electronic mail (with hard copy to follow) during a Business Day (or on the next Business Day if sent after the close
+of normal business hours or on any non-Business Day). All notices hereunder shall be delivered as set forth below, or pursuant
+to such other instructions as may be designated in writing by the party to receive such notice:
+
+  17 
+
+If to the Company, to:
+
+c/o Clarivate Analytics
+
+Friars House
+
+160 Blackfriars Road
+
+London SE1 8EZ United Kingdom
+
+Attention: Stephen Hartman
+
+E-mail: stephen.hartman@clarivate.com
+
+If to the TRA Party Representative or any TRA Party,
+to:
+
+c/o Onex Partners
+
+161 Bay Street
+
+Toronto, ON M5J 2S1
+
+Attention: Andrea Daly and Carlo Chiarot
+
+E-mail: adaly@onex.com and cchiarot@onex.com
+
+with a copy (which shall not constitute
+notice) to:
+
+Latham & Watkins LLP
+
+555 Eleventh Street, N.W.
+
+Washington, DC 20004
+
+Attention: Paul Sheridan and Shaun
+Hartley
+
+E-mail: paul.sheridan@lw.com and
+shaun.hartley@lw.com
+
+Section 7.2        Counterparts. This
+Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become
+effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood
+that all parties need not sign the same counterpart. Delivery of an executed signature page to this Agreement by facsimile transmission
+or PDF shall be as effective as delivery of a manually signed counterpart of this Agreement.
+
+Section 7.3        Entire Agreement; Third-Party
+Beneficiaries. This Agreement constitutes the entire agreement and supersedes all prior agreements and understandings, both
+written and oral, among the parties hereto with respect to the subject matter hereof. Nothing in this Agreement, express or implied,
+is intended to or shall confer upon any Person other than the parties hereto any right, benefit or remedy of any nature whatsoever
+under or by reason of this Agreement.
+
+Section 7.4        Governing Law. This
+Agreement shall be governed by, and construed in accordance with, the Laws of the State of New York, without regard to the conflicts
+of laws provisions thereof.
+
+  18 
+
+Section 7.5        Severability. Whenever
+possible, each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable Law,
+but if any provision of this Agreement is held to be prohibited by or invalid under applicable Law, such provision will be ineffective
+only to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions
+of this Agreement.
+
+Section 7.6        Headings. The headings
+of this Agreement are for the convenience of reference only and shall not limit or otherwise affect the meaning hereof.
+
+Section 7.7        Setoff. Except as
+provided in Section 3.2, any Tax Benefit Payment or Early Termination Payment due under this Agreement shall be paid in full when
+due, without setoff, recoupment, adjustment or charge of any kind.
+
+Section 7.8        Successors; Assignment;
+Amendments; Waivers.
+
+(a)           Provided
+that written notice is provided to the Company at least three Business Days prior to an assignment or transfer, each TRA Party
+may assign or transfer (including by way of a pledge, hypothecation, grant of a participation in, or sale) its rights (and obligations)
+under this Agreement to any Person without the prior written consent of the Company, the TRA Party Representative, or any other
+TRA Party; it being understood and agreed that the Company shall promptly record such assignment or transfer in the Register following
+its receipt of notice thereof.
+
+(b)           No
+provision of this Agreement may be amended unless such amendment is approved in writing by the Company and the TRA Party Representative.
+For the avoidance of doubt, any amendment of this Agreement that is approved in writing by the Company and the TRA Party Representative
+shall be binding upon the TRA Parties. No provision of this Agreement may be waived unless such waiver is in writing and signed
+by the party against whom the waiver is to be effective. Notwithstanding anything contained herein to the contrary, the TRA Party
+Representative may, in its good faith discretion, amend Schedule A without the consent of any other party hereto; provided that
+such amendment does not materially and adversely affect any TRA Party in a manner disproportionate to any other TRA Party.
+
+(c)           All
+of the terms and provisions of this Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by
+the parties hereto and their respective successors, assigns, heirs, executors, administrators and legal representatives. The Company
+shall require and cause any direct or indirect successor (whether by purchase, merger, consolidation or otherwise) to all or substantially
+all of the business or assets of the Company, by written agreement, expressly to assume and agree to perform this Agreement in
+the same manner and to the same extent that the Company would be required to perform if no such succession had taken place.
+
+(d)           The
+Company shall maintain at its office a copy of each notice of assignment or transfer received pursuant to Section 7.8(a) and a
+register for the recordation of the names, addresses and Applicable Percentages of the TRA Parties (the “Register”).
+The entries in the Register shall be conclusive absent manifest error, and the Company, the TRA Party Representative and the TRA
+Parties shall treat each Person whose name is recorded in the Register pursuant to the terms hereof as a TRA Party hereunder for
+all purposes of this Agreement. Notwithstanding anything contained herein to the contrary, no assignment or transfer shall be effective
+until such assignment or transfer has been recorded in the Register.
+
+  19 
+
+Section 7.9        Titles and Subtitles.
+The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered
+in construing this Agreement.
+
+Section 7.10      Waiver of Jury Trial.
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY LITIGATION, ACTION, PROCEEDING, CROSS-CLAIM, OR COUNTERCLAIM
+IN ANY COURT (WHETHER BASED ON CONTRACT, TORT, OR OTHERWISE) ARISING OUT OF, RELATING TO OR IN CONNECTION WITH (A) THIS AGREEMENT
+OR THE VALIDITY, PERFORMANCE, INTERPRETATION, COLLECTION OR ENFORCEMENT HEREOF OR (B) THE ACTIONS OF THE PARTIES IN THE NEGOTIATION,
+AUTHORIZATION, EXECUTION, DELIVERY, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT HEREOF.
+
+Section 7.11      Reconciliation. In
+the event that the Company and the TRA Party Representative are unable to resolve a disagreement with respect to the matters governed
+by Section 2.3 or Section 4.2 (which matters, for the avoidance of doubt, may include the calculations of any amounts set forth
+in any Schedule or Amended Schedule or the determination of WACC) within the relevant period designated in this Agreement (a “Reconciliation
+Dispute”), the Reconciliation Dispute shall be submitted for determination to a nationally recognized expert (the “Expert”)
+in the particular area of disagreement mutually acceptable to both parties. The Expert shall be a partner in a nationally recognized
+accounting firm or a law firm (other than the Advisory Firm or the preparer of the Advisory Firm Letter) or a nationally recognized
+valuation firm in the case of WACC, and the Expert shall not, and the firm that employs the Expert shall not, have any material
+relationship with the Company or the TRA Party Representative or other actual or potential conflict of interest. If the parties
+are unable to agree on an Expert within 15 days of receipt by the respondent(s) of written notice of a Reconciliation Dispute,
+either party may request that the American Arbitration Association (the “AAA”) choose the Expert, in which case
+the AAA’s choice will be binding and the expenses of the AAA will be paid by the Company. The Expert shall resolve any matter
+relating to the Early Termination Schedule or an amendment thereto within thirty calendar days and shall resolve any matter relating
+to a Tax Benefit Schedule or an amendment thereto within fifteen calendar days or as soon thereafter as is reasonably practicable,
+in each case after the matter has been submitted to the Expert for resolution. Notwithstanding the preceding sentence, if the matter
+is not resolved before any payment that is the subject of a disagreement is due or any Tax Return reflecting the subject of a disagreement
+is due, the undisputed amount shall be made on the date prescribed by this Agreement and such Tax Return may be filed as prepared
+by the Company, subject to adjustment (by an increase or decrease in the amount of subsequent payments otherwise due under this
+Agreement) or amendment of such Tax Return upon resolution. The costs and expenses relating to the engagement of such Expert or
+amending any Tax Return shall be borne inversely based upon the relative success (in terms of percentages) of each party’s
+claims. For example, if the final determination reflects a 60-40 compromise of the parties’ claims, the costs and expenses
+would be allocated 40% to the party whose claim was determined to be 60% successful and 60% to the party whose claim was determined
+to be 40% successful. Any dispute as to whether a dispute is a Reconciliation Dispute within the meaning of this Section 7.11 shall
+be decided by the Expert. The Expert shall finally determine any Reconciliation Dispute and the determinations of the Expert pursuant
+to this Section 7.11 shall be final and binding on the Company, the TRA Party Representative and all TRA Parties absent manifest
+error and may be entered and enforced in any court having jurisdiction. The determination of the Expert with respect to any dispute
+that is submitted to it for determination pursuant to this Section 7.11 shall be based solely on presentations and materials provided
+by the parties hereto that are in accordance with the guidelines and procedures set forth in this Agreement (i.e., such determination
+shall not be made on the basis of an independent review by the Expert). The Expert shall not assign a value to any Reconciliation
+Dispute that is greater than the greatest value for such item assigned by the Company, on the one hand, or the TRA Party Representative,
+on the other hand, or less than the smallest value for such assigned by the Company, on the one hand, and the TRA Party Representative,
+on the other hand.
+
+  20 
+
+Section 7.12      Withholding. The
+Company shall be entitled to deduct and withhold from any amount payable to any TRA Parties pursuant to this Agreement such amounts
+as the Company is required to deduct and withhold under any provision of applicable tax law, with respect to entering into or making
+payments under this Agreement. To the extent amounts are so withheld and paid over to the appropriate governmental authority by
+the Company, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the TRA Party in
+respect of whom such withholding was made. The Company shall provide evidence of such payment to such TRA Party. Notwithstanding
+the foregoing, if a withholding obligation arises as a result of a Change in Control or any other transaction that causes the Company
+(or its successor) to become a Person organized in a jurisdiction other than the Island of Jersey or tax resident outside of the
+United Kingdom, any amount payable to a TRA Party under this Agreement shall be increased such that after all required deductions
+and withholdings have been made (including such deductions and withholdings applicable to additional sums payable under this sentence)
+the TRA Party receives an amount equal to the sum that it would have received had no such deductions or withholdings been made.
+The Company and the TRA Parties agree that no withholding will be made as a result of or in connection with the parties’
+entrance into this Agreement on the date hereof.
+
+Section 7.13      Affiliated Corporations;
+Admission of the Company into a Consolidated Group; Transfers of Corporate Assets.
+
+(a)           If
+the Company or any member of the Company Group was, is or becomes a member of an affiliated, combined, unitary or consolidated
+group of corporations that files a combined, unitary, consolidated or similar income tax return under any applicable provision
+of Tax law: (i) the provisions of this Agreement relating to the Company and the Company Group shall be applied with respect to
+the applicable group as a whole as of any date of determination; and (ii) Tax Benefit Payments shall be computed with reference
+to the consolidated taxable income of the applicable group as a whole.
+
+(b)           If
+an entity in the Company Group transfers one or more assets to an entity that is not wholly-owned by member(s) of the Company Group,
+such entity, for purposes of calculating the amount of any Tax Benefit Payment (e.g., calculating the gross income of the applicable
+member(s) of the Company Group and determining the Realized Tax Benefit) due hereunder, shall be treated as having disposed of
+such asset in a fully taxable transaction on the date of such transfer. The consideration deemed to be received by such entity
+shall be determined as if such transfer occurred on an arm’s length basis with an unrelated third party.
+
+  21 
+
+(c)           If an entity in the Company Group transfers, directly or indirectly, to a third party (other than a member of the Company Group)
+stock of any member of the Company Group that owns or otherwise holds Covered Tax Assets that have not previously given rise to
+a Tax Benefit Payment, then notwithstanding anything else in this Agreement such Covered Tax Assets shall be treated for purposes
+of this Agreement as having given rise to a Realized Tax Benefit of a member of the Company Group during the calendar year that
+includes the transfer date, with the amount of such Realized Tax Benefit being equal to the present value, discounted at the Early
+Termination Rate as of the date of such transfer, of all Tax Benefit Payments that would be required to be paid by the Company
+to the TRA Parties with respect to such Covered Tax Assets, applying the Valuation Assumptions (for this purpose, substituting
+in each case the term “the transfer date” for “Early Termination Date” in the definition of “Valuation
+Assumptions”).
+
+Section 7.14      Tax Treatment. For
+U.S. federal income Tax purposes, the Company and the TRA Parties agree to treat the parties’ entrance into this Agreement
+as a distribution on the share capital of the Company that is governed by Section 301 of the Code. Neither the Company nor the
+TRA Parties shall take any position inconsistent with such treatment in any filing with the IRS or with any other United States
+Taxing Authority, except as otherwise required by Law or as required in good faith to settle a dispute with a Taxing Authority.
+
+Section 7.15      TRA Party Representative.
+
+(a)           Appointment.
+Without further action of any of the Company, the TRA Party Representative or any TRA Party, and as partial consideration of
+the benefits conferred by this Agreement, the TRA Party Representative is hereby irrevocably constituted and appointed, with full
+power of substitution, to act in the name, place and stead of each TRA Party with respect to the taking by the TRA Party Representative
+of any and all actions and the making of any decisions required or permitted to be taken by the TRA Party Representative under
+this Agreement. The power of attorney granted herein is coupled with an interest and is irrevocable and may be delegated by the
+TRA Party Representative. No bond shall be required of the TRA Party Representative and it shall receive no compensation for its
+services. In the event that the TRA Party Representative disposes of its entire interest in this Agreement, a majority of the remaining
+TRA Parties (determined by their relative Applicable Percentages) may elect another TRA Party to act as TRA Party Representative.
+In the event that the TRA Party Representative wishes to withdraw from its position under this Agreement as TRA Party Representative,
+a majority of the TRA Parties (determined by their relative Applicable Percentages), including the TRA Party Representative, may
+elect another TRA Party to act as TRA Party Representative.
+
+(b)          Expenses.
+If at any time a TRA Party Representative shall incur out-of-pocket expenses in connection with the exercise of its duties hereunder,
+upon written notice to the Company from the TRA Party Representative of documented out-of-pocket costs and expenses (including
+fees and disbursements of counsel and accountants) incurred by the TRA Party Representative in connection with the performance
+of its duties under this Agreement and the taking of any and all actions in connection therewith, the Company shall reduce any
+future payments (if any) due to the TRA Parties hereunder pro rata (based on their respective Applicable Percentages) by the amount
+of such expenses which it shall instead remit (subject to Section 3.1(a)(ii)) directly to the TRA Party Representative. In connection
+with the performance of its duties under this Agreement and the taking of any and all actions in connection therewith, the TRA
+Party Representative shall not be required to expend any of its own funds (though, for the avoidance of doubt, it may do so at
+any time and from time to time in its sole discretion).
+
+  22 
+
+(c)           Limitation
+on Liability. The TRA Party Representative shall not be liable to any TRA Party for any act of the TRA Party Representative
+arising out of or in connection with the acceptance or administration of its duties under this Agreement, except to the extent
+any liability, loss, damage, penalty, fine, cost or expense is actually incurred by such TRA Party as a result of the gross negligence,
+bad faith or willful misconduct of the TRA Party Representative (as finally determined by a court of competent jurisdiction); it
+being understood that any act done or omitted pursuant to the advice of legal counsel shall be conclusive evidence of such good
+faith and reasonable judgment. The TRA Party Representative shall not be liable for, and shall be indemnified by the TRA Parties
+(on a several but not joint basis and based on their respective Applicable Percentages) for, any liability, loss, damage, penalty
+or fine incurred by the TRA Party Representative (and any cost or expense incurred by the TRA Party Representative in connection
+therewith or herewith and not previously reimbursed pursuant to subsection (b)) arising out of or in connection with the acceptance
+or administration of its duties under this Agreement, except to the extent that any such liability, loss, damage, penalty, fine,
+cost or expense is the result of the gross negligence, bad faith or willful misconduct of the TRA Party Representative (as finally
+determined by a court of competent jurisdiction); it being understood that any act done or omitted pursuant to the advice of legal
+counsel shall be conclusive evidence of such good faith and reasonable judgment.
+
+(d)           Actions
+of the TRA Party Representative. A decision, act, consent or instruction of the TRA Party Representative shall constitute a
+decision of all TRA Parties and shall be final, binding and conclusive upon each TRA Party, and the Company may rely upon any decision,
+act, consent or instruction of the TRA Party Representative as being the decision, act, consent or instruction of each TRA Party.
+The Company is hereby relieved from any liability to any person for any acts done by the Company in accordance with any such decision,
+act, consent or instruction of the TRA Party Representative, including, without limitation, any action taken by the Company in
+its dealings with the TRA Party Representative pursuant to and consistent with the terms of this Agreement (including, without
+limitation, complying with expense reimbursement requests pursuant to Section 7.15(b)). Each TRA Party hereby agrees that the TRA
+Party Representative may, at any time and in its sole discretion, elect to enter into a transaction which will result in the assignment,
+in whole or in part, of this Agreement to a Person (upon such election, an “Approved Assignment”), and each
+such TRA Party will raise no objections against such Approved Assignment, regardless of the consideration (if any) being paid in
+such Approved Assignment, so long as such Approved Assignment does not materially and adversely impact any TRA Party in a manner
+disproportionate to the other TRA Parties. Each TRA Party will take all actions requested by the TRA Party Representative in connection
+with the consummation of an Approved Assignment, including the execution of all agreements, documents and instruments in connection
+therewith requested by the TRA Party Representative of such TRA Party. Upon the consummation of the Approved Assignment, each TRA
+Party will receive its Applicable Percentage of such consideration, if any, relating to such Approved Assignment. Each TRA Party
+will bear its Applicable Percentage of the costs of any Approved Assignment (but not to exceed the amount of consideration received
+or receivable by such TRA Party relating to such Approved Assignment) to the extent such costs are incurred for the benefit of
+all TRA Parties
+
+  23 
+
+Section 7.16      Non-Effect of Other Tax
+Receivable Agreements. The TRA Party Representative and the Company agree that if the Company or any of its Subsidiaries
+enters into any other agreement that obligates the Company or any of its Subsidiaries to make payments to another party in exchange
+for tax benefits conferred upon the Company or any of its Subsidiaries, such tax benefits and such payments shall be ignored for
+all purposes of this Agreement, including for purposes of calculating the Actual Tax Liability and the Non-Tax Benefit Tax Liability.
+
+Section 7.17      Subsidiary Distributions.
+To the extent permitted by applicable law and the Financing Agreements (including any senior debt documents that may from time
+to time replace or refinance any Financing Agreements), the Company shall cause its Subsidiaries to make distributions to the Company
+sufficient to allow the Company to timely make any payments to the TRA Parties that are required pursuant to the terms of this
+Agreement.
+
+Section 7.18      Tax Return Standards.
+Without limiting any of the other provisions of this Agreement, without the written approval of the Company (following the receipt
+of Board approval, which includes the affirmative vote of at least a majority of the Independent Directors), the Company and its
+Subsidiaries shall not take any Tax Return position that would materially increase the amounts owed to the TRA Parties pursuant
+to the terms of this Agreement unless such Tax Return position would “more likely than not” be sustained if challenged
+by an applicable Taxing Authority.
+
+Section 7.19      Assumed State Rate.
+The parties intend that the determination of amounts payable to the TRA Parties under the terms of this Agreement with respect
+to U.S. state and local taxes shall not require separate “with and without” determinations in respect of each applicable
+jurisdiction and Covered Tax Period, but rather such calculations shall be based on the elections, methodologies and positions
+taken on the applicable U.S. federal income tax returns of the relevant members of the Corporate Group and the Assumed State Rate.
+The applicable provisions of this Agreement shall be interpreted consistent with this intent.
+
+Section 7.20      Survival. The obligation
+of the Company to make Tax Benefit Payments hereunder shall (except as otherwise specifically provided in this Agreement) survive
+indefinitely.
+
+  24 
+
+IN WITNESS WHEREOF, the undersigned have
+executed or caused to be executed on their behalf this Agreement as of the date first written above.
+
+ COMPANY:
+
+ CAMELOT HOLDINGS (JERSEY) LIMITED
+
+ By:
+
+ Name:
+
+ Title:
+
+ TRA REPRESENTATIVE:
+
+ ONEX PARTNERS IV LP
+
+ By:  Onex Partners IV GP LP, its General Partner
+
+ By:  Onex Partners Manager LP, its Agent
+
+ By:  Onex Partners Manager GP ULC, its General Partner
+
+ By:
+
+ Name:
+
+ Title:
+
+ TRA PARTIES:
+
+ [TRA PARTY]
+
+ By:
+
+ Name:
+
+ Title:
+
+[Signature Page to Tax Receivable Agreement]
+
+SCHEDULE A
+
+[To come]
+
+Exhibit A
+
+FORM OF JOINDER AGREEMENT
+
+This JOINDER AGREEMENT, dated as of _________________,
+20___ (this “Joinder”), is delivered pursuant to that certain Tax Receivable Agreement, dated as of [__________],
+2019 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “Tax Receivable
+Agreement”) by and among Camelot Holdings (Jersey) Limited, a limited company organized under the laws of the Island
+of Jersey (the “Company”), and each of the other parties from time to time party thereto. Capitalized terms
+used but not otherwise defined herein have the respective meanings set forth in the Tax Receivable Agreement.
+
+1.Joinder to the Tax Receivable Agreement. Upon the execution of this Joinder by the undersigned and delivery hereof to
+the Company, the undersigned hereby is and hereafter will be a TRA Party under the Tax Receivable Agreement, with all the rights,
+privileges and responsibilities of a TRA Party thereunder. The undersigned hereby agrees that it shall comply with and be fully
+bound by the terms of the Tax Receivable Agreement as if it had been a signatory thereto as of the date thereof.
+
+2.Incorporation by Reference. All terms and conditions of the Tax Receivable Agreement are hereby incorporated by reference
+in this Joinder as if set forth herein in full.
+
+3.Address. All notices under the Tax Receivable Agreement to the undersigned shall be direct to:
+
+[Name]
+
+[Address]
+
+[City, State, Zip Code]
+
+Attn:
+
+Facsimile:
+
+E-mail:
+
+IN WITNESS WHEREOF, the undersigned has
+duly executed and delivered this Joinder as of the day and year first above written.
+
+ [NAME OF NEW PARTY]
+
+ By:
+
+ Name:
+
+ Title:
+
+ Acknowledged and agreed
+
+ as of the date first set forth above:
+
+ Camelot Holdings (Jersey) LIMITED
+
+ By:
+
+ Name:
+
+ Title:
+
+Exhibit-F
+
+Final
+
+Dated [     ] 2019
+
+Companies (Jersey) Law 1991
+
+Company Limited by Shares
+
+AMENDED
+AND RESTATED Memorandum of
+Association
+OF
+Clarivate Analytics PLC
+
+Companies (Jersey) Law 1991
+
+Company Limited by Shares
+
+Amended and Restated
+

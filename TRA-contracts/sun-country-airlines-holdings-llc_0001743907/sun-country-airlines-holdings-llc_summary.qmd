@@ -1,0 +1,40 @@
+---
+title: "Sun Country Airlines Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Sun Country Airlines Holdings, Inc.", "Allegiant Travel Company"]
+CIKs: ["0001743907", "0001362468"]
+status: Terminated
+creation-date: 2021-03-19
+termination-date: 2026-05-13
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Change-of-control formula in the contract reads as "outstanding balance of the TRA at time of closing"
+  ($87.169M at YE2025); the merger-close 8-K characterized the actual ~$80.4M payment as "the present
+  value of the estimated payments owed," a ~$7M gap between the textual mechanic and the executed amount.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2021-03-17: Final IPO prospectus (424B4) discloses the TRA at 85% with $115.2M initial estimated aggregate undiscounted liability.
+- 2021-03-19: TRA executed at IPO closing, signed by Sun Country and SCA Horus Holdings, LLC (Apollo) as Existing Stockholders Representative; filed as Exhibit 10.3 to the March 22, 2021 8-K.
+
+#### Operating life and payments
+
+- 2023: First cash payment of $2.425M (FY2023 cash flow statement), after the contract's 12-month deferral from IPO close. Subsequent payments of $3.350M (2024) and $10.525M (2025) brought cumulative pre-termination payments to ~$16.3M.
+
+#### Allegiant acquisition and change-of-control termination
+
+- 2026-01-11: Sun Country signs Agreement and Plan of Merger with Allegiant Travel Company ($4.10 cash + 0.1557 Allegiant shares per Sun Country share); the merger agreement does not amend the TRA, leaving Section 4.1 to trigger at close.
+- 2026-05-13: Merger closes; the 8-K reports automatic termination of the TRA under Section 4.1 and payment of approximately $80.4M to TRA holders, characterized as "the present value of the estimated payments owed." Nasdaq delisting follows.
+
+## Explanation
+
+Sun Country executed the Income Tax Receivable Agreement at its March 19, 2021 IPO close as a conventional C-corp TRA (not Up-C), paying its pre-IPO stockholders (primarily Apollo via SCA Horus Holdings) 85% of cash tax savings realized from pre-IPO NOLs and other pre-IPO tax attributes, while Sun Country retained 15%. The contract recognized an initial undiscounted liability of $115.2M against stockholders' equity. Payments began in 2023 after the contract's 12-month deferral and accumulated to roughly $16.3M over three years, with a YE2025 carrying balance of $87.169M. The Allegiant Travel Company acquisition, signed January 11, 2026 and closed May 13, 2026, automatically triggered Section 4.1's change-of-control clause and terminated the TRA with a payment of approximately $80.4M; that amount sits about $7M below the YE2025 carrying balance because the merger-close 8-K characterized the payment as "the present value of the estimated payments owed," in tension with the contract's textual mechanic of "the outstanding balance of the TRA at time of closing." See `contract_log.md` for the full filing-by-filing record and the interpretive ambiguity in the change-of-control formula.

@@ -1,0 +1,43 @@
+---
+title: "Stronghold Digital Mining TRA (Keel Infrastructure acquirer)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bitfarms Ltd.", "Keel Infrastructure Corp.", "Stronghold Digital Mining, Inc."]
+CIKs: ["0001812477", "0001812477", "0001856028"]
+status: Terminated
+creation-date: 2021-04-01
+termination-date: 2025-03-14
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Acquirer
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Underlying Stronghold TRA contract documents live under Stronghold CIK
+  0001856028; this directory carries only the August 21, 2024 TRA Waiver and
+  Termination Agreement (Annex C of Bitfarms's acquisition 424B3). Bitfarms
+  redomiciled to Delaware as Keel Infrastructure Corp. effective April 1, 2026.
+---
+
+## TRA Timeline
+
+#### Underlying Stronghold TRA (referenced; documents not in this directory)
+
+- 2021-04-01: Stronghold Digital Mining, Inc. executes the Tax Receivable Agreement at its IPO close with Q Power LLC; 85% of cash tax savings on basis step-ups from Company Holdco unit redemptions plus imputed interest
+- 2022-11-09: Joinder adds William Spence as an additional TRA Party
+
+#### Bitfarms acquisition and TRA Waiver and Termination Agreement
+
+- 2024-08-21: TRA Waiver and Termination Agreement executed alongside the merger agreement; waives the Section 4.2 Change-of-Control Early Termination Payment in full, with no substitute negotiated cash payment (Stronghold holders' consideration is the all-stock merger at 2.52 Bitfarms shares per Stronghold share)
+- 2024-08-22: Merger agreement filed via 6-K
+- 2025-01-28: Waiver and Termination Agreement filed as Annex C of the acquisition 424B3 prospectus
+- 2025-03-14: Bitfarms-Stronghold merger closes; TRA Waiver becomes operative and the Stronghold TRA is terminated in its entirety
+
+#### Acquirer redomiciliation
+
+- 2026-04-01: Bitfarms redomiciles to Delaware as Keel Infrastructure Corp.; no further TRA activity under this CIK
+
+## Explanation
+
+The TRA in scope here is Stronghold Digital Mining's April 2021 Tax Receivable Agreement, under which Stronghold paid Q Power LLC and (after a November 2022 joinder) William Spence 85% of the cash tax savings on Section 754 basis step-ups from Company Holdco unit redemptions plus imputed interest. Bitfarms (now Keel Infrastructure Corp.) was the acquirer, not the obligor: in the August 21, 2024 TRA Waiver and Termination Agreement signed alongside the merger agreement, the holders waived the Section 4.2 Change-of-Control Early Termination Payment in full without a substitute cash payment and agreed to terminate the TRA in its entirety effective at merger close. The Bitfarms-Stronghold merger closed March 14, 2025; the TRA was extinguished at that point. The underlying Stronghold TRA contract documents live under Stronghold's CIK 0001856028 and are referenced here for context. See `contract_log.md` for the full filing-by-filing record.

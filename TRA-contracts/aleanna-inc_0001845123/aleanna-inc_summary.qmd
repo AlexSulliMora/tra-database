@@ -1,0 +1,35 @@
+---
+title: "AleAnna Inc TRA (draft, never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Swiftmerge Acquisition Corp.", "AleAnna, Inc."]
+CIKs: ["0001845123", "0001845123"]
+status: Terminated
+creation-date: 2024-06-04
+termination-date: 2024-10-08
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Never-executed draft; abandoned via First Amendment to Merger Agreement
+  before closing. No TRA on AleAnna's books post-Dec 13, 2024 closing.
+  Creation-date is the form-of filing; no preamble date (placeholder).
+---
+
+## TRA Timeline
+
+#### Draft TRA contemplated in merger agreement
+
+- 2024-06-04: 8-K announces Swiftmerge / AleAnna Merger Agreement with form-of TRA attached as Exhibit 10.3
+
+#### TRA dropped before closing
+
+- 2024-10-08: First Amendment to Merger Agreement removes the TRA as a closing deliverable; revises A&R HoldCo LLC Agreement to eliminate cash settlement on Class C unit exchanges
+- 2024-12-13: Business combination closes; Swiftmerge renamed AleAnna, Inc.; no TRA executed; closing 8-K exhibit list contains no TRA
+
+## Explanation
+
+Swiftmerge Acquisition Corp.'s June 4, 2024 Merger Agreement with AleAnna Energy, LLC originally contemplated an Up-C structure with a Tax Receivable Agreement (form attached as Exhibit 10.3 to the announcement 8-K), under which the public successor would have paid 85% of cash tax savings from Section 754 basis step-ups on future Class C HoldCo unit exchanges plus imputed interest. The TRA was then dropped from the deal on October 8, 2024 by the First Amendment to the Merger Agreement, which removed the TRA from closing deliverables and revised the HoldCo LLC Agreement to eliminate cash settlement in the exchange mechanics. The business combination closed December 13, 2024 with no executed TRA; the closing 8-K exhibit list confirms this, and the executed A&R LLC Agreement contains zero references to "Tax Receivable Agreement." The status is best characterized as draft-never-executed: there was no termination of an in-force contract because no contract was ever in force; the obligation was extinguished by amendment of the parent Merger Agreement. See `contract_log.md` for the full filing-by-filing record and the cancel-signal reconciliation.

@@ -1,0 +1,40 @@
+---
+title: "Amneal Pharmaceuticals TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Amneal Pharmaceuticals, Inc.", "Amneal Intermediate Inc.", "Amneal NewCo Inc."]
+CIKs: ["0001723128", "0001723128", "0001723128"]
+status: Ongoing
+creation-date: 2018-05-04
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "75%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Sharing ratio reduced from 85% to 75% by Nov 7, 2023 Amendment No. 1 in the
+  Up-C-collapse Reorganization (no Change of Control per parties' agreement).
+  Amendment text not in directory; terms inferred from 10-K disclosure.
+---
+
+## TRA Timeline
+
+#### Up-C business combination and TRA execution
+
+- 2018-05-04: Impax / Amneal business combination closes; TRA executed (Exhibit 10.6 to 8-K dated 2018-05-07)
+- 2018-05-14: S-1 files form-of TRA as Exhibit 10.5
+
+#### Up-C collapse and TRA amendment
+
+- 2023-11-07: Amendment No. 1 reduces payment rate from 85% to 75% and re-papers PubCo as Amneal NewCo Inc. (former PubCo becomes Amneal Intermediate Inc.); parties stipulate no Change of Control
+
+#### Payment phase
+
+- 2025-12-31: $3.0M paid in 2025; $129.1M unrecorded contingent TRA liability
+- 2026-01: $38.8M additional payment
+
+## Explanation
+
+Amneal Pharmaceuticals executed its Tax Receivable Agreement on May 4, 2018 at the closing of the Up-C business combination with Impax Laboratories, originally committing PubCo to pay 85% of cash tax savings from Section 754 basis step-ups on future redemptions and exchanges of Amneal LLC units to the pre-combination Amneal Group members. The November 7, 2023 Amendment No. 1, signed alongside an Up-C-collapsing Reorganization, reduced the payment percentage to 75% and re-papered the obligor (the former PubCo became Amneal Intermediate Inc.; Amneal NewCo Inc. became the new PubCo); the parties stipulated that the Reorganization was not a Change of Control, so Section 4.1 acceleration was not triggered. The amendment text itself is not in this directory; the post-amendment terms come from 10-K narrative disclosure and are flagged for manual verification. The contract remains in force at 75% with $129.1M of unrecorded contingent liability at year-end 2025 and a $38.8M payment made in January 2026. See `contract_log.md` for the full filing-by-filing record and the coverage gap on the November 2023 8-K.

@@ -1,0 +1,38 @@
+---
+title: "Chicken Soup for the Soul Entertainment, Inc. TRA (Redbox acquirer)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Chicken Soup for the Soul Entertainment, Inc.", "Redbox Entertainment, Inc.", "Redwood Holdco, LP"]
+CIKs: ["0001679063", "0001820201", ""]
+status: Terminated
+creation-date: 2021-10-22
+termination-date: 2022-08-11
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Acquirer
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Underlying TRA is filed under Redbox CIK 0001820201; CSSE saved here only because CSSE signed
+  the terminating amendment as prospective Parent. Original Redbox TRA text not in this directory.
+---
+
+## TRA Timeline
+
+#### Origination at Redbox SPAC business combination
+
+- 2021-10-22: Tax Receivable Agreement executed between Redbox Entertainment Inc., Redwood Holdco LP, and Redwood Intermediate LLC at the closing of the SPAC business combination with Seaport Global Acquisition Corp.
+
+#### Terminating amendment at CSSE acquisition signing
+
+- 2022-04-15: Waiver Under Tax Receivable Agreement executed by Redwood LP (filed under Redbox's CIK)
+- 2022-05-10: Amendment to the TRA executed; CSSE becomes a signatory as prospective Parent; operative provision terminates the TRA in its entirety immediately prior to the merger Effective Time, with Redwood LP waiving all rights to payments
+
+#### Termination at merger close
+
+- 2022-08-11: CSSE acquisition of Redbox closes; TRA terminates by operation of the May 10, 2022 amendment
+
+## Explanation
+
+CSSE is the acquirer of Redbox Entertainment, Inc., not an obligor on its own Up-C TRA; the underlying contract is the October 22, 2021 Redbox TRA covering 85% of cash tax savings on Section 754 basis step-ups from exchanges of Redwood Intermediate LLC units. CSSE's role here is limited to its signature on the May 10, 2022 Amendment to the TRA, which terminates the contract in its entirety immediately prior to the merger Effective Time at no cost to any TRA party and includes a waiver and release by Redwood LP. The merger closed August 11, 2022, at which point the TRA was terminated by operation of the amendment. The original TRA text is not saved under CSSE's CIK and would need to be retrieved from Redbox's CIK if required downstream. See `contract_log.md` for the full filing record.

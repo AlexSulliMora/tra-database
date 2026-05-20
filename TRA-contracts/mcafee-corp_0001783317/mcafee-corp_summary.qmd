@@ -1,0 +1,37 @@
+---
+title: "McAfee Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["McAfee Corp."]
+CIKs: ["0001783317"]
+status: Terminated
+creation-date: 2020-10-21
+termination-date: 2022-03-01
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries: TPG, Intel, Thoma Bravo, GIC nominees plus Management
+  Owners. Nov 2021 amendment capped final payout at $2M (vs $434M
+  liability) contingent on Mar 2022 Advent consortium take-private.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-10-13: Form-of TRA filed as S-1/A Amendment No. 2 Exhibit 10.10
+- 2020-10-21: TRA executed at IPO close among McAfee Corp., Foundation Technology Worldwide LLC, and the TRA Beneficiaries
+- 2020-10-26: IPO 8-K Item 1.01 files the executed TRA as Exhibit 10.2
+
+#### Going-private and negotiated termination
+
+- 2021-11-05: Merger Agreement signed with Condor BidCo (Advent / Permira / Crosspoint / CPP / GIC / ADIA consortium); same-day TRA-and-LLC-Agreement Amendment caps tax-year-2020 payments at $2M, suspends all other payments, and inserts Section 7.19 to terminate the TRA at the merger Effective Time
+- 2022-03-01: Going-private merger closes; TRA terminates automatically per Section 7.19
+
+## Explanation
+
+McAfee Corp. executed the TRA on October 21, 2020 at its Up-C IPO close, agreeing to pay 85% of cash tax savings on McAfee's allocable share of pre-existing tax basis in Foundation Technology Worldwide LLC assets acquired in the Reorganization Transactions, on Section 754 step-ups from future exchanges of FTW LLC Units, on pre-IPO NOLs and foreign tax credits, and on imputed interest, to the Continuing LLC Owners and Management Owners (including TPG, Intel, Thoma Bravo, and GIC nominees). On November 5, 2021, concurrent with signing the going-private Merger Agreement with the Advent / Permira / Crosspoint / CPP / GIC / ADIA consortium, the parties executed a TRA-and-LLC-Agreement Amendment that capped tax-year-2020 payments at $2M (versus a $434M booked liability at YE2021), suspended all other payments, and inserted Section 7.19 to terminate the TRA automatically at the merger Effective Time; the amendment was null and void ab initio if the merger did not close. The merger closed on March 1, 2022 and the TRA terminated by operation of the amendment with no separate termination instrument required. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,38 @@
+---
+title: "Duff & Phelps Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Duff & Phelps Corporation"]
+CIKs: ["0001397821"]
+status: Unknown
+creation-date: 2007-10-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Carlyle-led consortium took D&P private on April 23, 2013. DEFA14A disclosed that the
+  TRA was expected to remain in effect post-merger; no termination instrument filed.
+  Obligor deregistered; legacy CIK off SEC reporting roster. Status flag was "transferred_offledger".
+---
+
+## TRA Timeline
+
+#### Origination at Up-C IPO
+
+- 2007-09-21: Form-of TRA filed as Exhibit 10.6 to S-1/A
+- 2007-10-03: TRA executed at IPO close between Duff & Phelps Corporation (PubCo), Duff & Phelps Acquisitions, LLC (operating LLC), and the LLC's pre-IPO unitholders (Vestar/D&P Holdings, LM Duff Holdings, Lovell Minnick Equity Partners, plus individual Members)
+- 2007-11-09: Executed TRA filed as Exhibit 10.3 to the Q3 2007 10-Q
+
+#### Carlyle-led going-private merger
+
+- 2012-12-31: Merger Agreement with Dakota Holding Corporation filed; per-share consideration $15.55
+- 2013-02-28: DEFA14A discloses that "the tax receivables agreements were expected to remain in effect notwithstanding the closing of a potential transaction"
+- 2013-04-23: Acquisition by Carlyle / Stone Point / Pictet / Edmond de Rothschild consortium closes; D&P delisted from NYSE; no termination instrument filed; obligor entity ceases SEC reporting
+
+## Explanation
+
+This is a classical Up-C TRA executed at Duff & Phelps' October 2007 IPO and obligated D&P to pay former DPA unitholders 85% of cash federal, state, and local income-tax savings arising from two tax-asset categories: (i) DPA's basis in goodwill and similar intangible assets on the IPO date and (ii) Section 754 step-up basis adjustments arising from each later exchange of New Class A Units for Class A common stock. At the April 2013 Carlyle-led going-private merger, the parties disclosed that the TRA would remain in effect post-close (no Section 4.01 Early Termination Payment was triggered, and no negotiated termination or amendment was filed). The obligor entity then deregistered, so the contract is alive in law but moved off the public-reporting balance sheet. Status is `Unknown` because post-2013 lifecycle (any renegotiation, partial payments, or eventual termination under the successor private entity, later renamed Kroll) is not visible in EDGAR under this CIK. See `contract_log.md` for the full filing record.

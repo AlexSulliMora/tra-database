@@ -1,0 +1,37 @@
+---
+title: "Xponential Fitness, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Xponential Fitness, Inc."]
+CIKs: ["0001802156"]
+status: Ongoing
+creation-date: 2021-07-26
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Two Section 7.02(b) beneficiary-transfer joinders to Parallaxes Capital
+  secondary-market vehicles (Nov 2024, Jul 2025); no payment-term amendment.
+  TRA-related deferred tax assets carry a full valuation allowance; FY2024
+  cash payment $2.267M; FY2025 balance $0.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-16: Form-of TRA filed as Exhibit 10.13 to S-1/A (incorporated by reference into subsequent 10-K exhibit indices).
+- 2021-07-26: Up-C IPO closes; TRA executed between Xponential Fitness, Inc., Xponential Intermediate Holdings, LLC, the Continuing Pre-IPO LLC Members, and the Blocker Shareholders (Rumble Holdings LLC; H&W Investco Blocker II LP); 85% of cash tax savings on Blocker NOLs, IPO Contribution and Class A-5 Unit Redemption basis step-ups, future LLC-Unit exchange basis adjustments, and imputed interest deductions.
+
+#### Beneficiary transfers (Section 7.02(b) joinders)
+
+- 2024-11-15: Joinder: Parallaxes Xenon, LLC assumes future TRA payments on Common Units exchanged by Anthony Geisler, the Anthony Geisler Trust, LAG Fit, Inc., and BMG Fit, LLC prior to that date.
+- 2025-07-30: Joinder: Parallaxes Xenon II, LLC assumes future TRA payments on additional Common Units exchanged by LAG Fit, Inc. between November 2024 and July 2025.
+
+## Explanation
+
+Xponential Fitness's TRA was executed at the firm's July 26, 2021 Up-C IPO. The Continuing Pre-IPO LLC Members of Xponential Intermediate Holdings, LLC and the Blocker Shareholders (Rumble Holdings and H&W Investco Blocker II) receive 85% of XPO Inc.'s cash tax savings from a standard mix of attributes: Blocker-Company NOLs and basis, basis step-ups from the IPO Contribution and the Class A-5 Unit Redemption, future Section 754 step-ups from LLC-Unit exchanges, and imputed interest deductions on the TRA payments themselves. Two Section 7.02(b) joinders in November 2024 and July 2025 transferred the right to receive future payments from founder-affiliated vehicles (Geisler / LAG Fit / BMG Fit) to two Parallaxes Capital secondary-market buyers; the operative TRA terms were unchanged. A full valuation allowance on the underlying deferred tax assets has kept TRA expense subdued; FY2024 saw a $2.267M cash payment, and the FY2025 balance is $0 current and $0 non-current, though the contract remains in force and continues to accrue as additional Common Units are exchanged. See `contract_log.md` for the full filing-by-filing record.

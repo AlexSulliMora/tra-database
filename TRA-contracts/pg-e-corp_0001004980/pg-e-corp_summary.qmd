@@ -1,0 +1,36 @@
+---
+title: "PG&E Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PG&E Corporation", "Pacific Gas and Electric Company"]
+CIKs: ["0001004980", "0000075488"]
+status: Terminated
+creation-date: 2020-07-01
+termination-date: 2022-01-18
+tax-asset-type: [NOL]
+sharing-ratio: "100%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: "Plan of reorganization"
+counterparty-type: plan-of-reorganization trustee
+notes: >-
+  Aggregate $1.35B cash cap, paid in two tranches; no further obligations once cap is reached.
+  A separate contingent "Tax Receivables Agreement" defined in the Backstop Commitment Letters
+  with the Backstop TBM Trust was never executed because PG&E raised equity via PIPE.
+---
+
+## TRA Timeline
+
+#### Chapter 11 and plan emergence
+
+- 2019-01-29: Pacific Gas and Electric Company and PG&E Corporation file Chapter 11 petitions in connection with 2017-2018 California wildfire liability.
+- 2020-07-01: Plan of Reorganization effective date; Tax Benefit Payment Agreement executed between PG&E Corporation, the Utility, and the Fire Victim Trust (8-K Exhibit 10.1).
+
+#### Payment tranches and cap satisfaction
+
+- 2021-01-15: First tranche of $758 million paid to the Fire Victim Trust.
+- 2022-01-18: Final tranche of $592 million paid, reaching the $1.35 billion aggregate cap and extinguishing the payment obligation.
+
+## Explanation
+
+The Tax Benefit Payment Agreement arose out of PG&E's Chapter 11 plan: emerging from bankruptcy on July 1, 2020, PG&E Corporation and Pacific Gas and Electric Company agreed to pay the Fire Victim Trust the tax benefits realized from wildfire-related Net Operating Loss deductions, capped at $1.35 billion in the aggregate. The contract paid 100% of those Wildfire Claim Tax Benefits up to the cap in two scheduled tranches: $758 million on January 15, 2021 and $592 million on January 18, 2022, the latter satisfying the cap and ending the obligation. A parallel instrument titled "Tax Receivables Agreement" was defined in the 2019-2020 Backstop Commitment Letters with Knighthead, Abrams, and other backstop parties; it would have flowed wildfire-NOL tax benefits above the $1.35 billion threshold to a Backstop TBM Trust, but was contingent on the backstop commitments being drawn, and PG&E's equity raise via the $3.25 billion PIPE and Forward Stock Purchase Agreements meant the contingency failed and the Tax Receivables Agreement was never executed. The instrument is functionally complete; post-2022 10-Ks carry no further disclosures. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,38 @@
+---
+title: "QualTek Services TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["QualTek Services Inc.", "Roth CH Acquisition III Co."]
+CIKs: ["0001839412", "0001839412"]
+status: Terminated
+creation-date: 2022-02-14
+termination-date: 2023-07-14
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Terminated by Chapter 11 plan rejection; In re QualTek Services Inc.,
+  Case No. 23-90584 (CML), S.D. Tex. Form 15-12G filed July 20, 2023.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-01-24: DEFM14A filed; Annex G carries the form-of TRA
+- 2022-02-14: SPAC business combination with Roth CH Acquisition III closes; TRA executed among QualTek Services Inc., QualTek HoldCo LLC, BCP QualTek (TRA Holder Representative), and TRA Holders, paying 85% of basis-step-up cash tax savings
+- 2022-02-16: 8-K filed attaching executed TRA as exhibit 10.1
+
+#### Chapter 11 cancellation
+
+- 2023-05-24: 8-K announces Chapter 11 petition and attaches the Restructuring Support Agreement and Disclosure Statement classifying TRA Claims as Class 6 (impaired, deemed to reject, 0% recovery)
+- 2023-06-30: Bankruptcy court enters Confirmation Order rejecting the TRA as an executory contract
+- 2023-07-14: Plan Effective Date; TRA cancelled and rejected with no distribution to TRA Holders
+- 2023-07-20: Form 15-12G filed; SEC reporting terminated post-emergence
+
+## Explanation
+
+QualTek's TRA was executed at the close of the February 14, 2022 SPAC business combination with Roth CH Acquisition III, obligating the PubCo to pay TRA Holders 85% of cash tax savings from Section 754 basis step-ups on exchanges of LLC Common Units. No amendments followed. QualTek filed Chapter 11 on May 24, 2023; the Plan of Reorganization classified TRA Claims as Class 6 (impaired, deemed to reject) with 0% recovery and identified the TRA as an executory contract to be cancelled. The bankruptcy court entered the Confirmation Order on June 30, 2023, and the Plan became effective July 14, 2023, extinguishing the contract. QualTek filed Form 15-12G on July 20, 2023 and is no longer a public reporter. See `contract_log.md` for the full filing-by-filing record and the Plan classification details.

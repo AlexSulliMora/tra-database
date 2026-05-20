@@ -1,0 +1,37 @@
+---
+title: "Baldwin Insurance Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["BRP Group, Inc.", "The Baldwin Insurance Group, Inc.", "Baldwin Risk Partners, LLC", "The Baldwin Insurance Group Holdings, LLC"]
+CIKs: ["0001781755", "0001781755", "", ""]
+status: Ongoing
+creation-date: 2019-10-28
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  May 2024 renaming: BRP Group to Baldwin Insurance Group; Baldwin Risk Partners
+  LLC to Baldwin Insurance Group Holdings LLC. TRA liability jumped from $4.5M
+  (12/31/2025) to $144.6M (3/31/2026) on CAC Group / Obie acquisition redemptions.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-09-23: S-1 first attaches the form-of TRA as Exhibit 10.4
+- 2019-10-28: Up-C IPO closes; executed TRA dated October 28, 2019 filed as Exhibit 10.1 to the closing 8-K (2019-10-31)
+
+#### Valuation-allowance trajectory
+
+- 2024-12-31: First TRA liability recognized ($4.8 million) following partial release of the deferred tax asset valuation allowance on sustained profitability
+- 2026-01-02: CAC Group acquisition closes; combined with Obie acquisition, LLC unit redemptions crystallize basis step-ups
+- 2026-03-31: TRA liability jumps to $144.6 million as the firm determines the related payments are probable
+
+## Explanation
+
+Baldwin Insurance Group (formerly BRP Group) completed its Up-C IPO on October 28, 2019 and executed an 85% Tax Receivable Agreement with 39 pre-IPO Continuing LLC Members of Baldwin Risk Partners covering Section 754 basis step-ups on future LLC Unit redemptions and exchanges plus imputed-interest deductions. No amendment or restatement has been filed, and the May 2024 renaming of both the parent and the operating subsidiary was an administrative change that did not modify the contract. The TRA carried no recognized liability until December 31, 2024, when sustained profitability allowed a partial release of the deferred tax asset valuation allowance ($4.8M initial accrual). Following the January 2026 CAC Group acquisition and the related LLC unit redemptions, the recognized TRA liability rose to $144.6 million at March 31, 2026, reflecting tax benefits the firm now considers probable of being paid. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,40 @@
+---
+title: "Rocket Companies TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rocket Companies, Inc."]
+CIKs: ["0001805284"]
+status: Ongoing
+creation-date: 2020-08-05
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  Non-standard 90% payout rate (founder-dominant pre-IPO ownership).
+  Amendment No. 1 (June 30, 2025) prospectively terminates the TRA for
+  post-March-9-2025 exchanges but preserves the $590M residual liability
+  for pre-March-9-2025 exchanges (IPO step-up and March 2021 RHI exchange).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-07-08: S-1 files form-of TRA as exhibit 10.2
+- 2020-07-27: S-1/A files updated form-of TRA
+- 2020-08-05: Up-C IPO closes; TRA executed between Rocket Companies, Inc., Rock Holdings Inc. (RHI), and Daniel Gilbert, paying 90% of realized cash tax savings on Section 754 basis step-ups (IPO purchases and future Exchanges), imputed interest, and Section 704(c) disproportionate allocations
+- 2020-11-12: Q3 2020 10-Q files the executed TRA as exhibit 10.2
+
+#### Up-C Collapse partial-termination amendment
+
+- 2025-03-09: 8-K announces Up-C Collapse Transaction Agreement and Redfin merger agreement
+- 2025-03-31: 8-K announces Mr. Cooper merger agreement
+- 2025-06-30: Up-C Collapse closes; Amendment No. 1 adds Section 4.05 providing no TRA payment for any Exchange on or after March 9, 2025 (the contract is "considered terminated with respect to such Exchanges"); obligations for pre-March-9-2025 exchanges remain. Joinder transfers RHI's payment-receivable rights to RHI II, LLC (a new RHI subsidiary holding excluded assets) under Section 7.02(b)
+
+## Explanation
+
+Rocket Companies' Up-C IPO on August 5, 2020 created a TRA paying 90% of realized cash tax savings to Rock Holdings Inc. and Daniel Gilbert, covering Section 754 basis step-ups (from IPO-proceeds purchases of Holdings LLC Units and future Exchanges), imputed-interest deductions on TRA payments, and Section 704(c) disproportionate allocations from the IPO reorganization; the 90% rate reflects founder-dominant pre-IPO ownership. On June 30, 2025 the Up-C Collapse closed as a precondition for the Redfin and Mr. Cooper acquisitions, and Amendment No. 1 added Section 4.05 carving future exchanges out of TRA coverage: no payment is owed for any Exchange on or after March 9, 2025, but pre-March-9-2025 exchange-derived liability (the 2020 IPO step-up and the March 2021 RHI paired-interest exchange) remains in force and continues to amortize. A concurrent Joinder transferred RHI's payment-receivable rights to RHI II, LLC, a new subsidiary holding RHI's excluded assets. The December 31, 2025 liability was $590M ($581M at year-end 2024); $1M was paid to RHI in 2025 with $6M paid to RHI II subsequent to year-end. See `contract_log.md` for the full filing-by-filing record and the carve-out termination reasoning.

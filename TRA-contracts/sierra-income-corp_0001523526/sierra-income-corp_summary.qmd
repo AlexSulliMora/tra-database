@@ -1,0 +1,43 @@
+---
+title: "Sierra Income Corporation TRA (Acquirer at Medley)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Sierra Income Corporation", "Medley Management Inc."]
+CIKs: ["0001523526", "0001611110"]
+status: Unknown
+creation-date: 2014-09-23
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Acquirer
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Underlying Medley TRA lives at Medley Management Inc. (CIK ~0001611110, requires
+  verification). Sierra is a signatory to two prospective termination instruments,
+  both conditional on a merger that never closed. Medley LLC subsequently filed
+  Chapter 11 on 2021-03-07; TRA's ultimate disposition is not visible in Sierra's
+  filings.
+---
+
+## TRA Timeline
+
+#### Underlying Medley TRA origination
+
+- 2014-09-23: Medley Management Inc. executes its Up-C IPO Tax Receivable Agreement (original document under MDLY's CIK, not Sierra's)
+
+#### Sierra-MDLY-MCC three-way merger and contemplated TRA termination
+
+- 2018-08-09: Sierra signs Termination, Waiver and Lockup Agreement as Exhibit A inline within the three-way merger agreement; conditional termination of the Medley TRA upon merger closing
+- 2019-07-29: Amended and Restated Termination, Waiver and Lockup Agreement signed alongside the amended and restated merger agreement; revises subsidiary mechanics but preserves the conditional TRA termination
+
+#### Failure to close
+
+- 2020-05-01: Merger terminated when the Outside Date lapses; the conditional TRA termination provisions never become operative
+- 2021-03-07: Medley LLC files Chapter 11 (Bankr. D. Del. No. 21-10526 (KBO)); referenced as a subsequent event in Sierra's June 30, 2021 10-Q exhibit
+- 2022-02-25: Sierra merges into Barings BDC, Inc. (no TRA component)
+
+## Explanation
+
+Sierra Income Corporation was a Maryland BDC that signed two prospective TRA termination instruments as a contemplated acquirer of Medley Management Inc., but never actually owned or originated a TRA itself. The underlying Tax Receivable Agreement (dated September 23, 2014, from Medley's Up-C IPO) at all times remained an obligation of Medley Management Inc., not Sierra. The August 2018 three-way merger agreement included a Termination, Waiver and Lockup Agreement that would have terminated the Medley TRA at closing; the July 2019 amended and restated merger agreement carried an updated version of the same termination instrument. Neither took effect: the merger was terminated on May 1, 2020 when the Outside Date lapsed, and Sierra itself was subsequently absorbed into Barings BDC in February 2022. Medley LLC's March 2021 Chapter 11 filing means the original TRA's ultimate disposition needs to be verified under MDLY's own CIK and the Delaware bankruptcy docket; that fate is not visible in Sierra's filings. See `contract_log.md` for the two prospective termination instruments and the cross-reference to Medley Management Inc.

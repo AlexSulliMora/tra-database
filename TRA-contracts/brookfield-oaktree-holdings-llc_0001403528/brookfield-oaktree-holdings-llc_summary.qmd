@@ -1,0 +1,48 @@
+---
+title: "Brookfield Oaktree Holdings, LLC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Oaktree Capital Group, LLC", "Brookfield Oaktree Holdings, LLC"]
+CIKs: ["0001403528", "0001403528"]
+status: Ongoing
+creation-date: 2007-05-25
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Original May 25, 2007 TRA and March 28, 2008 First A&R pre-date the firm's EDGAR-public filings; chain established by recitals in the 2023 Amendment.
+  Third A&R bars Tax Benefit Payments on OCGH-unit exchanges on or after March 13, 2019; pre-cutoff liability transferred off-balance-sheet October 1, 2019 to deconsolidated Brookfield entities.
+  Pending Fourth A&R contemplated by the April 14, 2026 Transaction Agreement (Acquisition Z (2026) LP); form not yet executed.
+---
+
+## TRA Timeline
+
+#### Pre-EDGAR origination and IPO
+
+- 2007-05-25: Original Tax Receivable Agreement executed in connection with Oaktree's 2007 private offering (pre-EDGAR).
+- 2008-03-28: First Amended and Restated TRA (pre-EDGAR; superseded in full by the Second A&R).
+- 2011-10-20: S-1/A files the form-of Second A&R as Exhibit 10.7.
+- 2012-03-29: Second Amended and Restated TRA executed at IPO close.
+- 2012-03-30: Final pre-IPO S-1/A files the executed Second A&R as Exhibit 10.7.
+
+#### Brookfield merger restatement
+
+- 2019-09-30: Brookfield merger closes; Third Amended and Restated TRA executed. Brookfield Asset Management Inc. added as Parent. No Tax Benefit Payments on exchanges on or after March 13, 2019; pre-cutoff payments calculated without giving credit for Brookfield's tax attributes.
+- 2019-11-07: Q3 2019 10-Q files the executed Third A&R as Exhibit 10.3.
+- 2019-10-01: Intermediate Holding Companies merged into Brookfield-side entities; TRA liability for pre-March-13-2019 exchanges transferred off OCG's consolidated balance sheet.
+
+#### LIBOR-to-Benchmark amendment
+
+- 2023-04-13: Amendment to the Third A&R executed; redefines "Agreed Rate" as Applicable Benchmark Rate plus 110 basis points. Filed as Exhibit 10.1 to the Q1 2023 10-Q.
+
+#### Pending Fourth A&R
+
+- 2026-04-14: Transaction Agreement among Brookfield Asset Management Ltd., Brookfield Corporation, Brookfield Oaktree Holdings, LLC, OCGH, and Acquisition Z (2026) LP contemplates a Fourth Amended and Restated TRA at Closing; form not yet attached or executed.
+
+## Explanation
+
+The TRA originates from Oaktree's May 25, 2007 private offering and was restated at the April 2012 IPO (Second A&R) and again at the September 30, 2019 Brookfield merger close (Third A&R). The Third A&R imposed a March 13, 2019 cutoff so no Tax Benefit Payments accrue on later exchanges, and the residual liability for pre-cutoff exchanges was transferred off OCG's consolidated balance sheet on October 1, 2019 to deconsolidated Brookfield entities. The contract is legally in force; the deferred-CSV cancel signal at 2023-12-31 reflects the accounting reality that no TRA liability appears on the consolidated balance sheet, but the underlying instrument was not terminated. A Fourth Amended and Restated TRA is contemplated by the April 14, 2026 Transaction Agreement (Acquisition Z (2026) LP) but has not been executed or filed. See `contract_log.md` for the full chain-of-title and the manual-verification flag for the pending Fourth A&R.

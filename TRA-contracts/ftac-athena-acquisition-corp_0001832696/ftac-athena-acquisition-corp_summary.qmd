@@ -1,0 +1,36 @@
+---
+title: "FTAC Athena Acquisition Corp TRA (never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["FTAC Athena Acquisition Corp"]
+CIKs: ["0001832696"]
+status: Unknown
+creation-date: 2021-08-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA was never executed. Pico Quantitative Trading Holdings Business Combination
+  Agreement signed August 3, 2021 was terminated February 24, 2022 before closing. The
+  form-of TRA was filed only as Exhibit G to the BCA. Creation-date field uses the BCA
+  signing date (fallback to filing-date priority); the contract has no execution date.
+---
+
+## TRA Timeline
+
+#### SPAC business combination announcement (form-of TRA filed)
+
+- 2021-08-03: Business Combination Agreement with Pico Quantitative Trading Holdings LLC signed; form-of TRA filed as Exhibit G embedded in the BCA (Exhibit 2.1 to the announcement 8-K)
+
+#### Business combination termination (TRA never executed)
+
+- 2022-02-24: Business Combination Agreement terminated before close; TRA never executed
+- 2023-01: SPAC files extension proxies seeking additional time to find a replacement combination; through the end of this directory's coverage no successor combination has been signed
+
+## Explanation
+
+FTAC Athena Acquisition Corp was a Cayman Islands SPAC that, on August 3, 2021, signed a Business Combination Agreement with Pico Quantitative Trading Holdings LLC contemplating an Up-C structure with the post-domestication FTAC Athena as PubCo and a TRA paying 85% of cash tax savings from Section 754 basis step-ups on future exchanges of Pico OpCo Class A Common Units plus pre-existing Pico tax assets. The form-of TRA was attached as Exhibit G to the BCA but the BCA was terminated on February 24, 2022 before closing, so the TRA was never executed by any party. Subsequent SPAC filings through January 2023 seek extensions of the combination deadline but disclose no replacement counterparty. The contract is in a "never executed" state with no operative parties or effective date; status is Unknown because the SPAC's ultimate fate (liquidation, alternative combination, or continuing search) is not visible from the available filings. See `contract_log.md` for the form-of provenance.

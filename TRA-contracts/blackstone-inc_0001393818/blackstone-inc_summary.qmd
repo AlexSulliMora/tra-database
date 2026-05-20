@@ -1,0 +1,41 @@
+---
+title: "Blackstone Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Blackstone Group L.P.", "The Blackstone Group Inc.", "Blackstone Inc."]
+CIKs: ["0001393818", "0001393818", "0001393818"]
+status: Ongoing
+creation-date: 2007-06-18
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Corporate Taxpayer is Blackstone Holdings I/II GP L.L.C. (a wholly owned subsidiary).
+  TRA "Due to Affiliates" liability approximately $2.08B at 12/31/2025.
+  Manual verification flagged: confirm no economic terms shifted at the 2021 Amended and Restated rewrite.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-05-21: S-1/A files the form-of TRA as Exhibit 10.6.
+- 2007-06-18: IPO closes; executed Tax Receivable Agreement dated June 18, 2007 between Blackstone Holdings I/II GP Inc. (consolidated from two separate GP corporations contemplated in the form-of), the Holdings Partnerships, and the Limited Partners.
+- 2007-08-13: Q2 2007 10-Q files the executed TRA as Exhibit 10.6.
+
+#### Corporation conversion amendment
+
+- 2019-07-01: The Blackstone Group L.P. converts to The Blackstone Group Inc.; TRA Amendment No. 1 executed to update entity definitions; Corporate Taxpayer re-domiciled from "Inc." to "L.L.C." Q3 2019 10-Q records a $174.6M reduction in TRA liability attributable to the conversion's effect on basis-step-up mechanics.
+- 2019-07-05: 8-K files the executed amendment as Exhibit 99.6.
+
+#### Amended and Restated consolidation
+
+- 2021-05-07: Amended and Restated TRA executed, consolidating the 2007 original and the 2019 amendment into a single instrument; 85% rate, Section 754 coverage, Limited Partner counterparty set retained. Filed as Exhibit 10.6 to the Q1 2021 10-Q.
+
+## Explanation
+
+The TRA originates from Blackstone's June 18, 2007 Up-C IPO and obligates Blackstone Holdings I/II GP L.L.C. (a wholly owned subsidiary of Blackstone Inc., acting as Corporate Taxpayer) to pay 85% of cash savings in U.S. federal, state, and local income / franchise tax realized from Section 754 basis step-ups arising from Limited Partner exchanges of Blackstone Holdings Partnership Units for parent equity, plus imputed-interest deductions on TRA payments. The contract has had two corporate-restructuring modifications: a July 1, 2019 amendment in connection with the L.P.-to-Inc. conversion (which updated entity definitions and produced a one-time $174.6M reduction in the recorded liability) and a May 7, 2021 Amended and Restated version consolidating those changes; neither shifted the 85% rate, the Section 754 attribute scope, or the Limited Partner counterparty set. The TRA remains in force with a recorded "Due to Affiliates ... in Connection with the Tax Receivable Agreements" liability of approximately $2.08B at December 31, 2025. See `contract_log.md` for the four-document lineage and the manual-verification flag.

@@ -1,0 +1,42 @@
+---
+title: "Planet Fitness TRA (TRA-2015-08-05-LLC-Owners)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Planet Fitness, Inc."]
+CIKs: ["0001637207"]
+status: Ongoing
+creation-date: 2015-08-05
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-08-05-Direct-TSG"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  One of two parallel TRAs executed at the Up-C IPO; this one covers
+  exchanges of Pla-Fit Holdings LLC Units by Continuing LLC Owners.
+  Only form-of (Exhibit 10.5 to S-1/A) is on EDGAR; no executed copy
+  filed.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and parallel TRA execution
+
+- 2015-07-15: S-1/A attaches form-of TRA as Exhibit 10.5 (Continuing LLC Owners side)
+- 2015-08-05: Recapitalization Transactions consummated; TRA effective alongside parallel TRA with Direct TSG Investors
+- 2015-08-11: IPO closes
+
+#### TCJA remeasurement
+
+- 2017-Q4: $316.8M gain on TRA-liability remeasurement (across both parallel TRAs) reflecting 35% to 21% federal rate change; consolidated tax benefit arrangement liability $431.4M at year-end 2017
+
+#### Continuing accrual
+
+- 2021-12-31: Consolidated liability peak of $508.7M (current + noncurrent across both TRAs)
+- 2025-12-31: Consolidated liability $360.3M
+
+## Explanation
+
+Planet Fitness, Inc. became the obligor under two parallel Tax Receivable Agreements on August 5, 2015 at the consummation of the Recapitalization Transactions preceding its Up-C IPO, of which this is one. This TRA covers the Continuing LLC Owners of Pla-Fit Holdings, paying them 85% of the cash tax savings Planet Fitness realizes from basis adjustments under Sections 732 / 743 / 755 / 1012 arising from exchanges of Pla-Fit Holdings LLC Units for Class A common stock, plus imputed interest. Only the form-of version is on EDGAR (Exhibit 10.5 to the July 15, 2015 S-1/A); no executed counterpart was filed, and subsequent 10-Ks incorporate the form-of by reference. No amendment, restatement, or termination has been filed in over ten years; the Q4 2017 TCJA remeasurement produced a $316.8M consolidated gain across both parallel TRAs without contractual changes, and multiple TSG sell-downs and LLC-Owner exchanges have driven incremental accruals captured under the pre-existing terms. The consolidated tax benefit arrangement liability stood at $360.3M at year-end 2025, down from a 2021 peak of $508.7M but still substantial. See `contract_log.md` for the full filing-by-filing record.

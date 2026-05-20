@@ -1,0 +1,41 @@
+---
+title: "SciPlay Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["SciPlay Corporation", "Light & Wonder, Inc.", "LNW Social Holding Company I, LLC"]
+CIKs: ["0001760717", "0000750004", "0001760717"]
+status: Unknown
+creation-date: 2019-05-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  October 23, 2023 Light & Wonder / SciPlay merger close: three concurrent
+  Waivers waived only the Section 4.1(b) Change-of-Control acceleration;
+  Omnibus Termination Agreement did NOT list the TRA. Contract remains in
+  full force on the deconsolidated entities under Light & Wonder ownership;
+  SciPlay ceased separate public reporting at close, so post-merger state
+  is not visible from SciPlay's CIK.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-04-12: S-1/A files form-of TRA as exhibit 10.4
+- 2019-05-02: IPO closes (date of report on the IPO 8-K)
+- 2019-05-07: TRA executed between SciPlay Corporation, SciPlay Parent Company LLC, and the LLC members (SG Social Holding Company I, LLC and SG Social Holding Company, LLC), paying 85% of Cumulative Net Realized Tax Benefit on Section 754 basis step-ups
+- 2019-05-08: 8-K files the executed TRA as exhibit 10.2
+
+#### Light & Wonder merger and narrow waivers
+
+- 2023-08-08: Merger Agreement with Light & Wonder filed (TRA Member counterparty is by then LNW Social Holding Company I, LLC, successor to the SG Social Holding entities after the Scientific Games -> Light & Wonder rebrand)
+- 2023-10-23: Merger closes; three concurrent Waivers (SciPlay Corp, SciPlay Parent, LNW Social Holding) waive only the Section 4.1(b) Change-of-Control acceleration with respect to the Merger and expressly preserve the TRA "in full force and effect in accordance with its terms". LNW Social Holding's Waiver adds an express release for any merger-triggered obligations. The concurrent Omnibus Termination Agreement terminates listed affiliate agreements (registration rights, license, services) but does NOT list the TRA. SciPlay becomes a wholly owned subsidiary of Light & Wonder and ceases separate public reporting
+
+## Explanation
+
+SciPlay Corporation's Up-C IPO on May 2, 2019 created a TRA executed May 7, 2019 paying 85% of Cumulative Net Realized Tax Benefit to the SG Social Holding LLCs (later LNW Social Holding Company I, LLC after Scientific Games rebranded to Light & Wonder), covering Section 754 basis step-ups attributable to a Section 754 election on SciPlay Parent. No amendments were filed during SciPlay's independent public life. At the October 23, 2023 close of the Light & Wonder / SciPlay merger, three concurrent Waivers waived only the Section 4.1(b) Change-of-Control acceleration mechanism while expressly preserving the TRA in full force; the concurrent Omnibus Termination Agreement terminated affiliate agreements (registration rights, license, services) but did not touch the TRA. The TRA survived merger close as a deconsolidated liability between entities now under Light & Wonder ownership; SciPlay ceased separate public reporting, so the contract's ongoing payment activity and any later modifications are not visible from this CIK and would need to be retrieved from Light & Wonder's filings (CIK 0000750004). See `contract_log.md` for the full filing-by-filing record and the Waiver-vs-Termination reasoning.

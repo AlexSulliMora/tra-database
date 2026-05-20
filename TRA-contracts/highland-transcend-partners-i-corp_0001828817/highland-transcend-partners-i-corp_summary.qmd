@@ -1,0 +1,35 @@
+---
+title: "Highland Transcend Partners I Corp. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Highland Transcend Partners I Corp.", "Packable Holdings, LLC"]
+CIKs: ["0001828817", ""]
+status: Unknown
+creation-date: 2021-09-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Never executed. Packable merger terminated 2022-03-25 before close. Two form-of
+  versions saved (September 2021 and an October 2021 revision reflecting revised
+  post-Closing governance); status is `never_executed` rather than Terminated.
+---
+
+## TRA Timeline
+
+#### Contemplated SPAC business combination
+
+- 2021-09-08: HTP enters into Agreement and Plan of Merger with Packable Holdings, LLC for an Up-C de-SPAC; form-of TRA filed as Exhibit 10.2 to the BCA-announcement 8-K
+- 2021-10-22: First Amendment to Merger Agreement attaches revised form-of TRA reflecting revised post-Closing governance; substantive terms unchanged
+
+#### Termination of the business combination
+
+- 2022-03-25: HTP and Packable mutually agree to terminate the Business Combination Agreement citing unfavorable market conditions; no TRA was ever executed
+
+## Explanation
+
+Highland Transcend Partners I was a SPAC that signed a Business Combination Agreement with Packable Holdings, LLC on September 8, 2021 contemplating an Up-C de-SPAC under which the surviving public company (to be renamed Packable Commerce, Inc.) would have executed a Tax Receivable Agreement paying 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of Packable Holdings LLC Units), Pre-IPO Tax Assets, and imputed interest to Packable's pre-Closing equity holders. The October 22, 2021 First Amendment to the Merger Agreement attached a revised form-of TRA reflecting a revised post-Closing governance structure; substantive economics were unchanged. The Business Combination Agreement was terminated on March 25, 2022 before close; HTP remained a shell SPAC and Packable subsequently filed for bankruptcy outside this directory's scope. No executed TRA exists. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,44 @@
+---
+title: "RHI Entertainment TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["RHI Entertainment, Inc."]
+CIKs: ["0001410637"]
+status: Terminated
+creation-date: 2008-06-23
+termination-date: 2011-03-29
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA was economically extinguished December 22, 2009 when the Board elected
+  to settle KRH's full exchange in stock rather than cash (no Section 754
+  step-up at Holdings II). Plan of reorganization confirmed March 29, 2011;
+  bankruptcy docket lives off-EDGAR at Logan & Co., Case No. 10-16536, SDNY.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2007-10-19: S-1/A Amendment No. 1 files first form-of TRA
+- 2008-06-13: S-1/A Amendment No. 5 files updated form-of TRA
+- 2008-06-23: Up-C IPO closes; TRA executed between RHI Entertainment, Inc., RHI Entertainment Holdings II LLC, and KRH Investments LLC (42.3% holder of Holdings II units), paying 85% of Realized Tax Benefit on Section 754 basis step-ups
+- 2008-08-07: Executed TRA first filed under this CIK as exhibit 10.2 to the Q2 2008 10-Q
+
+#### Stock-only exchange forecloses step-up
+
+- 2009-12-22: KRH exercises its exchange right for all 9,900,000 Holdings II units; Board elects to settle entirely in RHI common stock rather than cash, which does not trigger a Section 754 basis step-up at Holdings II. TRA legally remains in force but has no prospective economic content; no liability ever accrued
+
+#### Chapter 11 and equity extinguishment
+
+- 2010-12-10: RHI Entertainment files voluntary Chapter 11 petition in the SDNY (Case No. 10-16536) with a prepackaged plan
+- 2011-03-29: Plan of Reorganization confirmed; existing equityholders have no continuing interest, extinguishing KRH's position
+- 2011-04-01: Form 15 deregistration filed
+
+## Explanation
+
+RHI Entertainment's Up-C IPO on June 23, 2008 created a TRA paying 85% of Realized Tax Benefit to KRH Investments LLC on Section 754 basis step-ups from exchanges of Holdings II common membership units. On December 22, 2009 KRH exchanged all 9,900,000 of its units, but the Board elected to settle entirely in RHI common stock rather than cash; under the Up-C structure this did not produce a Section 754 step-up at Holdings II, leaving the TRA legally in force but economically extinguished with no liability ever accrued. RHI filed a prepackaged Chapter 11 in the SDNY on December 10, 2010; the Plan was confirmed on March 29, 2011 with existing equityholders given no continuing interest, and the firm deregistered on April 1, 2011. The operative plan-of-reorganization treatment of the TRA lives on the Logan & Co. bankruptcy docket (off-EDGAR); EDGAR records only the high-level extinguishment of equity. See `contract_log.md` for the full filing-by-filing record and the bankruptcy-docket coverage gap.

@@ -1,0 +1,40 @@
+---
+title: "Five Point Holdings, LLC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Five Point Holdings, LLC"]
+CIKs: ["0001574197"]
+status: Ongoing
+creation-date: 2016-05-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: pre-IPO holders
+notes: >-
+  Unusual scope: covers Section 754 basis step-ups, Section 704(c) special allocations,
+  AND imputed-interest deductions (most Up-C TRAs cover basis only). Beneficiaries are
+  a trust for Emile Haddad's family, Lennar Corporation, and Castlelake affiliates. No
+  TRA payments have ever been made through December 31, 2025.
+---
+
+## TRA Timeline
+
+#### Five Point formation transactions and TRA execution
+
+- 2016-05-02: TRA executed concurrent with the formation transactions combining Five Point's three predecessor entities; preamble dated as of May 2, 2016
+
+#### NYSE IPO
+
+- 2017-04-07: TRA filed as Exhibit 10.5 to Form S-11 (accession 0001193125-17-116314)
+- 2017-05-09: NYSE IPO; TRA already in force at the time of listing
+
+#### Tax Cuts and Jobs Act remeasurement
+
+- 2017-12-31: Q4 2017 $105.6M reduction in TRA liability from the federal corporate rate cut from 35% to 21%; remeasurement only, no contract change
+
+## Explanation
+
+Five Point Holdings, LLC executed its Tax Receivable Agreement on May 2, 2016 during the formation transactions that combined its three predecessor entities, then went public on the NYSE on May 9, 2017 with the TRA already in force. The contract commits Five Point to pay a trust for Emile Haddad's family, Lennar Corporation, and Castlelake affiliates 85% of cash tax savings from three tax-attribute categories: Section 754 basis step-ups on exchanges of operating-company units, Section 704(c) special allocations (an unusual feature compared with most Up-C TRAs), and imputed-interest deductions on TRA payments themselves. The carrying value moved from ~$220M at formation to roughly $181.5M at December 31, 2025, reflecting the December 2017 TCJA rate-cut remeasurement and routine fair-value adjustments. Cumulative cash payments to TRA beneficiaries through December 31, 2025 are zero, consistent with Five Point's recurring net operating losses and persistent deferred-tax-asset valuation allowance. The TRA remains in force with no amendments, restatements, or terminations on file. See `contract_log.md` for the full filing-by-filing record.

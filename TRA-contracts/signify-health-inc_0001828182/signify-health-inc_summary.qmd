@@ -1,0 +1,38 @@
+---
+title: "Signify Health TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Signify Health, Inc.", "CVS Pharmacy, Inc."]
+CIKs: ["0001828182", "0000064803"]
+status: Terminated
+creation-date: 2021-02-12
+termination-date: 2023-03-29
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Zero-payment terminating amendment executed concurrent with the CVS merger
+  agreement; TRA Parties' rights extinguished at the 2023-03-29 close with no
+  consideration paid. Goldman's DCF valued the net tax-asset benefit at $14.5M
+  at June 30 2022.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-02-02: Form-of TRA filed as Exhibit 10.4 to S-1/A with blank preamble date
+- 2021-02-12: Up-C IPO closes; TRA executed at 85% sharing rate covering post-IPO Section 754 basis step-ups from LLC unit exchanges and pre-IPO NOLs of the Blocker Companies
+- 2021-03-25: Executed TRA filed as Exhibit 10.5 to FY2020 10-K (first appearance of the executed text on EDGAR)
+
+#### CVS acquisition and contingent termination
+
+- 2022-09-02: CVS merger agreement signed; Tax Receivable Agreement and LLC Agreement Amendment executed concurrently, suspending payments and terminating the TRA contingent on merger close, with no consideration paid
+- 2023-03-29: CVS merger closes; TRA terminates by operation of the amendment as a condition of the merger
+
+## Explanation
+
+Signify Health, Inc. executed a Tax Receivable Agreement on February 12, 2021 at its Up-C IPO close, paying 85% of cumulative net realized tax benefits to the pre-IPO TRA Parties for Section 754 basis step-ups on LLC unit exchanges and pre-IPO NOLs from the Blocker Companies. Approximately 19 months later, concurrent with signing the CVS merger agreement on September 2, 2022, the parties executed a Tax Receivable Agreement and LLC Agreement Amendment that suspended payments and terminated the TRA upon the merger's Effective Time, with no consideration paid to TRA Parties for the extinguishment of their rights. The CVS merger closed on March 29, 2023 and the TRA terminated by operation of the amendment. Goldman Sachs's contemporaneous DCF valued the net TRA-related tax-asset benefit to Signify at only $14.5M at June 30, 2022, against a $59.1M recorded TRA liability at FY2022; the zero-payment termination captures essentially all of that gap. See `contract_log.md` for the contingent amendment text and the operative provisions.

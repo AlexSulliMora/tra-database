@@ -1,0 +1,36 @@
+---
+title: "Worldpay, Inc. TRA (TRA-2012-03-21-jpdn)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vantiv, Inc.", "Worldpay, Inc.", "Fidelity National Information Services, Inc."]
+CIKs: ["0001533932", "0001533932", "0001136893"]
+status: Terminated
+creation-date: 2012-03-21
+termination-date: 2013-10-23
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2012-03-21-advent", "TRA-2012-03-21-fifthThird", "TRA-2012-03-21-npcNOLs", "TRA-2014-05-12-mercury"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: named individual
+notes: >-
+  JPDN Enterprises, LLC is an affiliate of Charles D. Drucker (then Vantiv CEO).
+  Termination Agreement (Oct 23, 2013) settled both this TRA and JPDN's portion
+  of the NPC NOLs TRA for approximately $0.5M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-03-05: Form-of TRA filed as Exhibit 10.32 to S-1/A Amendment No. 5.
+- 2012-03-21: Vantiv Up-C IPO closes; TRA executed between Vantiv, Inc. and JPDN Enterprises, LLC; 85% of Realized Tax Benefits on Section 743(b) basis adjustments from JPDN's IPO-eve contribution of Class A and Class B Units of Vantiv Holding plus Imputed Interest.
+- 2012-05-08: Executed TRA filed as Exhibit 10.8 to Q1 2012 10-Q.
+
+#### Termination
+
+- 2013-10-23: Tax Receivable Termination Agreement between JPDN and Vantiv; approximately $0.5M paid; settles this TRA and JPDN's portion of the NPC NOLs TRA.
+
+## Explanation
+
+This JPDN TRA was one of four parallel TRAs Vantiv executed at its March 21, 2012 Up-C IPO. JPDN Enterprises, LLC, the founder vehicle of then-CEO Charles D. Drucker, contributed Class A and Class B Units of Vantiv Holding to Vantiv, Inc. at IPO in exchange for Class A common stock; the resulting Section 743(b) basis step-up was the covered tax attribute, with 85% of Vantiv's Realized Tax Benefits payable to JPDN plus Imputed Interest. The TRA was terminated on October 23, 2013 via a Termination Agreement that simultaneously settled both this TRA and JPDN's share of the NPC NOLs TRA for approximately $0.5M, reflecting JPDN's small relative ownership share of pre-IPO Vantiv Holding. See `contract_log.md` for the full filing-by-filing record and the parallel-TRA mapping.

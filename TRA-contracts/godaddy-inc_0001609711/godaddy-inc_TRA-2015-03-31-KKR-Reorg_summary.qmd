@@ -1,0 +1,35 @@
+---
+title: "GoDaddy Inc. TRA (TRA-2015-03-31-KKR-Reorg)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GoDaddy Inc."]
+CIKs: ["0001609711"]
+status: Terminated
+creation-date: 2015-03-31
+termination-date: 2020-07-31
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-03-31-Exchanges", "TRA-2015-03-31-KKR-CoInvest-Reorg", "TRA-2015-03-31-SLP-Reorg", "TRA-2015-03-31-TCV-Reorg"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Pre-IPO blocker-merger TRA with KKR 2006 GDG Blocker L.P. Settled jointly
+  with the other four GoDaddy TRAs on July 31, 2020 for $850M aggregate.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-02-11: S-1/A files the form-of Reorganization TRA template as Exhibit 10.5
+- 2015-03-31: Up-C IPO closes; KKR Reorganization TRA executed between GoDaddy Inc. and KKR 2006 GDG Blocker L.P.
+- 2015-04-06: 8-K attaches the executed KKR Reorg TRA as Exhibit 10.7
+
+#### Coordinated termination
+
+- 2020-07-31: Standalone Termination and Release Agreement executed (8-K Exhibit 10.3); component of the $850M aggregate settlement across all five GoDaddy TRAs
+
+## Explanation
+
+The KKR Reorganization TRA originated at GoDaddy's March 31, 2015 Up-C IPO and obligated the public company to pay 85% of cumulative net realized tax benefits attributable to the pre-IPO basis step-ups and NOLs arising from the merger of KKR 2006 GDG Blocker L.P. into GoDaddy Inc. Because the underlying tax-asset pool was fixed at the merger, the TRA was terminated via a standalone Termination and Release Agreement rather than a terminating amendment. It was settled jointly with the other four GoDaddy TRAs on July 31, 2020 for $850M aggregate; per-TRA allocations were not disclosed publicly. See `contract_log.md` for the full termination instrument set.

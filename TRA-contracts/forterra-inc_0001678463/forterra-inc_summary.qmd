@@ -1,0 +1,39 @@
+---
+title: "Forterra, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Forterra, Inc."]
+CIKs: ["0001678463"]
+status: Unknown
+creation-date: 2016-10-27
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiary is LSF9 Stardust Holdings, L.P. (Lone Star vehicle). TRA survived the
+  March 2022 Quikrete take-private merger; Section 5.2 of the merger agreement preserves
+  it. Forterra deregistered post-close, so subsequent TRA performance is off-EDGAR.
+  Quikrete Holdings is private. December 2021 payable was $55.9M.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2016-08-15: First form-of TRA filed as Exhibit 10.14 to S-1/A Amendment No. 1 (counterparty placeholder "[Lone Star]")
+- 2016-10-17: Final form-of TRA filed as Exhibit 10.14 to S-1/A Amendment No. 5 (LSF9 Stardust Holdings, L.P. named)
+- 2016-10-25: NYSE IPO closes; Senior Lien Term Loan Credit Agreement also dated October 25, 2016
+- 2016-10-27: TRA executed (effective date per Quikrete merger-agreement definition); never re-filed as standalone exhibit
+
+#### Quikrete take-private merger (TRA preserved)
+
+- 2021-02-19: Quikrete merger agreement signed; Section 5.2 explicitly preserves the TRA payment stream to LSF9 Stardust Holdings
+- 2022-03-18: Quikrete merger closes; Forterra becomes wholly-owned subsidiary of Quikrete Holdings, Inc.; Form 25 deregistration filed; SEC filings cease
+
+## Explanation
+
+Forterra, Inc. went public on October 25-27, 2016 and committed to pay LSF9 Stardust Holdings, L.P. (Lone Star Funds vehicle holding pre-IPO interests) 85% of cash tax savings from depreciation and amortization deductions on IPO-date tax basis, utilization of pre-IPO NOLs and tax credits, deductions from the LSF9 Concrete Holdings LTIP, transaction-expense deductions from the U.S. Pipe Acquisition, and imputed interest on TRA payments. Initial liability at IPO was $160.8M; the December 2021 carrying value (last 10-K disclosure) was $55.9M. The Quikrete take-private merger that closed March 18, 2022 did not terminate the TRA: Section 5.2 of the merger agreement explicitly preserves Forterra's right to continue making payments to LSF9 Stardust, and the merger-close 8-K's Item 1.02 lists only credit-agreement and senior-notes terminations, not the TRA. The TRA persists as a contractual obligation of the surviving private Forterra entity to LSF9 Stardust, but subsequent payment activity, amendments, or terminations are off-EDGAR because Forterra deregistered and Quikrete Holdings is private. Status is Unknown. See `contract_log.md` for the full filing-by-filing record.

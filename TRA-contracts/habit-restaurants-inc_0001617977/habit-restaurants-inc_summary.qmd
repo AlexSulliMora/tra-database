@@ -1,0 +1,38 @@
+---
+title: "The Habit Restaurants, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Habit Restaurants, Inc.", "YUM! Brands, Inc."]
+CIKs: ["0001617977", "0001041061"]
+status: Terminated
+creation-date: 2014-11-25
+termination-date: 2020-03-18
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  January 5, 2020 terminating amendment fixed an aggregate $53.1M payment
+  ($50.0M ETP plus $3.1M for the 2019 tax year), approximately a 21% reduction
+  from the unadjusted Section 4.3 ETP formula per DEFM14A negotiating history.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-10-27: Form-of TRA filed as Exhibit 10.2 to S-1/A
+- 2014-11-25: Executed TRA dated as of IPO close, 85% of cumulative net realized tax benefit to KarpReilly, J.P. Morgan-affiliated funds, founders, and management
+- 2015-03-12: Executed TRA filed as Exhibit 10.2 to the FY2014 10-K
+
+#### YUM! Brands acquisition and terminating amendment
+
+- 2020-01-05: TRA Amendment executed concurrent with the YUM! Brands merger agreement, fixing aggregate Termination Payments at $50.0M plus $3.1M for the 2019 tax year, conditional on merger close
+- 2020-03-18: YUM! Brands merger closes; Termination Payments paid and the TRA terminated in its entirety
+- 2020-03-30: Form 15 deregistration filed
+
+## Explanation
+
+The Habit Restaurants executed its Tax Receivable Agreement at the November 2014 Up-C IPO, committing to pay 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of LLC Units for Class A common stock) to the KarpReilly, J.P. Morgan, and management LLC Unit Holders. The contract ran in its original form through late 2019. On January 5, 2020, concurrent with the YUM! Brands merger agreement, the parties signed a TRA Amendment under Section 7.5(b) that accelerated and capped the contract at a fixed aggregate Termination Payment of $53.1M ($50.0M ETP plus $3.1M for the 2019 tax year) payable immediately after closing, representing roughly a 21% reduction from the unadjusted Section 4.3 ETP formula per the DEFM14A. The merger closed on March 18, 2020 and the TRA terminated in its entirety; Habit deregistered shortly thereafter. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,36 @@
+---
+title: "Thunder Bridge Acquisition II, Ltd. TRA (form-of only; obligor of record is indie Semiconductor)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Thunder Bridge Acquisition II, Ltd.", "indie Semiconductor, Inc."]
+CIKs: ["0001769318", ""]
+status: Unknown
+creation-date: 2020-12-14
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Pre-close SPAC; the executed TRA lives under successor indie Semiconductor's CIK
+  (not yet recovered). Status `Unknown` because the executed contract and any
+  amendments are not on file under this CIK. Origination date is the MTA execution
+  date (form preamble blank).
+---
+
+## TRA Timeline
+
+#### Merger announcement and form-of TRA
+
+- 2020-12-14: Master Transactions Agreement signed between Thunder Bridge II and Ay Dee Kay LLC (d/b/a indie Semiconductor); Form of Tax Receivable Agreement filed as Exhibit 10.3 to the announcement 8-K
+
+#### Closing under successor CIK
+
+- 2021-06-09: Extraordinary general meeting approved the business combination
+- 2021-06-11?: Business combination closed under indie Semiconductor's successor CIK; executed TRA filed there (not under this CIK)
+
+## Explanation
+
+Thunder Bridge Acquisition II, Ltd. is a Cayman SPAC that signed a Master Transactions Agreement on December 14, 2020 with Ay Dee Kay LLC (d/b/a indie Semiconductor); the Form of Tax Receivable Agreement was filed as Exhibit 10.3 to the December 15, 2020 announcement 8-K and contemplated 85% sharing of cash tax savings from two streams (Section 754 basis step-ups on future Post-Merger Company Unit exchanges and pre-merger ADK Blocker NOL carryforwards). The contract was a condition precedent to closing and was to be executed concurrent with the June 2021 close. From this CIK's perspective the TRA never reached execution because the SPAC merged into indie Semiconductor's reporting structure at close; the executed instrument and any subsequent amendments are filed under indie Semiconductor's successor CIK, which is not yet recovered in this directory. Status is marked `Unknown` pending that retrieval. See `contract_log.md` for the full filing-by-filing record under this CIK; indie Semiconductor (Nasdaq: INDI) carries the post-close obligor record.

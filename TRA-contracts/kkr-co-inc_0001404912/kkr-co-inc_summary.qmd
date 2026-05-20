@@ -1,0 +1,44 @@
+---
+title: "KKR & Co. Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["KKR & Co. L.P.", "KKR & Co. Inc."]
+CIKs: ["0001404912", "0001404912"]
+status: Terminated
+creation-date: 2010-07-14
+termination-date: 2022-05-30
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Prospective termination only; pre-Final-Exchange obligations continue
+  to pay down ($359.3M payable, $129.4M cumulative cash paid as of
+  Dec 31 2025 per 2025 10-K).
+---
+
+## TRA Timeline
+
+#### Up-C listing and TRA execution
+
+- 2008-07-03: Form-of TRA filed as S-1/A Exhibit 10.4 for the deferred 2008 IPO
+- 2010-03-12: Re-filed form-of TRA as S-1 Exhibit 10.5 for the 2010 U.S. listing
+- 2010-07-14: TRA executed concurrent with the NYSE listing of KKR & Co. L.P., filed as 8-K Exhibit 10.3
+
+#### Conversion period
+
+- 2017-12-31: Tax Cuts and Jobs Act drops federal corporate rate to 21%; 2017 10-K records ~$67M gain from TRA remeasurement
+- 2018-07-01: KKR & Co. L.P. converts to KKR & Co. Inc. (C-corp); KKR & Co. Inc. succeeds to all TRA obligations without amendment
+
+#### Reorganization and termination
+
+- 2021-10-08: Reorganization Agreement signed; Section 1.01 provides for prospective TRA termination conditional on Reorganization Mergers closing
+- 2022-05-18: Final Exchange occurs
+- 2022-05-30: TRA terminated prospectively
+- 2022-05-31: Reorganization Mergers close; KKR Holdings L.P. merges into KKR & Co. Inc.
+
+## Explanation
+
+KKR & Co. L.P. executed the TRA on July 14, 2010 concurrent with its U.S. listing on the NYSE, agreeing to pay KKR Holdings L.P. (the founders' carried-interest vehicle) 85% of the cash tax savings the public corporate holdco realized from Section 754 basis step-ups generated when KKR Holdings exchanged Group Partnership Units for public Common Units. The 2018 conversion of KKR & Co. L.P. to KKR & Co. Inc. did not amend the TRA; the new C-corporation succeeded to all obligations by operation of the conversion plan, and the 2017 corporate-rate cut to 21% generated a $67M remeasurement gain. The October 8, 2021 Reorganization Agreement terminated the TRA prospectively (Section 1.01), conditional on the Reorganization Mergers closing on May 31, 2022; after the May 18, 2022 Final Exchange, no future KKR Holdings exchanges remained and the contract was extinguished for future activity effective May 30, 2022. The TRA remains a live pay-down obligation on pre-Final-Exchange exchanges: as of December 31, 2025, $359.3M of undiscounted payable was recorded and $129.4M cumulative cash had been paid. See `contract_log.md` for the full filing-by-filing record.

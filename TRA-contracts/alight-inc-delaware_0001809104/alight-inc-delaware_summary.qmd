@@ -1,0 +1,37 @@
+---
+title: "Alight Inc TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Foley Trasimene Acquisition Corp.", "Alight, Inc."]
+CIKs: ["0001809104", "0001809104"]
+status: Ongoing
+creation-date: 2021-07-02
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-07-02 (CIK 0001844744)"]
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  FTAC SPAC CIK 1809104 became Alight, Inc. at the 2021-07-02 closing; this
+  CIK carries the executed TRA and ongoing reporting. Same contract is also
+  filed under sister CIK 1844744 (drafting only).
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-01-25: Merger-announcement 8-K filed; Business Combination Agreement and Sponsor Agreement attached
+- 2021-07-02: Business combination closes; TRA executed (filed as Exhibit 10.2 to closing 8-K dated 2021-07-12)
+
+#### Payment phase
+
+- 2024-12-31: Cumulative $62M paid in 2024 (per FY2024 10-K)
+- 2025-12-31: Additional $100M paid in 2025; TRA liability $664M at year-end
+- 2026-03-31: $136M paid in Q1; TRA liability $509M; Objection Notice from TRA Party Representative may add up to $40M to 2026
+
+## Explanation
+
+Alight's Tax Receivable Agreement was executed on July 2, 2021 at the closing of the SPAC business combination between Foley Trasimene Acquisition Corp. and Tempo Holding Company, LLC, committing PubCo to pay 85% of the cash tax savings it realizes from (i) the Tempo Blockers' pre-combination tax basis and NOLs, (ii) Section 754 basis step-ups generated when Continuing Members exchange Alight Holdings units (with Class V common stock) for Class A common stock, and (iii) imputed interest and basis-on-payment top-ups; Blackstone Capital Partners VII NQ L.P. serves as TRA Party Representative. No amendments, restatements, or terminations have been filed; payments began in 2024 and accelerated sharply ($62M in 2024, $100M in 2025, $136M already in Q1 2026), with management projecting approximately $156M of 2026 payments and less than $1M in 2027, suggesting near-complete utilization of the underlying tax attributes. An open Objection Notice from the TRA Party Representative regarding 2026 Tax Benefit Schedule methodology could add up to $40M; Alight intends to contest. See `contract_log.md` for the full filing-by-filing record.

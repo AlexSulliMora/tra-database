@@ -1,0 +1,35 @@
+---
+title: "GCI Liberty, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GCI Liberty, Inc.", "Liberty Broadband Corporation"]
+CIKs: ["0002057463", "0001611983"]
+status: Ongoing
+creation-date: 2025-07-14
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "100%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  Atypical spin-off TRA: SpinCo (GCI Liberty) pays 100% of excess realized tax
+  benefit (no haircut) to former parent Liberty Broadband. Charter is expected
+  to join as a co-beneficiary at the close of the LBRD-Charter combination.
+---
+
+## TRA Timeline
+
+#### Spin-off registration
+
+- 2025-05-06: S-1/A files the form-of Tax Receivables Agreement as Exhibit 10.2 (first appearance of the TRA on EDGAR)
+
+#### Spin-off close and TRA execution
+
+- 2025-07-14: Spin-off of GCI Liberty from Liberty Broadband closes; executed TRA filed as Exhibit 10.2 to the 8-K (Item 2.01)
+- 2026-05: Q1 2026 10-Q reports the Charter Combination remains pending; Charter joinder to the TRA would follow at that close
+
+## Explanation
+
+GCI Liberty's TRA originated at the July 14, 2025 spin-off from Liberty Broadband Corporation, and runs in the unusual direction in which the SpinCo (GCI Liberty) is the payer and the former parent (LBRD) is the beneficiary. Section 754 basis step-ups arising from the deemed acquisition of GCI, LLC's assets at the spin-off reset the tax basis to fair market value; GCI Liberty pays 100% of the resulting excess realized tax benefit (no 85% haircut) to LBRD each Covered Taxable Year, with interest at SOFR plus 200 basis points on late payments. At the eventual close of the Liberty Broadband-Charter combination, Charter is contemplated to execute a joinder and assume LBRD's rights jointly and severally. The TRA is in force and no liability has been quantified in the filings reviewed; the $206M federal and $91M state income-tax payables disclosed at the spin-off relate to the separate Tax Sharing Agreement, not the TRA. See `contract_log.md` for the full filing record.

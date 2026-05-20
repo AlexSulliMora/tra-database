@@ -1,0 +1,39 @@
+---
+title: "Flowco Holdings Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Flowco Holdings Inc."]
+CIKs: ["0002035149"]
+status: Ongoing
+creation-date: 2025-01-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Covers basis step-ups from Reorganization-related blocker mergers, 754 basis from
+  redemptions/exchanges, 704(c) allocations, imputed interest, and certain Reorganization-
+  related deemed distributions. TRA liability jumped from $21.95M (12/31/2025) to $92.44M
+  (3/31/2026) on exchange activity tied to the March 2026 secondary offering.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2024-12-20: First form-of TRA filed as Exhibit 10.1 to S-1/A Amendment No. 1
+- 2025-01-07: Revised form-of TRA filed with S-1/A Amendment No. 3; adds Section 2.1 "Basis Adjustments; 754 Election"
+- 2025-01-17: Master Reorganization closes and TRA is executed; preamble dated January 17, 2025
+- 2025-01-21: Executed TRA filed as Exhibit 10.2 to 8-K
+
+#### Beneficiary-reshaping events (no TRA text change)
+
+- 2025-03-17: Omnibus Agreement corrects Class B Common Stock and Common Unit allocations to the Continuing Equity Owners; reshapes per-beneficiary economic interest in future payments but does not modify the TRA contract
+- 2026-03-19: Secondary offering by selling stockholders; concurrent LLC Interest redemption activity drives Q1 2026 TRA liability jump from $21.95M to $92.44M
+
+## Explanation
+
+Flowco Holdings Inc. went public on January 17, 2025 in an Up-C IPO and committed to pay the Continuing Equity Owners and certain Blocker Shareholders (collectively the "TRA Participants") 85% of cash tax savings from basis adjustments arising from the Reorganization-related blocker mergers and from future redemptions or exchanges of LLC Interests, Section 704(c) allocations on PubCo's acquisition of LLC Interests, imputed interest on TRA payments, and certain Reorganization-related distributions or deemed distributions. The contract is in force with no amendments. A March 2025 Omnibus Agreement corrected Class B and Common Unit allocations to the Continuing Equity Owners (reshaping the per-beneficiary share of future payments) without modifying the TRA itself. Exchange activity around the March 2026 secondary offering drove a substantial increase in the recognized TRA liability from $21.95M at year-end 2025 to $92.44M at March 31, 2026; this is contractual operation of the TRA, not an amendment. See `contract_log.md` for the full filing-by-filing record.

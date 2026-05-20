@@ -1,0 +1,39 @@
+---
+title: "OneStream, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["OneStream, Inc."]
+CIKs: ["0001889956"]
+status: Terminated
+creation-date: 2024-07-23
+termination-date: 2026-04-01
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated for zero payment at the Hg-affiliated Onward AcquireCo
+  take-private close per Amendment No. 1 inserting a new Section 4.4 that
+  extinguishes all payments at a Qualifying Change of Control. Full
+  valuation allowance throughout; maximum disclosed liability $193.2M at
+  FY 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2024-07-15: S-1/A files form-of TRA as Exhibit 10.2 (85% sharing of net realized tax benefits from Section 754 basis adjustments on LLC-unit exchanges plus imputed interest)
+- 2024-07-23: TRA executed at IPO close between OneStream, Inc., OneStream Software LLC, and the Members (KKR Dream Holdings and ten KKR-affiliated vehicles plus Continuing and Former Members)
+- 2024-07-26: 8-K files the executed TRA as Exhibit 10.2
+
+#### Take-private and TRA termination
+
+- 2026-01-06: Amendment No. 1 executed concurrent with the Onward AcquireCo merger agreement (Hg-affiliated take-private); inserts new Section 4.4 that, upon a Qualifying Change of Control, terminates the TRA in full and extinguishes all Tax Benefit Payments and Early Termination Payments (no replacement payment); Requisite Members under Section 7.5(c) consented
+- 2026-04-01: Company LLC Merger closes; TRA terminates with zero payment to Members
+
+## Explanation
+
+OneStream, Inc. completed an Up-C IPO on July 23, 2024 and executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net realized tax benefits from Section 754 basis adjustments arising from future Member exchanges of OneStream Software LLC units, to KKR Dream Holdings and ten affiliated investment vehicles plus other Continuing and Former Members. OneStream carried a full valuation allowance throughout and never recognized a TRA liability (maximum disclosed estimated liability $193.2M at FY 2025 year-end). Concurrent with signing the January 2026 merger agreement with Onward AcquireCo (an Hg Capital-affiliated take-private vehicle), OneStream and the Requisite Members executed Amendment No. 1 inserting a new Section 4.4 that automatically terminates the TRA at a Qualifying Change of Control with all Tax Benefit Payments and Early Termination Payments extinguished. The merger closed April 1, 2026 and the TRA terminated with no payment to the Members. See `contract_log.md` for the full filing-by-filing record.

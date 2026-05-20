@@ -1,0 +1,37 @@
+---
+title: "BellRing Brands, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["BellRing Brands, Inc.", "BellRing Brands, LLC", "Post Holdings, Inc."]
+CIKs: ["0001772016", "", ""]
+status: Ongoing
+creation-date: 2019-10-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Up-C collapse in March 2022 reversed most of the carrying liability but did
+  not terminate the TRA; the SpinCo Tax Matters Agreement waived Article IV
+  application to the collapse and stipulated no Change of Control occurred.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2019-09-20: S-1 first attaches the form-of TRA as Exhibit 10.6
+- 2019-10-21: Up-C IPO closes; executed TRA dated October 21, 2019 filed as Exhibit 10.5 to the IPO 8-K
+
+#### Up-C collapse and economic dormancy
+
+- 2021-10-26: 8-K announces the transaction agreement collapsing the Up-C structure via Post distribution and merger
+- 2022-03-10: Up-C collapse closes; SpinCo Tax Matters Agreement waives Article IV application and stipulates no Change of Control; $10.2M of the carrying liability reversed as a non-cash adjustment
+- 2022-09-30: Residual TRA payable of $0.1M; subsequent annual 10-Ks (FY2023-FY2025) disclose no TRA liability
+
+## Explanation
+
+BellRing Brands completed its Up-C IPO on October 21, 2019 carved out from Post Holdings and executed an 85% Tax Receivable Agreement with Post and future LLC members covering Section 754 basis step-ups on Post's LLC unit redemptions, Section 704(c) disproportionate allocations, and imputed-interest deductions. On March 10, 2022, BellRing closed an Up-C collapse via a Post spin-off and merger; the SpinCo Tax Matters Agreement waived Article IV (early termination) application to the transaction and stipulated that the collapse was not a Change of Control. The contract was not amended or terminated, but most of the carrying liability was reversed as no new tax benefits accrue under it post-collapse; subsequent annual reports disclose no recognized TRA liability. The TRA legally remains in force for any residual pre-2022 attributes. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,42 @@
+---
+title: "Rosehill Resources TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rosehill Resources Inc.", "KLR Energy Acquisition Corp."]
+CIKs: ["0001659122", "0001659122"]
+status: Terminated
+creation-date: 2017-04-27
+termination-date: 2020-07-24
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "90%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  No payments ever made. TRA Claims deemed Allowed at $89.3M in Chapter 11
+  (In re Rosehill Resources, Case No. 20-33695, S.D. Tex.); Tema received
+  ~4.08% of Reorganized ROC Units (4.8% recovery) plus a contingent Preferred
+  Stock Allocated Recovery in exchange for the TRA Claims.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2017-04-12: DEFM14A files form-of TRA as Annex E
+- 2017-04-27: Business combination closes between KLR Energy Acquisition Corp. (renamed Rosehill Resources Inc.) and Tema Oil and Gas Company; TRA executed between Rosehill Resources Inc., Tema (sole TRA Holder), and Agent, paying 90% of Cumulative Net Realized Tax Benefit on Section 754 basis step-ups from future exchanges of Rosehill Operating units for Class A common stock
+- 2017-05-03: 8-K files the executed TRA as exhibit 10.1
+
+#### Chapter 11 plan exchange
+
+- 2020-07-24: Rosehill Resources and Rosehill Operating Company file voluntary Chapter 11 (Case No. 20-33695, S.D. Tex.) with a prepackaged Plan; TRA Claims classified as Class 4A Impaired, deemed Allowed at $89.3M
+- 2020-07-27: 8-K reports the petition and attaches the disclosure statement and Plan
+- 2020-07-28: Nasdaq delisting determination
+- 2020-08-03: Form 25 delisting filed (per SEC metadata)
+- 2020-08-13: Form 15-12B deregistration filed (per SEC metadata)
+- Plan structure: Tema contributes the TRA Claims to New Rosehill IntermediateCo; the new IntermediateCo assumes Rosehill's TRA obligations; Tema receives 90.84% of New Rosehill IntermediateCo Units plus a contingent Preferred Stock Allocated Recovery (4.8% recovery on the deemed Allowed amount)
+
+## Explanation
+
+Rosehill Resources' April 27, 2017 SPAC business combination (KLR Energy Acquisition Corp. acquiring Tema Oil and Gas Company's Permian assets and renaming to Rosehill Resources) created a TRA paying 90% of Cumulative Net Realized Tax Benefit to Tema, covering Section 754 basis step-ups on future exchanges of Rosehill Operating units. No amendments were filed and no payments were ever made under the TRA. Rosehill filed Chapter 11 in the Southern District of Texas on July 24, 2020 (Case No. 20-33695) with a prepackaged Plan; the Plan classified TRA Claims as Class 4A Impaired and deemed them Allowed at $89.3M (the contract's Early Termination Payment calculation). Under the Plan, Tema contributed the TRA Claims to a new intermediate holding entity (New Rosehill IntermediateCo) which assumed Rosehill's TRA obligations; Tema received 90.84% of the IntermediateCo Units plus a contingent Preferred Stock Allocated Recovery, an estimated 4.8% recovery on the deemed Allowed amount. The confirmation order lives on the Stretto claims-agent docket (off-EDGAR). See `contract_log.md` for the full filing-by-filing record and the Plan classification details.

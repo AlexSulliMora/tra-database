@@ -1,0 +1,41 @@
+---
+title: "Purple Innovation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Global Partner Acquisition Corp.", "Purple Innovation, Inc."]
+CIKs: ["0001643953", "0001643953"]
+status: Ongoing
+creation-date: 2018-02-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "80%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Atypical 80% rate (below the 85% Up-C convention). Recorded liability
+  $0 throughout because persistent losses produce a full valuation
+  allowance; sole disclosed payment is $0.3M in January 2023. Memo-only
+  liability estimate ~$170M at year-end 2025. Coliseum Capital
+  involvement is creditor / warrant holder and prior activist, not a TRA
+  party.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2018-02-02: Global Partner Acquisition Corp. closes Up-C business combination with Purple Innovation, LLC; executed TRA filed as Exhibit 10.2 to the closing 8-K (InnoHold LLC sole pre-close holder; 80% payment rate)
+
+#### Only disclosed payment
+
+- 2023-01: $0.3M paid to InnoHold (only TRA payment in the contract's life through year-end 2025)
+
+#### Continuing valuation-allowance suppression
+
+- 2025-12-31: Memo-only liability estimate $170.5M; full valuation allowance keeps recorded liability at $0; estimated Change-of-Control lump-sum $137.5M discounted
+
+## Explanation
+
+Purple Innovation, Inc. became the TRA obligor on February 2, 2018 at the closing of its de-SPAC business combination with Global Partner Acquisition Corp., with InnoHold, LLC (the founders Tony and Terry Pearce's holding vehicle) as the sole pre-close Purple LLC equity holder and primary Class B Unitholder beneficiary. The TRA pays beneficiaries 80% of cash tax savings from Section 754 basis step-ups arising from the Business Combination and from subsequent exchanges of Class B Paired Securities, other tax basis increases from the Closing Arrangements, and TRA-imputed interest; the 80% rate is below the 85% Up-C convention and worth flagging as atypical. Throughout the contract's life Purple's persistent operating losses have produced a full valuation allowance on the underlying deferred tax assets, suppressing the recorded TRA liability to $0 despite memo-only would-be estimates around $170M at year-end 2025; only one cash payment ($0.3M in January 2023) has been disclosed. The 2023 Coliseum Capital cooperation agreement and the 2024-2025 Coliseum-led debt refinancings are unrelated to the TRA. The TRA remains in force through the Q1 2026 10-Q. See `contract_log.md` for the full filing-by-filing record.

@@ -1,0 +1,40 @@
+---
+title: "Brilliant Earth Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Brilliant Earth Group, Inc."]
+CIKs: ["0001866757"]
+status: Ongoing
+creation-date: 2021-09-22
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiary groups: Mainsail Related Parties and Just Rocks Related Parties (Beth Gerstein, Eric Grossberg, related family trusts).
+  Contract in force but TRA payable was written to $0 at FY2025 ($7.8M Q4 2025 "Gain on TRA liability adjustment") with a full valuation allowance on deferred tax assets.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-09-14: S-1/A Amendment No. 1 files the form-of TRA as Exhibit 10.5.
+- 2021-09-22: Up-C IPO closes; executed Tax Receivable Agreement dated September 22, 2021 between Brilliant Earth Group, Inc., Brilliant Earth, LLC, and the Members.
+- 2021-09-27: 8-K reports the IPO and files the executed TRA as Exhibit 10.2.
+
+#### Administrative amendment
+
+- 2025-03-12: Amendment No. 1 to TRA executed; replaces LIBOR with a Replacement Rate mechanism. 85% payment percentage and beneficiary set unchanged. Filed as Exhibit 10.17 to the FY2024 10-K.
+
+#### Economic write-down
+
+- 2025-10-28: Delaware-to-Nevada reincorporation via Plan of Conversion; statutory conversion, no Change of Control, TRA continues without assignment.
+- 2025-12-31: FY2025 10-K reports a $7.8M Q4 2025 "Gain on TRA liability adjustment" zeroing the recorded TRA payable concurrent with a full valuation allowance on deferred tax assets; the contract remains live but the recognized liability is $0.
+
+## Explanation
+
+The TRA originates from Brilliant Earth's September 22, 2021 Up-C IPO and obligates Brilliant Earth Group, Inc. to pay 85% of the Cumulative Net Realized Tax Benefit to the Mainsail Related Parties and Just Rocks Related Parties on Section 754 basis step-ups from redemptions of LLC Interests, plus imputed-interest deductions. A March 2025 Amendment No. 1 administratively replaced LIBOR with a Replacement Rate mechanism. At fiscal year-end 2025, the Company recognized a $7.8M gain reducing the TRA payable to zero alongside a full valuation allowance on the deferred tax assets, on the determination that realization of the underlying benefits was no longer more likely than not; the contract is not terminated and could be reinstated if future realization becomes probable. The October 2025 Delaware-to-Nevada reincorporation was a statutory conversion that did not trigger a Change of Control. See `contract_log.md` for the full filing record and the same-contract analysis.

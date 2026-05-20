@@ -1,0 +1,37 @@
+---
+title: "Repay Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Repay Holdings Corporation", "Thunder Bridge Acquisition, Ltd."]
+CIKs: ["0001720592", "0001720592"]
+status: Ongoing
+creation-date: 2019-07-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "100%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Non-standard 100% payout rate (most TRAs are 85%). $13.7M paid in Q1 2026.
+  April 13, 2026 Stockholder Rights Agreement adopted at 12.5% threshold
+  amid Strategic Review Process announced March 3, 2025; no Change-of-Control
+  has closed.
+---
+
+## TRA Timeline
+
+#### De-SPAC business combination and TRA execution
+
+- 2019-01-22: 8-K announces the merger agreement and files form-of TRA as exhibit 10.2
+- 2019-07-11: Thunder Bridge Acquisition domesticates from Cayman to Delaware and merges with Hawk Parent Holdings LLC, forming Up-C; TRA executed between Repay Holdings Corporation and the Repay Unitholders (pre-business-combination members of Hawk Parent), paying 100% of the Net Tax Benefit from Section 754 basis step-ups on exchanges plus Imputed Interest
+- 2019-07-11: 8-K files the executed TRA as exhibit 10.2
+
+#### Payments in force
+
+- 2026-Q1: $13.7M of TRA payments disclosed in the Q1 2026 10-Q cash flow statement (vs. $16.3M in Q1 2025); contract paying out normally, no termination event recorded
+
+## Explanation
+
+Repay Holdings' July 11, 2019 de-SPAC business combination (Thunder Bridge Acquisition merging into Hawk Parent Holdings LLC) created a TRA paying 100% of the Net Tax Benefit (not the typical 85%) to the Repay Unitholders, covering Section 754 basis adjustments on exchanges of Post-Merger Repay Units for Class A common stock plus Imputed Interest on payments. No amendments, terminations, or waivers have been filed. The contract pays out routinely; the 2025 10-K and Q1 2026 10-Q confirm continuing fair-value carrying and $13.7M of Q1 2026 cash payments. Repay announced a Strategic Review Process on March 3, 2025 and adopted a Stockholder Rights Agreement at a 12.5% threshold on April 13, 2026; if a sale closes, the Change-of-Control acceleration in Section 3.1(b) and Section 4.1 would be the relevant trigger to monitor. See `contract_log.md` for the full filing-by-filing record, the same-contract reasoning across the three TRA versions, and the 95%/5% wire-routing detail.

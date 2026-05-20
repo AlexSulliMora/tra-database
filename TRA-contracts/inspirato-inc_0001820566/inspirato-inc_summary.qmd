@@ -1,0 +1,37 @@
+---
+title: "Inspirato Incorporated TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Thayer Ventures Acquisition Corp.", "Inspirato Incorporated"]
+CIKs: ["0001820566", "0001820566"]
+status: Terminated
+creation-date: 2022-02-11
+termination-date: 2024-08-09
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Full valuation allowance throughout in-force period; TRA liability never
+  accrued on the balance sheet. Standalone Termination Agreement not filed as
+  exhibit; mechanism documented in periodic-report narrative only. $0.3M
+  ($250K) cash settlement effectively a nuisance-value extinguishment.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-02-11: Executed TRA dated as of de-SPAC close with Thayer Ventures Acquisition Corp., 85% of cash tax savings to Continuing Inspirato Members
+- 2022-02-14: 8-K reports close and attaches the executed TRA as Exhibit 10.4
+
+#### August 2024 reorganization and TRA termination
+
+- 2024-08-09: TRA terminated by the company and the signatory parties for a $0.3M ($250K) full-and-final cash settlement; standalone termination instrument not filed as exhibit
+- 2024-11-12: Q3 2024 10-Q discloses the termination as part of the broader 2024 Reorganization Plan (lease termination, reduction in force, $88M One Planet investment, CEO change, Board reconstitution)
+
+## Explanation
+
+Inspirato executed its Tax Receivable Agreement at the February 2022 close of the de-SPAC business combination with Thayer Ventures, committing to pay 85% of the cash tax savings on Section 754 basis step-ups (on exchanges of Inspirato LLC Common Units or Blocker stock for Class A common stock) plus imputed interest to the Continuing Inspirato Members. The company maintained a full valuation allowance against the underlying deferred tax assets throughout the in-force period, so no TRA liability ever accrued on the balance sheet, making the TRA economically zero-value to the beneficiaries. As part of the August 2024 Reorganization Plan (lease termination, reduction in force, $88M One Planet investment, CEO change), the company and signatory parties terminated the TRA for a $0.3M full-and-final cash settlement on August 9, 2024; the standalone termination agreement was not filed as an SEC exhibit but is documented in the Q3 2024 10-Q and FY2024 10-K. The subsequent December 2025 Exclusive Investments going-private merger postdates the termination and does not affect the TRA. See `contract_log.md` for the full filing-by-filing record.

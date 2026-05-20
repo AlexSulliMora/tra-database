@@ -1,0 +1,39 @@
+---
+title: "Norcraft Companies, Inc. TRA (TRA-2013-11-13-Trimaran)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Norcraft Companies, Inc.", "Fortune Brands Home & Security, Inc."]
+CIKs: ["0001582616", "0001519751"]
+status: Terminated
+creation-date: 2013-11-13
+termination-date: 2015-05-12
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2013-11-13-Exchanges", "TRA-2013-11-13-SKM"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Trimaran Contribution TRA covers pre-IPO NOLs and other tax attributes
+  of Trimaran Cabinet Corp. Terminated at merger close for $7.934M
+  payment; an Amended and Restated termination dated April 13, 2015 lives
+  in a missing Schedule 14D-9 exhibit (Exhibit (e)(12)).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2013-09-30: S-1/A files form-of TRA (Trimaran Cabinet Contribution) as Exhibit 10.27 (85% sharing of net realized tax benefits from Trimaran Cabinet Corp.'s pre-IPO NOLs and other tax attributes plus imputed interest)
+- 2013-11-13: TRA executed at IPO close with the Trimaran Cabinet Corp. shareholders; Trimaran Fund II, L.L.C. as Trimaran Cabinet Representative
+- 2014-03-31: 2013 10-K files executed TRA as Exhibit 10.16
+
+#### Acquisition and TRA termination
+
+- 2015-03-30: Termination Agreement signed concurrent with the Fortune Brands merger agreement; substitutes a fixed $7,934,000 Termination Payment payable on merger close
+- 2015-04-13: Amended and Restated Trimaran Termination Agreement effective per the 10-K/A exhibit index (filed as Exhibit (e)(12) to Schedule 14D-9; not yet downloaded)
+- 2015-05-12: Fortune Brands merger closes; TRA terminates and the Trimaran termination payment is made
+
+## Explanation
+
+Norcraft Companies, Inc. completed an Up-C IPO on November 13, 2013 and executed three parallel Tax Receivable Agreements at closing, of which this one (the Trimaran Contribution TRA) obligates PubCo to pay 85% of net realized tax benefits from the pre-IPO NOL carryforwards and other tax attributes of Trimaran Cabinet Corp. inherited by PubCo at the IPO Reorganization, plus imputed interest, to the former Trimaran Cabinet shareholders (Trimaran Fund II, Trimaran Capital, Trimaran Parallel Fund II, CIBC Employee Private Equity Fund (Trimaran) Partners, and CIBC Capital Corporation). In connection with Fortune Brands Home & Security's tender-offer-and-merger, the Trimaran Cabinet Representative signed a Termination Agreement on March 30, 2015 substituting a fixed $7,934,000 payment, then Amended and Restated on April 13, 2015 (per Schedule 14D-9 Exhibit (e)(12) which is not in the download set). The merger closed May 12, 2015 and this TRA was extinguished. See `contract_log.md` for the full filing-by-filing record and the parallel TRA-2013-11-13-Exchanges and TRA-2013-11-13-SKM summary files.

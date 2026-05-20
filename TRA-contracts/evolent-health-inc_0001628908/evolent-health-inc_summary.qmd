@@ -1,0 +1,44 @@
+---
+title: "Evolent Health, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Evolent Health, Inc."]
+CIKs: ["0001628908"]
+status: Ongoing
+creation-date: 2015-06-04
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Original "Members" TPG Eagle, Ptolemy Capital, Advisory Board Co.
+  Optum acquired Advisory Board 2017-11-17; ABCO TRA rights
+  transferred to UnitedHealth by operation of law (no TRA amendment).
+  Liability $108.91M at YE2025; no cash payments to date.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-05-26: Form-of TRA filed as Ex 10.3 to S-1/A No. 2 (unexecuted)
+- 2015-06-04: Up-C IPO closes; TRA executed by Evolent Health, Evolent Health LLC, TPG Eagle, Ptolemy Capital, Advisory Board, UPMC, TPG BDH, Premier, Oxeon, Medstar, and named individual holders
+- 2015-06-04: Executed TRA filed as Ex 10.4 to IPO completion 8-K
+
+#### Beneficiary change (no contract amendment)
+
+- 2017-11-17: OptumInsight (UnitedHealth subsidiary) acquires The Advisory Board Company; ABCO's TRA rights transfer by operation of corporate law; no on-EDGAR amendment
+
+#### First liability recognition
+
+- 2022-11-02: Q3 2022 10-Q records first $42.87M TRA liability following partial valuation-allowance release
+- 2023-05-10: Q1 2023 10-Q records additional $66.18M expense (NIA acquisition deferred tax liabilities reduce valuation allowance); TRA liability $112.13M
+- 2024-02-28: FY2023 10-K reports YE2023 TRA liability $107.93M
+- 2026-02-25: FY2025 10-K reports YE2025 TRA liability $108.91M; no cash payments to TRA holders through 2025
+
+## Explanation
+
+Evolent Health entered into its Income Tax Receivables Agreement at the June 4, 2015 Up-C IPO close, paying 85% of cash tax savings from Section 754 basis step-ups on exchanges of Evolent Health LLC Class B common units for Class A shares and from utilization of pre-IPO net operating losses of Evolent Health Holdings and a TPG affiliate; the Agreed Rate on deferred payments is LIBOR plus 100 basis points. The original "Members" were TPG Eagle Holdings, Ptolemy Capital, and The Advisory Board Company, with UPMC, Premier Health, Oxeon, Medstar, and named individuals as additional holders. The TRA carried a $0 liability under a full valuation allowance from 2015 through Q2 2022; the first recognition came in Q3 2022 ($42.87M), followed by a further $66.18M Q1 2023 accrual after the NIA acquisition's deferred tax liabilities reduced the valuation allowance. The November 17, 2017 OptumInsight (UnitedHealth) acquisition of The Advisory Board Company transferred ABCO's beneficiary rights by operation of corporate law without any on-EDGAR amendment to the underlying contract. No amendments, restatements, or terminations have been filed; the TRA carries a $108.91M balance at YE2025 with no cash payments made to date. See `contract_log.md` for the full filing-by-filing record.

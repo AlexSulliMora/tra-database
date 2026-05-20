@@ -1,0 +1,43 @@
+---
+title: "Bridge Investment Group Holdings Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Bridge Investment Group Holdings Inc.", "Apollo Global Management, Inc."]
+CIKs: ["0001854401", "0001858681"]
+status: Ongoing
+creation-date: 2021-07-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Apollo Global Management assumed the TRA at the September 2, 2025 merger close as a co-party; Bridge deregistered September 12, 2025.
+  Second A&R foregoes Change of Control acceleration and references realized tax benefit to Apollo's consolidated tax position.
+  Recital typo in 2022 A&R dates the original as June 16, 2021; correct date is July 16, 2021.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-02: S-1/A files the form-of TRA as Exhibit 10.1.
+- 2021-07-16: IPO closes; executed Tax Receivable Agreement dated July 16, 2021 between Bridge Investment Group Holdings Inc., Bridge Investment Group Holdings LLC, and the Members.
+- 2021-07-20: 8-K reports IPO close and files the executed TRA as Exhibit 10.1.
+
+#### Post-IPO restatement
+
+- 2022-01-01: Amended and Restated TRA effective January 1, 2022; administrative cleanup tied to the close of the IPO Unit Redemption and Recapitalization. 85% rate and tax-attribute scope unchanged. Filed as Exhibit 10.1 to the Q1 2022 10-Q.
+
+#### Apollo merger and assumption
+
+- 2025-02-23: Second Amended and Restated TRA executed in connection with the Apollo merger announcement; Apollo Global Management, Inc. joins as a co-party. TRA Members agree to forego the Change of Control acceleration the merger would otherwise have triggered; post-close realized tax benefit calculation references Apollo's consolidated group.
+- 2025-02-24: 8-K announces the merger and files the executed Second A&R TRA as Exhibit 10.1.
+- 2025-09-02: Apollo merger closes; Bridge Corp becomes a wholly owned subsidiary of Apollo; TRA continues under Apollo's consolidated tax position.
+- 2025-09-12: Bridge files Form 15-12G deregistering; the Second A&R TRA continues under Apollo's CIK.
+
+## Explanation
+
+The TRA originates from Bridge Investment Group Holdings Inc.'s July 16, 2021 Up-C IPO, with 85% of cash tax savings shared back to the Continuing Equity Owners of Bridge Investment Group Holdings LLC on Section 754 basis step-ups from exchanges of Class A Common Units, Pre-IPO Tax Assets, and imputed-interest deductions on TRA payments. The January 1, 2022 Amended and Restated TRA was administrative cleanup following the IPO close. At the February 2025 Apollo merger announcement, the parties executed a Second Amended and Restated TRA effective at the September 2, 2025 merger close: instead of triggering an Early Termination Payment under the Change of Control acceleration, Apollo assumed the TRA as a co-party and the realized-tax-benefit calculation now references Apollo's consolidated group. Bridge deregistered on September 12, 2025; the TRA continues at Apollo, and a parallel copy of the Second A&R is saved under Apollo's CIK. See `contract_log.md` for the four-document lineage and the assumption-not-termination analysis.

@@ -1,0 +1,37 @@
+---
+title: "AT&T Inc. TRA (Beneficiary at Warner Bros. Discovery)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["AT&T Inc.", "Magallanes, Inc.", "Discovery, Inc.", "Warner Bros. Discovery, Inc."]
+CIKs: ["0000732717", "", "", "0001437107"]
+status: Ongoing
+creation-date: 2021-05-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: Spin-off
+counterparty-type: M&A sellers
+notes: >-
+  Tax Receivable Annex embedded as Annex A of the Tax Matters Agreement;
+  not a standalone TRA exhibit. AT&T is beneficiary; obligor is Warner Bros.
+  Discovery (CIK 0001437107). Cumulative payments capped at 100% of Remainco's
+  Applicable-Transaction taxes at Assumed Tax Rates.
+---
+
+## TRA Timeline
+
+#### Spin-merger announcement and Annex execution
+
+- 2021-05-17: AT&T executes Tax Matters Agreement with Magallanes (Spinco) and Discovery; Tax Receivable Annex (Annex A) sets 85% sharing of Realized Covered Tax Benefits from a protective Section 336(e) election
+- 2021-05-20: 8-K filed disclosing the Tax Matters Agreement as Exhibit 10.4
+
+#### Spin-merger close
+
+- 2022-04-08: Spin-merger closes; Warner Bros. Discovery emerges as RMT Partner and Annex obligor
+- 2023-02 (and subsequent 10-Ks): AT&T's annual reports reference the Tax Matters Agreement but do not record a separate Annex receivable, consistent with limited or no Realized Covered Tax Benefits
+
+## Explanation
+
+In May 2021, AT&T entered into a Tax Matters Agreement with Magallanes (Spinco) and Discovery as part of the WarnerMedia spin-merger that created Warner Bros. Discovery on April 8, 2022. Annex A of the Tax Matters Agreement is a Tax Receivable Annex under which Warner Bros. Discovery (as RMT Partner) owes AT&T (as Remainco) 85% of Realized Covered Tax Benefits arising from a protective Section 336(e) election made in connection with the spin-merger, capped at 100% of Remainco's Applicable-Transaction taxes at Assumed Tax Rates. Payment runs annually, within 10 days of an RMT Partner Certification tied to the consolidated federal return. AT&T sits on the beneficiary side; obligor-side accounting lives under Warner Bros. Discovery (CIK 0001437107). The Annex remains in force per AT&T's 2024 10-K. See `contract_log.md` for the full filing-by-filing record.

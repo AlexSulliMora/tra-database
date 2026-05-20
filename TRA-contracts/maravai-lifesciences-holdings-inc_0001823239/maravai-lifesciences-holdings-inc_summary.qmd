@@ -1,0 +1,44 @@
+---
+title: "Maravai LifeSciences Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Maravai LifeSciences Holdings, Inc."]
+CIKs: ["0001823239"]
+status: Ongoing
+creation-date: 2020-11-19
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Counterparties: MLSH 1 (GTCR-controlled) and MLSH 2 (Blocker holders).
+  Q4 2023 full valuation allowance drove $668.9M gain remeasurement of
+  non-current liability to zero; no liability recorded at YE2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-11-09: Form-of TRA filed as S-1/A Exhibit 10.8
+- 2020-11-19: TRA executed at IPO close among Maravai LifeSciences Holdings Inc., MLSH 1, MLSH 2, and the Agent
+- 2020-11-25: 8-K Item 1.01 files the executed TRA as Exhibit 10.1
+
+#### Payment phase
+
+- 2021: First payment of $1.3M to MLSH 1 and MLSH 2
+- 2022: $35.3M payment ($1.1M interest); YE2022 liability $718.2M
+- 2023: $42.6M payment ($0.4M interest)
+
+#### Valuation-allowance remeasurement
+
+- 2023-12-31: Full valuation allowance recognized against the related deferred tax assets; non-current TRA liability remeasured to zero under ASC 450; $668.9M gain on TRA liability remeasurement; YE2023 current liability $7.1M
+- 2024: $7.3M payment ($0.2M interest); no TRA liability recorded at YE2024
+- 2025: No payments; no TRA liability at YE2025
+
+## Explanation
+
+Maravai LifeSciences Holdings, Inc. executed the TRA on November 19, 2020 at its Up-C IPO close, agreeing to pay 85% of cash tax savings from Section 754 basis step-ups on LLC Unit exchanges in Maravai Topco Holdings LLC, from the tax attributes of the Newstone and GTCR/Maravai Blockers merged into the structure at the IPO Organizational Transactions, and from imputed interest on TRA payments, to MLSH 1 (GTCR-controlled) and MLSH 2 (former Blocker shareholders). After cash payments totaling roughly $86.5M across 2021-2024, Maravai recognized a full valuation allowance against the related deferred tax assets in Q4 2023 and concluded under ASC 450 that payment of the non-current portion was no longer probable, remeasuring the non-current liability to zero and booking a $668.9M gain; current liability of $7.1M was retained at YE2023 and paid down to zero in 2024. The contract remains legally in force and the liability could be re-recognized if Maravai later releases the valuation allowance because future taxable income becomes more likely; status is recorded as Ongoing rather than Terminated to reflect that legal posture. See `contract_log.md` for the full filing-by-filing record.

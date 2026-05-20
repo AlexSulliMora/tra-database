@@ -1,0 +1,43 @@
+---
+title: "Apollo Global Management TRA (TRA-2013-05-06, Apollo TRA chain)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Apollo Asset Management, Inc.", "Apollo Global Management, Inc."]
+CIKs: ["0001411494", "0001858681"]
+status: Ongoing
+creation-date: 2013-05-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2021-06-16-Bridge"]
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: founder vehicle
+notes: >-
+  Underlying chain originated at the 2011 Apollo IPO under prior CIK 1411494;
+  A&R 2013-05-06 used as creation-date because that is the date documents
+  under this CIK cite. APO Corp. is the contracting payer entity.
+---
+
+## TRA Timeline
+
+#### Origin chain and 2022 reparenting
+
+- 2013-05-06: A&R TRA executed (chain originated 2007 / 2011 IPO under CIK 1411494)
+- 2019-09-05: Amendment on LLC-to-Inc. conversion (full text at CIK 1411494)
+- 2022-01-01: Athene merger; CIK 1858681 becomes new ultimate parent; Former Managing Partners and Contributing Partners cease to hold AOG Units (TRA enters run-off)
+
+#### Waiver of Early Termination Right
+
+- 2022-05-02: APO Corp. permanently and irrevocably waives the Section 4.01(a) Early Termination Right (Exhibit 10.32 to Q1 2022 10-Q)
+
+#### Run-off payments
+
+- 2022: $51M aggregate payment (no pro-rata distribution after Former Managing Partners ceased to be AOG partners)
+- 2023: approximately $46M to named executives + estate vehicles
+- 2024: approximately $33.7M
+- 2025: $4.2M (sharp decline reflects realization run-off)
+
+## Explanation
+
+The Apollo TRA chain that this CIK assumed at the January 1, 2022 Athene merger traces back to the 2007 / 2011 Apollo IPO Up-C transition: APO Corp. (the corporate blocker holding AOG Units) pays 85% of cash tax savings from Section 754 basis step-ups on AOG Unit exchanges to the Former Managing Partners and Contributing Partners. The full underlying text (original 2007 TRA, A&R 2013, 2019 conversion amendment) lives at CIK 1411494 (Apollo Asset Management); see that summary for the pre-2022 history. On May 2, 2022, APO Corp. waived its Section 4.01(a) Early Termination Right permanently and irrevocably, locking in the ongoing payment stream and ruling out a lump-sum buyout. Because the merger closed out the Former Managing Partners' AOG Unit holdings, no new exchanges occur, and the TRA is in pure run-off; aggregate annual payments to executive beneficiaries have fallen from approximately $90M in 2022-2023 to $4.2M in 2025. The parallel Bridge TRA (TRA-2021-06-16-Bridge) is a separate contract assumed in the September 2025 Bridge acquisition. See `contract_log.md` for the full filing-by-filing record.

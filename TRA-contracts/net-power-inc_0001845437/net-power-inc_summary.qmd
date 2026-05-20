@@ -1,0 +1,38 @@
+---
+title: "NET Power Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Rice Acquisition Corp. II", "NET Power Inc."]
+CIKs: ["0001845437", "0001845437"]
+status: Terminated
+creation-date: 2023-06-08
+termination-date: 2025-06-12
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "75%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  75% sharing rate (deviation from the modal 85%). Early-terminated under
+  Section 4.1 with $0.00 payment to all 17 TRA Holders after the underlying
+  DTAs became unrealizable following Project Permian pause.
+---
+
+## TRA Timeline
+
+#### De-SPAC close and TRA execution
+
+- 2022-12-13: 8-K announces Business Combination Agreement between Rice Acquisition Corp. II (RONI) and NET Power, LLC; Form-of TRA filed as Exhibit 10.5 (75% sharing of net realized tax benefits from Section 754 basis adjustments on future OpCo unit exchanges plus imputed interest)
+- 2023-06-08: Business combination closes; RONI redomesticates to Delaware and is renamed NET Power Inc.; TRA executed with 17 named TRA Holders (Occidental subsidiary OLCV NET Power, Constellation Energy Generation, Baker Hughes Energy Services, Jefferies, and others)
+- 2023-06-14: 8-K files the executed TRA as Exhibit 10.3
+
+#### Economic decay and early termination
+
+- 2025-03: FY 2024 disclosures record the $21.3M TRA liability reduced to zero after pause of Project Permian's long-lead equipment commitments rendered the underlying DTAs no longer more-likely-than-not realizable
+- 2025-05-12: Corporation delivers Early Termination Notice to the Agent under Section 4.1 with a calculated Early Termination Payment of $0.00 per TRA Holder
+- 2025-06-12: Notice becomes final and binding after the 30-day period; TRA terminated and of no further force or effect; 8-K filed announcing termination
+
+## Explanation
+
+NET Power Inc. (formerly Rice Acquisition Corp. II) emerged from a June 8, 2023 SPAC business combination with NET Power, LLC and executed a Tax Receivable Agreement obligating PubCo to pay 75% (a deviation from the modal 85%) of net realized tax benefits from Section 754 basis step-ups arising from future Exchanges of OpCo units plus imputed interest, to 17 named TRA Holders including OLCV NET Power (Occidental), Constellation Energy Generation, Baker Hughes Energy Services, and Jefferies. After NET Power paused Project Permian's long-lead equipment commitments in early 2025, the Company concluded the underlying deferred tax assets were no longer more-likely-than-not realizable and reduced the $21.3M TRA liability to zero. The Corporation then exercised its Section 4.1 right to early-terminate the TRA with an Early Termination Payment of $0.00; the notice became final on June 12, 2025 and the contract is of no further force or effect, with no payment to the beneficiaries. See `contract_log.md` for the full filing-by-filing record.

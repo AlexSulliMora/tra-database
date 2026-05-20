@@ -1,0 +1,37 @@
+---
+title: "Churchill Capital Corp TRA (Clarivate acquirer / SPAC predecessor)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Churchill Capital Corp", "Clarivate Analytics plc", "Camelot Holdings (Jersey) Limited"]
+CIKs: ["0001744895", "0001764046", ""]
+status: Unknown
+creation-date: 2019-05-13
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Acquirer
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Churchill is the SPAC; the executed TRA lives under Clarivate plc CIK 0001764046. Only a
+  form-of (unexecuted) TRA was filed under Churchill's CIK as Exhibit E to the merger agreement.
+  Churchill deregistered May 24, 2019. Origination date inferred from merger close date.
+---
+
+## TRA Timeline
+
+#### Form-of TRA filed with Churchill merger documentation
+
+- 2019-01-15: 8-K filed with the Camelot Holdings / Clarivate / Churchill Merger Agreement as Exhibit 2.1; Form of Tax Receivable Agreement attached as Exhibit E
+- 2019-04-25: DEFM14A reproduces the Form-of TRA; Schedule A of TRA Parties remains "[To come]"
+
+#### Merger close and Churchill deregistration
+
+- 2019-05-13: Mergers consummated; executed TRA dated May 10, 2019 begins at the Camelot / Clarivate level (executed contract filed under Clarivate's CIK)
+- 2019-05-14: Churchill delisted (Form 25-NSE)
+- 2019-05-24: Churchill deregistered (Form 15-12B); Churchill ceases to be an SEC registrant
+
+## Explanation
+
+Churchill Capital Corp was a SPAC that completed its business combination with Camelot Holdings (Jersey) Limited and Clarivate Analytics plc on May 13, 2019; the TRA contemplated by the merger documentation was executed at close between Camelot Holdings as obligor and Onex Partners IV plus Baring Private Equity Asia affiliates as the beneficiary group, paying 85% of realized tax benefits on basis step-ups and NOLs (covering UK, US, German, and Japanese jurisdictions). Churchill itself was never a TRA obligor: it merged into the surviving Delaware corporation at close and deregistered shortly thereafter. Only the form-of TRA (unexecuted, with blank preamble date and a "[To come]" Schedule A) survives under Churchill's CIK. The executed contract and all post-close lifecycle (notably the November 7, 2019 buyout termination) are documented under Clarivate plc CIK 0001764046; see `../clarivate-plc_0001764046/clarivate-plc_summary.qmd` for the operative lifecycle. See `contract_log.md` for the full filing record.

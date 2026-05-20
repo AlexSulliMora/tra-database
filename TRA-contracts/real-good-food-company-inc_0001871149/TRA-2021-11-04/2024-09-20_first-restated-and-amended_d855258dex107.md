@@ -1,0 +1,816 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.7**
+
+**Execution Version**
+
+# TAX RECEIVABLE AGREEMENT
+
+FIRST RESTATED AND AMENDED · THE REAL GOOD FOOD COMPANY, INC., · THE TRA HOLDERS, · THE TRA HOLDER REPRESENTATIVE.
+
+## RECITALS
+
+WHEREAS, certain the TRA Holders held membership interests designated as "Class B Units" (the "Class B Units") in Real Good Foods, LLC, a Delaware limited liability company ("RGF, LLC") as of the date of the Prior Agreement (as defined below) as described in the registration statement on Form S-1 initially filed with the Securities and Exchange Commission on October 12, 2021 (Registration No. 333-260204), as amended prior to the date hereof,
+
+WHEREAS, RGF, LLC is classified as a partnership for United States federal income tax purposes;
+
+WHEREAS, the Corporate Taxpayer issued shares of its Class A common stock to purchasers in an initial public offering of such stock (the "IPO" and the date on which the IPO is consummated, the "IPO Date");
+
+WHEREAS, on or about the IPO Date, the Corporate Taxpayer acquired membership interests designated as "Class A Units" (the "Class A Units") of RGF, LLC (the "Class A Unit Purchase");
+
+WHEREAS, the Class B Units held by the TRA Holders may be exchanged for Class A common stock of the Corporate Taxpayer (the "Class A Shares") or cash (each, a "Class B Exchange"), subject to the provisions of the Exchange Agreement, dated as of November 4, 2021, among the Corporate Taxpayer, RGF, LLC and the TRA Holders party thereto, as amended, restated, or otherwise modified from time to time (the "Existing Exchange Agreement") and the Fourth Amended and Restated Operating Agreement of RGF, LLC (the "Prior LLC Agreement");
+
+WHEREAS, RGF, LLC and each of its direct and indirect Subsidiaries, if any, treated as a partnership for United States federal income tax purposes currently have and will have in effect an election under Section 754 of the United States Internal Revenue Code of 1986, as amended and including successor provisions thereto (the "Code") and any corresponding provisions of state and local tax law, for each Taxable Year in which a taxable Exchange occurs;
+
+WHEREAS, the income, gain, loss, expense, deduction and other Income Tax items of the Corporate Taxpayer may be affected by Basis Adjustments and Imputed Interest resulting from the Exchanges (collectively, the "Tax Attributes");
+
+WHEREAS, certain parties to this Agreement had previously executed a Tax Receivable Agreement, dated as of November 4, 2021 (the "Prior Agreement"), to make certain arrangements with respect to the effect of the Tax Attributes on the liability for certain taxes of the Corporate Taxpayer;
+
+WHEREAS, certain affiliates of Emblem Group, L.P. ("Emblem" and such affiliates, the "Emblem Investors") and PMC Financial Services Group, LLC ("PMC" and, together with the Emblem Investors, the "Investors") are acquiring (the "Investment") Class C Units of RGF, LLC (the "Class C Units") and shares of Class B Common Stock of the Corporate Taxpayer (the "Class B Common Stock");
+
+WHEREAS, in connection with the Investment, the Corporate Taxpayer, the Investors and RGF, LLC are entering into (i) an Exchange Agreement (the "New Exchange Agreement" and, together with the Existing Exchange Agreement, the "Exchange Agreement") pursuant to which each Class C Unit is exchangeable for one share of Class A Shares of the Corporate Taxpayer (each, together with any Class B Exchange and any exchange of other membership interests of RGF, LLC later acquired by an Investor for shares of the Corporation, an "Exchange") and (ii) the Fifth Amended and Restated Operating Agreement of RGF, LLC (as amended, restated, or otherwise modified from time to time, the "LLC Agreement");
+
+WHEREAS, the parties to this Agreement desire to join the Investors as parties to this Agreement as TRA Holders;
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+### Section 1.1: Section {#section-1-1}
+
+** 1.1** **Definitions**. As used in this Agreement, the terms set forth in this [Article I](#article-i) have the following meanings and the capitalized terms defined elsewhere in this Agreement have such definitions throughout this Agreement (such meanings and definitions to be equally applicable to both the singular and plural forms of the terms defined).
+
+Accrued Amount
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Actual US Tax Liability
+:   means, with respect to any Taxable Year, the actual liability for United States federal Income Taxes of (i) the Corporate Taxpayer and (ii) without duplication, RGF, LLC, but only with respect to United States federal Income Taxes imposed on RGF, LLC and allocable to the Corporate Taxpayer pursuant to the LLC Agreement and applicable United States federal Income Tax Law; provided that the liability described in clauses (i) and (ii) shall be calculated assuming (x) any Subsequently Acquired TRA Attributes do not exist, (y) so long as RGF, LLC (or any successor entity) is a partnership for United States federal Income Tax purposes, the "remedial allocation method" of Treasury Regulations Section 1.704-3(d) is in effect for purposes of Section 704I of the Code as of the date of the closing of the Class A Unit Purchase and at all times thereafter and (z) SALT and resulting deductions are excluded.
+
+Affiliate
+:   means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first-mentioned Person.
+
+Agreed Rate
+:   means a per annum rate of SOFR plus 100 basis points.
+
+Agreement
+:   has the meaning set forth in the preamble of this Agreement.
+
+Amended Schedule
+:   has the meaning set forth in [Section 2.3](#section-2-3)(b) of this Agreement.
+
+Assumed SALT Liability
+:   means, for a Taxable Year, the Actual US Tax Liability modified by using the Assumed SALT Rate instead of the United States federal Income Tax rates otherwise used for the determination of the Actual US Tax Liability.
+
+Assumed SALT Rate
+:   means the rate equal to the sum of the products of (x) RGF, LLC's Income Tax apportionment rate for each state and local jurisdiction in which RGF, LLC files Tax Returns for the relevant Taxable Year and (y) the highest corporate Income Tax rate for each such state and local jurisdiction in which RGF, LLC files Tax Returns for each relevant Taxable Year; provided, that (i) the Assumed SALT Rate calculated pursuant to the foregoing shall be reduced by an assumed United States federal Income Tax benefit received by the Corporate Taxpayer with respect to SALT, which benefit shall be calculated as the product of (a) the Corporate Taxpayer's marginal United States federal Income Tax rate for the relevant Taxable Year and (b) the Assumed SALT Rate (without regard to this proviso)) and (ii) on or prior to the first day of any relevant Taxable Year, the Corporate Taxpayer and the TRA Holder Representative may agree on an Assumed SALT Rate that will be used for the relevant Taxable Year (which rate shall be based on good faith estimates of expected apportionment rates for such Taxable Year and on the Income Tax rates in effect in relevant jurisdictions as of the first day of the relevant Taxable Year).
+
+Attributable
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Basis Adjustment
+:   means the adjustment to the basis of a Reference Asset for Income Tax purposes under Section 1012, 754, 732, 734(b), and/or 743(b) of the Code, as a result of an Exchange or a payment made pursuant to this Agreement (to the extent permitted by applicable law).
+
+Beneficial Owner
+:   means, with respect to a security, a Person who directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security and/or investment power, which includes the power to dispose of, or to direct the disposition of, such security.
+
+Beneficially Own
+:   and "Beneficial Ownership" shall have correlative meanings.
+
+Board
+:   means the Board of Directors of the Corporate Taxpayer.
+
+Business Day
+:   means a day, other than Saturday, Sunday or other day recognized as a legal holiday by the United States government or the State of New Jersey.
+
+Change of Control
+:   means the occurrence of any of the following events:
+
+    (i) any "person" or "group" (within the meaning of Sections 13(d) of the Securities Exchange Act of 1934, as amended (excluding any Emblem Party, PMC Party or any "person" or "group" who, on the IPO Date, is the Beneficial Owner of securities of the Corporate Taxpayer representing more than 50% of the combined voting power of the Corporate Taxpayer's then outstanding voting securities and excluding any "Permitted Transferee" (as defined in the LLC Agreement) and any group of Permitted Transferees)) becomes the Beneficial Owner of securities of the Corporate Taxpayer representing more than 50% of the combined voting power of the Corporate Taxpayer's then outstanding voting securities;
+
+    (ii) the shareholders of the Corporate Taxpayer approve a plan of complete liquidation or dissolution of Corporate Taxpayer or (B) there is consummated an agreement or series of related agreements for the sale or other disposition, directly or indirectly, by the Corporate Taxpayer of all or substantially all of the Corporate Taxpayer's assets, other than such sale or other disposition by the Corporate Taxpayer of all or substantially all of the Corporate Taxpayer's assets to an entity at least 50% of the combined voting power of the voting securities of which are owned by shareholders of the Corporate Taxpayer in substantially the same proportions as their ownership of the Corporate Taxpayer immediately prior to such sale or other disposition;
+
+    (iii) there is consummated a merger or consolidation of the Corporate Taxpayer with any other corporation or other entity, and, immediately after the consummation of such merger or consolidation, either (A) the board of directors of the Corporate Taxpayer immediately prior to the merger or consolidation does not constitute at least a majority of the board of directors of the company surviving the merger or consolidation or, if the surviving company is a Subsidiary, the ultimate parent thereof, or (B) all of the Persons who were the respective Beneficial Owners of the voting securities of the Corporate Taxpayer immediately prior to such merger or consolidation do not Beneficially Own, directly or indirectly, more than 50% of the combined voting power of the then outstanding voting securities of the Person resulting from such merger or consolidation (excluding or the purpose of this subsection (iii) any transaction where an Emblem Party or PMC Party is entitled to a majority of the board of directors or more than 50% of the combined voting power of the then outstanding voting securities; or
+
+    (iv) the following individuals cease for any reason to constitute a majority of the number of directors of the Corporate Taxpayer then serving: individuals who were directors of the Corporate Taxpayer on the IPO Date, individuals who are affiliated with or nominated by the Emblem Parties or PMC Parties, or any new director whose appointment or election to the Board or nomination for election by the Corporate Taxpayer's shareholders was approved or recommended by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors of the Corporate Taxpayer on the IPO Date or whose appointment, election or nomination for election was previously so approved or recommended by the directors referred to in this clause (iv).
+
+    Notwithstanding the foregoing, a "Change of Control" shall not be deemed to have occurred by virtue of the consummation of (x) any transaction or series of transactions entered into prior to the date hereof, (y) any transaction or series of integrated transactions immediately following which the record holders of the Class A Common Stock and Class B Common Stock of the Corporate Taxpayer immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in and voting control over, and own substantially all of the shares of, an entity which owns all or substantially all of the assets of the Corporate Taxpayer immediately following such transaction or series of transactions or (z) the transactions contemplated by the New Exchange Agreement, including the issuance of Exchangeable Units (as defined in the New Exchange Agreement), any conversion or exchange by Emblem, the Emblem Investors or any of their respective Affiliates (the "Emblem Parties") or PMC or any of its affiliates (the "PMC Parties")) of securities acquired by it pursuant to the Investment or the New Exchange Agreement or any exercise of rights obtained by an Emblem Party or a PMC Party in connection with the Investment or any other transactions between the Emblem Parties and the PMC Parties, on the one hand, and the Corporation or any of its affiliates, on the other hand and any other agreements governing any such transactions.
+
+Class A Shares
+:   has the meaning set forth in the recitals of this Agreement.
+
+Class A Unit Purchase
+:   has the meaning set forth in the recitals of this Agreement.
+
+Class A Units
+:   has the meaning set forth in the recitals of this Agreement.
+
+Class B Units
+:   has the meaning set forth in the recitals of this Agreement.
+
+Class B Exchange
+:   has the meaning set forth in the recitals of this Agreement.
+
+Code
+:   has the meaning set forth in the recitals of this Agreement.
+
+Control
+:   means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise. "Controlling" and "Controlled" have correlative meanings.
+
+Corporate Taxpayer
+:   has the meaning set forth in the preamble of this Agreement.
+
+Corporate Taxpayer Return
+:   means the United States federal Tax Return of the Corporate Taxpayer filed with respect to the applicable Taxable Year.
+
+Cumulative Net Realized Tax Benefit
+:   for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the Corporate Taxpayer, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same period, in each case determined based on the most recent Schedules in existence at the time of such determination.
+
+Default Rate
+:   means a per annum rate of SOFR plus 500 basis points.
+
+Determination
+:   means "determination" as used in Section 1313(a) of the Code or similar provision of state or local Income Tax law (and includes terms with similar meanings in such provisions), as applicable, or any other event that finally and conclusively establishes the amount of any liability for Tax, including, without limitation, the execution of IRS Form 870-AD and any other acquiescence of the Corporate Taxpayer to the amount of any assessed liability for Tax.
+
+Disputing Party
+:   has the meaning set forth in [Section 7.8](#section-7-8) of this Agreement.
+
+Early Termination Date
+:   means, for purposes of determining the Early Termination Payment, the date of an Early Termination Notice.
+
+Early Termination Notice
+:   has the meaning set forth in [Section 4.2](#section-4-2) of this Agreement.
+
+Early Termination Payment
+:   has the meaning set forth in [Section 4.3](#section-4-3)(b) of this Agreement.
+
+Early Termination Rate
+:   means a per annum rate of the lesser of (i) 5.5%, compounded annually, and (ii) SOFR plus 100 basis points.
+
+Early Termination Schedule
+:   has the meaning set forth in [Section 4.2](#section-4-2) of this Agreement.
+
+Emblem Investors
+:   has the meaning set forth in the recitals of this Agreement.
+
+Emblem
+:   has the meaning set forth in the recitals of this Agreement.
+
+Emblem Parties
+:   has the meaning set forth in the definition of Change of Control.
+
+Exchange
+:   has the meaning set forth in the recitals of this Agreement.
+
+Exchange Agreement
+:   has the meaning set forth in the recitals of this Agreement.
+
+Exchange Date
+:   means the date of any Exchange.
+
+Exchange Schedule
+:   has the meaning set forth in [Section 2.1](#section-2-1) of this Agreement.
+
+Existing Exchange Agreement
+:   has the meaning set forth in the recitals to this Agreement.
+
+Expert
+:   has the meaning set forth in [Section 7.8](#section-7-8) of this Agreement.
+
+Hypothetical SALT Liability
+:   means, for a Taxable Year, the Hypothetical US Tax Liability modified by using the Assumed SALT Rate instead of the United States federal Income Tax rates otherwise used for the determination of the Hypothetical US Tax Liability.
+
+Hypothetical US Tax Liability
+:   means, with respect to any Taxable Year, the Actual US Tax Liability modified by (i) using the Non-Stepped Up Tax Basis, instead of the otherwise applicable Income Tax basis, of the Reference Assets, (ii) excluding any deduction attributable to Imputed Interest for the Taxable Year, and (iii) excluding the carryover or carryback of any Income Tax item or attribute (or portions thereof) that is available for use because of any Tax Attribute.
+
+Imputed Interest
+:   in respect of a TRA Holder means any interest imputed under Section 1272, 1274 or 483 or other provision of the Code with respect to the Corporate Taxpayer's payment obligations in respect of such TRA Holder under this Agreement.
+
+Income Taxes
+:   means any and all United States federal, state, and local taxes, assessments or similar charges that are based on or measured with respect to net income or profits, including, without limitation, such taxes which are franchise taxes, and any interest related to such tax.
+
+Investors
+:   has the meaning set forth in the recitals of this Agreement.
+
+IPO
+:   has the meaning set forth in the recitals of this Agreement.
+
+IPO Date
+:   has the meaning set forth in the preamble of this Agreement.
+
+IRS
+:   means the United States Internal Revenue Service.
+
+LLC Agreement
+:   has the meaning set forth in the recitals of this Agreement.
+
+Material Breach
+:   has the meaning set forth in [Section 4.1](#section-4-1)(b) of this Agreement.
+
+Net Tax Benefit
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+New Exchange Agreement
+:   has the meaning set forth in the recitals to this Agreement.
+
+Non-Stepped Up Tax Basis
+:   means, with respect to any Reference Asset, the Income Tax basis that such asset would have had at such time if no Basis Adjustments had been made.
+
+Objection Notice
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Person
+:   means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity or other entity.
+
+PMC
+:   has the meaning set forth in the recitals of this Agreement.
+
+PMC Parties
+:   has the meaning set forth in the definition of Change of Control.
+
+Prior LLC Agreement
+:   has the meaning set forth in the recitals of this Agreement.
+
+Prior Agreement
+:   has the meaning set forth in the recitals of this Agreement.
+
+Realized Tax Benefit
+:   means, for a Taxable Year, the excess, if any, of (i) the sum of the Hypothetical US Tax Liability and the Hypothetical SALT Liability over (ii) the sum of the Actual US Tax Liability and the Assumed SALT Liability; provided that, if all or a portion of the actual liability for applicable Income Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority with respect to any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+Realized Tax Detriment
+:   means, for a Taxable Year, the excess, if any, of (i) the sum of the Actual US Tax Liability and the Assumed SALT Liability over (ii) the sum of the Hypothetical US Tax Liability and the Hypothetical SALT Liability; provided that, if all or a portion of the actual liability for applicable Income Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority with respect to any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+Receiving Party
+:   has the meaning set forth in [Section 7.11](#section-7-11) of this Agreement.
+
+Reconciliation Dispute
+:   has the meaning set forth in [Section 7.8](#section-7-8) of this Agreement.
+
+Reconciliation Procedures
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Reference Asset
+:   means an asset that is held by RGF, LLC, or by any of its direct or indirect Subsidiaries treated as a partnership or disregarded for purposes of the applicable Income Tax (but only if such indirect Subsidiaries are held only through Subsidiaries treated as partnerships or disregarded for purposes of such tax), at the time of an Exchange, and includes any asset that is "substituted basis property" under Section 7701(a)(42) of the Code with respect to any other Reference Asset.
+
+Representative Provisions
+:   has the meaning set forth in [Section 7.13](#section-7-13) of this Agreement.
+
+Representative Losses
+:   has the meaning set forth in [Section 7.13](#section-7-13) of this Agreement.
+
+RGF, LLC
+:   has the meaning set forth in the recitals of this Agreement.
+
+SALT
+:   means United States state and local Income Tax.
+
+Schedule
+:   means an Exchange Schedule, a Tax Benefit Schedule, or the Early Termination Schedule, in each case as amended pursuant to this Agreement.
+
+Schedule Period
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Schedule Recipient
+:   has the meaning set forth in [Section 2.3](#section-2-3)(a) of this Agreement.
+
+Senior Obligations
+:   has the meaning set forth in [Section 5.1](#section-5-1) of this Agreement.
+
+SOFR
+:   means, during any period, the greater of (a) 0.25% and (b) the Secured Overnight Financing Rate, as reported by the Wall Street Journal two Business Days prior to the commencement of the applicable period. Each determination by Corporate Taxpayer of SOFR shall be conclusive and binding in the absence of manifest error.
+
+Subsequent Funding Transaction
+:   means the funding of $50,000,000, less (i) the principal amount of any Subsequent Litigation Settlement Loans (as defined in the Credit Agreement) and (ii) the principal amount of any Subsequent Understated AP Loans (as defined in the Credit Agreement), in each case, previously made in accordance with the Credit Agreement, to RGF, LLC or to otherwise to refinance, replace, repurchase or effectuate an assignment to the Lenders under, and as defined in, the Credit Agreement, in each case, of all or any portion of the Amended and Restated PMC Facilities (as defined in the Credit Agreement) pursuant to the Emblem Loan Agreement (as defined in the New Exchange Agreement).
+
+Subsequently Acquired TRA Attributes
+:   means any net operating losses or other tax attributes to which any of the Corporate Taxpayer, RGF, LLC or any of their Subsidiaries become entitled as a result of a transaction (other than any Exchanges) after the date of this Agreement to the extent such net operating losses and other tax attributes are subject to a tax receivable agreement (or comparable agreement) entered into by the Corporate Taxpayer, RGF, LLC or any of their Subsidiaries pursuant to which the Corporate Taxpayer, RGF, LLC or any of their Subsidiaries are obligated to pay over amounts with respect to tax benefits resulting from such net operating losses or other tax attributes.
+
+Subsidiaries
+:   means, with respect to any Person, any other Person as to which such Person, as of the date of determination, owns, directly or indirectly, or otherwise Controls more than 50% of the voting power or other similar interests or the sole general partner, managing member, or similar interest of such Person.
+
+Tax Attributes
+:   has the meaning set forth in the recitals of this Agreement.
+
+Tax Benefit Payment
+:   has the meaning set forth in [Section 3.1](#section-3-1)(b) of this Agreement.
+
+Tax Benefit Schedule
+:   has the meaning set forth in [Section 2.2](#section-2-2) of this Agreement.
+
+Tax Return
+:   means any return, declaration, report or similar statement required to be filed with respect to Income Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return and declaration of estimated Tax.
+
+Taxable Year
+:   means a taxable year of the Corporate Taxpayer as defined in Section 441(b) of the Code or comparable provision of state or local tax law, as applicable, ending on or after the date hereof.
+
+Taxing Authority
+:   means any United States federal, state, county or municipal or other local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body exercising any taxing authority or any other authority exercising Income Tax regulatory authority.
+
+TRA Holder
+:   has the meaning set forth in the preamble of this Agreement.
+
+TRA Holder Representative
+:   means, prior to a Subsequent Funding Transaction, Bryan Freeman, and, effective upon the consummation of a Subsequent Funding Transaction, the person designated in writing to the Corporation by the Emblem Investors.
+
+Treasury Regulations
+:   means the final, temporary and proposed regulations promulgated under the Code as in effect for the relevant taxable period.
+
+Valuation Assumptions
+:   means, as of an Early Termination Date, the assumptions that (i) in each Taxable Year ending on or after such Early Termination Date, the Corporate Taxpayer will have taxable income sufficient to fully utilize the deductions arising from all Tax Attributes during such Taxable Year (including, for the avoidance of doubt, Tax Attributes that would result from Tax Benefit Payments that would be paid in accordance with the Valuation Assumptions, further assuming such Tax Benefit Payments would be paid on the due date, without extensions, for filing the Corporate Taxpayer Return for the applicable Taxable Year) in which such deductions would become available; (ii) any loss, capital loss, disallowed interest expense, credit or similar carryovers generated by deductions or losses arising from any Tax Attributes that are available in the Taxable Year that includes the Early Termination Date will be fully utilized by the Corporate Taxpayer in the earliest possible Taxable Year permitted by the Code and the Treasury Regulations; (iii) the United States federal Income Tax rates that will be in effect for each Taxable Year ending on or after such Early Termination Date will be those specified for each such Taxable Year by the Code and the tax rates for SALT will be the Assumed SALT Rate, in each case as in effect on the Early Termination Date, except to the extent any change to such tax rates for such Taxable Years have already been enacted into law; (iv) any non-amortizable Reference Assets will be disposed of for cash at their fair market value, as determined by the Corporate Taxpayer in its reasonable discretion, in a fully taxable transaction on the fifteenth anniversary of the Early Termination Date; and (v) if, at the Early Termination Date, there are Exchangeable Units that have not been transferred in an Exchange, then all Exchangeable Units and, if applicable, shares of Class B Common Stock shall be deemed to be transferred in an Exchange effective on the Early Termination Date and otherwise on the terms set forth in the Exchange Agreement.
+
+## ARTICLE II: ARTICLE II DETERMINATION OF REALIZED TAX BENEFITS {#article-ii}
+
+### Section 2.1: Section {#section-2-1}
+
+** 2.1 Exchange Schedule**. Within ninety (90) calendar days after the filing of the Corporate Taxpayer Return for each Taxable Year in which any Exchange has been effected by any TRA Holder, the Corporate Taxpayer shall deliver to the TRA Holder Representative a schedule (the "Exchange Schedule") that shows, in reasonable detail, the information necessary to perform the calculations required by this Agreement, including (i) the Non-Stepped Up Tax Basis of the Reference Assets in respect of such TRA Holder as of each applicable Exchange Date, (ii) the Basis Adjustment with respect to the Reference Assets in respect of such TRA Holder as a result of the Exchanges effected in such Taxable Year by such TRA Holder, calculated in the aggregate, (iii) the period (or periods) over which the basis of the Reference Assets in respect of such TRA Holder are amortizable and/or depreciable, and (v) the period (or periods) over which each Basis Adjustment in respect of such TRA Holder is amortizable and/or depreciable.
+
+### Section 2.2: Section {#section-2-2}
+
+** 2.2 Tax Benefit Schedule**. Within ninety (90) calendar days after the filing of the Corporate Taxpayer Return for any Taxable Year in which any Exchange has been effected by a TRA Holder or which is subsequent to any such Taxable Year, the Corporate Taxpayer shall provide to the TRA Holder Representative a schedule showing, in reasonable detail, the calculation of the Tax Benefit Payment in respect of such TRA Holder for such Taxable Year and the calculation of the Realized Tax Benefit or Realized Tax Detriment and components thereof for such Taxable Year (a "Tax Benefit Schedule").
+
+### Section 2.3: Procedures, Amendments, and Principles {#section-2-3}
+
+(a) Procedures.
+
+(i) Additional Information. In the event the Corporate Taxpayer is required to deliver a Schedule pursuant to this Agreement, the Corporate Taxpayer shall also (x) deliver to the required recipient of such Schedule (the "Schedule Recipient") schedules, valuation reports, if any, and work papers reasonably requested by such Schedule Recipient, providing reasonable detail regarding the preparation of the Schedule and (y) allow such Schedule Recipient reasonable access at no cost to the appropriate representatives at the Corporate Taxpayer, as determined by the Corporate Taxpayer or reasonably requested by such Schedule Recipient, in connection with a review of such Schedule. Without limiting the foregoing, in the event the Corporate Taxpayer is required to deliver a Tax Benefit Schedule, the Corporate Taxpayer shall also deliver to the Schedule Recipient the Corporate Taxpayer Return and the reasonably detailed calculations by the Corporate Taxpayer of the applicable Actual US Tax Liability, Hypothetical US Tax Liability, and Assumed SALT Rate. Notwithstanding the foregoing provisions of this [Section 2.3](#section-2-3)(a), the Corporate Taxpayer shall be entitled to redact any information that it reasonably believes is unnecessary for purposes of determining the items in the applicable Schedule.
+
+(ii) Finalization of Schedules. An applicable Schedule will become final and binding on all parties thirty (30) calendar days after the first date on which the Schedule Recipient has received the applicable Schedule (the "Schedule Period") unless such Schedule Recipient, within the Schedule Period, (i) provides the Corporate Taxpayer with a written notice of any material objection to such Schedule ("Objection Notice") made in good faith or (ii) provides a written waiver of such right of any Objection Notice, in which case such Schedule will become binding on the date the waiver is received by the Corporate Taxpayer. If the Corporate Taxpayer and the TRA Holder Representative are unable to successfully resolve the issues raised in the Objection Notice, the provisions of [Section 7.9](#section-7-9) shall apply.
+
+(b) Schedule Amendments. The applicable Schedule shall be amended from time to time by the Corporate Taxpayer (i) in connection with a Determination affecting such Schedule, (ii) to correct inaccuracies in the Schedule identified after the date the Schedule was provided to the Schedule Recipient, (iii) to comply with the Expert's determination under [Section 7.8](#section-7-8), (iv) to reflect a change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to a carryback or carryforward of a loss or other tax item to such Taxable Year, (iii) to reflect a change in the Realized Tax Benefit or Realized Tax Detriment for such Taxable Year attributable to an amended Corporate Taxpayer Return filed for such Taxable Year, or (vi) to adjust an applicable Exchange Schedule to take into account payments made pursuant to this Agreement (any such Schedule, an "Amended Schedule"). The Corporate Taxpayer shall provide each Amended Schedule to the applicable Schedule Recipient within ninety (90) calendar days of the occurrence of an event referenced in the preceding sentence.
+
+(c) Principles. The parties agree that all Tax Benefit Payments and other payments under this Agreement (to the extent permitted by applicable law) attributable to the Basis Adjustments (other than amounts accounted for as interest under the Code) will be treated as subsequent positive purchase price adjustments that give rise to further Basis Adjustments to Reference Assets for the Corporate Taxpayer in the year of payment, and, as a result, such additional Basis Adjustments will be incorporated into the calculation of the Realized Tax Benefit or Realized Tax Detriment and resulting Tax Benefit Payment for the year of payment and subsequent years.
+
+## ARTICLE III: TAX BENEFIT PAYMENTS {#article-iii}
+
+### Section 3.1: Payments {#section-3-1}
+
+(a) In General. Within five (5) calendar days after a Tax Benefit Schedule or amendment thereto becomes final and binding in accordance with this Agreement, the Corporate Taxpayer shall pay each TRA Holder for such Taxable Year an amount equal to the Tax Benefit Payment in respect of such TRA Holder for such Taxable Year. Each such Tax Benefit Payment shall be made by wire transfer of immediately available funds to the bank account previously designated by the applicable TRA Holder to the Corporate Taxpayer or as otherwise agreed by the Corporate Taxpayer and such TRA Holder.
+
+(b) Determination. A "Tax Benefit Payment" in respect of a TRA Holder for a Taxable Year means an amount, not less than zero, equal to the sum of the portion of the Net Tax Benefit Attributable to such TRA Holder and the Accrued Amount with respect thereto. A Net Tax Benefit is "Attributable" to a TRA Holder to the extent that it is derived from any Tax Attribute that is attributable to the Class B Units or Class C Units (or other membership interests of RGF, LLC the exchange of which constitutes an Exchange) acquired by Corporate Taxpayer in an Exchange undertaken by or with respect to such TRA Holder. The "Net Tax Benefit" for a Taxable Year shall be an amount equal to the excess, if any, of eighty-five percent (85%) of the Cumulative Net Realized Tax Benefit as of the end of such Taxable Year, over the sum of the total amount of payments previously made under [Section 3.1](#section-3-1)(a) of this Agreement (excluding payments attributable to Accrued Amounts); provided, for the avoidance of doubt, that no TRA Holder shall be required to return any portion of any previously made Tax Benefit Payment. The "Accrued Amount" with respect to any portion of a Net Tax Benefit shall equal an amount determined in the same manner as interest on such portion of the Net Tax Benefit calculated at the Agreed Rate from the due date (without extensions) for filing the Corporation Return for such Taxable Year until the date such portion of the Net Tax Benefit is paid. For tax purposes, the parties agree that the Accrued Amount shall not be treated as interest but instead shall be treated as additional consideration for the acquisition of Class B Units or Class C Units (or other membership interests of RGF, LLC the exchange of which constitutes an Exchange) in Exchanges, unless otherwise required by applicable law.
+
+(c) Change of Control. Notwithstanding [Section 3.1](#section-3-1)(b), for each Taxable Year ending on or after the date of a Change of Control, all Tax Benefit Payments, whether paid with respect to the Class B Units or Class C Units (or other membership interests of RGF, LLC the exchange of which constitute an Exchange) that were Exchanged prior to the date of such Change of Control or on or after the date of such Change of Control, shall be calculated by utilizing Valuation Assumptions, substituting in each case the terms "the date of a Change of Control" for an "Early Termination Date."
+
+(d) Early Termination Payment. Notwithstanding anything to the contrary in this Agreement, after any Early Termination Payment, the Tax Benefit Payment, Net Tax Benefit and components thereof shall be calculated without taking into account any tax attributes with respect to which such Early Termination Payment has been made or any such Early Termination Payment.
+
+### Section 3.2: Section {#section-3-2}
+
+** 3.2** **No Duplicative Payments**. It is intended that the provisions of this Agreement will not result in duplicative payment of any amount (including interest) required under this Agreement. The provisions of this Agreement shall be construed in the appropriate manner to ensure such intentions are realized.
+
+### Section 3.3: Pro Rata Payments {#section-3-3}
+
+(a) If for any reason the Corporate Taxpayer does not fully satisfy its payment obligations to make all Tax Benefit Payments due under this Agreement in respect of a particular Taxable Year, then the Corporate Taxpayer and the TRA Holders agree that (i) the Corporate Taxpayer shall pay the same proportion of each Tax Benefit Payment due to each Person due a payment hereunder in respect of such Taxable Year, without favoring one obligation over the other, and (ii) no Tax Benefit Payment shall be made in respect of any Taxable Year until all Tax Benefit Payments in respect of prior Taxable Years have been made in full.
+
+(b) To the extent the Corporate Taxpayer makes a payment to a TRA Holder in respect of a particular Taxable Year under [Section 3.1](#section-3-1)(a) of this Agreement (taking into account [Section 3.3](#section-3-3)(b), but excluding payments attributable to Accrued Amounts) in an amount in excess of the amount of such payment that should have been made to such TRA Holder in respect of such Taxable Year, then (i) such TRA Holder shall not receive further payments under [Section 3.1](#section-3-1)(a) until such TRA Holder has foregone an amount of payments equal to such excess and (ii) the Corporate Taxpayer shall pay the amount of such TRA Holder's foregone payments to the other TRA Holders in a manner such that each of the other TRA Holders, to the maximum extent possible, shall have received aggregate payments under [Section 3.1](#section-3-1)(a) of this Agreement (in each case, taking into account [Section 3.3](#section-3-3)(b) of this Agreement, but excluding payments attributable to Accrued Amounts) in the amount it would have received if there had been no excess payment to such TRA Holder.
+
+## ARTICLE IV: TERMINATION {#article-iv}
+
+### Section 4.1: Early Termination {#section-4-1}
+
+(a) Election by Corporate Taxpayer. The Corporate Taxpayer may terminate this Agreement with respect to all amounts payable to the TRA Holders and with respect to all of the Class B Units and Class C Units (and other membership interests of RGF, LLC the exchange of which would constitute an Exchange) held by the TRA Holders at any time by paying to each TRA Holder the Early Termination Payment in respect of such TRA Holder; provided, however, that if the Corporate Taxpayer and the TRA Holder Representative agree, the Corporate Taxpayer may terminate this Agreement with respect to some or all of the amounts payable to less than all of the TRA Holders; provided, further that this Agreement shall only terminate pursuant to this [Section 4.1](#section-4-1)(a) with respect to a TRA Holder upon the receipt of the Early Termination Payment by such TRA Holder, and the Corporate Taxpayer shall deliver an Early Termination Notice only if it is able to make all required Early Termination Payments under this Agreement at the time required by [Section 4.3](#section-4-3), and provided, further, that the Corporate Taxpayer may withdraw any notice to execute its termination rights under this [Section 4.1](#section-4-1)(a) prior to the time at which any Early Termination Payment has been paid. Upon payment of the Early Termination Payment by the Corporate Taxpayer in accordance with this [Section 4.1](#section-4-1)(a), the Corporate Taxpayer shall not have any further payment obligations under this Agreement with respect to the TRA Holders that have received their Early Termination Payment in accordance with this [Section 4.1](#section-4-1)(a), other than for any (i) Tax Benefit Payment agreed to by the Corporate Taxpayer, on one hand, and the applicable TRA Holder, on the other, as due and payable but unpaid as of the Early Termination Notice and (ii) Tax Benefit Payment due for the Taxable Year ending with or including the date of the Early Termination Notice (except to the extent that the amount described in clause (ii) is included in the Early Termination Payment). Without limiting the foregoing, if an Exchange by a TRA Holder occurs after the Corporate Taxpayer makes the Early Termination Payment to such TRA Holder pursuant to this [Section 4.1](#section-4-1)(a), the Corporate Taxpayer shall have no obligations under this Agreement with respect to such Exchange.
+
+(b) Material Breach or Change of Control. In the event (x) of a Change of Control occurring after the date hereof or (y) that the Corporate Taxpayer breaches any of its material obligations under this Agreement (each such breach, a "Material Breach"), whether as a result of failure to make any payment when due, failure to honor any other material obligation required hereunder or by operation of law as a result of the rejection of this Agreement in a case commenced under The Bankruptcy Reform Act of 1978, codified as 11 U.S.C. Section 101 et seq., or otherwise, then all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such Material Breach and shall include (without duplication), but not be limited to, (1) the Early Termination Payments calculated as if an Early Termination Notice had been delivered on the date of such Material Breach, (2) any Tax Benefit Payment in respect of a TRA Holder agreed to by the Corporate Taxpayer and such TRA Holder as due and payable but unpaid as of the date of such Material Breach, and (3) any Tax Benefit Payment in respect of any TRA Holder due for the Taxable Year ending with or including the date of such Material Breach. Notwithstanding the foregoing, in the event of Material Breach, each TRA Holder shall be entitled to elect to receive the amounts set forth in clauses (1), (2) and (3) above or to seek specific performance of the terms hereof. The parties agree that the failure to make any payment due pursuant to this Agreement within three (3) months of the date such payment is due shall be deemed to be a Material Breach for all purposes of this Agreement, and that it will not be considered to be a Material Breach to make a payment due pursuant to this Agreement within three (3) months of the date such payment is due. Notwithstanding anything in this Agreement to the contrary, it shall not be a Material Breach or other breach of this Agreement if the Corporate Taxpayer fails to make any Tax Benefit Payment when due to the extent that the Corporate Taxpayer has insufficient funds to make such payment despite using reasonable best efforts to obtain funds to make such payment (including by causing RGF, LLC or any other Subsidiaries to distribute or lend funds for such payment and access any revolving credit facilities or other sources of available credit to fund any such amounts); provided that [Section 5.2](#section-5-2) shall apply to such late payment; provided further that, solely with respect to a Tax Benefit Payment, if the Corporate Taxpayer does not have sufficient cash to make such payment as a result of limitations imposed by existing credit agreements to which RGF, LLC is a party, which limitations are effective as of the date of this Agreement, [Section 5.2](#section-5-2) shall apply, but the Default Rate shall be replaced by the Agreed Rate.
+
+### Section 4.2: Section {#section-4-2}
+
+** 4.2 Termination Notice**. If the Corporate Taxpayer chooses to exercise its right of early termination under [Section 4.1](#section-4-1) above or upon request by the TRA Holder Representative in the event of Material Breach, the Corporate Taxpayer shall deliver to the TRA Holder Representative notice of such intention to exercise such right or such Material Breach, as applicable ("Early Termination Notice"), and a schedule (the "Early Termination Schedule") showing in reasonable detail the calculation of the Early Termination Payment(s) due for each TRA Holder.
+
+### Section 4.3: Section {#section-4-3}
+
+** 4.3 Payment upon Early Termination**.
+
+(a) Within three (3) calendar days after an Early Termination Schedule becomes final and binding in accordance with this Agreement, the Corporate Taxpayer shall pay to each TRA Holder an amount equal to the Early Termination Payment determined in accordance with such Schedule in respect of such TRA Holder. Such payment shall be made by wire transfer of immediately available funds to a bank account or accounts designated by the TRA Holder or as otherwise agreed by the Corporate Taxpayer and such TRA Holder.
+
+(b) "Early Termination Payment" in respect of a TRA Holder shall equal the present value, discounted at the Early Termination Rate (using a mid-year convention) as of the applicable Early Termination Date, of all Tax Benefit Payments in respect of such TRA Holder that would be required to be paid by the Corporate Taxpayer beginning from the Early Termination Date and assuming that the Valuation Assumptions in respect of such TRA Holder are applied.
+
+## ARTICLE V: SUBORDINATION AND LATE PAYMENTS {#article-v}
+
+### Section 5.1: Section {#section-5-1}
+
+** 5.1 Subordination**. Notwithstanding any other provision of this Agreement to the contrary, any Tax Benefit Payment, Early Termination Payment or any other payment required to be made by the Corporate Taxpayer to any TRA Holder under this Agreement shall be subordinate and junior in right of payment to any principal, interest or other amounts due and payable in respect of any obligations in respect of indebtedness for borrowed money of the Corporate Taxpayer and its Subsidiaries (such obligations, "Senior Obligations") and shall be *pari passu* with all current or future unsecured obligations of the Corporate Taxpayer that are not Senior Obligations. For the avoidance of doubt, any amounts owed by the Corporate Taxpayer under this Agreement are not Senior Obligations.
+
+### Section 5.2: Late Payments by the Corporate Taxpayer {#section-5-2}
+
+## ARTICLE VI: NO DISPUTES; CONSISTENCY; COOPERATION {#article-vi}
+
+### Section 6.1: No Participation in the Corporate Taxpayer's and RGF, LLC's Tax Matters {#section-6-1}
+
+Except as otherwise provided herein or in the LLC Agreement, the Corporate Taxpayer shall have full responsibility for, and sole discretion with respect to, all tax matters concerning the Corporate Taxpayer and RGF, LLC, including without limitation the preparation, filing or amending of any Tax Return and defending, contesting or settling any issue pertaining to Income Taxes. Notwithstanding the foregoing, the Corporate Taxpayer shall notify the TRA Holder Representative of, and keep such Person reasonably informed with respect to, the portion of any audit of the Corporate Taxpayer or RGF, LLC by a Taxing Authority the outcome of which is reasonably expected to affect the rights and obligations of any TRA Holder under this Agreement; provided, however, that neither the Corporate Taxpayer nor RGF, LLC shall be required to take any action that is inconsistent with any provision of the LLC Agreement.
+
+### Section 6.2: Consistency {#section-6-2}
+
+### Section 6.3: Cooperation {#section-6-3}
+
+(a) Each of the TRA Holders and the TRA Holder Representative shall furnish to the Corporate Taxpayer in a timely manner such information, documents and other materials as such Person may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement, preparing any Tax Return or contesting or defending any audit, examination or controversy with any Taxing Authority, (b) make itself available to the Corporate Taxpayer and its representatives to provide explanations of documents and materials and such other information as such Person may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter. The Corporate Taxpayer shall reimburse the TRA Holder Representative and each such TRA Holder for any reasonable third-party costs and expenses incurred pursuant to this [Section 6.3](#section-6-3)(a).
+
+(b) The Corporate Taxpayer shall furnish to the TRA Holder Representative in a timely manner such information, documents and other materials as such Person may reasonably request for purposes of making any determination or computation necessary or appropriate under this Agreement or for enabling any TRA Holder to prepare any Tax Return or to contest or defend any audit, examination or controversy with any Taxing Authority, (b) make itself available to the TRA Holder Representative and its representatives to provide explanations of documents and materials and such other information as such Person may reasonably request in connection with any of the matters described in clause (a) above, and (c) reasonably cooperate in connection with any such matter.
+
+## ARTICLE VII: MISCELLANEOUS {#article-vii}
+
+### Section 7.1: Section {#section-7-1}
+
+** 7.1** **Notices**. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given and received (a) on the date of delivery if delivered personally, or by facsimile or e-mail with confirmation of transmission by the transmitting equipment or (b) on the first Business Day following the date of dispatch if delivered by a recognized next-day courier service. All notices hereunder shall be delivered as set forth below, or pursuant to such other instructions as may be designated in writing by the party to receive such notice:
+
+If to the Corporate Taxpayer, to:
+
+The Real Good Food Company, Inc.
+
+3 Executive Campus, Suite 155
+
+Cherry Hill, NJ 08002
+
+with a copy (which shall not constitute notice to the Corporate Taxpayer) to:
+
+Stradling Yocca Carlson & Rauth, P.C.
+
+Attn: Ryan Wilkins and Kyle Leingang
+
+660 Newport Center Drive, Suite 1600
+
+Newport Beach, CA 92660
+
+If to a TRA Holder, to:
+
+The address, fax number or e-mail address set forth in the records of RGF, LLC.
+
+If to the TRA Holder Representative appointed as such as of the date hereof, to:
+
+Bryan Freeman
+
+3 Executive Campus, Suite 155
+
+Cherry Hill, NJ 08002
+
+Any party may change its address, fax number or e-mail address by giving the Corporate Taxpayer and the TRA Holder Representative written notice of its new address, fax number or e-mail address in the manner set forth above.
+
+### Section 7.2: Section {#section-7-2}
+
+** 7.2 Counterparts**. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart. Delivery of an executed signature page to this Agreement by facsimile transmission or e-mail of a Portable Document Format (.pdf) document shall be as effective as delivery of a manually signed counterpart of this Agreement.
+
+### Section 7.3: Section {#section-7-3}
+
+** 7.3 Entire Agreement; No Third Party Beneficiaries**. This Agreement and the LLC Agreement constitute the entire agreement and supersede all prior agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof. This Agreement shall be binding upon and inure solely to the benefit of each party hereto and its respective successors and permitted assigns, and nothing in this Agreement, express or implied, is intended to or shall confer upon any other Person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+### Section 7.4: Section {#section-7-4}
+
+** 7.4 Governing Law**. This Agreement shall be governed by, and construed in accordance with, the law of the State of Delaware, without regard to the conflicts of laws principles thereof or of any other jurisdiction that would mandate or permit the application of the laws of another jurisdiction.
+
+### Section 7.5: Section {#section-7-5}
+
+** 7.5 Severability**. If any term or other provision of this Agreement is invalid, illegal or unenforceable under applicable law, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or unenforceable, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+### Section 7.6: Section {#section-7-6}
+
+** 7.6 Successors; Assignment; Amendments; Waivers**.
+
+(a) Without the prior written consent of the Corporate Taxpayer, no TRA Holder may assign this Agreement to any Person, except (i) with respect to the rights and obligations under this Agreement allocable to Class B Units or Class C Units (or other membership interests of RGF, LLC the exchange of which would constitute an Exchange) transferred by such TRA Holder in accordance with the LLC Agreement and the Exchange Agreement, the transferee of such Class B Units or Class C Units (or such other membership interests) and (ii) upon or after an Exchange, any and all payments that may become payable to a TRA Holder pursuant to this Agreement with respect to such Exchange, provided, however, that in each case described in clause (i) or clause (ii), the assignee has executed and delivered to the Corporate Taxpayer and the TRA Holder Representative, a joinder to this Agreement, in the form of Exhibit A or such other form mutually agreed by the transferring TRA Holder, the assignee, the Corporate Taxpayer, and the TRA Holder Representative.
+
+(b) No provision of this Agreement may be amended unless such amendment is approved in writing by the Corporate Taxpayer and the TRA Holder Representative or waived other than by an instrument in writing signed by the party against whom such waiver is intended to be effective.
+
+(c) All of the terms and provisions of this Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the parties hereto and their respective permitted successors, assigns, heirs, executors, administrators and legal representatives.
+
+### Section 7.7: Section {#section-7-7}
+
+** 7.7 Titles and Subtitles**. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+### Section 7.8: Section {#section-7-8}
+
+** 7.8 Reconciliation**. In the event that the Corporate Taxpayer, on the one hand, and a TRA Holder, Required Recipient, or TRA Holder Representative (in such capacity, the "Disputing Party"), on the other hand, are unable to resolve a disagreement with respect to the matters governed by [Section 2.3](#section-2-3)(a)(ii), the calculations required by [Section 3.1](#section-3-1) or [Section 4.3](#section-4-3)(b), the matters governed by [Section 6.2](#section-6-2), or any other calculation required by this Agreement (a "Reconciliation Dispute") within the relevant period designated in this Agreement or, if no such period is designated, within thirty (30) days of the applicable dispute, the Corporate Taxpayer and the TRA Holder Representative, whether on its own behalf or on behalf of the applicable TRA Holder or Required Recipient, shall engage a nationally recognized expert (the "Expert") in the particular area of disagreement mutually acceptable to all such parties, provided, that (i) the Expert must be a partner or principal in a nationally recognized accounting or law firm, and (ii) unless the Corporate Taxpayer and the TRA Holder Representative agree otherwise, the Expert must not, and the firm that employs the Expert must not, have any material relationship with the Corporate Taxpayer, the TRA Holder Representative, or any Disputing Party or other actual or potential conflict of interest. If the Corporate Taxpayer and the TRA Holder Representative are unable to agree on an Expert within fifteen (15) calendar days of receipt by the respondent(s) of written notice of a Reconciliation Dispute, the TRA Holder Representative and Corporate Taxpayer shall each name a representative meeting the above qualifications, and such representatives shall mutually appoint the Expert. The Corporate Taxpayer and the TRA Holder Representative shall submit the applicable Reconciliation Dispute to the Expert for resolution in accordance with this Agreement, including this [Section 7.8](#section-7-8), and shall instruct the Expert to resolve any matter relating to the Exchange Schedule or an amendment thereto or the Early Termination Schedule or an amendment thereto within thirty (30) calendar days and to resolve any other matter within fifteen (15) calendar days or, in each case, as soon thereafter as is reasonably practicable after such matter has been submitted to the Expert for resolution. Notwithstanding the preceding sentence, if the matter is not resolved before any payment that is the subject of a Reconciliation Dispute would be due (in the absence of such dispute) or any Tax Return reflecting the subject of a Reconciliation Dispute is due, the undisputed amount shall be paid on the date prescribed by this Agreement and such Tax Return may be filed as prepared by the Corporate Taxpayer, subject to adjustment or amendment upon resolution. The Corporate Taxpayer and the TRA Holder Representative shall instruct the Expert to apportion its fees and expenses for the applicable determinations and the costs of amending applicable Tax Returns between the Corporate Taxpayer and the Disputing Party so as to approximate the extent to which the Reconciliation Dispute was determined against each such party. Any dispute as to whether a dispute is a Reconciliation Dispute shall be submitted to the Expert for resolution. The Corporate Taxpayer and the TRA Holder Representative shall instruct the Expert to finally determine any Reconciliation Dispute or other dispute pursuant to or amount subject to this [Section 7.8](#section-7-8) and the determinations of the Expert pursuant to this [Section 7.8](#section-7-8) shall be binding on the Corporate Taxpayer and the Disputing Party and may be entered and enforced in any court having jurisdiction.
+
+### Section 7.9: Section {#section-7-9}
+
+** 7.9 Withholding**. The Corporate Taxpayer shall be entitled to deduct and withhold from any payment payable pursuant to this Agreement such amounts as the Corporate Taxpayer is required to deduct and withhold with respect to the making of such payment under the Code or any provision of state, local or foreign tax law. To the extent that amounts are so withheld and paid over to the appropriate Taxing Authority by the Corporate Taxpayer, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the Person in respect of whom such withholding was made.
+
+### Section 7.10: Section {#section-7-10}
+
+** 7.10 Admission of the Corporate Taxpayer into a Consolidated Group; Transfers of Corporate Assets**.
+
+(a) If the Corporate Taxpayer is or becomes a member of an affiliated or consolidated group of corporations that files a consolidated income tax return pursuant to Sections 1501 et seq. of the Code or any corresponding provisions of state or local law, then: (i) the provisions of this Agreement shall be applied with respect to such group as a whole; and (ii) Tax Benefit Payments, Early Termination Payments and other applicable items hereunder shall be computed with reference to the consolidated taxable income of the group as a whole.
+
+(b) If any entity that is obligated to make a Tax Benefit Payment or Early Termination Payment hereunder transfers one or more assets to a corporation (or a Person classified as a corporation for United States federal income tax purposes) with which such entity does not file a consolidated tax return as set forth above, such entity, for purposes of calculating the amount of any Tax Benefit Payment or Early Termination Payment (e.g., calculating the gross income of the entity and determining the Realized Tax Benefit of such entity) due hereunder, shall be treated as having disposed of such asset in a fully taxable transaction on the date of such contribution. The consideration deemed to be received by such entity shall be equal to the gross fair market value of the contributed asset, as determined by the Corporate Taxpayer in its reasonable discretion. For purposes of this [Section 7.11](#section-7-11), a transfer of a partnership interest shall be treated as a transfer of the transferring partner's share of each of the assets and liabilities of that partnership allocated to such partner.
+
+### Section 7.11: Section {#section-7-11}
+
+** 7.11 Confidentiality**.
+
+(a) Each TRA Holder and the TRA Holder Representative (in each case, the "Receiving Party") acknowledges and agrees that the information of the Corporate Taxpayer is confidential and, except in the course of performing any duties as necessary for the Corporate Taxpayer and its Affiliates, as required by law or legal process or to enforce the terms of this Agreement, such Receiving Party shall keep and retain in the strictest confidence and not disclose to any Person any confidential matters, acquired pursuant to this Agreement, of the Corporate Taxpayer and its Affiliates and successors, concerning RGF, LLC and its Affiliates and successors or the TRA Holders, learned by the Receiving Party heretofore or hereafter. This [Section 7.12](#section-7-12) shall not apply to (i) any information that has been made publicly available by the Corporate Taxpayer or any of its Affiliates, becomes public knowledge (except as a result of an act of the TRA Holder in violation of this Agreement) or is generally known to the business community and (ii) the disclosure of information (A) as may be proper in the course of performing such Receiving Party's obligations, or monitoring or enforcing such Receiving Party's rights, under this Agreement, (B) to such Receiving Party's Affiliates, auditors, accountants, attorneys or other agents, (C) to any bona fide prospective assignee of or successor to such Receiving Party's rights and obligations under this Agreement, provided that such assignee or successor agrees to be bound by the provisions of this [Section 7.12](#section-7-12), (D) as is required to be disclosed by order of a court, administrative body or governmental body, in each case of competent jurisdiction or by subpoena, summons or legal process, or by law, rule or regulation; provided that any Receiving Party required to make any such disclosure to the extent legally permissible shall provide the Corporate Taxpayer prompt notice of such disclosure, or to regulatory authorities or similar examiners conducting regulatory reviews or examinations, or (E) to the extent necessary for the Receiving Party to prepare and file its Tax Returns, to respond to any inquiries regarding such Tax Returns from any Taxing Authority, or to prosecute or defend any action, proceeding or audit by any Taxing Authority with respect to such Tax Returns.
+
+(b) If a Receiving Party breaches, or threatens to breach, of any of the provisions of this [Section 7.12](#section-7-12), the Corporate Taxpayer shall have the right and remedy to have the provisions of this [Section 7.12](#section-7-12) specifically enforced by injunctive relief or otherwise by any court of competent jurisdiction without the need to post any bond or other security, it being acknowledged and agreed that any such breach or threatened breach shall cause irreparable injury to the Corporate Taxpayer, its Subsidiaries, and/or the TRA Holders and that money damages alone shall not provide an adequate remedy to such Persons. Such rights and remedies shall be in addition to, and not in lieu of, any other rights and remedies available at law or in equity.
+
+### Section 7.12: Section {#section-7-12}
+
+** 7.12 LLC Agreement**. This Agreement shall be treated as part of the partnership agreement of RGF, LLC as described in Section 761(c) of the Code and Sections 1.704-1(b)(2)(ii)(h) and 1.761-1(c) of the Treasury Regulations.
+
+### Section 7.13: Section {#section-7-13}
+
+** 7.13 TRA Holder Representative**.
+
+(a) For purposes of this Agreement, the TRA Holders hereby (i) designate the TRA Holder Representative to serve as the sole and exclusive representative of the TRA Holders, as the agent and attorney-in-fact for and on behalf of each TRA Holder, with respect to those provisions of this Agreement that contemplate rights, obligations, or actions by the TRA Holder Representative (the "Representative Provisions"), (ii) agree to the taking by the TRA Holder Representative of any and all actions and the making of any decisions required or permitted to be taken by it under or contemplated by the Representative Provisions, and (iii) agree to be bound by all actions taken and documents executed by the TRA Holder Representative in connection with the Representative Provisions. The Corporate Taxpayer shall be entitled to rely on any action or decision of the TRA Holder Representative under the Representative Provisions as the full and final decision of each TRA Holder and shall be fully protected and indemnified for its reliance thereon. Each TRA Holder shall release and discharge the Corporate Taxpayer from and against any liability arising out of or in connection with any action or decision of the TRA Holder Representative under the Representative Provisions.
+
+(b) The TRA Holder Representative will not be deemed to be a trustee or other fiduciary on behalf of any TRA Holder, or any other Person, nor will the TRA Holder Representative have any liability in the nature of a trustee or other fiduciary. The TRA Holder Representative makes no representation or warranty as to, nor will the TRA Holder Representative be responsible for or have any duty to ascertain, inquire into or verify: (1) any statement, warranty or representation made in or in connection with this Agreement or any Schedule; (2) the performance or observance of any of the covenants or agreements of TRA Holders under this Agreement; or (3) the genuineness, legality, validity, binding effect, enforceability, value, sufficiency, effectiveness or genuineness of this Agreement or any Schedule. The TRA Holder Representative will not incur any liability by acting in reliance upon any notice, consent, certificate, statement or other writing (which may be a bank wire, facsimile or similar writing) believed by it to be genuine and to be signed or sent by the proper party or parties. The TRA Holder Representative will incur no liability of any kind with respect to any action or omission by the TRA Holder Representative in connection with the TRA Holder Representative's services pursuant to this Agreement, except in the event of liability directly resulting from the TRA Holder Representative's fraud, gross negligence or willful misconduct. The TRA Holder Representative shall not be liable for any action or omission pursuant to the advice of counsel. The TRA Holders will indemnify, defend and hold harmless the TRA Holder Representative from and against any and all losses, liabilities, damages, claims, penalties, fines, forfeitures, actions, fees, costs and expenses (including the fees and expenses of counsel and experts and their staffs and all expense of document location, duplication and shipment) (collectively, "Representative Losses") arising out of or in connection with the TRA Holder Representative's execution and performance of this Agreement, in each case as such Representative Loss is suffered or incurred; provided, that in the event that any such Representative Loss is finally adjudicated to have been directly caused by the fraud, gross negligence or willful misconduct of the TRA Holder Representative, the TRA Holder Representative will reimburse the TRA Holders the amount of such indemnified Representative Loss to the extent attributable to such fraud, gross negligence or willful misconduct. The foregoing provisions of this [Section 7.13](#section-7-13)(b) will survive the Closing, the resignation or removal of the TRA Holder Representative or the termination of this Agreement.
+
+(c) RGF, LLC and The Corporate Taxpayer shall, and shall cause RGF, LLC to, to agree to indemnify, jointly and severally, the TRA Holder Representative for Representative Losses to the same extent as provided in [Section 7.13](#section-7-13)(b), solely to the extent the the TRA Holder Representative has used reasonable best efforts to recover such Representative Losses under [Section 7.13](#section-7-13)(b) and, notwithstanding the use of such reasonable best efforts, has not recovered, either in full or in part such Representative Losses. For the avoidance of doubt, RGF, LLC and the Corporate Taxpayer shall only be obligated to indemnify the TRA Holder Representative for the portion of Representative Losses which remain unpaid following the exercise of reasonable best efforts. The Corporate Taxpayer agrees, and shall cause RGF, LLC to agree (i) that the TRA Holders are the indemnitors of first resort (*i.e.*, its obligations to the TRA Holder Representative are secondary and any obligation of the TRA Holders to provide indemnification for Representative Losses are primary), (ii) that it shall not be required to indemnify for Representative Losses incurred by the TRA Holder Representative and shall not be liable for any Representative Losses all expenses, judgments, penalties, fines and amounts paid in settlement solely to the extent required by the terms of this Agreement (or any other agreement between RGF, LLC and the TRA Holder Representative), unless and until the TRA Holder Representative has exercised reasonable best efforts to obtain such reimbursement or indemnification from the TRA Holders and, notwithstanding such reasonable best efforts, has not been able to obtain such reimbursement or indemnification from the TRA Holders. RGF, LLC and the Corporate Taxpayer are hereby irrevocably waived, relinquished and released from any and all claims by the TRA Holders for contribution, subrogation or any other recovery of any kind in respect thereof.
+
+(d) If any TRA Holder Representative is unable, as determined by the Corporate Taxpayer in its reasonable discretion with the consent of the Emblem Investors, to serve as TRA Holder Representative or resigns as TRA Holder Representative, a successor TRA Holder Representative shall be appointed by the TRA Holders who held (or whose predecessors held), as of the IPO Date, the majority of the Class B Units and Class C Units then held by all TRA Holders (or their predecessors), excluding, in each case Class B Units and Class C Units with respect to which Early Termination Payments have been made. Each successor TRA Holder Representative shall sign an acknowledgment in writing agreeing to perform and be bound by all of the provisions of this Agreement applicable to the TRA Holder Representative and shall have all of the power, authority, rights and privileges conferred by this Agreement upon the original TRA Holder Representative.
+
+(e) Notwithstanding the foregoing, prior to the time of a Subsequent Funding Transaction, the TRA Holder Representative shall have no rights under [Section 4.1](#section-4-1), [Section 4.2](#section-4-2), [Section 6.3](#section-6-3) and [Section 7.6](#section-7-6) of this Agreement. The rights that would be held by the TRA Holder Representative under such sections of this Agreement if this [Section 7.13](#section-7-13)(d) did not exist shall instead be held by the TRA Holders, acting unanimously (where applicable).
+
+IN WITNESS WHEREOF, the Corporate Taxpayer and each TRA Holder have duly executed this Agreement as of the date first written above.
+
+THE REAL GOOD FOOD COMPANY, INC.
+
+By:
+
+/s/ Timothy S. Zimmer
+
+Name:
+
+Timothy S. Zimmer
+
+Title:
+
+Chief Executive Officer
+
+TRA HOLDERS:
+
+Josh Schreider, an individual
+
+PPZ, LLC, a Wyoming limited liability company
+
+By:
+
+Name:
+
+Rhea Lamia
+
+Title:
+
+Manager
+
+Slingshot Consumer, LLC, a Wyoming limited liability company
+
+By:
+
+Name:
+
+Bryan Freeman
+
+Title:
+
+Manager
+
+Divario Ventures, LLC,
+
+a Delaware limited liability company
+
+By:
+
+Name:
+
+Jim Foltz
+
+Title:
+
+Vice President --- Business Ventures
+
+Strand Equity Partners III, LLC, a Delaware limited liability company
+
+By:
+
+Name:
+
+Title:
+
+Signature Page to Tax Receivable Agreement IN WITNESS WHEREOF, the Corporate Taxpayer and each TRA Holder have duly executed this Agreement as of the date first written above.
+
+THE REAL GOOD FOOD COMPANY, INC.
+
+By:
+
+Name:
+
+Title:
+
+TRA HOLDERS:
+
+Josh Schreider, an individual
+
+PPZ, LLC, a Wyoming limited liability company
+
+By:
+
+/s/ Rhea Lamia
+
+Name:
+
+Rhea Lamia
+
+Title:
+
+Manager
+
+Slingshot Consumer, LLC, a Wyoming limited liability company
+
+By:
+
+Name:
+
+Bryan Freeman
+
+Title:
+
+Manager
+
+Divario Ventures, LLC, a Delaware limited liability company
+
+By:
+
+Name:
+
+Jim Foltz
+
+Title:
+
+Vice President --- Business Ventures
+
+Strand Equity Partners III, LLC, a Delaware limited liability company
+
+By:
+
+Name:
+
+Title:
+
+Signature Page to Tax Receivable Agreement IN WITNESS WHEREOF, the Corporate Taxpayer and each TRA Holder have duly executed this Agreement as of the date first written above.
+
+THE REAL GOOD FOOD COMPANY, INC.
+
+By:
+
+Name:
+
+Title:
+
+TRA HOLDERS:
+
+Josh Schreider, an individual
+
+PPZ, LLC, a Wyoming limited liability company
+
+By:
+
+Name:
+
+Rhea Lamia
+
+Title:
+
+Manager
+
+Slingshot Consumer, LLC, a Wyoming limited liability company
+
+By:
+
+/s/ Bryan Freeman
+
+Name:
+
+Bryan Freeman
+
+Title:
+
+Manager
+
+Divario Ventures, LLC, a Delaware limited liability company
+
+By:
+
+Name:
+
+Jim Foltz
+
+Title:
+
+Vice President --- Business Ventures
+
+Strand Equity Partners III, LLC, a Delaware limited liability company
+
+By:
+
+Name:
+
+Title:
+
+Signature Page to Tax Receivable Agreement Signature Page to Tax Receivable Agreement IN WITNESS WHEREOF, the Corporate Taxpayer and each TRA Holder have duly executed this Agreement as of the date first written above.
+
+CPG Solutions, LLC
+
+By:
+
+Name:
+
+Andrew Stiffelman
+
+Title:
+
+Manager
+
+Gerard Law
+
+Akshay Jagdale
+
+TRA HOLDERS:
+
+EMBLEM-RGF MAIN LLC
+
+By:
+
+/s/ Patrick Cook
+
+Name:
+
+Patrick Cook
+
+Title:
+
+President and Chief Executive Officer
+
+EMBLEM-RGF EXECUTIVE LLC
+
+By:
+
+/s/ Patrick Cook
+
+Name:
+
+Patrick Cook
+
+Title:
+
+President and Chief Executive Officer
+
+EMBLEM-RGF BLOCKER INC.
+
+By:
+
+/s/ Patrick Cook
+
+Name:
+
+Patrick Cook
+
+Title:
+
+President and Chief Executive Officer
+
+Signature Page to Tax Receivable Agreement IN WITNESS WHEREOF, the TRA Representative has duly executed this Agreement as of the date first written above.
+
+  -------------------------
+  **TRA REPRESENTATIVE:**
+  /s/ Bryan Freeman
+  -------------------------
+
+Signature Page to Tax Receivable Agreement **Exhibit A** **Form of Joinder** This JOINDER (this "Joinder") by \[    \] (the "Permitted Transferee") to the Tax Receivable Agreement, dated as of \[    \], 2021, by and among the Corporate Taxpayer, the TRA Holder Representative, and each TRA Holder (as defined therein) (the "Tax Receivable Agreement") is effective as of \[    \] (the "Effective Date").
+
+WHEREAS, Permitted Transferee acquired (the "Acquisition") \[Class B Units and the corresponding shares of Class B Common Stock of Corporate Transferor\] \[the right to receive any and all payments that may become due and payable under the Tax Receivable Agreement with respect to Class B Units that were previously Exchanged and are described in greater detail in Annex A to this Joinder\] (collectively, "Interests" and, together with all other interests hereinafter acquired by the Permitted Transferee from Transferor, the "Acquired Interests") from \[    \] ("Transferor"); and
+
+WHEREAS, Transferor and Permitted Transferee desire, in connection with the Acquisition, for Permitted Transferee to execute and deliver this Joinder pursuant to [Section 7.6](#section-7-6)(a) of the Tax Receivable Agreement;
+
+NOW, THEREFORE, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the Permitted Transferee hereby agrees as follows:
+
+### Section 1.01: Section {#section-1-01}
+
+** 1.01 Definitions**. Capitalized words used but not defined in this Joinder have the respective meanings set forth in the Tax Receivable Agreement.
+
+### Section 1.02: Section {#section-1-02}
+
+** 1.02 Joinder**. As of the Effective Date, Permitted Transferee hereby becomes a "TRA Holder" (as defined in the Tax Receivable Agreement) for all purposes of the Tax Receivable Agreement.
+
+### Section 1.03: Section {#section-1-03}
+
+** 1.03 Notice**. Any notice, request, consent, claim, demand, approval, waiver or other communication hereunder to Permitted Transferee shall be delivered or sent to Permitted Transferee at the address set forth on the signature page hereto in accordance with [Section 7.1](#section-7-1) of the Tax Receivable Agreement.
+
+### Section 1.04: Section {#section-1-04}
+
+** 1.04 Governing Law**. This Joinder shall be governed by and construed in accordance with the laws of the State of \[Delaware\], without regard to the conflicts of laws principals thereof or of any other jurisdiction that would mandate or permit the application of the laws of another jurisdiction.
+
+A-1
+
+IN WITNESS WHEREOF, this Joinder has been duly executed and delivered by Permitted Transferee as of the date first above written.
+
+\[PERMITTED TRANSFEREE\]
+
+By:
+
+Name:
+
+Title:
+
+Address:
+
+A-2

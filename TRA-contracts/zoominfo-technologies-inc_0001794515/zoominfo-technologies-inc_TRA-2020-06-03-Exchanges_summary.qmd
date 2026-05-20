@@ -1,0 +1,43 @@
+---
+title: "ZoomInfo Technologies Inc. TRA (TRA-2020-06-03-Exchanges)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ZoomInfo Technologies Inc."]
+CIKs: ["0001794515"]
+status: Ongoing
+creation-date: 2020-06-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2020-06-03-Reorganization"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Two TRAs share the Net Tax Benefit allocation pro rata. Up-C structure
+  eliminated August 20, 2021 via RKSI Restructuring, accelerating recognition
+  of underlying tax attributes but not terminating the TRA. FY2024 TRA
+  payments $94.0M; FY2025 $23.6M.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2020-05-26: Form-of TRA (Exchanges) filed as Exhibit 10.3 to S-1/A.
+- 2020-06-03: ZoomInfo Up-C IPO closes; TRA (Exchanges) executed between ZoomInfo Technologies Inc. and the Pre-IPO OpCo Unitholders of ZoomInfo Holdings LLC (founder Henry Schuck, management, and continuing pre-IPO equity holders); 85% of Cumulative Net Realized Tax Benefit on Basis Adjustments, Common Basis, and Imputed Interest from future OpCo unit exchanges.
+
+#### Up-C structure elimination
+
+- 2021-08-20: RKSI Restructuring completed; internal reorganization converts all remaining OpCo units to Class A common stock, crystallizing TRA liability against ZoomInfo's now-realized basis step-ups.
+- 2021-08-20: Amendment No. 1 expands the Corporate Taxpayer definition to include ZoomInfo Intermediate Holdings LLC and adds RKSI Restructuring protective language for the "with and without" Basis Adjustment calculation; payment percentage and beneficiary set unchanged.
+
+#### Payment phase
+
+- 2023: $0 TRA payments; $160.7M remeasurement gain (Massachusetts state tax rate reduction).
+- 2024: $94.0M TRA payments; $38.5M remeasurement loss.
+- 2025: $23.6M TRA payments; $6.9M remeasurement gain.
+
+## Explanation
+
+The ZoomInfo "Exchanges" TRA was executed at the June 3, 2020 Up-C IPO close and covers Section 754 basis step-ups generated when the continuing Pre-IPO OpCo Unitholders exchange units of ZoomInfo Holdings LLC for Class A common stock, plus the Common Basis attributable to such exchanges and Imputed Interest on TRA payments. ZoomInfo pays 85% of the Cumulative Net Realized Tax Benefit, with allocation shared pro rata against the parallel Reorganization TRA when both contracts are in payment. The Up-C structure was eliminated on August 20, 2021 via the RKSI Restructuring, which converted all remaining OpCo units to Class A common stock at once; this accelerated the recognition of the underlying tax attributes and crystallized the TRA liability rather than terminating the contract. Amendment No. 1 on the same date protected the "with and without" Basis Adjustment calculation against the internal reorganization. Material cash payments began in 2024 ($94.0M) and continued into 2025 ($23.6M). See `contract_log.md` for the full filing-by-filing record and the parallel-TRA mapping.

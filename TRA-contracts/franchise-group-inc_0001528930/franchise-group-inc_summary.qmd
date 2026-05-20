@@ -1,0 +1,43 @@
+---
+title: "Franchise Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Liberty Tax, Inc.", "Franchise Group, Inc."]
+CIKs: ["0001528930", "0001528930"]
+status: Terminated
+creation-date: 2019-07-10
+termination-date: 2023-08-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "40%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Asset purchase
+counterparty-type: M&A sellers
+notes: >-
+  Atypical 40% rate (most TRAs use 85%). Trigger event is the July 2019 Buddy's Home
+  Furnishings acquisition (not the 2011 Liberty Tax IPO). Terminated by Change-of-Control
+  trigger at the August 2023 Freedom VCM / B. Riley going-private close; exact CoC
+  payment not separately disclosed (last balance-sheet figure $15.4M). Franchise Group
+  filed Chapter 11 in November 2024 (post-termination).
+---
+
+## TRA Timeline
+
+#### Buddy's acquisition and TRA execution
+
+- 2019-07-10: Liberty Tax acquires Buddy's Home Furnishings; Income Tax Receivable Agreement executed and dated July 10, 2019
+- 2019-07-11: Executed TRA filed as Exhibit 10.6 to 8-K (and identical Exhibit 10.6 to DEFA14A)
+
+#### Buddy's NCI redemption (contract operation, not amendment)
+
+- 2020-04-01: Company redeems all remaining Buddy's New Holdco units for Liberty Tax common stock; initial TRA liability of $17.3M recognized
+
+#### Freedom VCM / B. Riley going-private termination
+
+- 2023-05-10: Merger Agreement signed with Freedom VCM, Inc. (B. Riley-backed, Kahn-led)
+- 2023-08-11: DEFA14A confirms TRA will terminate at merger close pursuant to its own Change-of-Control / Early Termination provisions
+- 2023-08-21: Merger closes; TRA terminates by Change-of-Control trigger; Buddy's Members (including Kahn affiliates) receive termination payment
+
+## Explanation
+
+Franchise Group, Inc. (originally Liberty Tax, Inc.) executed its Income Tax Receivable Agreement on July 10, 2019 in connection with its acquisition of Buddy's Home Furnishings, an unusual M&A-driven TRA rather than an IPO TRA. The contract commits Franchise Group to pay the former Buddy's equity holders 40% (an atypically low rate) of cash tax savings from Section 754 basis step-ups on future redemptions or exchanges of Franchise Group New Holdco units plus imputed interest. An April 2020 redemption of all remaining Buddy's New Holdco units crystallized the basis step-up and produced an initial $17.3M liability. The contract was terminated on August 21, 2023 at the closing of the Freedom VCM / B. Riley going-private merger, operating through the TRA's own Section 4.01 Change-of-Control / Early Termination provisions; no standalone termination instrument was filed. The Q2 2023 carrying value of $15.4M brackets the magnitude. Franchise Group subsequently filed Chapter 11 in November 2024, but the TRA had already terminated at the August 2023 merger close; any unpaid amount would be a pre-petition claim. See `contract_log.md` for the full filing-by-filing record.

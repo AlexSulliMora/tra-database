@@ -1,0 +1,44 @@
+---
+title: "Energy Future Holdings Corp. TRA (co-filer parent)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Energy Future Holdings Corp.", "TCEH Corp.", "TEX Energy LLC"]
+CIKs: ["0001023291", "", ""]
+status: Unknown
+creation-date: 2016-10-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: Plan of reorganization
+counterparty-type: plan-of-reorganization trustee
+notes: >-
+  EFH Corp. is a co-filer parent, not the TRA obligor. Operative
+  obligor is TCEH Corp. (separate CIK, not in this download).
+  Contract is byte-identical to copies under EFCH (0001445049) and
+  EFIH (0001445146). EFH Corp. ceased reporting after 2016-12-28;
+  E-side resolved via March 2018 Sempra/Oncor deal off-EDGAR here.
+---
+
+## TRA Timeline
+
+#### Chapter 11 and Plan formation
+
+- 2014-04-29: EFH Corp., EFCH, EFIH, and T-side debtors file Chapter 11 (Case No. 14-10979, Bankr. D. Del.)
+- 2015-08-09: First Plan Support Agreement enumerates contingent Spin-Off Tax Receivable Agreement
+- 2016-07-12: Plan Sponsor transitions from Hunt to NextEra-led alternative
+- 2016-08-29: NextEra-track Plan and Disclosure Statement; TRA still contingent
+
+#### TCEH emergence and TRA execution
+
+- 2016-10-03: TCEH Effective Date; TEX Energy LLC executes TRA with American Stock Transfer & Trust Co. as Transfer Agent for former TCEH First Lien Creditors; TEX Energy LLC converts into TCEH Corp.
+- 2016-10-04: Executed TRA filed as Ex 99.2 to joint 8-K (EFH Corp., EFCH, EFIH, EFIH Finance, TCEH co-filers)
+
+#### EFH Corp. ceases reporting
+
+- 2016-12-28: Last EFH Corp.-filed 8-K (joint filing attaching Sixth Amended Joint Plan); subsequent E-side disposition (March 2018 Sempra/Oncor merger) is off-EDGAR in this directory
+
+## Explanation
+
+Energy Future Holdings Corp. is the historical top parent of the post-2007 LBO consolidated group that filed Chapter 11 on April 29, 2014; it appears in this directory as a co-filer of the joint October 4, 2016 8-K that attached the Tax Receivable Agreement, not as the contract's obligor. The TRA dated October 3, 2016 was signed by TEX Energy LLC (immediately converted into TCEH Corp.) and American Stock Transfer & Trust Company as Transfer Agent for former TCEH First Lien Creditors. The contract pays 85% of cash tax savings from Plan-related basis step-ups (including the PrefCo Preferred Stock Sale), the La Frontera asset basis acquired by Luminant Holding Company in November 2015, and imputed-interest deductions on TRA payments; TRA Rights are book-entry instruments distributed to former TCEH First Lien Creditors. The contract document under EFH Corp.'s CIK is byte-identical to copies under EFCH (0001445049) and EFIH (0001445146); the operative obligor is TCEH Corp. (separate CIK, outside this directory). EFH Corp.'s last filing here is December 28, 2016, and the post-2016 E-side disposition (ultimately resolved via the March 2018 Sempra Energy acquisition of Oncor) is not visible from this directory. See `contract_log.md` for the full filing-by-filing record.

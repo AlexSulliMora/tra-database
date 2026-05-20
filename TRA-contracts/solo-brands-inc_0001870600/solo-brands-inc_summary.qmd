@@ -1,0 +1,37 @@
+---
+title: "Solo Brands TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Solo Brands, Inc."]
+CIKs: ["0001870600"]
+status: Ongoing
+creation-date: 2021-10-27
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  No payments ever made under the TRA through Q1 2026. Up-C collapse merger
+  effective 2026-01-01 explicitly preserved the TRA rather than terminating it,
+  an unusual alternative to the modal terminating-amendment pattern.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-10-20: Form-of TRA filed as Exhibit 10.1 to S-1/A Amendment No. 1 with blank preamble date
+- 2021-10-27: Up-C IPO closes; TRA executed at 85% sharing rate with Solo Stove Holdings LLC, the TRA Representatives, and the TRA Parties
+- 2021-12-09: Executed TRA filed as Exhibit 10.1 to Q3 2021 10-Q (no Item 1.01 8-K was filed at IPO)
+
+#### Up-C collapse without TRA termination
+
+- 2025-12-17: Merger agreement signed to collapse the Up-C structure; 8-K explicitly confirms the TRA will not be terminated, accelerated, or modified
+- 2026-01-01: Up-C collapse merger effective; TRA remains in force per FY2025 10-K and Q1 2026 10-Q
+
+## Explanation
+
+Solo Brands, Inc. executed a Tax Receivable Agreement on October 27, 2021 at its Up-C IPO close, paying 85% of realized tax benefits to Continuing LLC Owners of Solo Stove Holdings for Section 754 basis step-ups and related attributes. The contract has carried no cash flow across its life: every annual disclosure from FY2021 through FY2025 reports zero payments due and zero paid, reflecting negligible redemption volume by Continuing LLC Owners and a carryforward valuation-allowance posture. In December 2025, Solo Brands collapsed its Up-C structure via merger effective January 1, 2026, but explicitly preserved the TRA rather than terminating it; the 8-K states the merger "will not terminate, or otherwise accelerate or modify, the obligations of the Company under the Tax Receivable Agreement". This is an unusual choice: most Up-C collapses pair with a negotiated termination payment amendment, while Solo Brands chose to retain the contract and rely on the post-collapse tax structure to keep future payment obligations small. See `contract_log.md` for the executed text and the Up-C collapse merger agreement.

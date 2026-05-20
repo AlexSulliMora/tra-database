@@ -1,0 +1,34 @@
+---
+title: "Amicus Therapeutics TRA (form-of, never executed)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Amicus Therapeutics, Inc."]
+CIKs: ["0001178879"]
+status: Terminated
+creation-date: 2021-09-29
+termination-date: 2022-02-24
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of only; BCA mutually terminated before any execution. Under the
+  planned structure, Amicus GT Holdings would have been a TRA Party at the
+  Caritas (ex-ARYA IV) PubCo, not the obligor.
+---
+
+## TRA Timeline
+
+#### Caritas spin-off announcement and form-of TRA
+
+- 2021-09-29: Amicus and ARYA Sciences Acquisition Corp IV sign Business Combination Agreement; form-of TRA embedded as Annex C to BCA (Exhibit 10.1 to 8-K Item 1.01)
+
+#### Business Combination Agreement termination
+
+- 2022-02-24: BCA mutually terminated (disclosed in FY2021 10-K filed same day); no TRA ever executed
+
+## Explanation
+
+Amicus Therapeutics is associated with a Tax Receivable Agreement only through a planned-but-abandoned SPAC business combination: on September 29, 2021 Amicus and ARYA Sciences Acquisition Corp IV signed a Business Combination Agreement under which ARYA would have domesticated and renamed itself Caritas Therapeutics, Inc., becoming the Up-C PubCo above a gene-therapy operating LLC, with Amicus GT Holdings as a principal TRA Party entitled to 85% of the cash tax savings Caritas would realize from Section 754 basis step-ups on future LLC-unit exchanges. The form-of TRA was attached as Annex C to the BCA (preamble blank, no signatures). The BCA was mutually terminated on February 24, 2022 before any closing, so no party ever signed the TRA and no obligation arose; Amicus's subsequent April 27, 2026 acquisition by BioMarin Pharmaceutical has no TRA implications because no TRA was ever in force. See `contract_log.md` for the full filing-by-filing record.

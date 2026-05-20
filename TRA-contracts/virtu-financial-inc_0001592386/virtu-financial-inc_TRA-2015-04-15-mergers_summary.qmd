@@ -1,0 +1,28 @@
+---
+title: "Virtu Financial, Inc. TRA (TRA-2015-04-15-mergers)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Virtu Financial, Inc."]
+CIKs: ["0001592386"]
+status: Ongoing
+creation-date: 2015-04-15
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-04-15-non-SLP-exchanges", "TRA-2015-04-15-SLP-exchanges"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Three parallel TRAs executed at the April 15, 2015 IPO, all at 85% with Section 3.03(b) pro-rata coordination. This contract covers the IPO-time merger participants (SLP III EW Feeder I, L.P. and Havelock Fund Investments) and is the only one of the three covering NOLs in addition to basis step-ups."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-03-23: Form-of TRA (Mergers) filed as Exhibit 10.7 to S-1/A
+- 2015-04-15: Virtu Up-C IPO closes; executed Tax Receivable Agreement (Mergers) filed at 85% with SLP III EW Feeder I, L.P. and Havelock Fund Investments Pte Ltd, covering Section 754 basis adjustments and pre-IPO NOL carryforwards attributable to the IPO-time merger participants plus imputed interest; Section 3.03(b) cross-coordinates payments with the parallel non-SLP-Exchanges and SLP-Exchanges TRAs (10-Q Exhibit 10.6)
+
+## Explanation
+
+Virtu Financial, Inc. executed three parallel Tax Receivable Agreements at its April 15, 2015 Up-C IPO; this contract (the "Mergers" TRA) covers the two named entities that delivered Virtu LLC interests into the Up-C via the IPO-time pre-Reorganization merger structure, SLP III EW Feeder I, L.P. and Havelock Fund Investments Pte Ltd. It pays 85% of net cash tax savings on the merger-driven basis adjustments and, distinctively from the other two Virtu TRAs, on pre-IPO net operating loss carryforwards attributable to these participants; the Article II coverage of both Basis Adjustment and NOLs is the principal economic feature setting it apart from the basis-only non-SLP-Exchanges and SLP-Exchanges TRAs. Section 3.03(b) pro-rata-coordinates payments across all three Virtu TRAs. No on-EDGAR amendment, restatement, waiver, or termination has been filed; the contract remains in force as of FY2025 within the aggregate $181.9M Virtu TRA liability. See `contract_log.md` for the cross-contract reasoning and the parallel-TRA structure.

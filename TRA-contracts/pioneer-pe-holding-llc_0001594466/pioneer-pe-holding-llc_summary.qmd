@@ -1,0 +1,39 @@
+---
+title: "Parsley Energy TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Parsley Energy, Inc.", "Pioneer Natural Resources Company"]
+CIKs: ["0001594466", "0001038357"]
+status: Terminated
+creation-date: 2014-05-29
+termination-date: 2021-01-12
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Per-recipient termination amounts in Annex B of the 2020-10-20 Amendment
+  are not displayed in the public exhibit; aggregate may appear in the
+  Pioneer DEFM14A (accession 0001193125-20-310742).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2014-05-29: Parsley Energy completed its Up-C IPO; executed Tax Receivable Agreement with Continuing LLC Members of Parsley Energy, LLC and Bryan Sheffield as Agent (8-K Exhibit 10.2), 85% payment rate on Section 754 basis step-ups from PE Unit exchanges, Section 734(b)/743(b) adjustments, and imputed interest deductions.
+
+#### Valuation-allowance write-down
+
+- 2020-09-30: Q3 2020 10-Q reports the $70.5 million TRA payable (as of December 31, 2019) was written off during the nine months ended September 30, 2020, driven by a full valuation allowance against the associated deferred tax asset; the TRA itself remained legally in force.
+
+#### Pioneer merger and TRA termination
+
+- 2020-10-20: Parsley signed an Agreement and Plan of Merger with Pioneer Natural Resources Company and concurrently executed the TRA Amendment, which terminates the TRA upon merger close and substitutes a negotiated Termination Payment (per an Excel model attached as Annex C) for the contract's Section 4.3(b) Early Termination Payment formula; Pioneer named as express third-party beneficiary.
+- 2021-01-12: Pioneer-Parsley merger closed; Parsley Energy, Inc. converted to a Delaware LLC and renamed Pioneer PE Holding LLC; per the Amendment, the TRA terminated immediately after the Effective Time. Class A common stock suspended from NYSE trading before opening on 2021-01-13 (Form 25 filed).
+
+## Explanation
+
+Parsley Energy entered the TRA at its May 29, 2014 Up-C IPO, committing to pay Continuing LLC Members 85% of the cash tax savings the corporation realized from Section 754 basis step-ups generated when those members exchanged PE Units (along with Class B shares) for Class A common stock, plus the related Section 734(b) and 743(b) adjustments and imputed interest deductions. Over six years the liability accreted with successive PE Unit exchanges; by year-end 2019 the carrying value was $70.5 million. The 2020 oil-price collapse drove a full valuation allowance against the associated deferred tax asset, and the TRA payable was written down to zero during the first nine months of 2020 while the contract itself remained in force. On October 20, 2020 Parsley signed a merger agreement with Pioneer Natural Resources and concurrently executed a terminating amendment that replaced the contract's Early Termination Payment formula with a negotiated Termination Payment methodology embedded in an Excel model; per-recipient amounts in Annex B are not in the public exhibit. The TRA terminated at the merger close on January 12, 2021, when Parsley was converted to an LLC and renamed Pioneer PE Holding LLC. See `contract_log.md` for the full filing-by-filing record.

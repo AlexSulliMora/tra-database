@@ -1,0 +1,38 @@
+---
+title: "Ryan Specialty Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ryan Specialty Holdings, Inc.", "Ryan Specialty Group Holdings, Inc."]
+CIKs: ["0001849253", "0001849253"]
+status: Ongoing
+creation-date: 2021-07-26
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  August 9, 2022 Amended and Restated TRA (a) restricts the Company's
+  elective early-termination right and (b) narrows the reference property
+  used in change-of-control calculations. Payment rate and tax-attribute
+  scope unchanged. $459.0M liability at December 31, 2025; $25.2M paid in 2025.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-06-21: S-1 files form-of TRA as exhibit 10.2
+- 2021-07-26: Up-C IPO closes; TRA executed between Ryan Specialty Group Holdings, Inc. and the TRA Parties (LLC Unitholders, Onex via the Common Blocker, and the Ryan Parties), paying 85% of Cumulative Net Realized Tax Benefit on Common Basis, Remedial Allocations, Section 754 Basis Adjustments, and Imputed Interest
+- 2021-07-27: 8-K files the executed TRA as exhibit 10.1
+
+#### Amended and Restated TRA
+
+- 2022-08-09: Amended and Restated TRA executed; restricts the Company's elective early-termination right and narrows the reference property used in change-of-control calculations; payment rate (85%) and tax-attribute scope unchanged
+- 2022-08-12: Q2 2022 10-Q files the A&R TRA as exhibit 10.1 (no separate 8-K Item 1.01)
+
+## Explanation
+
+Ryan Specialty's Up-C IPO on July 26, 2021 created a TRA paying 85% of Cumulative Net Realized Tax Benefit to the pre-IPO LLC Unitholders, Onex (via the Common Blocker), and the Ryan Parties, covering Common Basis, Remedial Allocations, Section 754 Basis Adjustments, and Imputed Interest. The contract was amended and restated on August 9, 2022 with two substantive changes: the Company's elective early-termination right was restricted (the original allowed PubCo to electively terminate via the Section 4.1 Early Termination Payment), and the reference property used in change-of-control calculations was narrowed. The payment rate and the tax-attribute scope are unchanged across the A&R. No further amendments have been filed; the contract continues to pay routinely, with $459.0M of TRA liability on the December 31, 2025 balance sheet and $25.2M of cash payments made in fiscal 2025. See `contract_log.md` for the full filing-by-filing record and the same-contract reasoning for the A&R.

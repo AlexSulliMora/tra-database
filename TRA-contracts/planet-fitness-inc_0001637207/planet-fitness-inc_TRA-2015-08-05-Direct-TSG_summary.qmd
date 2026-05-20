@@ -1,0 +1,42 @@
+---
+title: "Planet Fitness TRA (TRA-2015-08-05-Direct-TSG)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Planet Fitness, Inc."]
+CIKs: ["0001637207"]
+status: Ongoing
+creation-date: 2015-08-05
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2015-08-05-LLC-Owners"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  One of two parallel TRAs executed at the Up-C IPO; this one covers
+  Direct TSG Investors (TSG-affiliated stockholders of PFI whose basis
+  arose from their 2012 investment in Pla-Fit Holdings, transferred into
+  PFI via the recapitalization). Only form-of (Exhibit 10.6) on EDGAR.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and parallel TRA execution
+
+- 2015-07-15: S-1/A attaches form-of TRA as Exhibit 10.6 (Direct TSG Investors side)
+- 2015-08-05: Recapitalization Transactions consummated; TRA effective alongside parallel TRA with Continuing LLC Owners
+- 2015-08-11: IPO closes
+
+#### TCJA remeasurement
+
+- 2017-Q4: $316.8M gain on consolidated TRA-liability remeasurement (across both parallel TRAs) reflecting 35% to 21% federal rate change
+
+#### Continuing accrual
+
+- 2022: 10-K continues to distinguish the Direct TSG Investors group as a separate beneficiary class even after TSG largely exited the Class A roster, because their beneficiary rights vested at the 2012 investment / recapitalization rather than depending on continued share ownership
+- 2025-12-31: Consolidated liability across both TRAs at $360.3M
+
+## Explanation
+
+Planet Fitness, Inc. became the obligor under two parallel Tax Receivable Agreements on August 5, 2015 at the consummation of the Recapitalization Transactions preceding its Up-C IPO, of which this is the second. This TRA covers the Direct TSG Investors, paying them 85% of the cash tax savings Planet Fitness realizes from the tax attributes of Pla-Fit Holdings Units attributable to the TSG Consumer Partners 2012 purchase of Pla-Fit Holdings interests, which were transferred into Planet Fitness, Inc. via the recapitalization. The distinction from the parallel LLC-Owners TRA is the beneficiary set (Direct TSG Investors as PFI stockholders versus Continuing LLC Owners as Pla-Fit LLC members) and the underlying tax attribute (pre-existing basis from the 2012 TSG investment versus basis adjustments from post-IPO Unit exchanges). Only the form-of version is on EDGAR; no amendment, restatement, or termination has been filed. The 2017 TCJA remeasurement gain and subsequent liability fluctuations are shared with the parallel TRA at the consolidated balance-sheet level. See `contract_log.md` for the full filing-by-filing record.

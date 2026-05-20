@@ -1,0 +1,37 @@
+---
+title: "Milan Laser Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Milan Laser Inc."]
+CIKs: ["0001874848"]
+status: Terminated
+creation-date: 2021-11-05
+termination-date: 2022-10-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA only; never executed. Registration withdrawn via Form RW on
+  2022-10-21, so the contract never came into legal force. Termination-date
+  reflects the withdrawal date.
+---
+
+## TRA Timeline
+
+#### Up-C IPO registration and form-of TRA filing
+
+- 2021-08-12: Draft Registration Statement filed describing the contemplated Up-C TRA (85% sharing, Section 754 basis adjustments and imputed interest); no TRA exhibit attached
+- 2021-10-15: Initial public S-1 filed; TRA narrative materially unchanged; no TRA exhibit attached
+- 2021-11-05: S-1/A first files the TRA as Exhibit 10.1, an unexecuted form-of draft with blank preamble date and no signatures
+- 2021-11-22: Second S-1/A filed; TRA exhibit incorporated by reference, no new TRA text
+
+#### Withdrawal
+
+- 2022-10-21: Form RW filed; registration withdrawn, IPO never closed, TRA never executed
+
+## Explanation
+
+Milan Laser Inc. contemplated an Up-C IPO that would have produced a Tax Receivable Agreement paying 85% of net realized tax benefits from Section 754 basis step-ups (driven by future LLC-unit exchanges) and imputed interest to the pre-IPO LLC holders, including a Leonard Green affiliate as Blocker Shareholder. The TRA appeared only as an unexecuted form-of exhibit on the 2021-11-05 S-1/A, with a blank preamble date and no signatures. The registration was withdrawn via Form RW on 2022-10-21 before any closing, so the contract was never executed and never came into legal force. The CIK has been dormant since the withdrawal. See `contract_log.md` for the full filing-by-filing record.

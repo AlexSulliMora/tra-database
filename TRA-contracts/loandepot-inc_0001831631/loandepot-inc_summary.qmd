@@ -1,0 +1,40 @@
+---
+title: "loanDepot, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["loanDepot, Inc."]
+CIKs: ["0001831631"]
+status: Ongoing
+creation-date: 2021-02-11
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Recipients include Parthenon Stockholders, Parthenon affiliates
+  holding Holdco Units, and Continuing LLC Members (Anthony Hsieh and
+  JLSSAA Trust). YE2025 liability $109.1M; no cash payments to date.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-01-21: Form-of TRA first attached to S-1/A as Exhibit 10.2
+- 2021-01-27: Form-of TRA re-filed in S-1/A without substantive change
+- 2021-02-11: TRA executed at IPO close; loanDepot Inc. (Anthony Hsieh signing for the Corporation, LD Holdings LLC, and the JLSSAA Trust) and Parthenon entities (Parthenon Investors III/IV, PCap Associates, Parthenon Capital Partners Funds, PCP Managers)
+- 2021-02-16: 8-K Item 1.01 files the executed TRA as Exhibit 10.2
+
+#### Post-IPO balance evolution
+
+- 2021-12-31: Year-end TRA liability $32.9M (up from $8.6M at end Q1 2021)
+- 2024-12-31: Liability $80.2M
+- 2025-12-31: Liability $109.1M; no cash payments under the TRA yet realized
+- 2026-03-31: Liability $111.0M
+
+## Explanation
+
+loanDepot, Inc. executed the TRA on February 11, 2021 at its NYSE Up-C IPO close, agreeing to pay 85% of cash tax savings the Corporation realizes from Section 754 basis step-ups arising on Continuing LLC Members' exchanges of Holdco Units for Class A common stock (plus imputed interest on TRA payments themselves) to three recipient categories: the Parthenon Stockholders, Parthenon affiliates holding Holdco Units, and certain Continuing LLC Members including Anthony Hsieh and the JLSSAA Trust. No amendments, restatements, terminations, or change-of-control events have occurred since execution. The accrued liability has grown from $8.6M at Q1 2021 to $111.0M at Q1 2026 as members exchanged and triggered step-ups, but loanDepot has not yet realized any cash tax savings under the contract; the carrying liability reflects management's more-likely-than-not view that the related deferred tax assets will be realized in the future. See `contract_log.md` for the full filing-by-filing record.

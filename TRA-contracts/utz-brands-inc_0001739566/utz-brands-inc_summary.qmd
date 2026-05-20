@@ -1,0 +1,33 @@
+---
+title: "Utz Brands, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Utz Brands, Inc.", "Collier Creek Holdings"]
+CIKs: ["0001739566", "0001739566"]
+status: Ongoing
+creation-date: 2020-08-28
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: founder vehicle
+notes: >-
+  Covers a bundled set of basis attributes including Exchange Basis Adjustments,
+  BSOF and Purchase Basis Adjustments from the de-SPAC, and tax amortization
+  attributable to the Kennedy Endeavors (Conagra DSD) asset acquisition that UBH
+  completed in 2019. Carrying value $24.3M at year-end 2024.
+---
+
+## TRA Timeline
+
+#### De-SPAC and TRA execution
+
+- 2020-06-12: Form-of TRA first carried as Annex I to the S-4 (Collier Creek / UBH business combination)
+- 2020-08-28: De-SPAC closed; Collier Creek renamed Utz Brands, Inc.; TRA executed between Utz Brands, UBH, and the Rice-family Series U and Series R of UM Partners
+- 2020-09-03: Executed TRA filed as Exhibit 10.2 to the closing 8-K
+
+## Explanation
+
+Utz Brands, Inc. executed this TRA on August 28, 2020 at the closing of its de-SPAC Up-C business combination (Collier Creek Holdings merging with Utz Brands Holdings, LLC), agreeing to pay 85% of net cash tax savings on a bundle of basis attributes: future Section 754 step-ups from Continuing Member exchanges, basis from the BSOF and Initial Purchases of UBH units at closing, imputed interest, and tax-amortization deductions tied to the 2019 Kennedy Endeavors (Conagra DSD snacks) asset acquisition that UBH consolidated into the same contract rather than spinning out as a parallel TRA. The Continuing Members are Series U and Series R of UM Partners, LLC, both Rice-family affiliates. Post-de-SPAC bolt-on acquisitions (Truco / On The Border tortilla chips in December 2020, R.W. Garcia, Kings Mountain) were structured as cash deals and did not add TRA Parties or amend the contract; the July 2023 Good Health / R.W. Garcia divestiture similarly did not touch the TRA. Carrying value held steady at $24.3M at both year-end 2023 and year-end 2024, consistent with few Continuing-Member exchanges to date. See `contract_log.md` for the full filing-by-filing record.

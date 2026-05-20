@@ -1,0 +1,37 @@
+---
+title: "BRC Inc. TRA (SilverBox SPAC predecessor CIK)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["SBEA Merger Sub LLC", "SilverBox Engaged Merger Corp I", "BRC Inc.", "Authentic Brands LLC"]
+CIKs: ["0001836707", "0001836707", "0001821836", "0001836707"]
+status: Unknown
+creation-date: 2022-02-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  This CIK is the SPAC predecessor (SilverBox, renamed SBEA Merger Sub LLC at
+  close) that filed Form 25 on 2022-02-09 and Form 15 on 2022-02-22. The TRA
+  obligor BRC Inc. files separately (NYSE: BRCC). Executed TRA terms cannot
+  be confirmed from this CIK; only the unexecuted form-of (Annex F / Exhibit
+  10.6) is present here. Retrieve executed TRA from BRC Inc.'s filings.
+---
+
+## TRA Timeline
+
+#### SPAC registration and form-of TRA disclosure
+
+- 2021-11-04: 8-K/A files form-of TRA as exhibit 10.6 (also Annex F to the S-4, four S-4/A amendments, and the DEFM14A); contemplated parties are BRC Inc. (Corporation), Authentic Brands LLC (Company), and the Agent; 85% of Cumulative Net Realized Tax Benefit; tax attributes cover basis step-ups on redemption of Authentic Brands preferred units and Company Common Unit exchanges plus pre-existing Blocker tax attributes inherited via the Blocker Merger plus imputed-interest deductions
+
+#### Business combination close and deregistration
+
+- 2022-02-09: Business Combination closes; SilverBox merges with and into SBEA Merger Sub LLC, surviving as a wholly-owned subsidiary of BRC Inc.; executed TRA entered into per Section 5.13(d) of the BCA (executed copy not filed under this CIK); Form 25 delisting filed
+- 2022-02-22: Form 15 deregistration filed; this CIK ceases Exchange Act reporting
+
+## Explanation
+
+SBEA Merger Sub LLC is the post-combination legal successor to SilverBox Engaged Merger Corp I, the Delaware SPAC that merged with and into the sub on February 9, 2022 to form an Up-C structure under BRC Inc. (the PubCo, NYSE: BRCC, separate CIK). The TRA contemplated at close is a contract among BRC Inc., Authentic Brands LLC, and the Agent, paying 85% of Cumulative Net Realized Tax Benefit to the Continuing Unitholders of Authentic Brands and the Blocker-inherited beneficiaries, covering Section 754 basis step-ups on preferred-unit redemptions and Common Unit exchanges plus pre-existing Blocker tax attributes plus imputed-interest deductions. Only the unexecuted form-of TRA appears under this CIK (as Exhibit 10.6 to the November 4, 2021 8-K/A and as Annex F to the S-4 series); the executed TRA dated February 9, 2022 was filed under BRC Inc.'s CIK after this CIK had deregistered. The TRA's post-close status (current terms, any amendments, current liability, any termination) is not visible from this CIK; a future run against BRC Inc.'s CIK is needed to confirm the executed-version terms and ongoing state. See `contract_log.md` for the form-of details and the BRC Inc. cross-CIK retrieval list.

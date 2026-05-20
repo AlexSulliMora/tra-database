@@ -1,0 +1,38 @@
+---
+title: "RE/MAX Holdings TRA (Real Brokerage acquirer)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Real Brokerage Inc.", "RE/MAX Holdings, Inc.", "RIHI, Inc."]
+CIKs: ["0001862461", "0001581091", "0001541206"]
+status: Ongoing
+creation-date: 2013-10-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Acquirer
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Acquirer-side file. Original 2013 TRA and the parallel Weston Presidio TRA
+  live under RE/MAX Holdings (CIK 0001581091); see
+  ../re-max-holdings-inc_0001581091/re-max-holdings-inc_TRA-2013-10-07-RIHI_summary.qmd
+  for the obligor-side record. Amendment No. 1 (April 26, 2026) is conditional
+  zero-payment termination at First Merger Effective Time; void if no
+  Qualifying Change of Control within 18 months.
+---
+
+## TRA Timeline
+
+#### RE/MAX origination (under RE/MAX CIK 0001581091)
+
+- 2013-10-07: RE/MAX Holdings's Up-C IPO closes; TRA executed between RE/MAX Holdings and RIHI, Inc., paying 85% of realized cash tax savings from basis step-ups (original instrument lives under RE/MAX's CIK, not Real's)
+
+#### Real Brokerage acquisition and conditional terminating amendment
+
+- 2026-04-26: Amendment No. 1 to the RIHI TRA executed between RE/MAX Holdings and RIHI, adding Section 4.4: upon a Qualifying Change of Control (First Merger Effective Time or specified alternative-transaction closings), the TRA terminates with zero Early Termination Payment, zero Tax Benefit Payment, and no other amount payable; mutual release in Section 3; JAMS-arbitration substitution in Section 12; void if no Qualifying Change of Control closes within 18 months
+- 2026-04-28: Real Brokerage files 6-K disclosing the Arrangement Agreement and Plan of Merger as Exhibit 2.1, with Amendment No. 1 embedded as Exhibit I
+
+## Explanation
+
+The Real Brokerage Inc. is a Canadian-domiciled foreign private issuer (Form 40-F filer) with no Up-C structure or TRA of its own; this file exists because Real announced its acquisition of RE/MAX Holdings, Inc. on April 26-28, 2026 and Amendment No. 1 to RE/MAX's 2013 RIHI TRA is embedded as Exhibit I to the Merger Agreement filed under Real's CIK. The amendment provides automatic zero-payment termination of the RIHI TRA at the First Merger Effective Time (or other Qualifying Change of Control); the economic compensation to RIHI sits in the share-exchange leg of the parallel RIHI Merger, not in any TRA cash payment. The amendment voids if no Qualifying Change of Control closes within 18 months, so the TRA remains in force until then. The original 2013 TRA, the parallel Weston Presidio TRA, and any prior history must be retrieved from RE/MAX Holdings's CIK to assemble the full contract record. See `contract_log.md` for the embedded amendment text and the cross-CIK pointers.

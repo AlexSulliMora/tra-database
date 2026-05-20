@@ -1,0 +1,44 @@
+---
+title: "Sculptor Capital Management TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Och-Ziff Capital Management Group LLC", "Sculptor Capital Management, Inc.", "Rithm Capital Corp."]
+CIKs: ["0001403256", "0001403256", "0001786248"]
+status: Unknown
+creation-date: 2007-11-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Rithm acquired Sculptor on 2023-11-17 and the TRA continued at the post-merger
+  private entity under a Rithm-issued TRA Guaranty backstopping ~$292M nominal.
+  Sculptor ceased filing after close; TRA's continued life is not visible in
+  Sculptor's filings. The TRA Guaranty document was filed under Rithm's CIK.
+---
+
+## TRA Timeline
+
+#### Och-Ziff Up-C IPO and TRA execution
+
+- 2007-11-08: Form-of TRA filed as Exhibit 10.3 to S-1/A Amendment No. 8
+- 2007-11-13: Up-C IPO closes; TRA executed at 85% sharing rate covering Section 754 basis step-ups for OZ Management LP, OZ Advisors LP, OZ Advisors II LP partners and the Ziffs
+- 2009-01-12: First Amended and Restated TRA filed with FY2008 10-K; restatement is administrative with no change to payment rate, beneficiaries, or covered attributes
+
+#### Payment waivers tied to FCPA settlement and recapitalization
+
+- 2016-09-29: Amendment to A&R TRA executed concurrent with the DOJ FCPA deferred prosecution agreement, waiving Tax Benefit Payments for 2015 and 2016 tax years
+- 2019-02-07: Amendment executed at Recapitalization closing, waiving 2017 and 2018 Tax Benefit Payments (subject to Excess Tax Benefit Payments) and adding Class A-1 and Class E unit-class mechanics tied to the C-corp conversion
+
+#### Rithm acquisition and TRA Guaranty
+
+- 2023-07-23: Agreement and Plan of Merger signed with Rithm Capital Corp.; Section 5.13 acknowledges the TRA and contemplates a TRA Guaranty
+- 2023-10-26: Merger Agreement Amendment No. 2 and Transaction Support Agreement filed; TRA Guaranty terms finalized at ~$292M nominal ($173M existing payable plus $119M additional)
+- 2023-11-17: Merger closes; Sculptor becomes private subsidiary of Rithm; Class A Shares delisted; TRA persists at post-merger entity backed by Rithm's guaranty
+
+## Explanation
+
+Sculptor Capital Management, Inc. (formerly Och-Ziff Capital Management Group LLC) executed a Tax Receivable Agreement on November 13, 2007 at its Up-C IPO, paying 85% of cumulative net realized tax benefits from Section 754 basis step-ups to Daniel S. Och, the other executive managing directors of the OZ partnerships, and the Ziffs. The contract was administratively restated in January 2009 and then amended twice to waive payments for specific tax years: 2015 and 2016 (concurrent with the September 2016 DOJ FCPA settlement) and 2017 and 2018 (at the February 2019 recapitalization that converted the firm to a C-corp). At the November 17, 2023 Rithm Capital acquisition, the TRA was not terminated; Rithm instead issued a TRA Guaranty backstopping approximately $292M of nominal obligations (filed under Rithm's CIK, not Sculptor's), and Sculptor ceased filing with the SEC after close. Status is `Unknown` from Sculptor's filings; verifying the TRA's continued life requires Rithm's post-2023 10-Ks. See `contract_log.md` for the full amendment history and the executed merger and guaranty mechanics.

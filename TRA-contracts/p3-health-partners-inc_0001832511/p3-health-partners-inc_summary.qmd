@@ -1,0 +1,36 @@
+---
+title: "P3 Health Partners TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Foresight Acquisition Corp.", "P3 Health Partners Inc."]
+CIKs: ["0001832511", "0001832511"]
+status: Ongoing
+creation-date: 2021-12-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Recorded TRA liability is $0 from inception; full valuation allowance on
+  underlying deferred tax assets makes payments not probable. Memo-only
+  estimate $12.4M at 2025-12-31. FY2025 10-K discloses substantial doubt
+  about going concern.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-10-28: DEFM14A attaches a form-of TRA as Annex I
+- 2021-12-03: Foresight-P3 de-SPAC closes; executed TRA filed as Exhibit 10.6 to the 8-K
+
+#### Continuing valuation-allowance suppression
+
+- 2026-03-26: FY2025 10-K continues to record $0 TRA liability (memo-only would-be $12.4M); discloses substantial doubt about going concern and continued Nasdaq listing compliance issues
+
+## Explanation
+
+P3 Health Partners Inc. became public via de-SPAC business combination with Foresight Acquisition Corp. on December 3, 2021, producing an Up-C structure with P3 Health Group, LLC as the operating partnership and the legacy P3 equityholders as TRA beneficiaries. The TRA, executed at closing and filed as Exhibit 10.6 to the December 9, 2021 closing 8-K, pays beneficiaries 85% of the cash federal, state, and local tax savings P3 realizes from Section 754 basis step-ups arising from redemptions or exchanges of P3 LLC units, basis increases from TRA payments themselves, and imputed-interest deductions on those payments. From inception through year-end 2025 the recorded TRA liability has been $0 because P3's accumulating losses produce a full valuation allowance on the underlying deferred tax assets, making payments not probable; the FY2025 10-K cites a memo-only would-be liability of $12.4M alongside substantial-doubt going-concern disclosure. No amendment, termination, or M&A event has occurred; the TRA remains legally in force. See `contract_log.md` for the full filing-by-filing record.

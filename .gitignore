@@ -3,8 +3,8 @@
 .tra_history_cache/
 sec-data-pqt/
 
-# TRA corpus (321 firm directories; regenerable from EDGAR pipeline)
-TRA-contracts/
+# EDGAR query output (regenerable from the pipeline; ~1.8 GB of exhibits)
+data/
 
 # Python bytecode
 __pycache__/

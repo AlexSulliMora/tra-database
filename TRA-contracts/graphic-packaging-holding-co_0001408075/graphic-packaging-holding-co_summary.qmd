@@ -1,0 +1,39 @@
+---
+title: "Graphic Packaging Holding Company TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Graphic Packaging Holding Company", "International Paper Company"]
+CIKs: ["0001408075", "0000051434"]
+status: Ongoing
+creation-date: 2018-01-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: JV formation
+counterparty-type: M&A sellers
+notes: >-
+  Single LLC-shareholder beneficiary (International Paper) at 50% sharing ratio
+  rather than the typical 85%. IP fully exited the GPIP equity stake in
+  May 2021; cumulative TRA cash payments $109M (2021).
+---
+
+## TRA Timeline
+
+#### JV formation and TRA execution
+
+- 2017-10-23: Transaction Agreement signed between Graphic Packaging Holding Company and International Paper; TRA identified as a transaction-document exhibit to be entered at close
+- 2018-01-01: Transaction closes; TRA executed between GPI Holding III, LLC (Gazelle Member), GPIP, Graphic Packaging Holding Company (Corporate Taxpayer), and International Paper (Impala)
+- 2018-01-02: 8-K attaches the executed TRA as Exhibit 10.4
+
+#### IP staged exit (Section 731/754 mapping)
+
+- 2020-01-23: First IP redemption (~$250M); Consent and Waiver Agreement maps the redemption to a Section 731 distribution with deferred TRA recognition
+- 2020-08-06: Second IP redemption (~$250M); same Section 731 mapping
+- 2021-02-19: IP exchange triggers $43M TRA liability (settled cash Q3 2021)
+- 2021-05-21: IP final sale of 22.8M Common Units to GPI Holding I, Inc. triggers $66M TRA liability (settled cash Q4 2021); IP fully exits the GPIP equity position
+
+## Explanation
+
+Graphic Packaging Holding Company's TRA originated at the January 1, 2018 closing of the joint-venture transaction in which International Paper contributed its North America Consumer Packaging business to Graphic Packaging International Partners, LLC (GPIP) in exchange for a 20.5% partnership interest plus exchange and TRA rights. The TRA obligates the Consolidated Group (with GPI Holding III, LLC as direct payor under GPHC's tax umbrella) to pay 50% of cumulative net realized tax benefits to International Paper on Section 754 basis step-ups from IP's Exchanges of GPIP Common Units, plus imputed interest. The 50% rate is materially below the typical 85% Up-C rate and reflects the negotiated allocation between two industrial counterparties. IP exited GPIP in four staged transactions between January 2020 and May 2021; the 2020 redemptions were structured as Section 731 distributions with TRA recognition deferred under four Consent and Waiver Agreements, and the 2021 exchange and sale triggered TRA payments totaling $109M. After May 2021 IP holds no GPIP interest; the TRA remains in force as a residual contract governing any future true-ups, but no new Exchanges are possible. See `contract_log.md` for the full filing record and the Consent and Waiver Agreements.

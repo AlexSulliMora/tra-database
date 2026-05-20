@@ -1,0 +1,43 @@
+---
+title: "Lazard, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Lazard Ltd", "Lazard, Inc."]
+CIKs: ["0001311370", "0001311370"]
+status: Ongoing
+creation-date: 2005-05-10
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Obligors are Ltd Sub A and Ltd Sub B (indirect subs); July 2015 Trust
+  buyback (~47% for ~$42M) dropped effective economic payout to ~45% on
+  basis savings; liability $57.05M at YE2025, expected to run to ~2033.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2005-04-18: Form-of TRA filed as S-1/A Exhibit 10.3 (unexecuted)
+- 2005-05-10: Original TRA executed at IPO close among Ltd Sub A, Ltd Sub B, and LFCM Holdings LLC
+- 2005-06-16: Executed TRA attached to Q1 2005 10-Q Exhibit 10.3
+
+#### Trust restructuring
+
+- 2015-06-16: First A&R TRA introduces LTBP Trust as beneficiary (alongside LMDC Holdings, renamed LFCM); Trust beneficial interests distributed to historical partners
+- 2015-07: Lazard repurchases ~47% of Trust beneficial interests for ~$42M, dropping economic payout to ~45% on basis savings
+- 2015-10-26: Second A&R TRA removes LMDC Holdings; contract now runs solely between Ltd Sub A, Ltd Sub B, and LTBP Trust
+
+#### Redomestication
+
+- 2023-11-13: S-4 filed for redomestication of Lazard Ltd (Bermuda) to Lazard, Inc. (Delaware); flags potential acceleration of TRA payments under U.S. domicile, no contractual amendment
+- 2024-01-01: Redomestication effective; Ltd Sub A and Ltd Sub B unchanged as obligors; Second A&R remains the operative document
+
+## Explanation
+
+Lazard Ltd executed the original TRA on May 10, 2005 at IPO close, requiring two wholly-owned indirect subsidiaries (Ltd Sub A and Ltd Sub B) to pay 85% of cash tax savings from Section 754 basis step-ups arising on the contemporaneous Redemption of historical partners and on later exchanges of LAZ-MD interests. The 2015 restructuring rewrote the beneficiary side twice: the June 16 A&R created LTBP Trust as a Delaware statutory trust and distributed Trust beneficial interests to the historical partners, and Lazard's July 2015 repurchase of about 47% of those interests for roughly $42M dropped the effective economic payout on basis savings to about 45%; the October 26 Second A&R removed LMDC Holdings and left LTBP Trust as the sole beneficiary. The January 1, 2024 redomestication of Lazard Ltd (Bermuda) to Lazard, Inc. (Delaware) did not amend the TRA; Ltd Sub A and Ltd Sub B carried over unchanged as obligors. The contract remains in force, with $57.05M of liability at December 31, 2025 and full utilization expected by approximately 2033. See `contract_log.md` for the full filing-by-filing record.

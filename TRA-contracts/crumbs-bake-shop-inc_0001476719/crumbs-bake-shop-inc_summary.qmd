@@ -1,0 +1,40 @@
+---
+title: "Crumbs Bake Shop, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["57th Street General Acquisition Corp.", "Crumbs Bake Shop, Inc."]
+CIKs: ["0001476719", "0001476719"]
+status: Unknown
+creation-date: 2011-05-05
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "0% / 50% / 75% tiered"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Atypical tiered Sharing Percentage (0% on 2011 non-Liquidity Exchanges, 50% on Closing Merger
+  Consideration, 75% on Contingency Consideration / Liquidity Exchanges / post-2011 Exchanges).
+  Bankruptcy fate on docket No. 14-24287 (MBK), D.N.J.; legal disposition of the TRA outside EDGAR.
+---
+
+## TRA Timeline
+
+#### Origination at SPAC business combination
+
+- 2011-05-05: Tax Receivable Agreement executed between 57th Street General Acquisition Corp. (Parent / SPAC, renamed Crumbs Bake Shop at close), Crumbs Holdings LLC, and the Members of Crumbs Holdings; filed as Exhibit 10.25 to the 8-K dated May 11, 2011
+
+#### Economic extinguishment
+
+- 2013-Q3: Full valuation allowance recorded on TRA-related deferred tax asset; "Payable to related parties pursuant to tax receivable agreement" written down from $2.39M (Dec 31, 2012) to $0 (Dec 31, 2013); contract still legally in force
+
+#### Bankruptcy and asset sale
+
+- 2014-07-11: Crumbs Bake Shop files Chapter 11 in D.N.J.
+- 2014-08-29: Substantially all assets sold to Lemonis Fischer Acquisition Company LLC via Section 363 credit bid (~$7.14M); management states no proceeds expected for shareholders
+- 2014-09-04: Last 8-K in directory reporting sale close; legal disposition of TRA (rejection, expungement, or worthlessness as Crumbs Holdings LLC became defunct) lives on bankruptcy docket
+
+## Explanation
+
+This SPAC business combination TRA had an atypical tiered Sharing Percentage rather than the standard 85% flat rate: 0% on 2011 non-Liquidity Exchanges other than the Merger, 50% on the portion attributable to the Closing Merger Consideration, and 75% on Contingency Consideration, 2011 Liquidity Exchanges, and any post-2011 Exchanges. The contract covered Section 754 basis step-ups arising from the Merger and subsequent exchanges of Class B Exchangeable Units for Common Stock plus imputed interest. The TRA-related deferred tax asset was written down to zero in Q3 2013 (economic extinguishment but not legal termination), and the firm filed Chapter 11 in July 2014 followed by a Section 363 asset sale to Lemonis Fischer Acquisition Company. No standalone TRA termination instrument was ever filed; the contract's legal fate lives on the bankruptcy docket (Case No. 14-24287 (MBK), D.N.J.) rather than EDGAR. Status is `Unknown` rather than `Terminated` because the dispositive bankruptcy disposition is not visible in EDGAR filings. See `contract_log.md` for the full filing record.

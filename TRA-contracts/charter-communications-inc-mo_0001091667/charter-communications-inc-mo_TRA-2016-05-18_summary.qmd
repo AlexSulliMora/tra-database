@@ -1,0 +1,34 @@
+---
+title: "Charter Communications, Inc. TRA (TRA-2016-05-18)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Charter Communications, Inc."]
+CIKs: ["0001091667"]
+status: Ongoing
+creation-date: 2016-05-18
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: ["TRA-2025-05-16-cox-form", "TRA-prospective-gci-divestiture"]
+role: PubCo
+trigger-event-type: Merger
+counterparty-type: M&A sellers
+notes: >-
+  Sole TRA Party is Advance/Newhouse Partnership (A/N). 50% rate is atypically low for TRAs.
+  Will be amended-and-restated at the close of the Cox Transactions (see TRA-2025-05-16-cox-form).
+---
+
+## TRA Timeline
+
+#### Origination at TWC / Bright House close
+
+- 2015-03-31: Contribution Agreement with A/N filed describing planned Tax Matters Agreement
+- 2016-05-18: Executed Tax Receivables Agreement filed as Exhibit 10.4 to 8-K dated May 19, 2016; closing of the TWC mergers and A/N contribution
+
+#### Cox Transactions and contemplated amendment-restatement
+
+- 2025-05-16: Transaction Agreement with Cox Enterprises filed; Exhibit G is a form-of Amended and Restated TRA that will replace this contract at the Cox closing (Cox added as a TRA Party alongside A/N)
+
+## Explanation
+
+This TRA originated at the May 2016 closing of the Time Warner Cable mergers and Bright House Networks contribution, with Advance/Newhouse Partnership as the sole beneficiary and Charter Communications, Inc. plus CCH II, LLC as the obligor side. The covered tax assets are Section 754 basis step-ups arising from Taxable Exchanges of A/N's Charter Holdings Class B Common Units and Convertible Preferred Units for cash or Class A common stock; the payment rate is 50% of realized tax benefits (a noticeably lower rate than the 85% Up-C default), and A/N indemnifies Charter for 50% of any disallowed-deduction losses. At the closing of the pending Cox Transactions, this contract will be Amended and Restated to add Cox Enterprises as a TRA Party; the form-of A&R TRA was filed May 16, 2025 (see the parallel `TRA-2025-05-16-cox-form` summary). See `contract_log.md` for the full filing record.

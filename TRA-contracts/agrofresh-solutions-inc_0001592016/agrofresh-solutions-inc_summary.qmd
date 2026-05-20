@@ -1,0 +1,38 @@
+---
+title: "AgroFresh Solutions, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Boulevard Acquisition Corp.", "AgroFresh Solutions, Inc.", "The Dow Chemical Company", "Rohm and Haas Company"]
+CIKs: ["0001592016", "0001592016", "0000029915", "0000084792"]
+status: Terminated
+creation-date: 2015-07-31
+termination-date: 2019-12-20
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: "Asset purchase"
+counterparty-type: "M&A sellers"
+notes: >-
+  Terminated via negotiated buyout for ~$16M aggregate, structured as $14M USD
+  plus 4,072,100 Brazilian Real plus 59,816,000 Argentine Peso; sharing ratio
+  was reduced from 85% to 50% by the April 2017 First Amendment.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2015-07-31: Boulevard Acquisition Corp. closes the Business Combination with The Dow Chemical Company and Rohm and Haas, acquiring the AgroFresh business via a Section 338(h)(10) election; Boulevard renames to AgroFresh Solutions, Inc. and executes the Tax Receivables Agreement at 85% of realized tax savings (8-K Ex. 10.3).
+
+#### First Amendment (rate reduction)
+
+- 2017-04-04: First Amendment to the TRA reduces the payment percentage from 85% to 50% for Covered Taxable Years ending after December 31, 2015; the 2015 tax-year amount is settled by a separate $20M lump-sum payment under a concurrent Amendment Agreement (8-K Ex. 10.2).
+
+#### Termination
+
+- 2019-12-20: Termination Agreement extinguishes the TRA (as amended) effective immediately, with aggregate consideration of approximately $16M structured as $14M USD plus 4,072,100 Brazilian Real plus 59,816,000 Argentine Peso, plus mutual releases (8-K Item 1.02, Ex. 10.1).
+
+## Explanation
+
+The TRA originated on July 31, 2015 when Boulevard Acquisition Corp., a SPAC, closed its business combination with The Dow Chemical Company and Rohm and Haas to acquire the AgroFresh business; a Section 338(h)(10) election stepped up the U.S. federal tax basis of the acquired assets, and the renamed AgroFresh Solutions, Inc. agreed to remit 85% of the resulting tax savings to the sellers. In April 2017, the First Amendment cut the sharing rate to 50% for tax years after 2015, and a concurrent Amendment Agreement settled the 2015 tax-year amount in a $20M lump sum. On December 20, 2019 the parties executed a standalone Termination Agreement that extinguished the contract for an aggregate of roughly $16M, paid as $14M USD plus 4.07M Brazilian Real plus 59.8M Argentine Peso, together with mutual releases. The TRA had no further life when AgroFresh was taken private by Paine Schwartz Partners in March 2023. See `contract_log.md` for the full filing-by-filing record.

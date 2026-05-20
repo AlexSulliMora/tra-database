@@ -1,0 +1,39 @@
+---
+title: "E2open Parent Holdings, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["E2open Parent Holdings, Inc.", "CC Neuberger Principal Holdings I"]
+CIKs: ["0001800347", "0001800347"]
+status: Terminated
+creation-date: 2021-02-04
+termination-date: 2025-08-14
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Amendment No. 1 (2025-05-25) fixed a lump-sum settlement on
+  WiseTech merger close; Form 15-12G filed 2025-08-14 indicates
+  closing. Predecessor was the CCNB1 SPAC under the same CIK.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-11-09: Form-of TRA filed as Annex I to S-4
+- 2021-02-04: Business combination closes; TRA executed by E2open Parent Holdings, E2open Holdings LLC, and TRA Parties (Insight, Elliott, PDI III, and continuing OpCo members)
+- 2021-02-10: Executed TRA filed as Ex 10.2 to closing 8-K
+
+#### WiseTech merger and TRA termination amendment
+
+- 2025-05-25: TRA Amendment No. 1 signed concurrently with WiseTech merger agreement; fixes lump-sum settlement and terminates TRA upon merger consummation
+- 2025-05-27: Amendment No. 1 filed as Ex 10.1 to merger announcement 8-K
+- 2025-07-10: Q1 FY26 10-Q reclassifies entire TRA liability ($42.7M) to current; $20.7M favorable remeasurement reflects fixed settlement cap
+- 2025-08-14: Form 15-12G deregistration filed (not in directory); merger close triggers TRA termination per Amendment No. 1 Section 2
+
+## Explanation
+
+E2open Parent Holdings entered into its Tax Receivable Agreement at the February 4, 2021 close of the Up-C-style business combination between the CC Neuberger Principal Holdings I SPAC and E2open Holdings, LLC. The contract pays 85% of realized tax benefits from Section 754 basis step-ups on exchanges of OpCo Common Units, plus the pre-existing Blocker NOLs and other Blocker tax attributes inherited at closing, and imputed-interest deductions on TRA payments. The TRA operated routinely through the BluJay and Logistyx acquisitions, with the liability moving between $50.1M and $69.7M from FY21 through FY24. On May 25, 2025 the company signed Amendment No. 1 concurrently with the WiseTech Global merger agreement: the amendment fixes a lump-sum cash settlement to TRA Parties payable at merger close, in full satisfaction of all TRA obligations, and provides that the TRA itself terminates upon consummation. The Form 15-12G filed August 14, 2025 (outside the directory) indicates the merger closed and triggered termination under Amendment No. 1 Section 2. See `contract_log.md` for the full filing-by-filing record and the deferred-CSV reconciliation note.

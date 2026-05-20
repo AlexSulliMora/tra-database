@@ -1,0 +1,181 @@
+# TRA Waiver and Termination Agreement
+# Extracted from Bitfarms Ltd 424B3 (Accession 0001213900-25-007612, filed 2025-01-28), Annex C
+# Original document: ea0216025-06.htm; this excerpt covers the full Annex C text.
+# Underlying TRA termination is conditioned on closing of Stronghold merger (closed 2025-03-14).
+
+Annex C
+ TRA WAIVER AND TERMINATION AGREEMENT
+ This TRA Waiver and Termination Agreement (this “Waiver Agreement”) is dated as of August 21, 2024, and is by and among Stronghold Digital Mining, Inc., a Delaware corporation (the “Company”), each of undersigned Persons under the heading “Holders” on the signature pages hereto (collectively, the “Holders”), and Bitfarms Ltd., a corporation organized under the Business Corporations Act (Ontario) (“Parent”).  Each of the Company, the Holders and Parent are referred to herein, individually, as a “Party” and, collectively, as the “Parties.”
+ RECITALS
+ WHEREAS, the Company, the Holders and the Agent are parties to that certain Tax Receivable Agreement, dated April 1, 2021, as amended by that certain Joinder to Tax Receivable Agreement effective as of November 9, 2022, whereby William Spence became a party thereto (such joinder, the “Joinder,” and, collectively, the “Tax Receivable Agreement”); and
+ WHEREAS, in connection with the transactions contemplated by that certain Agreement and Plan of Merger, by and among Parent, Backbone Mining Solutions LLC, a Delaware limited liability company and a wholly owned, indirect subsidiary of Parent (“BMS”), and HPC & AI Megacorp, Inc., a Delaware corporation and wholly owned, direct subsidiary of BMS, and the Company, dated as of the date hereof (the “Merger Agreement”), the Company and the Holders desire to terminate the Company’s and the Holders’ rights and obligations in respect of the Tax Receivable Agreement, subject to and effective upon the consummation of the transactions contemplated by the Merger Agreement.
+ AGREEMENT
+ NOW, THEREFORE, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+ Section 1.            Definitions. Capitalized terms used and not otherwise defined herein shall have the meanings set forth in the Tax Receivable Agreement.
+ Section 2.            Acknowledgment of Change of Control. The Parties acknowledge and agree that the consummation of the transactions contemplated by the Merger Agreement shall constitute a Change of Control, which Change of Control would, but for this Waiver Agreement, at the Effective Time (as defined in the Merger Agreement), accelerate the Company’s obligations under the Tax Receivable Agreement in accordance with Section 4.2 of the Tax Receivable Agreement.
+ Section 3.            Waiver of Early Termination Payment; Termination of Tax Receivable Agreement; Release.
+               (a)         Subject to and effective upon the consummation of the transactions contemplated by the Merger Agreement, and notwithstanding anything to the contrary in the Tax Receivable Agreement, (i) each of the Holders hereby absolutely, irrevocably and unconditionally waives in full all or any portion of the Early Termination Payment, which such Early Termination Payment would, but for this Waiver Agreement, be required to be paid by the Company to such Holder, or any other amounts that may be payable pursuant to the Tax Receivable Agreement, and (ii) none of the Company or its Subsidiaries, or any successors thereof, shall be required to pay all or any portion of the Early Termination Payment, or any other amounts pursuant to the Tax Receivable Agreement, at any time.  The Parties further agree that, subject to and effective upon the consummation of the transactions contemplated by the Merger Agreement, the Tax Receivable Agreement shall be terminated in its entirety, and no party thereto or Parent or any of their respective successors or Affiliates shall have any further obligations under the Tax Receivable Agreement other than those obligations set forth in this Waiver Agreement.
+               (b)         Subject to and effective upon the consummation of the transactions contemplated in the Merger Agreement: (i) each Holder hereby absolutely, irrevocably and unconditionally terminates, waives and releases all of its rights under the Tax Receivable Agreement, (ii) each Holder hereby rescinds, annuls, cancels, repeals and eliminates any and all representations, covenants, agreements, obligations, responsibilities or liabilities of the Company, its Subsidiaries or any of its Affiliates contained in or existing under the Tax Receivable Agreement to the extent relating to or in favor of such Holder, and (iii) the Company hereby rescinds, annuls, cancels, repeals and eliminates any and all representations, covenants, agreements, obligations, responsibilities or liabilities of the Holder 
+
+ Annex C-1
+ Table of Contents
+
+ contained in or existing under the Tax Receivable Agreement to the extent relating to or in favor of the Company, its Subsidiaries or its Affiliates, in each case, without any continuing liability of any of the Holders, the Company, Parent or any of their respective successors or Affiliates, as applicable.  Subject to and effective upon the consummation of the transactions contemplated in the Merger Agreement, each of the Holders hereby absolutely, irrevocably and unconditionally agrees not to bring any claims, directly or indirectly, against the Company, Parent or any of their respective successors or Affiliates relating to or in respect of the Tax Receivable Agreement.
+               (c)         Notwithstanding anything to the contrary in Section 7.6 of the Tax Receivable Agreement, none of the Holders shall directly or indirectly assign all or any portion of such Holder’s interest in the Tax Receivable Agreement. For the avoidance of doubt, nothing in this Waiver Agreement shall restrict any Holder from exercising its Redemption Right and participating in the Exchanges (as defined in the Merger Agreement) at or prior to the Closing (as defined in the Merger Agreement).
+ Section 4.            Representations and Warranties of the Parties. Each Party hereby represents and warrants to the other Parties that:
+               (a)         Power; Organization; Binding Agreement. Such Party has full power and authority to execute and deliver this Waiver Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby (including to terminate the Tax Receivable Agreement). The execution and delivery by such Party of this Waiver Agreement, the performance by such Party of its obligations hereunder and the consummation by such Party of the transactions contemplated hereby (including the termination of the Tax Receivable Agreement) have been duly and validly authorized by all necessary corporate or similar action on the part of such Party and no other actions or proceedings on the part of such Party are necessary to authorize the execution and delivery by such Party of this Waiver Agreement, the performance by such Party of its obligations hereunder or the consummation by such Party of the transactions contemplated hereby (including the termination of the Tax Receivable Agreement).  If such Party is not a natural person, such Party is duly organized, validly existing and, to the extent such concept is applicable, in good standing under the laws of its jurisdiction of incorporation, organization or formation. This Waiver Agreement has been duly executed and delivered by such Party, and, assuming this Waiver Agreement constitutes a valid and binding obligation of the other Parties, constitutes a valid and binding obligation of such Party, enforceable against such Party in accordance with its terms.
+               (b)         No Conflicts. No filing with, and no permit, authorization, consent, or approval of, any governmental authority or other Person is necessary for the execution and delivery by such Party of this Waiver Agreement, the performance by such Party of its obligations hereunder, and the consummation by such Party of the transactions contemplated hereby (including the termination of the Tax Receivable Agreement).  None of the execution and delivery by such Party of this Waiver Agreement, the performance by such Party of its obligations hereunder or the consummation by such Party of the transactions contemplated hereby (including the termination of the Tax Receivable Agreement) will (i) contravene, conflict with or result in a violation or breach of, or constitute (with or without notice or lapse of time or both) a default (or give rise to any third party right of termination, cancellation, material modification or acceleration) under any of the terms, conditions or provisions of any note, loan agreement, bond, mortgage, indenture, commitment, arrangement, understanding or other agreement to which such Party is a party or by which such Party or any of such Party’s properties or assets may be bound, including any voting agreement or voting trust, (ii) contravene, conflict with or result in a violation of any law, rule or regulation or order applicable to such Party or (iii) contravene, conflict with or result in a violation of any provision of the constituent or organizational documents of such Party.
+               (c)         Reliance by Parent. In the case of the Holders and the Company, such Party understands and acknowledges that Parent is entering into the Merger Agreement in reliance upon such Party’s execution and delivery of this Waiver Agreement.  Such Party has been represented by or had the opportunity to be represented by, independent counsel of its own choosing, and it has had the full right and opportunity to consult with its attorney and its tax advisor, that to the extent, if any, that it desired, it availed itself of this right and opportunity, that it or its authorized officers (as the case may be) have carefully read and fully understand this Waiver Agreement and have had it fully explained to them by counsel (including tax counsel), that it is fully aware of the contents thereof and its meaning, intent and legal and tax effect, and that it or its authorized officers (as the case may be) is competent to execute this Waiver Agreement and has executed this Waiver Agreement free from coercion, duress and undue influence.
+
+ Annex C-2
+ Table of Contents
+
+               (d)         Rights in Tax Receivable Agreement. In the case of a Holder, such Holder is a party to the Tax Receivable Agreement, and other than pursuant to the Joinder, such Holder has not assigned or otherwise transferred any of its rights or interests pursuant to the Tax Receivable Agreement.
+               (e)         No Proceeding. As of the date hereof, there is no proceeding pending against, or threatened in writing against, such Party that would prevent, materially delay, or materially impair the ability of such Party with respect to, the performance by such Party of its obligations under this Waiver Agreement.
+ Section 5.            Entire Agreement; Supersedure. This Waiver Agreement (together with any other documents and instruments executed pursuant hereto) constitutes the entire agreement of the Parties in respect of the subject matter hereof and supersedes all prior contracts, agreements or understandings, whether written or oral, between or among the Parties in respect of such subject matter hereof (including but not limited to the Tax Receivable Agreement, except as otherwise set forth herein).
+ Section 6.            Governing Law. This Waiver Agreement and any claim, cause of action or Proceeding (as defined in the Merger Agreement) (whether at law, in contract or in tort) that may directly or indirectly be based upon, relate to or arise out of this Waiver Agreement or any transaction contemplated hereby, or the negotiation, execution or performance hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without giving effect to any choice or conflict of law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware.
+ Section 7.            Consent to Jurisdiction. Each of the Parties (i) irrevocably and unconditionally submits to the personal jurisdiction and venue of the Court of Chancery of the State of Delaware and any state appellate court therefrom within the State of Delaware (or, if the Court of Chancery of the State of Delaware does not have subject matter jurisdiction, the United States District Court for the District of Delaware or, if jurisdiction is not then available in the United States District Court for the District of Delaware, then any Delaware state court) (the “Chosen Courts”), in connection with any claim, action, proceeding or other Proceeding (as defined in the Merger Agreement) between the Parties (whether in contract, tort or otherwise) that arises out of or relating to this Waiver Agreement or the transactions contemplated hereby, (ii) expressly waives any claim of lack of personal jurisdiction or improper venue and any claims that such courts are an inconvenient forum with respect to such a claim, (iii) agrees that it shall not bring any claim, action or proceeding against any other Parties arising out of or relating to this Waiver Agreement or the transactions contemplated hereby in any court other than the Chosen Courts and that a final judgment in any legal proceeding in the Chosen Courts will be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by applicable law, and (iv) agrees that it will not attempt to deny or defeat such personal jurisdiction by motion or other request for leave from the Chosen Courts. Each Party hereby irrevocably consents to the service of process of any of the aforementioned courts in any such suit, action or proceeding by the mailing of copies thereof by registered or certified mail or by overnight courier service, postage prepaid, to its address set forth in Section 14.
+ Section 8.            Waiver of Jury Trial. EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY THAT MAY ARISE PURSUANT TO THIS WAIVER AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY CLAIM, ACTION OR PROCEEDING (WHETHER IN CONTRACT, TORT OR OTHERWISE) DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS WAIVER AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY. EACH PARTY (I) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER, (II) ACKNOWLEDGES THAT IT HAS BEEN INDUCED TO ENTER INTO THIS WAIVER AGREEMENT, BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 8, (III) UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, AND (IV) MAKES THIS WAIVER VOLUNTARILY.
+ Section 9.            Specific Performance. The Parties agree that irreparable damage, for which monetary damages would not be an adequate remedy, would occur in the event that any of the provisions of this Waiver Agreement were not performed in accordance with their specific terms or were otherwise breached by the Parties.  Prior to the termination of this Waiver Agreement pursuant to Section 13, it is accordingly agreed that the Parties shall be entitled to an injunction or injunctions, or any other appropriate form of specific performance or equitable relief, 
+
+ Annex C-3
+ Table of Contents
+
+ to prevent breaches of this Waiver Agreement and to enforce specifically the terms and provisions hereof in any court of competent jurisdiction, in each case in accordance with this Section 9, this being in addition to any other remedy to which they are entitled under the terms of this Waiver Agreement at law or in equity.  Each Party accordingly agrees (a) the non-breaching Party will be entitled to injunctive and other equitable relief, without proof of actual damages; and (b) the alleged breaching Party will not raise any objections to the availability of the equitable remedy of specific performance to prevent or restrain breaches or threatened breaches of, or to enforce compliance with, the covenants and obligations of such Party under this Waiver Agreement and will not plead in defense thereto that there are adequate remedies at Law (as defined in the Merger Agreement), all in accordance with the terms of this Section 9.  Each Party further agrees that no other Party or any other Person shall be required to obtain, furnish or post any bond or similar instrument in connection with or as a condition to obtaining any remedy referred to in this Section 9, and each Party irrevocably waives any right it may have to require the obtaining, furnishing or posting of any such bond or similar instrument.
+ Section 10.          Severability. The provisions of this Waiver Agreement shall be deemed severable and the invalidity or unenforceability of any provision shall not affect the validity or enforceability of the other provisions hereof. If any provision of this Waiver Agreement, or the application of such provision to any Person or any circumstance, is invalid or unenforceable, (a) a suitable and equitable provision shall be substituted therefor to carry out, so far as may be valid and enforceable, the intent and purpose of such invalid or unenforceable provision and (b) the remainder of this Waiver Agreement and the application of such provision to other Persons or circumstances shall not be affected by such invalidity or unenforceability, nor shall such invalidity or unenforceability affect the validity or enforceability of such provision, or the application of such provision, in any other jurisdiction.
+ Section 11.          Further Assurances. In connection with this Waiver Agreement and the transactions contemplated hereby, and without further consideration, each Party shall execute and deliver all such future instruments and take such other and further action as may be reasonably necessary or appropriate to carry out the provisions of this Waiver Agreement and the intention of the Parties as expressed herein.
+ Section 12.          Amendment. Subject to the provisions of applicable Law (as defined in the Merger Agreement), this Waiver Agreement may be amended, modified or waived if, and only if, such amendment, modification or waiver is in writing and signed, in the case of an amendment or modification by each of the Company, the Holders and Parent, or in the case of a waiver, by the Party against whom the waiver is to be effective.
+ Section 13.          Effectiveness; Termination. The waivers and releases set forth in Section 3 shall be subject to and effective upon the consummation of the transactions contemplated by the Merger Agreement. This Waiver Agreement, and all rights and obligations of the Parties hereunder, shall terminate and shall have no further force or effect as of such date and time as the Merger Agreement is validly terminated pursuant to Article VIII thereof, if applicable.
+ Section 14.          Notices. All notices, requests, instructions or other communications or documents to be given or made hereunder by any Party to the other Parties to this Waiver Agreement shall be in writing and (a) served by personal delivery by hand upon the Party for whom it is intended, (b) served by an internationally-recognized overnight courier service upon the Party for whom it is intended, (c) delivered by registered or certified mail, return receipt requested or (d) sent by email:
+ If to the Company, to:
+ Stronghold Digital Mining, Inc.
+ 595 Madison Avenue, 28th Floor
+ New York, New York 10022
+ Attention:  General Counsel
+ Email:        (Redacted)
+
+ Annex C-4
+ Table of Contents
+
+ with a copy (which shall not constitute notice or service of process) to:
+
+ Vinson & Elkins LLP845 Texas Avenue, Suite 4700Houston, Texas 77002
+ Attention:  Stephen M. Gill
+ E-mail:      (Redacted)
+
+ and
+
+ Vinson & Elkins LLP
+ 2001 Ross Avenue, Suite 3900
+ Dallas, Texas 75201
+ Attention:  D. Alex Robertson
+ E-mail:      (Redacted)
+
+ If to Parent to:
+ Bitfarms Ltd.
+ 110 Yonge Street, Suite 1601
+ Toronto, Ontario, Canada M5C 1T4
+ Attention:  Ben Gagnon
+ Email:        (Redacted)
+ with a copy (which shall not constitute notice or service of process) to:
+
+ Skadden, Arps, Slate, Meagher & Flom LLP
+ One Manhattan West
+ New York, New York 10001
+ Attention:  Christopher M. Barlow
+ E-mail:      (Redacted)
+
+ If to the Holders to, to the contact information set forth on such Holder’s signature page hereto.
+ or to such other Person or addressees as has or have been designated in writing by the Party to receive such notice provided above. Any notice, request, instruction or other communications or document given as provided above shall be deemed given to the receiving Party (w) upon actual receipt, if delivered personally, (x) on the next Business Day after deposit with an overnight courier, if sent by an overnight courier, (y) three Business Days after deposit in the mail, if sent by registered or certified mail or (z) upon confirmation of transmission if sent by email. Copies to outside counsel are for convenience only and failure to provide a copy to outside counsel does not alter the effectiveness of any notice, request, instruction or other communication otherwise given in accordance with this Section 13. Rejection or other refusal to accept, or the inability to deliver because of changed address or other details of which no notice is given, will be deemed to be receipt of any notice pursuant to this Section 13 as of the date of rejection, refusal or inability to deliver.
+ Section 15.          Binding Effect. This Waiver Agreement shall be binding upon and shall inure to the benefit of the Parties and their respective heirs, permitted successors, permitted assigns, permitted distributes, and legal representatives.  Nothing expressed or mentioned in this Waiver Agreement is intended or shall be construed to give any Person other than the Parties and Parent and their respective permitted successors and assigns any legal or equitable right, remedy or claim under, in or in respect of this Waiver Agreement or any provision herein contained.  No Party may assign any of its rights or obligations under this Waiver Agreement without the prior written consent of the other Parties; provided that, the Company may assign its rights or obligations to Parent or any of its Affiliates but shall remain liable in respect of such obligations except to the extent performed by Parent or such Affiliate.
+
+ Annex C-5
+ Table of Contents
+
+ Section 16.          Headings. The headings contained in this Waiver Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Waiver Agreement.
+ Section 17.          Counterparts. This Waiver Agreement and any amendments to this Waiver Agreement may be executed in any number of counterparts, each such counterpart being deemed to be an original instrument, and all such counterparts shall together constitute the same agreement and will become effective when one or more counterparts have been signed by each of the Parties and delivered to the other Parties, it being understood that all Parties need not sign the same counterpart. Delivery of an executed counterpart of a signature page to this Waiver Agreement by facsimile transmission or by email of a .pdf attachment shall be effective as delivery of a manually executed counterpart of this Waiver Agreement.
+ Section 18.          Conflict. In the event of any conflict between the terms of the Tax Receivable Agreement (other than with respect to the defined terms set forth therein, which defined terms shall control) and the terms of this Waiver Agreement, the terms of this Waiver Agreement shall control.
+ [Signature pages follow.]
+
+ Annex C-6
+ Table of Contents
+
+ IN WITNESS WHEREOF, the Parties have executed this Waiver Agreement as of the date set forth above.
+
+ COMPANY:
+
+ STRONGHOLD DIGITAL MINING, INC.
+
+ By:
+
+ /s/ Matthew C. Usdin
+
+ Name:
+
+ Matthew C. Usdin
+
+ Title:
+
+ SVP & General Counsel
+
+ [Signature Page to TRA Waiver and Termination Agreement]
+
+ Annex C-7
+ Table of Contents
+
+ PARENT:
+
+ BITFARMS LTD.
+
+ By:
+
+ /s/ Benjamin Gagnon
+
+ Name:
+
+ Benjamin Gagnon
+
+ Title:
+
+ Chief Executive Officer
+
+ [Signature Page to TRA Waiver and Termination Agreement]
+
+ Annex C-8
+ Table of Contents
+
+ HOLDERS:
+
+ Q POWER LLC
+
+ By:
+
+ /s/ Gregory A. Beard
+
+ Name:
+
+ Gregory A. Beard
+
+ Title:
+
+ Authorized Person
+
+ Address for notices to Holder pursuant to Section 14:
+ 595 Madison Avenue, 28th FloorNew York, New York 10022Attention:  Gregory A. BeardEmail: (Redacted)
+ [Signature Page to TRA Waiver and Termination Agreement]
+
+ Annex C-9
+ Table of Contents
+
+ William Spence
+
+ /s/ William Spence
+
+ William Spence
+
+ Address for notices to Holder pursuant to Section 14:
+ (Redacted)
+ [Signature Page to TRA Waiver and Termination Agreement]
+
+ Annex C-10
+ Table of Contents

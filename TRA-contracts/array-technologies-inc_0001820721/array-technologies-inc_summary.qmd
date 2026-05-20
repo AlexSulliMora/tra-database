@@ -1,0 +1,36 @@
+---
+title: "Array Technologies, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Array Technologies, Inc."]
+CIKs: ["0001820721"]
+status: Ongoing
+creation-date: 2016-07-08
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: "Asset purchase"
+counterparty-type: "named individual"
+notes: >-
+  50% sharing ratio is non-modal (modal TRA rate is 85%). Single named-individual
+  beneficiary (Ron P. Corio, former sole owner of the acquired patent-holding LLC
+  and post-IPO indirect stockholder / director).
+---
+
+## TRA Timeline
+
+#### Origination and IPO
+
+- 2016-07-08: TRA executed between Array Technologies, Inc. (New Mexico) and Ron P. Corio in connection with the private acquisition of Array Technologies Patent Holdings Co., LLC, giving rise to a Section 1012 cost-basis step-up in acquired developed-technology assets.
+- 2020-09-22: First public filing of the TRA text as Exhibit 10.3 to the initial S-1; prospectus discloses $25.3M of undiscounted expected future payments as of June 30, 2020.
+- 2020-10-15: IPO priced at $22.00/share (424B4); TRA carried forward as inherited related-party obligation, accounted for as contingent consideration at fair value through earnings.
+
+#### Cash payment phase
+
+- 2025-02-26: FY2024 10-K records the first year of TRA cash payments ($1.427M), replacing IRS-settlement reductions as the carrying-value-reduction mechanism.
+
+## Explanation
+
+Array Technologies, Inc. executed the TRA on July 8, 2016 with Ron P. Corio, the sole pre-acquisition owner of Array Technologies Patent Holdings Co., LLC, in connection with the private acquisition that produced a Section 1012 cost-basis step-up in the acquired developed-technology assets (later amortized under Section 197). The contract obligates Array to pay 50% of cumulative net realized tax benefits attributable to that basis step-up plus an interest-like Additional Amount, an atypical sharing ratio relative to the 85% TRA mode. The TRA was carried as a related-party obligation through the October 2020 IPO and has remained in force through subsequent corporate events (2021 Blackstone preferred-stock investment, 2021 and 2025 convertible-notes issuances, 2021 STI Norland and 2024 APA Solar Racking acquisitions, multiple credit-agreement amendments), none of which modified it. The carrying value has moved between roughly $8M and $20M across 2020-2025, reduced first by IRS-settlement adjustments to the underlying basis and, beginning in 2024, by cash payments to the beneficiary. See `contract_log.md` for the full filing-by-filing record.

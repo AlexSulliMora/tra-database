@@ -1,0 +1,38 @@
+---
+title: "Vistra Corp TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vistra Corp.", "Vistra Energy Corp.", "TEX Energy LLC"]
+CIKs: ["0001692819", "0001692819", "0001692819"]
+status: Ongoing
+creation-date: 2016-10-03
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Plan of reorganization
+counterparty-type: plan-of-reorganization trustee
+notes: >-
+  Plan-of-reorganization TRA with indenture-style TRA Rights (425M Rights issued via Transfer Agent). December 29, 2023 Amended and Restated TRA paired with a $1.50/Right repurchase of ~74% of Rights (consideration: 8.875% Series C Preferred Stock; ~50% discount to estimated initial value of $2.99924/Right). Follow-on January / February 2024 repurchases brought cumulative retirement to ~98% of original Rights; final TRA payment expected ~2056.
+---
+
+## TRA Timeline
+
+#### Emergence from Chapter 11 and TRA execution
+
+- 2016-10-03: TEX Energy LLC (later renamed Vistra Energy Corp., then Vistra Corp.) emerges from EFH / TCEH Chapter 11 bankruptcy; executes Tax Receivable Agreement at 85% to American Stock Transfer & Trust Company, LLC as Transfer Agent for TCEH first-lien secured creditors, covering basis step-ups from the PrefCo Preferred Stock Sale (~$5.5B step-up over ~15-year lives); initial fresh-start liability $574M
+
+#### Negotiated repurchase and Amendment and Restatement
+
+- 2023-12-04: Annual tax payment of $9.4M made for tax year 2022 (cumulative payments ~$47.4M)
+- 2023-12-29: Amended and Restated TRA executed with 74% Holder consent, paired with a $476M repurchase of ~68% of outstanding TRA Rights at $1.50/Right paid in newly issued 8.875% Series C Preferred Stock (vs $2.99924/Right initial estimated value); four amendments modify information rights, transferability, indebtedness-trigger obligations, and the change-of-control definition; 85% rate and Annual Tax Payment formula unchanged (8-K)
+
+#### Follow-on tender and ongoing payments
+
+- 2024-Q1: Additional repurchases and tender offer bring cumulative retired Rights to ~98% of original; carrying value $14M at year-end 2024
+- 2025-12-31: Carrying value $7M; final TRA payment expected ~2056
+
+## Explanation
+
+Vistra Corp. (then TEX Energy LLC) emerged from the Energy Future Holdings / TCEH Chapter 11 bankruptcy on October 3, 2016 and assumed a Tax Receivable Agreement to TCEH first-lien secured creditors as required under the confirmed Plan of Reorganization. This is a rare indenture-style TRA: 425 million TRA Rights were issued and trade through a Transfer Agent (originally American Stock Transfer, later Equiniti); Vistra pays 85% of Cumulative Realized Tax Benefit from a roughly $5.5B basis step-up (the PrefCo Preferred Stock Sale) plus imputed interest, with the rest of the consolidated tax savings retained by PubCo. On December 29, 2023, with 74% Holder consent, Vistra executed an Amended and Restated TRA paired with a $476M repurchase of approximately 68% of the outstanding TRA Rights at $1.50 per Right, paid in newly issued 8.875% Series C Cumulative Perpetual Preferred Stock at par; the four amendments removed regular Holder information and access rights, capped transferability, removed indebtedness-trigger obligations, and changed the Change of Control definition (the 85% payment formula was unchanged). Additional January / February 2024 repurchases and a tender offer brought cumulative retired Rights to roughly 98% of the original issuance. The A&R TRA remains in force for the residual approximately 2% of Holders with carrying value $7M at year-end 2025 and final payment expected around 2056. See `contract_log.md` for the full payment trajectory and the four amendment provisions.

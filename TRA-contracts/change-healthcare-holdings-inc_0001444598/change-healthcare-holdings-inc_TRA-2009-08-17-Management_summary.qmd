@@ -1,0 +1,41 @@
+---
+title: "Change Healthcare Holdings, Inc. TRA (TRA-2009-08-17-Management)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Emdeon Inc.", "Change Healthcare Holdings, Inc."]
+CIKs: ["0001444598", "0001444598"]
+status: Unknown
+creation-date: 2009-08-17
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2009-08-17-Exchanges", "TRA-2009-08-17-Reorganizations"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: named individual
+notes: >-
+  Beneficiaries are individual Equity Plan Members, not pre-IPO sponsor vehicles.
+  Directory coverage ends January 2017; downstream fate is documented under
+  successor CIK 0001756497 (Change Healthcare Inc.).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2009-07-28: Form-of TRA (Management) first filed as Exhibit 10.5 to S-1/A No. 4
+- 2009-08-17: Executed TRA (Management) between Emdeon and Equity Plan Members, covering management-side basis step-ups
+
+#### First Amendment at Blackstone going-private merger
+
+- 2011-11-02: First Amendment to TRA (Management) executed at merger close; extends the definition of "Exchange" to include taxable sales of Units by Equity Plan Members to EBS Holdco I or II for cash or Beagle Parent Corp. shares
+- 2012-07-20: First Amendment text first filed as Exhibit 10.9 to Beagle Parent / Emdeon S-4
+
+#### McKesson JV transition (TRA persists)
+
+- 2016-07-05: 8-K announcing McKesson JV; this TRA continues at the CHH level post-close as one of three "Existing Echo TRAs"
+- 2017-01-26: Last filing in directory
+
+## Explanation
+
+This is the management-beneficiary sister of the two Investors TRAs: Emdeon as obligor, individual Equity Plan Members as beneficiaries, 85% of cash tax savings on management-side basis step-ups. Unlike the Exchanges and Reorganizations TRAs, which were Amended and Restated at the November 2011 Blackstone going-private merger, this contract received a more limited First Amendment that extended the "Exchange" definition to capture taxable cash sales of management units to two acquiring vehicles at the merger close. The McKesson JV closing March 1, 2017 preserved the Management TRA at the CHH level. The post-January 2017 lifecycle (including ultimate termination October 3, 2022 at the UnitedHealth merger Effective Time) is captured under successor CIK 0001756497. See `contract_log.md` for the full filing record and the cross-reference to `../change-healthcare-inc_0001756497/`.

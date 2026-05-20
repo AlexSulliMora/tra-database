@@ -1,0 +1,40 @@
+---
+title: "Fathom Digital Manufacturing Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Altimar Acquisition Corp. II", "Fathom Digital Manufacturing Corporation"]
+CIKs: ["0001836176", "0001836176"]
+status: Terminated
+creation-date: 2021-12-23
+termination-date: 2024-05-21
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Beneficiaries split into Exchange TRA Parties (continuing LLC members) and Blocker TRA
+  Parties (pre-business-combination owners of three Blocker corporations). CORE Industrial
+  Partners going-private merger closed at $0.39 per Class A share; TRA terminated with
+  zero payment to any TRA Party.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-12-23: Altimar Acquisition Corp. II / Fathom Holdco SPAC business combination closes; original TRA filed as Exhibit 10.1 to December 30, 2021 8-K
+
+#### LIBOR-to-SOFR restatement and Blocker scrivener correction
+
+- 2023-04-04: Amended and Restated TRA filed with FY2022 10-K; corrects original drafting that had excluded Blocker TRA Parties from BCA-Basis benefits, and switches Agreed Rate, Default Rate, and Early Termination Agreed Rate from LIBOR to SOFR
+
+#### CORE Industrial Partners going-private termination
+
+- 2024-02-16: Amendment No. 1 to A&R TRA executed concurrent with CORE merger agreement; new Section 4.4 auto-terminates the TRA in full at the Company Merger with no payment to any TRA Party and provides that the merger is not a Change of Control
+- 2024-05-21: CORE merger closes at $0.39 per Class A share; TRA terminates with no payment to Exchange TRA Parties or Blocker TRA Parties
+
+## Explanation
+
+Fathom Digital Manufacturing Corporation went public on December 23, 2021 through an Up-C business combination with Altimar Acquisition Corp. II and committed to pay the Exchange TRA Parties (continuing LLC members) and the Blocker TRA Parties (pre-business-combination owners of three blocker corporations) 85% of cash tax savings from Section 754 basis step-ups, Blocker Pre-BCA Covered Tax Assets, and related items. The April 2023 Amended and Restated TRA was administrative, switching the contract from LIBOR to SOFR and correcting a drafting omission that had excluded Blocker TRA Parties from certain basis benefits. The contract terminated on May 21, 2024 when CORE Industrial Partners closed its going-private merger at $0.39 per Class A share, well below the SPAC issue price; the February 2024 Amendment No. 1 had appended a new Section 4.4 to the A&R TRA that auto-terminated the contract in full at merger close with no payment to any beneficiary. The TRA was wiped out in the same transaction that left residual public-equity value at $0.39 per share. See `contract_log.md` for the full filing-by-filing record.

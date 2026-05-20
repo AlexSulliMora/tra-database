@@ -1,0 +1,38 @@
+---
+title: "York Space Systems Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["York Space Systems Inc."]
+CIKs: ["0002086587"]
+status: Ongoing
+creation-date: 2026-01-28
+termination-date:
+tax-asset-type: [NOL, Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Covered Tax Assets are pre-IPO and IPO-arising attributes (NOLs, R&D credit
+  carryforwards, Section 163(j) disallowed interest, Section 174 R&E amortization);
+  Section 174 amortization tagged as Basis Step-Up per skill convention, the rest
+  as NOL. Full valuation allowance: no TRA liability recognized; hypothetical
+  early-termination payment estimated at $262.0M as of February 28, 2026.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2026-01-16: Form-of TRA filed as Exhibit 10.6 to S-1/A.
+- 2026-01-28: TRA executed between York Space Systems Inc., Yellowstone GP, LLC (Rights Holder Representative), and Schedule A Rights Holders (Yellowstone Ultimate Holdings, LP equity holders and Class P Unit holders); 85% of Net Tax Benefit plus Ticker Amount on pre-IPO and IPO-arising tax attributes. IPO closes 2026-01-28 to 2026-01-30; common stock trades on NYSE as "YSS" beginning 2026-01-29.
+
+#### Post-IPO acquisition activity (TRA-unaffected)
+
+- 2026-03-06: York acquires Orbion Space Technology, Inc. (subsidiary merger; no new TRA, no Change of Control).
+- 2026-04-29: York signs Agreement and Plan of Merger to acquire All.Space Holdings, Inc. ("Project Morpheus"; subsidiary merger; no new TRA, no Change of Control).
+
+## Explanation
+
+The York Space Systems TRA was executed at the firm's January 28, 2026 Up-C IPO close. York Space Systems Inc. (PubCo) pays the Schedule A Rights Holders (equity holders of Yellowstone Ultimate Holdings, LP, controlled by AE Industrial Partners, plus Class P Unit holders) 85% of the Net Tax Benefit plus an associated Ticker Amount derived from a pool of Covered Tax Assets: pre-IPO NOL carryforwards, R&D tax credit carryforwards, Section 163(j) disallowed interest, Section 174 R&E amortization, and any tax attributes arising in connection with the IPO. The contract carries the standard Up-C-style early-termination payment formula and change-of-control acceleration provisions under Delaware law. No TRA liability is recorded as of the latest filing (Q1 2026 10-Q) because a full valuation allowance is maintained against the underlying deferred tax assets; the 2025 10-K discloses that a hypothetical February 28, 2026 termination would produce a present-value payment of approximately $262.0M. York's March 2026 acquisition of Orbion and April 2026 agreement to acquire All.Space are both wholly-owned-subsidiary mergers that do not trigger a Change of Control under the TRA. See `contract_log.md` for the full filing-by-filing record.

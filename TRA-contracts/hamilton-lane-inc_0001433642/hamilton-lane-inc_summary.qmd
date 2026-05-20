@@ -1,0 +1,37 @@
+---
+title: "Hamilton Lane Incorporated TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Hamilton Lane Incorporated"]
+CIKs: ["0001433642"]
+status: Ongoing
+creation-date: 2017-03-06
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Amendment No. 1 (December 31, 2020) is a LIBOR-to-SOFR administrative
+  cleanup. Firm has used the Section 4.03(c) Individual Early Termination right
+  on certain fully exchanged partners; individual ETP dates not separately filed.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2016-12-29: First form-of TRA in DRS/A with Early Termination Rate at LIBOR plus 400 bps capped at 6.5%
+- 2017-02-14: Form-of TRA updated in S-1/A; cap raised to 7.5%
+- 2017-03-06: Executed TRA dated as of IPO close, 85% of cumulative net realized tax benefit to HLA Members
+- 2017-03-10: 8-K reports IPO close and attaches the executed TRA
+
+#### Amendment No. 1: LIBOR-to-SOFR transition
+
+- 2020-12-31: Amendment No. 1 executed by HLI, HLA, and Supermajority Partners; replaces LIBOR with SOFR in Agreed Rate, Default Rate, and Early Termination Rate ahead of the LIBOR cessation timeline; no change to economics
+
+## Explanation
+
+Hamilton Lane executed its Tax Receivable Agreement at the March 2017 Up-C IPO, obligating the public company to pay 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of HLA Units for Class A shares) to the pre-IPO HLA Members. Amendment No. 1 in December 2020 swapped LIBOR for SOFR in the contract's three floating-rate definitions; the economic terms were unchanged. The TRA is in force as of the FY2025 10-K, with a recognized liability of $240.6M as of March 31, 2025 and annual cash payments of roughly $10-12M in each of FY2023, FY2024, and FY2025. The firm has periodically exercised the Section 4.03(c) Individual Early Termination right on partners who fully exchanged their HLA units, but the dated instruments are not separately filed on EDGAR. See `contract_log.md` for the full filing-by-filing record.

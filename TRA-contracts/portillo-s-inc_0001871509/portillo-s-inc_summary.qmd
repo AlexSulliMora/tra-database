@@ -1,0 +1,36 @@
+---
+title: "Portillo's TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Portillo's Inc."]
+CIKs: ["0001871509"]
+status: Ongoing
+creation-date: 2021-10-20
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Up-C IPO TRA covering both basis step-ups and NOLs from Blocker
+  Companies. January 24, 2025 administrative amendment substituted Term
+  SOFR for LIBOR in the rate definitions; no other economic changes.
+  Liability ~$352M at FY2025 year-end.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-10-06: S-1/A attaches form-of TRA as Exhibit 10.12
+- 2021-10-20: TRA executed at IPO closing (October 21, 2021); executed copy filed November 11, 2021 as Exhibit 10.12 to Q3 2021 10-Q; initial liability $85.7M
+
+#### LIBOR-to-SOFR administrative amendment
+
+- 2025-01-24: Amendment to Tax Receivable Agreement substitutes Term SOFR for LIBOR in the Agreed Rate (SOFR + 100 bps) and Default Rate (SOFR + 500 bps); no other economic changes; filed as Exhibit 10.24 to FY2024 10-K
+
+## Explanation
+
+Portillo's Inc. became the TRA obligor on October 20, 2021 at the closing of its Up-C IPO, with PHD Group Holdings LLC as the operating LLC and the pre-IPO Members (principally Berkshire Partners affiliates plus certain Blocker Companies) as TRA Parties acting through BSR LLC as Representative. The TRA pays beneficiaries 85% of cash tax savings from PubCo's allocable share of existing depreciable / amortizable basis tied to LLC Units acquired at IPO, NOLs and basis acquired from Blocker Companies, basis step-ups from sales / exchanges of LLC interests at IPO and from future LLC Unit-for-Class A exchanges, plus TRA-imputed interest. The initial liability of $85.7M at year-end 2021 has grown to roughly $352M by year-end 2025 reflecting continued exchange activity and basis-step-up accumulation. On January 24, 2025 Portillo's executed an administrative amendment substituting Term SOFR for LIBOR in the contract's interest-rate definitions; no other terms changed. The TRA remains in force through the Q1 2026 10-Q. See `contract_log.md` for the full filing-by-filing record.

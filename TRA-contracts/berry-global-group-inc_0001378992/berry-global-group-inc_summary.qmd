@@ -1,0 +1,39 @@
+---
+title: "Berry Global Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Berry Plastics Group, Inc.", "Berry Global Group, Inc.", "Apollo Management Fund VI, L.P."]
+CIKs: ["0001378992", "0001378992", ""]
+status: Terminated
+creation-date: 2012-11-29
+termination-date: 2019-09-28
+tax-asset-type: [NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  C-corp NOL-based TRA (not Up-C basis step-up). Beneficiary rights declared
+  as a dividend to pre-IPO record-date stockholders. Terminated via a
+  negotiated final settlement payment under Article IV in fiscal 2019.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2012-09-19: S-1/A Amendment No. 5 files the form-of TRA as Exhibit 10.25
+- 2012-10-05: Berry IPO closes as a C-corp; board declares TRA rights as a dividend to record-date stockholders
+- 2012-11-29: Executed Income Tax Receivable Agreement dated November 29, 2012
+- 2012-12-17: 10-K files the executed TRA as Exhibit 10.25
+
+#### Payment history and termination
+
+- 2015-2018: Annual cash payments under the TRA ($39M, $57M, $111M, $37M across FY2015-FY2018)
+- 2019-09-28 (FY2019 year-end): Berry negotiates a final settlement payment under the TRA's own Article IV early-termination mechanic, fully discharging the contract; total FY2019 payments $38M ($16M Q1, $22M Q4 final settlement)
+- 2019-11-22: FY2019 10-K confirms termination
+
+## Explanation
+
+Berry Plastics (renamed Berry Global Group in 2017) IPO'd as a traditional C-corporation on October 5, 2012 and executed an Income Tax Receivable Agreement dated November 29, 2012 paying 85% of cash tax savings from utilization of pre-IPO net operating losses and AMT credit carryforwards to a beneficiary group of pre-IPO stockholders, option holders, and SAR holders, with Apollo Management Fund VI as Existing Stockholders Representative. Because Berry was a C-corp rather than Up-C, the TRA covered NOLs rather than basis step-ups. After roughly $282 million in cumulative payments from FY2015 through FY2018, Berry negotiated a final settlement payment in fiscal Q4 2019 that fully discharged the contract under the Article IV early-termination mechanic; no separate termination instrument was filed. Subsequent transactions (the 2024 Glatfelter spin-off and the April 2025 Amcor merger) had no further TRA effect. See `contract_log.md` for the full filing-by-filing record.

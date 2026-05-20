@@ -1,0 +1,44 @@
+---
+title: "Excelerate Energy, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Excelerate Energy, Inc."]
+CIKs: ["0001888447"]
+status: Ongoing
+creation-date: 2022-04-12
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders are EE Holdings (Kaiser-Francis affiliate) and Maya
+  Maritime LLC (Kaiser Foundation affiliate). YE2025 TRA liability
+  on balance sheet with full-exchange hypothetical of $375.6M at
+  $28.05 close. Cumulative cash payments $8.9M (2023-2025).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2022-01-21: Form-of TRA filed as Ex 10.2 to S-1/A (unexecuted)
+- 2022-04-12: Up-C IPO closes; TRA executed by Excelerate Energy, EELP, EE Holdings, and Maya Maritime
+- 2022-04-18: Executed TRA filed as Ex 10.2 to IPO closing 8-K
+
+#### Liability recognition and first payments
+
+- 2023-03-29: FY2022 10-K recognizes initial $73.0M TRA liability from IPO basis step-up
+- 2024-02-29: FY2023 10-K reports first $3.4M TRA cash payment made in December 2023
+
+#### LIBOR-to-SOFR amendment
+
+- 2024-12-17: Amendment No. 1 executed (LIBOR-to-SOFR retroactive to 2023-03-31; Agreed Rate SOFR + 300 bps; Default Rate SOFR + 500 bps; Early Termination Rate lesser of 6.5% or SOFR + 400 bps); administrative only
+- 2025-02-27: Amendment No. 1 filed as Ex 10.4 to FY2024 10-K
+- 2026-02-27: FY2025 10-K reports $1.5M payment in 2025, $4.0M in 2024; 2026 forecast $7.7M; expected aggregate future payments $58.8M
+
+## Explanation
+
+Excelerate Energy entered into its Tax Receivable Agreement at the April 12, 2022 Up-C IPO close, paying 85% of net cash tax savings to TRA Holders EE Holdings (Kaiser-Francis Management affiliate) and Maya Maritime LLC (George Kaiser Family Foundation affiliate) on (i) Section 754 basis step-ups from future exchanges of EELP Class B interests for Class A common stock, (ii) pre-IPO tax attributes including basis of Foundation Assets, and (iii) tax benefits attributable to TRA payments themselves. The initial $73.0M liability recorded at YE2022 grew through 2023 and 2024 as tax benefits became probable; the first cash payment of $3.4M was made in December 2023, followed by $4.0M in 2024 and $1.5M in 2025. The December 17, 2024 Amendment No. 1 is administrative, replacing LIBOR with SOFR across all rate definitions retroactive to March 31, 2023; it makes no economic change to payment terms. The full-exchange hypothetical liability at YE2025 closing prices is $375.6M and aggregate expected future payments are $58.8M; the TRA continues in force under its original terms as modified by Amendment No. 1. See `contract_log.md` for the full filing-by-filing record.

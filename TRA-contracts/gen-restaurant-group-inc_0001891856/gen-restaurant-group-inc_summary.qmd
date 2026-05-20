@@ -1,0 +1,32 @@
+---
+title: "GEN Restaurant Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["GEN Restaurant Group, Inc."]
+CIKs: ["0001891856"]
+status: Ongoing
+creation-date: 2023-06-30
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders are the continuing GEN LLC Class B unitholders, principally the
+  founder Kim/Chang/Han families via family trusts and holding entities; David
+  Kim serves as the TRA Representative. Recorded liability $1.09M at Q1 2026.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2023-05-26: S-1 files the form-of TRA as Exhibit 10.2
+- 2023-06-30: Up-C IPO closes; TRA executed between GEN Restaurant Group, Inc., GEN Restaurant Companies, LLC, and the TRA Holders
+- 2023-07-07: 8-K Item 1.01 filed with the executed TRA as Exhibit 10.2
+
+## Explanation
+
+GEN Restaurant Group's TRA originated at its June 30, 2023 Up-C IPO, obligating the public company to pay 85% of net realized cash tax savings to the continuing GEN LLC Class B unitholders. Covered attributes are Section 754 basis step-ups from future redemptions or exchanges of Class B units, plus imputed-interest deductions on TRA payments themselves. The contract has not been amended or terminated. The recorded liability has grown modestly as exchanges have occurred: $0 at year-end 2023, $691k at year-end 2024, and $1.088M at year-end 2025 (carried at Q1 2026); no cash payments have been made. See `contract_log.md` for the full filing record.

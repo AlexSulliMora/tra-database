@@ -1,0 +1,28 @@
+---
+title: "Verde Clean Fuels, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Verde Clean Fuels, Inc.", "CENAQ Energy Corp."]
+CIKs: ["0001841425", "0001841425"]
+status: Ongoing
+creation-date: 2023-02-15
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: "$50M aggregate change-of-control payment cap. Zero TRA liability accrued through FY2025 (no Class C OpCo Unit Redemptions have occurred); firm remains pre-revenue."
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-08-12: CENAQ Energy Corp. enters Business Combination Agreement with Bluescape Clean Fuels Holdings, LLC; form-of TRA filed as Exhibit D to the BCA (8-K)
+- 2023-02-15: Business Combination closes; CENAQ renamed Verde Clean Fuels, Inc.; executed Tax Receivable Agreement filed at 85% with Bluescape as sole initial TRA Holder and Agent (8-K)
+
+## Explanation
+
+Verde Clean Fuels, Inc. (formerly CENAQ Energy Corp.) is the PubCo of an Up-C structure formed when the CENAQ SPAC consummated its Business Combination with Bluescape Clean Fuels Holdings, LLC on February 15, 2023. At close, Verde executed an 85% Tax Receivable Agreement with Bluescape as the sole initial TRA Holder (also serving as Agent), covering Section 754 basis step-ups arising from future Redemptions of Class C OpCo Units, plus imputed interest and additional basis from TRA payments themselves. The agreement caps any change-of-control payment at $50 million aggregate. The TRA remains in force through Q1 2026; no Class C OpCo Unit Redemptions have occurred and Verde remains pre-revenue, so no TRA liability has accrued (this is a payment-status disclosure under the in-force TRA, not a termination signal). No amendments or terminations are on file. See `contract_log.md` for the full classification reasoning and the Cottonmouth / Diamondback equity-issuance context.

@@ -1,0 +1,37 @@
+---
+title: "Graphic Packaging International, LLC TRA (financing-arm subsidiary)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Graphic Packaging International, LLC", "Graphic Packaging Holding Company", "International Paper Company"]
+CIKs: ["0001005011", "0001408075", "0000051434"]
+status: Ongoing
+creation-date: 2018-01-01
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "50%"
+parallel-tras: []
+role: Financing-arm
+trigger-event-type: JV formation
+counterparty-type: M&A sellers
+notes: >-
+  This CIK is the senior-notes registrant subsidiary, not a contractual TRA
+  party. Same January 1, 2018 TRA as obligor-side parent Graphic Packaging
+  Holding Company (CIK 0001408075); filings here are joint co-filings.
+---
+
+## TRA Timeline
+
+#### JV formation and TRA execution
+
+- 2018-01-01: Transaction with International Paper closes; TRA executed under joint 8-K co-filed by Graphic Packaging Holding Company and this firm; Graphic Packaging International, LLC is not itself a contractual party but is the operating LLC whose assets generate the basis-step-up attributes
+
+#### IP exit transactions (TRA-touching consents, not amendments)
+
+- 2020-01-23: First IP redemption; Consent and Waiver Agreement co-filed
+- 2020-08-06: Second IP redemption; Consent and Waiver Agreement co-filed
+- 2021-02-19: IP exchange; $43M TRA liability recorded at the parent
+- 2021-05-21: IP final sale to GPI Holding I, Inc.; $66M TRA liability recorded at the parent; IP exits GPIP
+
+## Explanation
+
+Graphic Packaging International, LLC is the principal operating subsidiary and senior-notes registrant within the Graphic Packaging consolidated group; it is not itself a contractual party to the January 1, 2018 Tax Receivable Agreement but appears here because the originating 8-K (and several subsequent IP-exit 8-Ks) are joint co-filings with the public parent. The TRA itself obligates the Consolidated Group to pay 50% of net realized tax benefits to International Paper on Section 754 basis step-ups from IP's Exchanges of GPIP Common Units. See the parent's record at `../graphic-packaging-holding-co_0001408075/graphic-packaging-holding-co_summary.qmd` for the full explanation, the IP staged-exit narrative, and the $109M of cumulative cash payments through 2021. See `contract_log.md` for the filing-by-filing record at this CIK.

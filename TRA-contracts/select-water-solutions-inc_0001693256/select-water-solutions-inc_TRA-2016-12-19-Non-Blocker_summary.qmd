@@ -1,0 +1,37 @@
+---
+title: "Select Water Solutions TRA (TRA-2016-12-19-Non-Blocker)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Select Energy Services, Inc.", "Select Water Solutions, Inc."]
+CIKs: ["0001693256", "0001693256"]
+status: Ongoing
+creation-date: 2016-12-19
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2016-12-19-Legacy"]
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: pre-IPO holders
+notes: >-
+  Parallel to Legacy TRA. Separate contract because the Crestview-affiliated
+  Non-Blocker Holders had a different tax-blocker structure at the 144A
+  reorganization; identical 85% rate and tax-attribute coverage. Combined recorded
+  liability $43.4M at 12/31/2025 across both TRAs.
+---
+
+## TRA Timeline
+
+#### Up-C reorganization and TRA execution
+
+- 2016-12-19: 144A private placement and Up-C restructuring; Non-Blocker TRA executed at 85% sharing rate with Crestview Partners II SES Investment B, LLC as Non-Blocker Holders and Crestview Partners II GP as agent
+- 2017-04-28: Registered IPO under "WTTR" on NYSE
+- 2017-07-18: Amendment No. 1 executed concurrent with the Rockwater merger agreement, carving the Rockwater transaction out of the Change of Control trigger
+
+#### Routine maintenance
+
+- 2023-06-23: Amendment No. 2 transitions LIBOR references to CME Term SOFR plus 71.513 basis points pursuant to the LIBOR Act; no change to economic terms
+
+## Explanation
+
+Select Energy Services, Inc. (renamed Select Water Solutions, Inc. in 2023) executed two parallel Tax Receivable Agreements on December 19, 2016 at its 144A Up-C reorganization. This Non-Blocker TRA covers the Crestview-affiliated Non-Blocker Holders side, with reorganization-attributable basis step-ups from their contribution at the 144A reorganization; the parallel Legacy TRA covers SES Legacy Holdings. Both TRAs share an 85% sharing rate, identical tax-attribute coverage, and underwent the same two amendments: a July 2017 Change of Control carve-out for the Rockwater merger and a June 2023 LIBOR-to-SOFR benchmark transition. Both remain in force as of the FY2025 10-K; the parallel structure is an administrative artifact of the different pre-reorganization blocker structures rather than a substantive divergence in economic terms. See `contract_log.md` for the full filing-by-filing record and the parallel Legacy TRA.

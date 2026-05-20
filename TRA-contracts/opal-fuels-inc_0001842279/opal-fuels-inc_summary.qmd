@@ -1,0 +1,32 @@
+---
+title: "OPAL Fuels Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ArcLight Clean Transition Corp. II", "OPAL Fuels Inc."]
+CIKs: ["0001842279", "0001842279"]
+status: Ongoing
+creation-date: 2022-07-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Full valuation allowance against the underlying DTAs through FY 2025; no
+  TRA liability on balance sheet. Informational change-of-control payment
+  estimated at $133.0M discounted ($240.8M undiscounted).
+---
+
+## TRA Timeline
+
+#### De-SPAC close and TRA execution
+
+- 2021-12-02: 8-K announces Business Combination Agreement; Form-of TRA embedded as Annex F to the proxy materials (85% sharing of Cumulative Net Realized Tax Benefit from Section 754 basis adjustments on future OpCo unit exchanges plus imputed interest)
+- 2022-07-21: De-SPAC closes; ArcLight Clean Transition Corp. II domesticates to Delaware and is renamed OPAL Fuels Inc.; TRA executed with Opal HoldCo LLC (Mendota/Fortistar) as TRA Party Representative
+- 2022-07-27: 8-K files the executed TRA as Exhibit 10.6
+
+## Explanation
+
+OPAL Fuels Inc. (formerly ArcLight Clean Transition Corp. II) emerged from the July 21, 2022 de-SPAC business combination and executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net realized tax benefits from Section 754 basis step-ups on future Exchanges of Opal Fuels LLC Units for Class A or Class C shares, plus imputed interest, to the Mendota/Fortistar-controlled Opal HoldCo as TRA Party Representative and the other named TRA Parties. The contract has not been amended or terminated. OPAL has carried a full valuation allowance against the underlying DTAs since closing and has recognized no TRA liability through FY 2025; the FY 2024 and FY 2025 10-Ks disclose an informational change-of-control estimate of approximately $133.0M discounted ($240.8M undiscounted). See `contract_log.md` for the full filing-by-filing record.

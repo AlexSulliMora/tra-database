@@ -1,0 +1,36 @@
+---
+title: "Vertiv Holdings Co TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vertiv Holdings Co", "GS Acquisition Holdings Corp."]
+CIKs: ["0001674101", "0001674101"]
+status: Terminated
+creation-date: 2020-02-07
+termination-date: 2022-11-30
+tax-asset-type: [Basis Step-Up, NOL, Other tax credit]
+sharing-ratio: "65%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: "Repurchase Agreement replaced the full payment stream with a fixed $100M lump-sum (vs $162M fair value at 9/30/2021), implying a ~$60M gain on extinguishment. Payment schedule amended once and split into $12.5M + $12.5M + $75M installments."
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2020-02-07: GS Acquisition Holdings Corp / Vertiv business combination closes; executed Tax Receivable Agreement filed at 65% to VPE Holdings, LLC (Platinum Equity affiliate), covering Additional Basis Recovery, R&D Credit, and Seller Expense Deductions (8-K)
+
+#### Repurchase Agreement and payment restructuring
+
+- 2021-12-31: TRA Repurchase Agreement executed, terminating the original TRA upon receipt of a fixed $100M lump-sum (vs $162M Q3 2021 fair value); filed as Exhibit 10.1 to FY2021 10-K
+- 2022-06-15: Amendment No. 1 to Repurchase Agreement restructures payment schedule from $50M / $50M to $12.5M / $12.5M / $75M installments (8-K)
+
+#### Termination on final installment
+
+- 2022-11-30: Third installment ($75M) paid; TRA terminates with no further obligations to VPE Holdings (FY2022 10-K)
+
+## Explanation
+
+Vertiv Holdings Co became the PubCo of a SPAC business combination on February 7, 2020 and at close executed a Tax Receivable Agreement paying 65% of cash tax savings on three defined attributes (Additional Basis Recovery, R&D Credit, and Seller Expense Deductions) to Platinum Equity affiliate VPE Holdings, LLC; the 65% rate (rather than the Up-C-typical 85%) reflects the SPAC structure. Effective December 31, 2021 the parties signed a TRA Repurchase Agreement that terminated the original contract upon Vertiv paying a fixed $100M lump-sum, replacing the contract's full payment stream (then booked at $162M fair value) and implying a roughly $60M pre-tax gain on extinguishment. Amendment No. 1 to the Repurchase Agreement (June 15, 2022) restructured the payments from a $50M / $50M schedule into $12.5M / $12.5M / $75M installments paid on June 15, September 15, and November 30, 2022. The third installment paid in full triggered termination on November 30, 2022. See `contract_log.md` for the full Repurchase Agreement text and payment record.

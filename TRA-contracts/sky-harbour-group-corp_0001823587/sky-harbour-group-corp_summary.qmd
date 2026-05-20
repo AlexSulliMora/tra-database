@@ -1,0 +1,31 @@
+---
+title: "Sky Harbour Group Corporation TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Yellowstone Acquisition Company", "Sky Harbour Group Corporation"]
+CIKs: ["0001823587", "0001823587"]
+status: Ongoing
+creation-date: 2022-01-25
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  In force but no accrued TRA liability through FY2025; no LLC unit exchanges
+  have occurred yet, so no Cumulative Net Realized Tax Benefit triggers payment.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-01-04: Form-of TRA filed as Annex C inside the DEFM14A with placeholder preamble date
+- 2022-01-25: Yellowstone Transaction closes; Sky Harbour Group Corporation succeeds Yellowstone Acquisition Company in the Up-C structure; TRA executed at 85% sharing rate with Sky Harbour LLC, Tal Keinan as TRA Holder Representative, and the Existing Sky Equityholders as TRA Holders
+- 2022-01-31: Executed TRA filed as Exhibit 10.3 to closing 8-K
+
+## Explanation
+
+Sky Harbour Group Corporation executed a Tax Receivable Agreement on January 25, 2022 when it succeeded SPAC Yellowstone Acquisition Company in an Up-C business combination with Sky Harbour LLC. The contract pays 85% of cumulative net realized tax benefits to the Existing Sky Equityholders for basis step-ups on taxable exchanges of Sky LLC common units, existing basis in Sky tax assets attributable to units acquired from TRA Holders, and tax deductions on payments under the TRA itself. No amendments, restatements, or termination instruments have been filed through the FY2025 10-K. The TRA is legally in force but carries no recognized liability through December 31, 2025 because no LLC-unit exchanges or other triggering events have occurred; the contract is dormant rather than extinguished. See `contract_log.md` for the executed text and the same-contract comparison with the DEFM14A form-of.

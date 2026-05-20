@@ -1,0 +1,36 @@
+---
+title: "The Carlyle Group Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The Carlyle Group L.P.", "The Carlyle Group Inc."]
+CIKs: ["0001527166", "0001527166"]
+status: Ongoing
+creation-date: 2012-05-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Corporate Taxpayer is Carlyle Holdings I GP Inc. (subsidiary).
+  2020 Amendment closes the agreement to new Exchanges in connection with the L.P.-to-corporation conversion; agreement continues in run-off with $71.8M recorded liability at 12/31/2025.
+  Separate $344M deferred-consideration installments (2020-2024) tied to the conversion are not TRA payments.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2012-04-13: S-1/A No. 7 files the form-of TRA as Exhibit 10.4.
+- 2012-05-02: IPO closes; executed Tax Receivable Agreement dated May 2, 2012 between Carlyle Holdings I GP Inc., Carlyle Holdings I L.P., The Carlyle Group L.P., and the Limited Partners.
+- 2012-05-08: 8-K reports IPO close and files the executed TRA as Exhibit 10.2.
+
+#### Conversion amendment
+
+- 2020-01-01: Amendment effective at 12:02 a.m. ET; expanded recitals state that the L.P.-to-corporation Conversion is not an Exchange and that no further Exchanges will occur post-Conversion. Updates "Change of Control," "Continuing Director," "Exchange," and "LIBOR" definitions. 85% payment percentage and Section 754 attribute scope unchanged. Filed as Exhibit 99.2 to the January 2, 2020 8-K.
+
+## Explanation
+
+The TRA originates from Carlyle's May 2, 2012 Up-C IPO and obligated Carlyle Holdings I GP Inc. (the Corporate Taxpayer subsidiary) to pay 85% of cash tax savings on Section 754 basis step-ups from exchanges of Carlyle Holdings partnership units, plus imputed-interest deductions. The January 1, 2020 Amendment, executed in connection with Carlyle's conversion from a Delaware limited partnership to a Delaware corporation, closes the agreement to new Exchanges and converts it into a run-off: pre-Conversion basis step-ups continue to generate annual Tax Benefit Payments, but no new exchanges can add to the beneficiary pool. The $344M deferred consideration paid in five installments from 2020 through 2024 to former Carlyle Holdings unitholders is a separate obligation, not a TRA payment. The TRA carrying balance was $71.8M at December 31, 2025; a Delaware Chancery derivative action (Borenstein) challenges the 2020 amendment's effect but is litigation about its validity, not a separate contract modification. See `contract_log.md` for the same-contract analysis across the form-of, executed, and amendment versions.

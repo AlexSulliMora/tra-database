@@ -1,0 +1,36 @@
+---
+title: "Cactus, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Cactus, Inc."]
+CIKs: ["0001699136"]
+status: Ongoing
+creation-date: 2018-01-29
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  TRA Holders: Cadent Energy Partners II and Bender-affiliated entities (including Cactus WH Enterprises, LLC); Cadent Management Services, LLC as Agent.
+  TRA liability $262.9M at 12/31/2025 ($21.3M current + $241.6M long-term); $20.1M paid in 2025.
+  Preamble dated January 29, 2018; effective at IPO close on February 12, 2018.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2018-01-19: S-1/A files the form-of TRA as Exhibit 10.3.
+- 2018-01-29: Tax Receivable Agreement signed by Cactus, Inc., the TRA Holders, and Cadent Management Services, LLC as Agent; effective at the initial IPO closing.
+- 2018-02-12: IPO closes; 8-K reports closing and files the executed TRA as Exhibit 10.1.
+
+#### First Amendment
+
+- 2024-02-29: First Amendment effective February 29, 2024 (signed March 22, 2024); replaces LIBOR with CME Term SOFR for periods after June 30, 2023 and substitutes Cactus Companies, LLC for Cactus Wellhead, LLC effective February 27, 2023. Filed as Exhibit 10.1 to the Q1 2024 10-Q.
+
+## Explanation
+
+The TRA originates from Cactus, Inc.'s February 12, 2018 Up-C IPO and obligates the firm to pay 85% of realized tax benefits to Cadent Energy Partners II and the Bender-affiliated TRA Holders on Section 754 basis step-ups from Redemptions, pre-IPO attributes from the Debt Repayment recital, and imputed-interest deductions. A February 2024 First Amendment administratively substituted SOFR for LIBOR and updated the operating-LLC name to reflect the February 2023 CC Reorganization (Cactus Wellhead, LLC restructured into Cactus Companies, LLC); neither change modified the 85% rate, the tax-attribute scope, or the early termination provisions. The contract remains in force with $262.9M carrying value at December 31, 2025 and $20.1M in TRA payments made during 2025. The January 2026 Baker Hughes Pressure Control acquisition was structured at the LLC level and did not create a new TRA. See `contract_log.md` for the same-contract analysis across the form-of, executed, and amendment versions.

@@ -1,0 +1,40 @@
+---
+title: "ARYA Sciences Acquisition Corp IV TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["ARYA Sciences Acquisition Corp IV", "Amicus Therapeutics, Inc.", "Caritas Therapeutics, LLC", "Amicus GT Holdings, LLC"]
+CIKs: ["0001838821", "", "", ""]
+status: Terminated
+creation-date: 2021-09-29
+termination-date: 2022-02-23
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only, never executed. Contemplated obligor was the post-domestication
+  Caritas Therapeutics, Inc. (not ARYA). Caritas BCA mutually terminated 2022-02-23;
+  ARYA later closed a non-TRA C-corp merger with Adagio Medical and deregistered in 2024.
+---
+
+## TRA Timeline
+
+#### Caritas business combination announcement
+
+- 2021-09-29: 8-K/A reports Business Combination Agreement with Amicus Therapeutics, Caritas Therapeutics LLC, and Amicus GT Holdings; form-of TRA appears as Exhibit C to the BCA
+- 2021-11-01: S-4 / proxy describes the contemplated 85% TRA in narrative form
+
+#### Caritas BCA termination
+
+- 2022-02-23: ARYA and Caritas mutually terminate the BCA; TRA never executed (confirmed via the FY2021 10-K)
+
+#### Post-termination wind-down
+
+- 2024-02-13: ARYA signs Adagio Medical BCA, a conventional C-corp merger with no TRA contemplated
+- 2024-08-12: ARYA deregisters (Form 15-12G)
+
+## Explanation
+
+ARYA Sciences Acquisition Corp IV was a SPAC that signed a Business Combination Agreement on September 29, 2021 with Amicus Therapeutics and Caritas Therapeutics LLC contemplating an Up-C structure in which the post-domestication Caritas Therapeutics, Inc. would enter an 85% Tax Receivable Agreement with Amicus GT Holdings and future LLC members covering basis step-ups on future Unit exchanges. The form-of TRA appeared only as Exhibit C inside the BCA exhibit, with a blank preamble date. ARYA and Caritas mutually terminated the BCA on February 23, 2022, foreclosing TRA execution. ARYA subsequently signed a separate February 2024 BCA with Adagio Medical (a conventional C-corp merger with no TRA), closed that transaction in July 2024, and deregistered. See `contract_log.md` for the full filing-by-filing record.

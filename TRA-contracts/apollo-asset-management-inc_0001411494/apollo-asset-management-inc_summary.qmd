@@ -1,0 +1,38 @@
+---
+title: "Apollo Asset Management TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Apollo Global Management, LLC", "Apollo Global Management, Inc.", "Apollo Asset Management, Inc."]
+CIKs: ["0001411494", "0001411494", "0001411494"]
+status: Ongoing
+creation-date: 2007-07-13
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: founder vehicle
+notes: >-
+  Payer is APO Corp. (the corporate blocker), not the registrant. Early-
+  termination right permanently and irrevocably waived May 2, 2022. TRA
+  stayed at CIK 1411494 through the 2022 Athene reparenting.
+---
+
+## TRA Timeline
+
+#### Origin and pre-IPO restructuring
+
+- 2007-07-13: TRA executed at CalPERS strategic-investment close, prior to the eventual 2011 IPO
+- 2010-04-14: First Amendment and Joinder admits Apollo Principal VI, VIII, and AMH Holdings (Cayman) as additional Partnerships
+- 2013-05-06: Amended and Restated TRA consolidates the post-IPO structure; 85% rate, beneficiaries, and termination provisions retained
+
+#### Corporate-form and ultimate-parent changes
+
+- 2019-09-05: Amendment updates definitions on the LLC-to-Inc. conversion (Apollo Global Management, LLC becomes Apollo Global Management, Inc.)
+- 2022-01-01: Athene merger; CIK 1411494 renamed Apollo Asset Management, Inc.; new ultimate parent at CIK 1858681; TRA stays at CIK 1411494
+- 2022-05-02: APO Corp. permanently and irrevocably waives the Section 4.01(a) Early Termination Right
+
+## Explanation
+
+The Apollo TRA was executed on July 13, 2007 at the pre-IPO reorganization (the CalPERS strategic-investment closing), with APO Corp. (the corporate blocker holding the Apollo Operating Group interests) committing to pay 85% of the cash tax savings it realizes from Section 754 basis step-ups on exchanges of AOG Units for Class A shares to the Managing Partners (Black, Rowan, Harris) and the Contributing Partners. The contract was joined by additional AOG entities via the April 2010 First Amendment, restated in May 2013, and amended in September 2019 to reflect the LLC-to-Inc. conversion; none of these changed the 85% rate, beneficiary set, or Section 754 step-up framework. On May 2, 2022, APO Corp. permanently and irrevocably waived its Section 4.01(a) Early Termination Right, locking in the ongoing payment obligation and ruling out a lump-sum buyout. The TRA stayed at CIK 1411494 through the 2022 Athene reparenting (the new ultimate parent at CIK 1858681 has parallel TRAs from that combination, not this one) and is in force as of the Q2 2023 10-Q (latest in directory). See `contract_log.md` for the full filing-by-filing record.

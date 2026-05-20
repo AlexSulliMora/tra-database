@@ -1,0 +1,226 @@
+---
+title: "TAX RECEIVABLE AGREEMENT"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+---
+
+**Exhibit 10.13**
+
+# TAX RECEIVABLE AGREEMENT
+
+FORM OF · VINE ENERGY INC. · THE PERSONS NAMED HEREIN · Dated as of \[ \], 2021.
+
+## ANNEXES AND EXHIBITS
+
+  ----------- ---- ---- ---- ----------------------------
+
+  Annex A          \-        Blocker Entities
+  Annex B          \-        Reorganization TRA Parties
+  Annex C          \-        Exchange TRA Parties
+  Exhibit A        \-        Form of Joinder Agreement
+  ----------- ---- ---- ---- ----------------------------
+
+## TAX RECEIVABLE AGREEMENT {#tax-receivable-agreement}
+
+This **TAX RECEIVABLE AGREEMENT** (this "Agreement"), is dated as of \[                \], 2021, and is between Vine Energy Inc., a Delaware corporation (including any successor corporation, the "Corporate Taxpayer") and each of the TRA Parties that are from time to time a party hereto.
+
+## RECITALS
+
+**WHEREAS,** the Reorganization TRA Parties or their respective transferors or successors were previously owners of the Blocker Entities, and as a result of their previous ownership of the Blocker Entities, the Reorganization TRA Parties previously indirectly held equity interests (the "Units") in Vine Energy Holdings LLC, a Delaware limited liability company ("OpCo"), through the Blocker Entities;
+
+**WHEREAS**, the Exchange TRA Parties directly hold Units in OpCo;
+
+**WHEREAS,** OpCo is classified as a partnership for U.S. federal income tax purposes, and the Corporate Taxpayer and each of the Blocker Entities is or was (at all relevant times) classified as a corporation for U.S. federal income tax purposes;
+
+**WHEREAS,** as a result of certain reorganization transactions undertaken in connection with the IPO as more fully described in the Master Reorganization Agreement, all of the shares of the Blocker Entities were contributed directly or indirectly to the Corporate Taxpayer by the Reorganization TRA Parties or their respective transferors or successors (the "Reorganization");
+
+**WHEREAS,** as a result of the Reorganization, the Corporate Taxpayer may be entitled to utilize (or otherwise be entitled to the benefits arising out of) the Pre-IPO Covered Tax Assets;
+
+**WHEREAS**, the Units held by the Exchange TRA Parties may be exchanged for Class A common stock (the "Class A Shares") of the Corporate Taxpayer or cash consideration, in accordance with and subject to the provisions of the LLC Agreement and Exchange Agreement (each, an "Exchange");
+
+**WHEREAS**, as a result any such Exchanges, the Corporate Taxpayer may be entitled to utilize (or otherwise be entitled to the benefits arising out of) the Exchange Covered Tax Assets; and
+
+**WHEREAS**, the income, gain, loss, expense, deduction and other Tax items of the Corporate Taxpayer may be affected by the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets, and the parties to this Agreement desire to make certain arrangements with respect to the effects of the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets.
+
+**NOW, THEREFORE**, in consideration of the foregoing and the respective covenants and agreements set forth herein, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+"Actual Tax Liability" means, with respect to any Taxable Year, the actual liability for U.S. federal, state and local income Taxes of (a) the Corporate Taxpayer and (b) without duplication, OpCo and its Subsidiaries, but in the case of this clause (b) only with respect to U.S. federal, state and local income Taxes imposed on OpCo and its Subsidiaries and allocable to the Corporate Taxpayer; provided that the actual liability for Taxes described in clauses (a) and (b) shall be calculated by assuming (i) that any Subsequently Acquired TRA Attributes do not exist, (ii) solely for purposes of calculating the state and local Actual Tax Liability of the Corporate Taxpayer, that the applicable tax rate is the Assumed State and Local Tax Rate, and (iii) solely for purposes of calculating the Corporate Taxpayer's U.S. federal Actual Tax Liability, in order to prevent double counting, that state and local income and franchise Taxes are not deductible by the Corporate Taxpayer for U.S. federal income tax purposes.
+
+"Affiliate" means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first Person.
+
+"Agreed Rate" means a per annum rate of LIBOR plus 100 basis points.
+
+"Agreement" is defined in the Preamble to this Agreement.
+
+"Amended Schedule" is defined in [Section 2.3(b)](#section-2-3) of this Agreement.
+
+"Assumed State and Local Tax Rate" means the tax rate equal to the sum of the product of (a) the Corporate Taxpayer's income and franchise tax apportionment rate(s) for each state and local jurisdiction in which the Corporate Taxpayer or OpCo (or any of their Subsidiaries that are treated as partnerships or disregarded entities for U.S. federal or applicable state and local tax purposes) files income or franchise Tax Returns for the relevant Taxable Year and (b) the highest corporate income and franchise tax rate(s) for each such state and local jurisdiction in which the Corporate Taxpayer, OpCo or their applicable Subsidiaries file income or franchise Tax Returns for each such relevant Taxable Year; provided that, solely in respect of the Corporate Taxpayer, to the extent, for any Taxable Year, that state and local income and franchise Taxes are deductible for U.S. federal income tax purposes by members forming part of the Corporate Taxpayer that are treated as corporations for U.S. federal income tax purposes, the Assumed State and Local Tax Rate calculated pursuant to the foregoing shall be reduced by the assumed federal income Tax benefit received by the Corporate Taxpayer with respect to state and local jurisdiction income and franchise Taxes (with such benefit calculated as the product of (i) the Corporate Taxpayer's marginal U.S. federal income tax rate for the relevant Taxable Year and (ii) the Assumed State and Local Tax Rate without regard to this proviso).
+
+"Attributable" is defined in Section 3.1(b) of this Agreement.
+
+"Basis Adjustment" means the adjustment to the tax basis of, or the Corporate Taxpayer's share of the tax basis of, a Reference Asset (a) under Sections 732, 734(b), 707(a), 737 and 1012 of the Code and any comparable sections of U.S. state and local tax law (in situations where, as a result of one or more Exchanges, OpCo becomes an entity that is disregarded as separate from its owner for U.S. federal income tax purposes) or (b) under Sections 734(b), 743(b) and 754 of the Code and any comparable sections of U.S. state and local tax law (in situations where, following an Exchange, OpCo remains in existence as an entity treated as a partnership for U.S. federal income tax purposes), in each case, as a result of any Exchange and any payments made pursuant to this Agreement. For the avoidance of doubt, the amount of any Basis Adjustment resulting from an Exchange of one or more Units (i) shall be determined without regard to any Pre-Exchange Transfer of such Units and as if any such Pre-Exchange Transfer had not occurred and (ii) shall not include the portion of any Tax Benefit Payment representing Imputed Interest.
+
+"Beneficial Owner" means, with respect to any security, a Person who directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares: (a) voting power, which includes the power to vote, or to direct the voting of, such security; and/or (b) investment power, which includes the power to dispose of, or to direct the disposition of, such security. The terms "Beneficially Own" and "Beneficial Ownership" shall have correlative meanings.
+
+"Blocker Entities" means the entities listed on Annex A.
+
+"Board" means the Board of Directors of the Corporate Taxpayer.
+
+"Business Day" means any day other than a Saturday, Sunday or any other day on which commercial banks are authorized or required by applicable law to be closed in New York, New York.
+
+"Change of Control" means the occurrence of any of the following events or series of events after the IPO Date: (a) any Person (other than a Permitted Investor) or any group of Persons acting together that would constitute a "group" for purposes of Section 13(d) of the Securities and Exchange Act of 1934, or any successor provisions thereto (excluding (i) a corporation or other entity owned, directly or indirectly, by the stockholders of the Corporate Taxpayer in substantially the same proportions as their ownership of stock of the Corporate Taxpayer or (ii) a group of Persons in which one or more Permitted Investors or Affiliates of Permitted Investors directly or indirectly hold Beneficial Ownership of securities representing more than 50% of the total voting power held by such group) is or becomes the Beneficial Owner, directly or indirectly, of securities of the Corporate Taxpayer representing more than 50% of the combined voting power of the Corporate Taxpayer's then outstanding voting securities; (b) the following individuals cease for any reason to constitute a majority of the number of directors of the Corporate Taxpayer then serving: individuals who, on the IPO Date, constitute the Board and any new director whose appointment or election by the Board or nomination for election by the Corporate Taxpayer's shareholders was approved or recommended by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors on the IPO Date or whose appointment, election or nomination for election was
+
+Notwithstanding the foregoing, except with respect to clause (b) and clause (c)(i) above, a "Change of Control" shall not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately following which the record holders of the shares of the Corporate Taxpayer immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in, and own substantially all of the shares of, an entity which owns, either directly or through a Subsidiary, all or substantially all of the assets of the Corporate Taxpayer immediately following such transaction or series of transactions.
+
+"Class A Shares" is defined in the Recitals of this Agreement.
+
+"Code" means the U.S. Internal Revenue Code of 1986, as amended.
+
+"Control" means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+"Corporate Taxpayer" is defined in the Preamble to this Agreement; provided that the term "Corporate Taxpayer" shall include any other member of the U.S. federal income tax consolidated group including the Corporate Taxpayer.
+
+"Corporate Taxpayer Return" means the U.S. federal and/or state and/or local Tax Return, as applicable, of the Corporate Taxpayer filed with respect to Taxes of any Taxable Year.
+
+"Covered Person" is defined in Section 7.15 of this Agreement.
+
+"Default Rate" means a per annum rate of LIBOR plus 500 basis points.
+
+"Determination" shall have the meaning ascribed to such term in Section 1313(a) of the Code or similar provision of U.S. state or local tax law, as applicable, or any other event (including the execution of IRS Form 870-AD) that finally and conclusively establishes the amount of any liability for Tax.
+
+"Dispute" is defined in Section 7.8(a) of this Agreement.
+
+"Early Termination Date" means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+
+"Early Termination Effective Date" means the date on which an Early Termination Schedule becomes binding pursuant to Section 4.2.
+
+"Early Termination Notice" is defined in Section 4.2 of this Agreement.
+
+"Early Termination Payment" is defined in Section 4.3(b) of this Agreement.
+
+"Early Termination Rate" means a per annum rate of LIBOR plus 100 basis points.
+
+"Early Termination Schedule" is defined in Section 4.2 of this Agreement.
+
+"Exchange" is defined in the Recitals of this Agreement.
+
+"Exchange Agreement" means the Exchange Agreement, dated on or about the date hereof, between the Corporate Taxpayer, OpCo and the holders of Units from time to time party thereto, as such agreement may be further amended, restated, supplemented and/or otherwise modified from time to time.
+
+"Exchange Covered Tax Assets" means, with respect to an Exchange TRA Party, (a) Basis Adjustments and (b) Imputed Interest. For the avoidance of doubt, Exchange Covered Tax Assets shall include any carryforwards or similar attributes that are attributable to the Tax items described in clauses (a) and (b).
+
+"Exchange Date" means the date of any Exchange.
+
+"Exchange TRA Parties" means the Persons listed on Annex C.
+
+"Hypothetical Tax Liability" means, with respect to any Taxable Year, the liability for U.S. federal, state and local income Taxes of (a) the Corporate Taxpayer and (b) without duplication, OpCo and its Subsidiaries, but in the case of this clause (b) only with respect to U.S. federal, state and local income Taxes imposed on OpCo and its Subsidiaries and allocable to the Corporate Taxpayer, in each case, using the same methods, elections, conventions, and practices used on the relevant Corporate Taxpayer Return but calculated (i) without taking into account the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets (including, for the avoidance of doubt, any carryforward or carryback of any tax item attributable to the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets) and (ii) by assuming (A) that any Subsequently Acquired TRA Attributes do not exist, (B) solely for purposes of calculating the state and local Hypothetical Tax Liability of the Corporate Taxpayer, that the applicable tax rate is the Assumed State and Local Tax Rate, and (C) solely for purposes of calculating the Corporate Taxpayer's U.S. federal Hypothetical Tax Liability, in order to prevent double counting, that state and local income and franchise Taxes are not deductible by the Corporate Taxpayer for U.S. federal income tax purposes.
+
+"Imputed Interest" in respect of a TRA Party means any interest imputed under Section 1272, 1274 or 483 or other provision of the Code with respect to the Corporate Taxpayer's payment obligations in respect of such TRA Party under this Agreement.
+
+"Interest Amount" is defined in Section 3.1(b) of this Agreement.
+
+"IPO" means the initial public offering of Class A Shares by the Corporate Taxpayer.
+
+"IPO Date" means the closing date of the IPO.
+
+"IRS" means the U.S. Internal Revenue Service.
+
+"LIBOR" means during any period, the rate which appears on the Bloomberg Page BBAM1 (or on such other substitute Bloomberg page that displays rates at which U.S. dollar deposits are offered by leading banks in the London interbank deposit market or such other commercially available source providing quotations of such rates as may be designated by Corporate Taxpayer from time to time), or the rate which is quoted by another source selected by the Corporate Taxpayer as an authorized information vendor for the purpose of displaying rates at which U.S. dollar deposits are offered by leading banks in the London interbank deposit market (an "Alternate Source"), at approximately 11:00 a.m., London time, two (2) Business Days prior to the first day of such period as the London interbank offered rate for U.S. dollars having a borrowing date and a maturity comparable to such period (or if there shall at any time, for any reason, no longer exist a Bloomberg Page BBAM1 (or any substitute page) or any LIBOR Alternate Source, a comparable replacement rate determined by the Corporate Taxpayer and the TRA Party Representative at such time, which determination shall be conclusive absent manifest error); provided that at no time shall LIBOR be less than 0%. If the Corporate Taxpayer has made the determination (such determination to be conclusive absent manifest error) that (i) LIBOR is no longer a widely recognized benchmark rate for newly originated loans in the U.S. loan market in U.S. dollars or (ii) the applicable supervisor or administrator (if any) of LIBOR
+
+"LLC Agreement" means the Amended and Restated Limited Liability Company Agreement of OpCo, dated on or about the date hereof, as such agreement may be further amended, restated, supplemented and/or otherwise modified from time to time.
+
+"Market Value" shall mean the closing price of the Class A Shares on the applicable Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided that if the closing price is not reported by the *Wall Street Journal* for the applicable Exchange Date, then the Market Value shall mean the closing price of the Class A Shares on the Business Day immediately preceding such Exchange Date on the national securities exchange or interdealer quotation system on which such Class A Shares are then traded or listed, as reported by the *Wall Street Journal*; provided, further, that if the Class A Shares are not then listed on a national securities exchange or interdealer quotation system, "Market Value" shall mean the cash consideration paid for Class A Shares, or the fair market value of the other property delivered for Class A Shares, as determined by the Board in good faith. Notwithstanding anything to the contrary in the above sentence, to the extent property is exchanged for cash in a transaction, the Market Value shall be determined by reference to the amount of cash transferred in such transaction.
+
+"Master Reorganization Agreement" means the Master Reorganization Agreement, dated on or about the date hereof, by and among the Corporate Taxpayer, OpCo and certain other parties thereto.
+
+"Net Tax Benefit" is defined in Section 3.1(b) of this Agreement.
+
+"Objection Notice" is defined in [Section 2.3(a)](#section-2-3) of this Agreement.
+
+"OpCo" is defined in the Recitals to this Agreement.
+
+"Permitted Investors" means, individually or collectively, any investment fund, co-investment vehicles and/or other similar vehicles or accounts, in each case managed by an Affiliate of The Blackstone Group L.P., or any of their respective successors.
+
+"Pre-Exchange Transfer" means any transfer (including upon the death of a member) or distribution in respect of one or more Units (a) that occurs prior to an Exchange of such Units, and (b) to which Section 734(b) or 743(b) of the Code applies.
+
+"Pre-IPO Covered Tax Assets" means, with respect to a Reorganization TRA Party, (a) any net operating loss carryforwards, disallowed interest expense carryforwards under Section 163(j) of the Code, or tax credit carryforwards, in each case relating to taxable periods ending on or prior to the IPO Date, attributable to the Blocker Entity previously owned by such Reorganization TRA Party that are available to offset income or gain of the Corporate Taxpayer in periods (or portions thereof) beginning after the IPO Date and (b) Imputed Interest. For the avoidance of doubt, Pre-IPO Covered Tax Assets shall include any carryforwards, carrybacks or similar attributes that are attributable to the Tax items described in clause (b).
+
+"Realized Tax Benefit" means, for a Taxable Year, the excess, if any, of the Hypothetical Tax Liability over the Actual Tax Liability. If all or a portion of the actual liability for such Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Benefit unless and until there has been a Determination.
+
+"Realized Tax Detriment" means, for a Taxable Year, the excess, if any, of the Actual Tax Liability over the Hypothetical Tax Liability. If all or a portion of the actual liability for such Taxes for the Taxable Year arises as a result of an audit by a Taxing Authority of any Taxable Year, such liability shall not be included in determining the Realized Tax Detriment unless and until there has been a Determination.
+
+"Reconciliation Dispute" is defined in Section 7.9 of this Agreement.
+
+"Reconciliation Procedures" is defined in [Section 2.3(a)](#section-2-3) of this Agreement.
+
+"Reference Asset" means any tangible or intangible asset that is held by OpCo or any of its successors or assigns, and any asset held by any entities in which OpCo owns a direct or indirect equity interest that are treated as a partnership or disregarded entity (but only to the extent such entities are held through other entities that are treated as partnerships or disregarded entities) for purposes of the applicable Tax, as of the relevant date. A Reference Asset also includes any asset that is "substituted basis property" under Section 7701(a)(42) of the Code with respect to a Reference Asset.
+
+"Reorganization" is defined in the Recitals to this Agreement.
+
+"Reorganization TRA Parties" means the persons listed on Annex B.
+
+"Schedule" means any of the following: (a) an Attribute Schedule; (b) a Tax Benefit Schedule; or (c) the Early Termination Schedule.
+
+"Subsequently Acquired TRA Attributes" means, except as otherwise determined by the Board (with the approval of the TRA Party Representative), any net operating losses, tax basis or other tax attributes to which any of the Corporate Taxpayer, OpCo or any entity in which they hold a direct or indirect equity interest become entitled as a result of a transaction (other than any Exchanges undertaken by an Exchange TRA Party) after the IPO Date, to the extent such net operating losses, tax basis and other tax attributes are subject to a tax receivable agreement (or comparable agreement) entered into after the date hereof by the Corporate Taxpayer or any of its Controlled Affiliates pursuant to which any member forming part of the Corporate Taxpayer is obligated to pay over amounts with respect to tax benefits resulting from such net operating losses, tax basis or other tax attributes.
+
+"Subsidiaries" means, with respect to any Person, as of any date of determination, any other Person as to which such Person, owns, directly or indirectly, or otherwise controls more than 50% of the voting power or other similar interests or the sole general partner interest or managing member or similar interest of such Person.
+
+"Tax Benefit Payment" is defined in Section 3.1(b) of this Agreement.
+
+"Tax Benefit Schedule" is defined in [Section 2.2(a)](#section-2-2) of this Agreement.
+
+"Tax Return" means any return, declaration, report or similar statement required to be filed with respect to Taxes (including any attached schedules), including, without limitation, any information return, claim for refund, amended return and declaration of estimated Tax.
+
+"Taxable Year" means a taxable year of the Corporate Taxpayer as defined in Section 441(b) of the Code or comparable sections of U.S. state or local tax law, as applicable (and, therefore, for the avoidance of doubt, may include a period of less than twelve (12) months for which a Tax Return is made), ending on or after the IPO Date.
+
+"Taxes" means any and all U.S. federal, state or local taxes, assessments or similar charges that are based on or measured with respect to net income or profits (including alternative minimum taxes and any franchise taxes imposed in lieu of an income tax), and any interest related to such Tax.
+
+"Taxing Authority" shall mean any domestic, federal, national, state, county or municipal or other local government, any subdivision, agency, commission or authority thereof, or any quasi-governmental body exercising any taxing authority or any other authority exercising Tax regulatory authority.
+
+"TRA Parties" means the Exchange TRA Parties and the Reorganization TRA Parties.
+
+"TRA Party Representative" means, initially, **\[             \]**, and thereafter, that TRA Party or committee of TRA Parties determined from time to time by a plurality vote of the TRA Parties ratably in accordance with their right to receive Early Termination Payments hereunder.
+
+"Units" is defined in the Recitals of this Agreement.
+
+"Valuation Assumptions" shall mean, as of an Early Termination Date, the assumptions that (a) in each Taxable Year ending on or after such Early Termination Date, the Corporate Taxpayer will have taxable income sufficient to fully use the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets (other than any such Pre-IPO Covered Tax Assets or Exchange Covered Tax Assets that constitute or have resulted in net operating losses, disallowed interest expense carryforwards, or credit carryforwards or carryovers (determined as of the Early Termination Date), which shall be governed by clause (d) below) during such Taxable Year or future Taxable Years in which such deductions or other attributes would become available; (b) the U.S. federal income tax rates that will be in effect for each such Taxable Year will be those specified for each such Taxable Year by the Code and other law as in effect on the Early Termination Date, except to the extent any change to such tax rates for such Taxable Year have already been enacted into law; (c) the tax rate for U.S. state and local income taxes shall be the Assumed State and Local Tax Rate as in effect for the Taxable Year of the Early Termination Date; (d) any net operating loss, disallowed interest expense, or credit carryovers or carrybacks (or similar items with respect to carryovers or carrybacks) that constitute or that were generated by any Pre-IPO Covered Tax Asset or Exchange Covered Tax Asset and available as of the Early Termination Date will be used by the Corporate Taxpayer ratably over a period beginning on the Early Termination Date and ending on the earlier of (i) five years following the Early Termination Date or (ii) the scheduled expiration date, if any, under applicable Tax law of such net operating losses, disallowed interest expense, or credit carryovers or carrybacks (or similar items with respect to carryovers or carrybacks); provided that if the Corporate Taxpayer is prevented from fully using any net operating loss, disallowed interest expense, or credit carryover pursuant to Section 382 or Section 383 of the Code, the amount used for purposes of this provision shall not exceed the amount that would otherwise be utilized under Section 382 or Section 383 of the Code and the five year period described clause (d)(i) shall be proportionately increased to reflect such limit; (e) any non-amortizable Reference Assets (other than equity interests in Subsidiaries that are treated as corporations for U.S. federal income tax purposes) will be disposed of in a fully taxable transaction on the fifteenth anniversary of the applicable Exchange (in the case of Exchange Covered Tax Assets) or the IPO Date (in the case of Pre-IPO Covered Tax Assets) and any cash equivalents will be disposed of twelve (12) months following the Early Termination Date; provided that, in the event of a Change of Control that includes a taxable sale of such Reference Asset (or the sale of all of the equity interests in a partnership or disregarded entity for U.S. federal income tax purposes that directly or indirectly owns such Reference Asset), such non-amortizable Reference Asset shall be deemed disposed of at the time of the direct or indirect sale of the relevant Reference Asset in such Change of Control (if earlier than such fifteenth anniversary) for the applicable purchase price; (f) if, on the Early Termination Date, any Exchange TRA Party has Units that have not been Exchanged, then such Units shall be deemed to be Exchanged for the Market Value that would be received by such Exchange TRA Party if such Units had been Exchanged on the Early Termination Date, and such Exchange TRA Party shall be deemed to receive the amount of cash such Exchange TRA Party would have been entitled to pursuant to Section 4.3(a) had such Units actually been Exchanged on the Early
+
+## ARTICLE II: DETERMINATION OF REALIZED TAX BENEFIT {#article-ii}
+
+### Section 2.1: Section {#section-2-1}
+
+** 2.1** **Attribute Schedule**. Within ninety (90) calendar days after the filing of the IRS Form 1120 (or any successor form) of the Corporate Taxpayer for each relevant Taxable Year, the Corporate Taxpayer shall deliver to the TRA Party Representative a schedule (the "Attribute Schedule") that shows, in reasonable detail necessary to perform the calculations required by this Agreement (a) the Pre-IPO Covered Tax Assets that are available for use by the Corporate Taxpayer with respect to each Reorganization TRA Party with respect to such Taxable Year and the portion of the Pre-IPO Covered Tax Assets that are available for use by the Corporate Taxpayer in future Taxable Years with respect to each Reorganization TRA Party and (b) the Exchange Covered Tax Assets that are available for use by the Corporate Taxpayer with respect to such Taxable Year with respect to each Exchange TRA Party that has effected an Exchange (including the Basis Adjustments with respect to the Reference Assets resulting from Exchanges effected in such Taxable Year and the periods over which such Basis Adjustments are amortizable or depreciable) and the portion of the Exchange Covered Tax Assets that are available for use by the Corporate Taxpayer in future Taxable Years with respect to each Exchange TRA Party that has effected an Exchange. The Attribute Schedule shall also list any limitations on the ability of the Corporate Taxpayer to utilize any Pre-IPO Covered Tax Assets or Exchange Covered Tax Assets under applicable law (including as a result of the operation of Section 382 of the Code or Section 383 of the Code).
+
+### Section 2.2: Section {#section-2-2}
+
+** 2.2** **Tax Benefit Schedule**.
+
+\(a\) Tax Benefit Schedule. Within ninety (90) calendar days after the filing of the IRS Form 1120 (or any successor form) of the Corporate Taxpayer for any relevant Taxable Year, the Corporate Taxpayer shall provide to the TRA Party Representative a schedule showing, in reasonable detail, the calculation of the Tax Benefit Payment in respect of each TRA Party for such Taxable Year and the calculation of the Realized Tax Benefit or a Realized Tax Detriment and the components thereof for such Taxable Year (a "Tax Benefit Schedule"). Each Tax Benefit Schedule will become final as provided in [Section 2.3(a)](#section-2-3) and may be amended as provided in [Section 2.3(b)](#section-2-3) (subject to the procedures set forth in [Section 2.3(b)](#section-2-3)).
+
+### Section 2.3: Section {#section-2-3}
+
+\(b\) Applicable Principles. For purposes of calculating the Realized Tax Benefit or Realized Tax Detriment for any period, carryovers or carrybacks of any Tax item attributable to the Pre-IPO Covered Tax Assets and Exchange Covered Tax Assets shall be considered to be subject to the rules of the Code and the Treasury Regulations or the appropriate provisions of U.S. state and local income and franchise tax law, as applicable, governing the use, limitation and expiration of carryovers or carrybacks of the relevant type. If a carryover or carryback of any Tax item includes a portion that is attributable to a Pre-IPO Covered Tax Asset or an Exchange Covered Tax Asset and another portion that is not, such portions shall be considered to be used in accordance with a "with and without" methodology.
+
+Termination Date; (g) any payment obligations pursuant to this Agreement will be satisfied on the date that any Tax Return to which such payment obligation relates is required to be filed excluding any extensions; and (h) for purposes of calculating depletion deductions and resulting reductions in adjusted tax basis with respect to depletable properties held by OpCo and its Subsidiaries that are treated as disregarded entities or partnerships for U.S. federal tax purposes, (i) the remaining recoverable reserves with respect to each such property are equal to the recoverable reserves estimated in the most recent reserve report relating to such property (or, if there is no reserve report with respect to such property, the most recent estimate of recoverable reserves with respect to such property which is reflected in the financial records of OpCo) and (ii) OpCo (or such Subsidiaries) will recover the remaining recoverable reserves with respect to each such depletable property within the time estimated and at the rate reflected in the most recent reserve reports relating to such property (or, if there is no reserve report with respect to such property, the most recent estimate of the rate of recovery of recoverable reserves with respect to such property which is reflected in the financial records of OpCo).
+
+"Treasury Regulations" means the final, temporary and (to the extent they can be relied upon) proposed regulations under the Code promulgated from time to time (including corresponding provisions and succeeding provisions) as in effect for the relevant taxable period.
+
+"Senior Obligations" is defined in Section 5.1 of this Agreement.
+
+"Person" means any individual, corporation, firm, partnership, joint venture, limited liability company, estate, trust, business association, organization, governmental entity or other entity.
+
+has made a public statement identifying a specific date after which LIBOR shall no longer be used for determining interest rates for loans in the U.S. loan market in U.S. dollars, then the Corporate Taxpayer and the TRA Party Representative shall (as determined by the Corporate Taxpayer and the TRA Party Representative to be consistent with market practice generally), establish a replacement interest rate (the "Replacement Rate"), in which case, the Replacement Rate shall, subject to the next two sentences, replace LIBOR for all purposes under this Agreement. In connection with the establishment and application of the Replacement Rate, this Agreement shall be amended solely with the consent of the Corporate Taxpayer and the TRA Party Representative, as may be necessary or appropriate, in the reasonable judgment of the Corporate Taxpayer and the TRA Party Representative, to effect the provisions of this section. The Replacement Rate shall be applied in a manner consistent with market practice; provided that in each case, to the extent such market practice is not administratively feasible for the Corporate Taxpayer, such Replacement Rate shall be applied as otherwise reasonably determined by the Corporate Taxpayer and the TRA Party Representative.
+
+"Expert" is defined in Section 7.9 of this Agreement.
+
+"Cumulative Net Realized Tax Benefit" for a Taxable Year means the cumulative amount of Realized Tax Benefits for all Taxable Years of the Corporate Taxpayer ending after December 31, 2025, up to and including such Taxable Year, net of the cumulative amount of Realized Tax Detriments for the same period; provided that, if the Corporate Taxpayer chooses to exercise its right of early termination under Section 4.1(a) or the Corporate Taxpayer's obligations under this Agreement are accelerated under Section 4.1(b) or Section 4.1(c), such period used for purposes of determining the Early Termination Payment shall include any Taxable Year of the Corporate Taxpayer ending on or after the Early Termination Date without regard to whether such relevant Taxable Year ends on or before December 31, 2023. The Realized Tax Benefit and Realized Tax Detriment for each Taxable Year shall be determined based on the most recent Tax Benefit Schedules or Amended Schedules, if any, in existence at the time of such determination.
+
+previously so approved or recommended by the directors referred to in this clause (b); (c) there is consummated a merger or consolidation of the Corporate Taxpayer with any other corporation or other entity, and, immediately after the consummation of such merger or consolidation, either (i) the members of the Board immediately prior to the merger or consolidation do not constitute at least a majority of the members of the board of directors of the company surviving the merger or, if the surviving company is a Subsidiary, the ultimate parent thereof, or (ii) the voting securities of the Corporate Taxpayer immediately prior to such merger or consolidation do not continue to represent or are not converted into more than 50% of the combined voting power of the then outstanding voting securities of the Person resulting from such merger or consolidation or, if the surviving company is a Subsidiary, the ultimate parent thereof; or (d) the shareholders of the Corporate Taxpayer approve a plan of complete liquidation or dissolution of the Corporate Taxpayer or there is consummated an agreement or series of related agreements for the sale or other disposition, directly or indirectly, by the Corporate Taxpayer of all or substantially all of the Corporate Taxpayer's assets, other than such sale or other disposition by the Corporate Taxpayer of all or substantially all of the Corporate Taxpayer's assets to an entity at least 50% of the combined voting power of the voting securities of which are owned by shareholders of the Corporate Taxpayer in substantially the same proportions as their ownership of the Corporate Taxpayer immediately prior to such sale.
+
+"Attribute Schedule" is defined in [Section 2.1](#section-2-1) of this Agreement.
+
+## ARTICLE I: DEFINITIONS {#article-i}
+
+**Section 1.1** **Definitions**. As used in this Agreement, the terms set forth in this [Article I](#article-i) shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined).

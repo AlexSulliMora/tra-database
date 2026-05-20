@@ -1,0 +1,38 @@
+---
+title: "The RMR Group TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["The RMR Group Inc."]
+CIKs: ["0001644378"]
+status: Ongoing
+creation-date: 2015-06-05
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: Up-C transition
+counterparty-type: founder vehicle
+notes: >-
+  Up-C reorganization preceded the IPO (June 5, 2015 vs. December 14, 2015).
+  Counterparty is Reit Management & Research Trust, renamed ABP Trust on
+  January 20, 2016 (same legal entity, no TRA amendment). FY18 Tax Cuts and
+  Jobs Act remeasurement reduced liability $24.7M; not an amendment.
+---
+
+## TRA Timeline
+
+#### Up-C reorganization and TRA execution
+
+- 2015-06-05: Up-C reorganization closes; Reit Management & Research Trust (Portnoy family vehicle) contributes its interest in REIT Management & Research LLC in exchange for Class A Units and Class B shares; TRA executed between RMR Inc., the LLC, and RMR Trust, paying 85% of cash tax savings from basis step-ups on initial Class A Unit purchase and future redemptions, plus imputed interest deductions
+- 2015-10-13: S-1 files the executed TRA as exhibit 10.17
+- 2015-12-14: IPO consummated
+
+#### Trust rename and Tax Act remeasurement
+
+- 2016-01-20: Reit Management & Research Trust converts from Massachusetts business trust to Maryland statutory trust and renames to ABP Trust; same legal entity, no TRA amendment
+- 2018-fiscal-year: Tax Cuts and Jobs Act enacted December 22, 2017; phased corporate-rate reduction prompts $24.7M reduction in TRA liability on the FY18 income statement as "Tax Receivable Agreement remeasurement". In-force remeasurement, not an amendment
+
+## Explanation
+
+The RMR Group's Up-C reorganization on June 5, 2015 (preceding the December 2015 IPO) created a TRA paying 85% of cash tax savings to RMR Trust (later renamed ABP Trust, the Portnoy family vehicle), covering basis step-ups from the initial Class A Unit purchase and future redemptions plus imputed interest deductions on TRA payments themselves. The trust counterparty was renamed and converted from a Massachusetts business trust to a Maryland statutory trust on January 20, 2016 without amending the TRA, and the FY18 enactment of the Tax Cuts and Jobs Act prompted a $24.7M remeasurement of the liability for the lower corporate rate. No amendments and no terminations have been filed across ten fiscal years of 10-Ks; the contract remains in force and pays out routinely. The September 30, 2025 TRA liability was $15.9M (down from $18.4M at year-end FY24). See `contract_log.md` for the full filing-by-filing record and the inventory of TRA-adjacent filings that do not amend the contract.

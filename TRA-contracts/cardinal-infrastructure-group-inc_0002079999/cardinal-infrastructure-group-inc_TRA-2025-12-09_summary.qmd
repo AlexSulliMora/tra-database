@@ -1,0 +1,36 @@
+---
+title: "Cardinal Infrastructure Group TRA (TRA-2025-12-09)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Cardinal Infrastructure Group Inc."]
+CIKs: ["0002079999"]
+status: Ongoing
+creation-date: 2025-12-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: ["TRA-2026-02-18-TBA-ALGC"]
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: "pre-IPO holders"
+notes: >-
+  TRA liability of $39.4M at Dec 31, 2025; additional $8.2M acquisition-date
+  fair value added Feb 18, 2026 when Diamond Interests Group LLC and Seller
+  Owners became Continuing Equity Holders via ALGC rollover equity.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2025-12-09: Tax Receivable Agreement executed at IPO close among PubCo, OpCo (Cardinal Civil Contracting Holdings LLC), and the Continuing Equity Holders.
+- 2025-12-12: IPO closing 8-K filed; execution version of the TRA attached as Exhibit 10.2.
+
+#### Beneficiary expansion via ALGC rollover equity
+
+- 2026-02-18: Diamond Interests Group LLC and Seller Owners receive 4,186,062 OpCo units as rollover equity in the ALGC acquisition and become additional TRA Parties under the existing Continuing Equity Holder definition.
+- 2026-02-19: ALGC closing 8-K reports the beneficiary expansion; no contract amendment is executed because the new parties enter under the existing beneficiary-roster provisions.
+
+## Explanation
+
+Cardinal Infrastructure Group completed an Up-C IPO on December 11-12, 2025 and executed this Tax Receivable Agreement at IPO close on December 9, 2025, obligating the PubCo to pay 85% of cash tax benefits realized from Section 754 basis adjustments (arising from the IPO-proceeds purchase of LLC Units and from future exchanges of LLC Units for Class A stock) and from imputed interest deductions on TRA payments themselves. The initial IPO-proceeds purchase of 7,500,000 OpCo units for $157.5 million generated the originating basis cycle, recorded as a $39,423,529 TRA liability on the December 31, 2025 balance sheet. On February 18, 2026 the beneficiary set expanded when Diamond Interests Group LLC and the Seller Owners received OpCo units as rollover equity in the AL Grading Contractors acquisition and entered the TRA under its existing Continuing Equity Holder provisions, adding $8.2 million in acquisition-date fair value as Level 3 contingent consideration. A parallel Tax Benefit Agreement (TRA-2026-02-18-TBA-ALGC) executed the same day covers the separate Section 1001 asset-purchase step-up portion of the ALGC consideration. Both contracts remain in force as of the May 13, 2026 10-Q; see `contract_log.md` for the full filing-by-filing record.

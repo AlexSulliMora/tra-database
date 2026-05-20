@@ -1,0 +1,41 @@
+---
+title: "MarketWise, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["MarketWise, Inc.", "Ascendant Digital Acquisition Corp."]
+CIKs: ["0001805651", "0001805651"]
+status: Ongoing
+creation-date: 2021-07-21
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Up-C via Ascendant Digital SPAC merger. YE2025 liability $4.3M, no
+  payments yet. April 2026 Arnold settlement waived one ex-CEO's TRA
+  rights but did not terminate the contract.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-03-25: S-4 attaches form-of TRA as Annex K
+- 2021-07-21: Business combination with Ascendant Digital Acquisition Corp. closes; TRA executed among MarketWise, Inc., MarketWise, LLC, and the pre-merger LLC Members
+- 2021-07-27: Super 8-K Item 2.01 files the executed TRA as Exhibit 10.2
+
+#### Take-private proposal (TRA-contingent, withdrawn)
+
+- 2025-10-29: Monument & Cathedral Holdings submits $17.25/share take-private proposal contingent on TRA termination; Special Committee formed
+- 2026-02-18: Monument & Cathedral withdraws the proposal after Special Committee feedback that the price undervalued the Company; TRA remains in force
+
+#### Arnold beneficiary modification
+
+- 2026-04-21: Settlement Agreement and Release with former CEO Mark P. Arnold and JAMA 2021 LLC resolves November 2024 AAA arbitration; Arnold's 102,998 LLC Units and corresponding Class B shares cancelled, and his TRA rights (Article III, Article IV, Section 6.1, Joinder) released; TRA continues in force for remaining Members
+
+## Explanation
+
+MarketWise, Inc. executed the TRA on July 21, 2021 at the close of its Up-C business combination with Ascendant Digital Acquisition Corp. (a SPAC), agreeing to pay the pre-merger MarketWise LLC Members 85% of cash tax savings on Section 754 basis step-ups arising on their redemptions of LLC Units for Class A common stock (or cash) plus imputed-interest deductions on TRA payments. No payments have yet been made under the contract; the YE2025 liability stands at $4.3M and management does not expect significant payments within the following 12 months. The October 2025 Monument & Cathedral take-private proposal was explicitly contingent on TRA termination but the Special Committee declined the $17.25/share price, and the offer was withdrawn February 18, 2026 without any TRA termination instrument being executed. The April 21, 2026 Arnold Settlement Agreement and Release waived one ex-CEO Member's TRA rights as part of an arbitration resolution and unwound his Class B and LLC Unit positions, but is a beneficiary-roster modification rather than a contract termination; the TRA remains in force for all other Members. See `contract_log.md` for the full filing-by-filing record.

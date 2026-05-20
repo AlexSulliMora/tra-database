@@ -1,0 +1,35 @@
+---
+title: "Nexeo Solutions, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["WL Ross Holding Corp.", "Nexeo Solutions, Inc.", "Univar Inc."]
+CIKs: ["0001604416", "0001604416", "0001620280"]
+status: Terminated
+creation-date: 2016-06-09
+termination-date: 2019-03-01
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Terminated for a negotiated $60.0M payment at the Univar merger close
+  (approximately 84% of the most recently reported $71.1M fair value
+  liability). Pre-termination FY 2018 cash payments to TPG totaled $10.2M.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2016-06-09: WL Ross / Nexeo business combination closes; PubCo renamed Nexeo Solutions, Inc.; TRA executed with TPG-affiliated TRA Holders (TPG VI Neon II, TPG VI FOF Neon, Nexeo Holdco, plus assignee TPG VI Neon I via the Blocker Merger); 85% sharing of net realized tax benefits from Holdings LLC Merger basis step-ups, pre-existing Nexeo attributes, TPG Accolade Blocker NOLs, and imputed interest; 8-K files executed TRA and Form of Joinder
+
+#### Univar acquisition and negotiated termination
+
+- 2018-09-17: Univar merger agreement signed; concurrent Tax Receivable Termination and Settlement Agreement substitutes a negotiated $60.0M payment for the contract's Section 4.01 Early Termination formula, conditional on merger close
+- 2019-03-01: Univar merger closes; TRA terminates in its entirety, $60.0M paid (net of pre-closing payments)
+
+## Explanation
+
+Nexeo Solutions, Inc. (formerly WL Ross Holding Corp.) emerged from a June 9, 2016 SPAC business combination with Nexeo Solutions Holdings, LLC and executed a Tax Receivable Agreement obligating PubCo to pay 85% of net realized tax benefits from the Holdings LLC Merger basis step-ups, the pre-existing Nexeo LLC tax attributes, the NOLs of the TPG Accolade Blocker inherited via the Blocker Merger, and imputed interest, to TPG-affiliated beneficiaries. The contract was not amended during its life. Univar Inc. agreed to acquire Nexeo on September 17, 2018, and a concurrent Tax Receivable Termination and Settlement Agreement substituted a negotiated $60.0M payment for the contract's Section 4.01 Early Termination formula, conditional on the merger close (approximately 84% of the $71.1M fair value liability at year-end 2018). The merger closed March 1, 2019 and the TRA was fully extinguished; $10.2M in cash had been paid to TPG during FY 2018 prior to the termination, netting down against the $60.0M closing payment. See `contract_log.md` for the full filing-by-filing record.

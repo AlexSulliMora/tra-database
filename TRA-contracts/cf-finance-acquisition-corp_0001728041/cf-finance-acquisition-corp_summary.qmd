@@ -1,0 +1,36 @@
+---
+title: "CF Finance Acquisition Corp TRA (form-of, executed under GCM Grosvenor Inc.)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["CF Finance Acquisition Corp", "GCM Grosvenor Inc."]
+CIKs: ["0001728041", "0001819796"]
+status: Unknown
+creation-date: 2020-08-02
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  Only the unexecuted form-of TRA is filed under CFAC's CIK (DEFM14A Annex F).
+  Origination date 2020-08-02 is the Transaction Agreement signing date and is `origin_date_unverified`; actual execution expected at the 2020-11-17 merger close under GCM Grosvenor's CIK.
+  GCM Grosvenor Inc. CIK 0001819796 is the place to retrieve the executed instrument and subsequent history.
+---
+
+## TRA Timeline
+
+#### SPAC Transaction Agreement and form-of TRA
+
+- 2020-08-02: Transaction Agreement executed between CF Finance Acquisition Corp, Grosvenor Holdings, L.L.C., and affiliated GCM Grosvenor entities; form-of TRA attached as Exhibit E to the Transaction Agreement.
+- 2020-08-04: 8-K/A files the Transaction Agreement as Exhibit 2.1.
+- 2020-10-15: DEFM14A files the form-of Tax Receivable Agreement as Annex F. Preamble date and signatures blank.
+
+#### Business combination close (expected, off-CIK)
+
+- 2020-11-17?: Business combination closes per public record; executed TRA expected to be filed in a Super 8-K under GCM Grosvenor Inc.'s post-close CIK 0001819796. Not observable from filings in this directory.
+
+## Explanation
+
+This file documents only the form-of Tax Receivable Agreement filed as Annex F to CF Finance Acquisition Corp's October 15, 2020 DEFM14A. CFAC was a Cantor Fitzgerald-sponsored blank-check SPAC that combined with GCM Grosvenor to form GCM Grosvenor Inc. on November 17, 2020; the executed TRA was filed under the post-close entity's CIK, which is not part of this directory. The form-of contemplates a standard 85% Up-C TRA with the Grosvenor Capital Management Holdings, LLLP members as beneficiaries, covering Section 754 basis step-ups from exchanges of LLLP common units plus Other Tax Assets and imputed interest. Status is set to `Unknown` because the executed contract, subsequent amendments, and any termination cannot be determined from filings under CFAC's CIK; a future tra-download-filings run on GCM Grosvenor Inc. (CIK 0001819796) is needed to verify execution and current state. See `contract_log.md` for the coverage-gap analysis.

@@ -1,0 +1,33 @@
+---
+title: "Zevia PBC TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Zevia PBC"]
+CIKs: ["0001854139"]
+status: Ongoing
+creation-date: 2021-07-21
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Full valuation allowance on TRA-related deferred tax assets; no liability
+  recorded. Hypothetical full-realization TRA liability $58.9M (Dec 31, 2025);
+  $56.5M (Dec 31, 2024). No amendments, no terminations across 47 filings
+  reviewed (2021-2026 Q1).
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-12: Form-of TRA filed as Exhibit 10.2 to S-1/A.
+- 2021-07-21: Zevia PBC Up-C IPO closes (NYSE: ZVIA at $14.00); TRA executed between Zevia PBC (PubCo), Zevia LLC, and the TRA Holders (CDP Investissements, White Pine, Northwood entities, NGEN entities, and other Zevia LLC unitholders); Padraic Spence as TRA Representative; 85% of Cumulative Net Realized Tax Benefit.
+- 2021-08-13: Executed TRA filed as Exhibit 10.2 to the Q2 2021 10-Q.
+
+## Explanation
+
+Zevia PBC's TRA was executed at its July 21, 2021 Up-C IPO. Zevia PBC pays the pre-IPO institutional investors and continuing Zevia LLC unitholders (collectively the TRA Holders) 85% of its Cumulative Net Realized Tax Benefit from two attribute categories: Section 754 basis step-ups generated when Class B units are exchanged for Class A common stock, and pre-IPO Blocker NOLs plus existing tax basis acquired in the Blocker Mergers. The TRA-related deferred tax assets carry a full valuation allowance throughout the post-IPO period, so no liability has been recorded; Zevia discloses a hypothetical full-realization TRA liability of $58.9M at year-end 2025 (up from $56.5M at year-end 2024). No amendments, restatements, or terminations appear across the 47 filings reviewed from the 2021 DRS submissions through the Q1 2026 10-Q. See `contract_log.md` for the full filing-by-filing record.

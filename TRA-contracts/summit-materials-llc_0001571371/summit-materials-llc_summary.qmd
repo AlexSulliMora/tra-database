@@ -1,0 +1,41 @@
+---
+title: "Summit Materials, LLC TRA (financing-arm filer; partial beneficiary from 2023)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Summit Materials, LLC", "Summit Materials, Inc.", "Quikrete Holdings, Inc."]
+CIKs: ["0001571371", "0001621563", ""]
+status: Terminated
+creation-date: 2015-03-11
+termination-date: 2025-02-10
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Financing-arm
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Summit Materials, LLC is the notes-issuer subsidiary of Summit Materials, Inc.
+  (PubCo CIK 0001621563); the original TRA lives under the PubCo CIK. The LLC
+  acquired ~$132.4M of TRA-Party rights during 2023 (Blackstone $115M plus other
+  holders ~$17M), becoming an intra-consolidated TRA beneficiary.
+---
+
+## TRA Timeline
+
+#### Original TRA (under Summit Materials, Inc.)
+
+- 2015-03-11: TRA executed at Summit Materials, Inc.'s Up-C IPO; Summit Materials, LLC is not a counterparty
+
+#### Amendment and beneficiary buy-in by Summit LLC
+
+- 2023-05-10: Amendment No. 1 to TRA (LIBOR-to-SOFR rate replacements; cooperation language enabling TRA-Party assignments) filed as Exhibit 10.1 to the LLC's Q2 2023 10-Q
+- 2023-08-18: Summit Materials, LLC entered into an Assignment Agreement with five Blackstone-affiliated TRA Parties acquiring all their TRA rights for $115.0M cash (~$17M of additional non-Blackstone assignments completed during 2023; aggregate $132.4M)
+
+#### Quikrete merger and TRA termination
+
+- 2024-11-25: Quikrete Merger Agreement signed; Section 6.07 requires Summit to terminate the TRA on or before closing
+- 2025-02-10: Quikrete merger closed; TRA terminated by extrinsic event
+
+## Explanation
+
+Summit Materials, LLC is the operating subsidiary and registered senior-notes issuer of Summit Materials, Inc. (the Up-C PubCo), and is not a counterparty to the original March 11, 2015 TRA. The LLC entered the TRA's life in 2023: Amendment No. 1 to the TRA (May 2023) added the cooperation plumbing for TRA-Party assignments, and the LLC then acquired Blackstone-affiliated TRA rights in August 2023 for $115M cash, with additional smaller assignments bringing the 2023 total to $132.4M. The economic effect was to extinguish the bought-out portion of the TRA at the Summit-consolidated level while keeping the contract legally in force for remaining holders. The TRA terminated at the February 10, 2025 close of Quikrete Holdings' acquisition of Summit Materials, Inc. pursuant to Section 6.07 of the Merger Agreement; the LLC's carrying value of acquired TRA interests was extinguished in consolidation at the same time. See `contract_log.md` and the parallel `../summit-materials-inc_0001621563/summit-materials-inc_summary.qmd` for the PubCo-side record.

@@ -1,0 +1,39 @@
+---
+title: "PowerSchool Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PowerSchool Holdings, Inc."]
+CIKs: ["0001835681"]
+status: Terminated
+creation-date: 2021-07-27
+termination-date: 2024-10-01
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Terminated via Amendment No. 1 (June 6, 2024) executed concurrent with
+  Bain Capital merger agreement; TRA Holders waived all rights with $0
+  TRA-channel payment. Pre-extinguishment liability was ~$419M
+  (noncurrent + current) at June 30, 2024. Beneficiaries were also the
+  rolling stockholders, so merger consideration evidently served as their
+  full economic exit.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-04-06: Initial S-1 attaches form-of TRA as Exhibit 10.2
+- 2021-07-27: TRA executed at IPO closing; filed July 30, 2021 as Exhibit 10.2 to IPO-close 8-K
+
+#### Bain Capital merger and TRA waiver
+
+- 2024-06-06: Amendment No. 1 to TRA executed concurrent with Bain Capital merger agreement; adds automatic-termination-at-Effective-Time language and waives all Tax Benefit Payments (including amounts already owed for 2021 and 2022 tax years)
+- 2024-10-01: Bain merger Effective Time; TRA automatically terminates; pre-extinguishment liability written off without any cash TRA payment
+
+## Explanation
+
+PowerSchool Holdings, Inc. became the TRA obligor on July 27, 2021 at the closing of its Up-C IPO, with Severin Topco LLC, Vista Equity Partners funds, and Onex funds as the principal TRA Holders. The TRA paid beneficiaries 85% of cash tax savings from Section 754 basis step-ups arising from future LLC Unit exchanges, NOL carryforwards from the Vista Blocker I, Onex Blocker, and Vista Blocker II entities, and TRA-imputed interest. The recorded liability grew to roughly $419M (noncurrent + current) by June 30, 2024 with $22M already past due for the 2021 tax year. On June 6, 2024 PowerSchool executed Amendment No. 1 concurrent with the Bain Capital merger agreement; the amendment added automatic-termination-at-merger-close language to Section 4.2 and obtained a full waiver of all Tax Benefit Payments from the TRA Holders, with no substitute payment under the TRA. The merger closed on October 1, 2024, triggering automatic termination; the accrued liability was extinguished without any TRA-channel cash outflow. This was not a negotiated termination payment in the conventional sense; the TRA Holders were the same pre-merger controlling stockholders rolling into and supporting the Bain transaction, and the merger consideration evidently captured their full economic exit. See `contract_log.md` for the full filing-by-filing record.

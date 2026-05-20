@@ -1,0 +1,43 @@
+---
+title: "BGC Group, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["eSpeed, Inc.", "BGC Partners, Inc.", "BGC Group, Inc."]
+CIKs: ["0001094831", "0001094831", "0001094831"]
+status: Ongoing
+creation-date: 2008-03-31
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: founder vehicle
+notes: >-
+  85% sharing with 20% of each payment held in escrow against IRS challenge.
+  No payment has ever been recorded; underlying tax benefits never realized.
+  Legally in force but prospectively dormant after July 1, 2023 Corporate Conversion.
+---
+
+## TRA Timeline
+
+#### Up-C formation and TRA execution
+
+- 2007-05-30: 8-K announces the May 29, 2007 Agreement and Plan of Merger between eSpeed and BGC Partners, with the TRA contemplated as a post-closing instrument.
+- 2008-02-11: DEFM14A merger proxy attaches the form-of TRA as an annex.
+- 2008-04-07: 8-K files the executed Tax Receivable Agreement dated March 31, 2008 between BGC Partners, LLC and Cantor Fitzgerald, L.P. as Exhibit 10.7.
+
+#### Newmark spin-off restatement
+
+- 2017-12-19: 8-K files the Amended and Restated Tax Receivable Agreement dated December 13, 2017 (Exhibit 10.9), updating defined terms for the post-spin BGC partnership structure; economic terms unchanged.
+
+#### Corporate Conversion (prospective dormancy)
+
+- 2022-11-16: 8-K announces the November 15, 2022 Corporate Conversion Agreement.
+- 2023-05-26: DEFM14A discloses that the TRA will remain in effect as to prior periods but will not apply to BGC Group going forward.
+- 2023-07-01: Corporate Conversion closes; Cantor's exchangeable BGC Holdings units convert into BGC Group common stock, extinguishing the exchange mechanism that would generate future covered tax benefits.
+- 2024-04-26: 10-K/A confirms the legal-in-force / economically-dormant split.
+
+## Explanation
+
+The TRA originates from BGC Partners' April 1, 2008 Up-C combination with eSpeed, with Cantor Fitzgerald, L.P. as the sole beneficiary and 85% of cash tax savings shared back to Cantor on Section 754 basis step-ups arising from taxable exchanges of Cantor's exchangeable BGC Holdings interests. The December 13, 2017 amendment and restatement updated defined terms to reflect the Newmark commercial-real-estate spin-off but left the 85% sharing, escrow mechanics, and early-termination structure unchanged. The July 1, 2023 Corporate Conversion converted Cantor's exchangeable units into BGC Group common stock, eliminating the exchange mechanism that would generate new covered tax benefits; the TRA was not formally terminated, and BGC discloses it as in force as to prior-period exchanges but not applicable to BGC Group prospectively. No payment has ever been recorded because the underlying tax benefits were never realized. See `contract_log.md` for the full filing-by-filing record.

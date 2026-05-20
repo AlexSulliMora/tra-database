@@ -1,0 +1,41 @@
+---
+title: "Ladder Capital Finance Holdings LLLP TRA (operating LLLP party)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ladder Capital Finance Holdings LLLP"]
+CIKs: ["0001574632"]
+status: Terminated
+creation-date: 2014-02-11
+termination-date: 2021-03-31
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Financing-arm
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Operating LLLP and debt-issuance co-issuer in the Up-C; named party
+  but not obligor. Payment obligation runs from Ladder Capital Corp
+  (CIK 0001577670). Termination via Section 4.01 ETP in Q1 2021.
+---
+
+## TRA Timeline
+
+#### IPO and TRA execution
+
+- 2014-02-11: Ladder Capital Corp IPO closes; original TRA executed among Ladder Capital Corp, LCFH, and the Exchangeable Limited Partners
+- 2014-02-21: 8-K Item 8.01 announces the IPO close and references the TRA
+- 2014-03: LCFH 10-K attaches the executed TRA as Exhibit 10.4
+
+#### REIT realignment (referenced at PubCo)
+
+- 2014-12-31: A&R TRA executed at PubCo concurrent with REIT election; LCFH segregated into Series REIT and Series TRS; see PubCo summary at `../ladder-capital-corp_0001577670/ladder-capital-corp_summary.qmd`
+
+#### Section 4.01 termination
+
+- 2020-09-30: Remaining LP holders exchange all units for Class A common stock
+- 2021-02-26: PubCo's 2020 10-K discloses $0.9M Early Termination Payments under Section 4.01, paid February-March 2021, satisfying the TRA in full
+
+## Explanation
+
+Ladder Capital Finance Holdings LLLP is the operating LLLP in the Ladder Capital Up-C structure and a named party to the TRA, not its obligor; the executed agreement (dated February 11, 2014, attached as Exhibit 10.4 to LCFH's FY2013 10-K) routes 85% of cash tax savings from Section 754 step-ups on LP-Unit exchanges to the Exchangeable Limited Partners, with Ladder Capital Corp (CIK 0001577670) bearing the payment obligation. The TRA was amended and restated at the PubCo on December 31, 2014 to accommodate Ladder's REIT election, narrowing the tax-benefit pool to Series TRS step-ups and routing payments through LC TRS I. After all remaining LP holders exchanged in Q3 2020, Ladder Capital Corp invoked Section 4.01 and paid $0.9M in February-March 2021, extinguishing the contract. LCFH continues to operate as a co-issuer of senior notes guaranteed by Ladder Capital Corp through at least mid-2025, but the TRA itself is no longer in force. See `contract_log.md` and the PubCo summary at `../ladder-capital-corp_0001577670/ladder-capital-corp_summary.qmd` for the full record.

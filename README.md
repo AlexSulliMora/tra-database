@@ -15,19 +15,37 @@ The corpus itself, the per-firm `TRA-contracts/<firm>/` directories with raw fil
 
 ## Workflow
 
-The pipeline runs in seven steps. Steps 1 through 5 build the per-firm corpus under `TRA-contracts/`; steps 6 and 7 aggregate the corpus into the Parquet outputs and the dashboard. A fresh checkout has no `TRA-contracts/` directory: step 2 populates it.
+The pipeline runs in eight steps. Steps 1 and 2 produce a candidate-filing parquet and pull the EX-10.* exhibits referenced by it. Steps 3 through 6 build the per-firm corpus under `TRA-contracts/`; steps 7 and 8 aggregate the corpus into the Parquet outputs and the dashboard. A fresh checkout has no `TRA-contracts/` directory: step 3 populates it.
 
-1. **Collect a CIK seed list.** Produce a list of candidate firms by CIK (the SEC's 10-digit Central Index Key). The current corpus was built from an ad-hoc list assembled by hand; the systematic build uses the `sec-edgar` skill to query EDGAR full-text search for the phrase "tax receivable agreement" and collect filer CIKs from the matching filings. The list is consumed as input to step 2.
+1. **Sweep EDGAR full-text search for candidate filings.** Run `scripts/find_candidates.py` to query EDGAR full-text search for the four phrase variants of "tax receivable agreement(s)" over a month range, union on accession, and write one row per matching filing to a parquet:
 
-2. **Download TRA-relevant filings.** Run the `tra-download-filings` skill against the CIK list. For each CIK, the skill queries EDGAR for the relevant form types (10-K, 10-Q, 8-K, S-1, S-4, prospectus variants, proxy) and downloads each matching document into `TRA-contracts/<firm-slug>_<10-digit-CIK>/`. This is the one step that must run alone: concurrent SEC queries from multiple agents would breach the 10 requests-per-second rate cap.
+   ```bash
+   PYTHONPATH=scripts pixi run python scripts/find_candidates.py \
+     --start 2001-01 --end 2026-05 \
+     --save-union-parquet data/edgar-query/full-text.parquet
+   ```
 
-3. **Process filings.** Run the `tra-process-filings` skill against each per-firm directory. The skill reads each downloaded filing, identifies TRA contracts, classifies them as original / amendment / termination, deduplicates contracts that appear across multiple filings, and writes a per-firm `contract_log.md` plus per-filing annotation files.
+   The script handles the 10,000-hit-per-window cap by halving to biweekly bounds on overflow, retries HTTP 5xx with back-off, and skips windows that fail after retries. The output parquet at `data/edgar-query/full-text.parquet` is the input to step 2 and the source of CIKs for step 3.
 
-4. **Build per-firm timelines.** Run the `tra-build-timeline` skill against each processed firm directory. The skill writes a `<firm>_summary.qmd` (one per TRA at the firm) carrying YAML frontmatter (status, dates, tax-asset type, sharing ratio, companies, CIKs, role, trigger-event tags) and an event-grouped `## TRA Timeline` section. These `*_summary.qmd` files are the load-bearing input to step 6.
+2. **Pull EX-10.* exhibits for each candidate filing.** Run `scripts/pull_exhibits.py` to fetch each filing's `index.json`, filter the document list to EX-10.* text exhibits (the regex covers `ex10-1.htm`, `exhibit101-foo.htm`, and the filer-agent `d...dex101.htm` convention), and download each matching exhibit to `data/edgar-query/exhibits/<CIK>/`:
 
-5. **Convert HTML to markdown.** Run the `tra-htm-to-md` skill against each per-firm directory. The skill produces a clean `.md` companion for each downloaded `.htm` exhibit via a pandoc first pass and an LLM cleanup pass that strips recurring SEC HTML artifacts. The HTML files remain in place as the canonical source.
+   ```bash
+   PYTHONPATH=scripts pixi run python scripts/pull_exhibits.py \
+     --parquet data/edgar-query/full-text.parquet \
+     --output-dir data/edgar-query/exhibits/
+   ```
 
-6. **Build the database.** Aggregate the per-firm `*_summary.qmd` files into the three Parquet outputs:
+   The pull is idempotent: exhibits already on disk are skipped. A `manifest.csv` keyed on `(cik, accession, filename)` records every downloaded exhibit with its filing date, form, and matched phrase variants.
+
+3. **Download TRA-relevant filings.** Run the `tra-download-filings` skill against the CIK list derived from step 1 or 2. For each CIK, the skill queries EDGAR for the relevant form types (10-K, 10-Q, 8-K, S-1, S-4, prospectus variants, proxy) and downloads each matching document into `TRA-contracts/<firm-slug>_<10-digit-CIK>/`. This is the one step that must run alone: concurrent SEC queries from multiple agents would breach the 10 requests-per-second rate cap.
+
+4. **Process filings.** Run the `tra-process-filings` skill against each per-firm directory. The skill reads each downloaded filing, identifies TRA contracts, classifies them as original / amendment / termination, deduplicates contracts that appear across multiple filings, and writes a per-firm `contract_log.md` plus per-filing annotation files.
+
+5. **Build per-firm timelines.** Run the `tra-build-timeline` skill against each processed firm directory. The skill writes a `<firm>_summary.qmd` (one per TRA at the firm) carrying YAML frontmatter (status, dates, tax-asset type, sharing ratio, companies, CIKs, role, trigger-event tags) and an event-grouped `## TRA Timeline` section. These `*_summary.qmd` files are the load-bearing input to step 7.
+
+6. **Convert HTML to markdown.** Run the `tra-htm-to-md` skill against each per-firm directory. The skill produces a clean `.md` companion for each downloaded `.htm` exhibit via a pandoc first pass and an LLM cleanup pass that strips recurring SEC HTML artifacts. The HTML files remain in place as the canonical source.
+
+7. **Build the database.** Aggregate the per-firm `*_summary.qmd` files into the three Parquet outputs:
 
    ```bash
    pixi run -- python scripts/build_tra_database.py
@@ -35,7 +53,7 @@ The pipeline runs in seven steps. Steps 1 through 5 build the per-firm corpus un
 
    The script reads each summary's YAML frontmatter and its timeline bullets, derives a stable `tra_id`, joins multi-valued fields with `|`, and writes `tras.parquet`, `events.parquet`, and `stock_by_date.parquet` into `outputs/tra-database/`.
 
-7. **Build the dashboard.** Render the self-contained HTML dashboard from the three Parquet files:
+8. **Build the dashboard.** Render the self-contained HTML dashboard from the three Parquet files:
 
    ```bash
    pixi run -- python scripts/build_dashboard.py
@@ -43,7 +61,7 @@ The pipeline runs in seven steps. Steps 1 through 5 build the per-firm corpus un
 
    The script reads `outputs/tra-database/*.parquet`, substitutes the data into `outputs/tra-database/dashboard.template.html`, and writes `outputs/tra-database/dashboard.html`. The output is portable: it loads Vega-Lite from a CDN and otherwise carries all data inline, so it opens with `file://` in any modern browser.
 
-Steps 2 through 5 are skill invocations rather than scripts. The skills live under `.claude/skills/` (see the [Skill catalog](#skill-catalog) below) and load automatically when Claude Code is launched from the project root.
+Steps 3 through 6 are skill invocations rather than scripts; steps 1 and 2 are plain Python scripts under `scripts/`. The skills live under `.claude/skills/` (see the [Skill catalog](#skill-catalog) below) and load automatically when Claude Code is launched from the project root.
 
 ## Environment
 
@@ -84,7 +102,7 @@ All build outputs land under `outputs/tra-database/`:
 | `dashboard.template.html` | Source template the dashboard build substitutes into. |
 | `SCHEMA.md` | Column-level documentation for the three Parquet files. |
 
-The per-firm corpus that feeds the build lives under `TRA-contracts/<firm-slug>_<10-digit-CIK>/`. Each firm directory carries the downloaded filings (`.htm`), their markdown companions (`.md`), per-filing annotation files, a `contract_log.md`, and one `*_summary.qmd` per TRA at the firm. This directory is excluded from the repository via `.gitignore` and is regenerated by steps 2 through 5 of the workflow.
+The per-firm corpus that feeds the build lives under `TRA-contracts/<firm-slug>_<10-digit-CIK>/`. Each firm directory carries the downloaded filings (`.htm`), their markdown companions (`.md`), per-filing annotation files, a `contract_log.md`, and one `*_summary.qmd` per TRA at the firm. This directory is excluded from the repository via `.gitignore` and is regenerated by steps 3 through 6 of the workflow.
 
 ## Schema
 

@@ -1,0 +1,32 @@
+---
+title: "Vivid Seats Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Vivid Seats Inc.", "Horizon Acquisition Corporation II"]
+CIKs: ["0001856031", "0001856031"]
+status: Terminated
+creation-date: 2021-10-18
+termination-date: 2025-10-31
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: "Termination via Corporate Simplification Agreement at the Up-C collapse: 403,022.67 Class A shares issued in aggregate to TRA Parties (stock-only, no cash); terminated payment obligations included up to $180M lifetime per management estimate."
+---
+
+## TRA Timeline
+
+#### De-SPAC merger and TRA execution
+
+- 2021-10-18: Horizon Acquisition II / Vivid Seats Merger Transaction closes; executed Tax Receivable Agreement filed at 85% with Hoya Topco, LLC (GTCR), Hoya Intermediate, LLC, GTCR Management XI LLC (TRA Holder Representative), and Blocker TRA Holders, covering Section 754 basis step-ups, Common Basis, Section 704(c) Items, Blocker pre-Merger NOLs, and Imputed Interest (8-K Exhibit 10.3)
+
+#### Up-C collapse and termination
+
+- 2025-10-19: Corporate Simplification Agreement executed, terminating TRA payment obligations in exchange for 403,022.67 Class A shares issued in aggregate to TRA Parties; eliminates ~$6M of Q1 2026 cash payments and up to $180M of lifetime payments (8-K Exhibit 10.1)
+- 2025-10-31: Second Closing Date; Up-C structure collapses (Class B common stock exchanged into Class A and cancelled; Hoya Topco LLC interests exchanged via Intermediate Exchange; Blocker Mergers eliminate the Blocker chain); TRA terminated (closing 8-K)
+
+## Explanation
+
+Vivid Seats Inc. became the PubCo of an Up-C structure through its October 18, 2021 de-SPAC merger with Horizon Acquisition Corporation II and at close executed an 85% Tax Receivable Agreement with Hoya Topco, LLC (GTCR), Hoya Intermediate, LLC, and the Blocker TRA Holders, covering the full Up-C portfolio of Section 754 basis step-ups, Common Basis, Section 704(c) Items, Blocker pre-Merger NOLs, and imputed interest. On October 19, 2025 Vivid Seats and the TRA Parties signed a Corporate Simplification Agreement that, effective at the October 31, 2025 Second Closing Date, terminated all TRA payment obligations in exchange for 403,022.67 Class A shares issued in aggregate (stock-only consideration substituted for the formula payment). The Corporate Simplification simultaneously collapsed the Up-C structure: Class B common stock was exchanged into Class A and cancelled, Hoya Topco's LLC interests were exchanged via an Intermediate Exchange, the Blocker chain was eliminated, and Vivid Seats emerged as a single-class C-corp. The terminated obligations included approximately $6 million of Q1 2026 cash payments and up to $180 million of estimated lifetime payments. See `contract_log.md` for the Corporate Simplification Agreement text and the Up-C-collapse mechanics.

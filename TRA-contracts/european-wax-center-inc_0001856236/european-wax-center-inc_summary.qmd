@@ -1,0 +1,47 @@
+---
+title: "European Wax Center, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["European Wax Center, Inc.", "Glow Midco, LLC"]
+CIKs: ["0001856236", ""]
+status: Unknown
+creation-date: 2021-08-04
+termination-date:
+tax-asset-type: [Basis Step-Up, NOL]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Survived 2026-05-08 GA-affiliated going-private merger via
+  Section 3 Support Agreement waiver of Section 4.1(c) CoC
+  acceleration. TRA persists at the surviving private company.
+  Status post-deregistration is off-EDGAR.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2021-07-13: Form-of TRA filed as Ex 10.9 to S-1 (unexecuted)
+- 2021-08-04: Up-C IPO closes; TRA executed by Enfusion, GA-affiliated TRA Parties, EWC Holdings, EWC Management Holdco, Khanna, and Agrawal
+- 2021-09-09: Executed TRA filed as Ex 10.6 to first post-IPO 10-Q
+
+#### Valuation-allowance release and balance growth
+
+- 2023-03-09: FY2022 10-K records $56.2M upward remeasurement on full release of deferred tax asset valuation allowance; TRA liability rises to $172.16M
+
+#### LIBOR-to-SOFR amendment
+
+- 2024-12-30: First Amendment executed (LIBOR-to-SOFR administrative transition; Term SOFR + 100 bps Agreed Rate, lesser of 6.5% or Term SOFR + 100 bps Early Termination Rate); no economic change to payment terms
+- 2025-03-11: First Amendment filed as Ex 10.6 to FY2024 10-K
+
+#### Going-private merger (TRA preserved)
+
+- 2026-02-09: GA-affiliated Glow Midco merger agreement signed; concurrent Support Agreement waives Section 4.1(c) CoC acceleration and preserves TRA in full force
+- 2026-05-08: Merger closes; TRA continues at the surviving private company; closing 8-K silent on TRA
+
+## Explanation
+
+European Wax Center entered into its Tax Receivable Agreement at the August 4, 2021 Up-C IPO close, paying 85% of cash tax savings on Section 754 basis step-ups from Continuing Member exchanges plus Pre-Merger NOLs, Blocker Transferred Basis, Common Basis, and imputed-interest deductions on payments. The TRA liability began at $59.2M (long-term only, with a full valuation allowance limiting recognition) and jumped to $172.16M at YE2022 when EWC released its deferred tax asset valuation allowance; it then drifted to roughly $201-206M through FY2025. The December 30, 2024 First Amendment was an administrative LIBOR-to-SOFR transition with no change to the 85% rate, eligible tax attributes, or termination triggers. On February 9, 2026 EWC announced a General Atlantic-led going-private merger with Glow Midco, LLC, and the concurrent Support Agreement (Section 3) had General Atlantic, as TRA Party Representative, waive Section 4.1(c) change-of-control acceleration while expressly providing that all TRA rights and obligations remain in full force. The merger closed May 8, 2026 with the TRA preserved at the surviving private company; status is `Unknown` going forward because EWC is expected to deregister and the TRA's post-close performance will be off-EDGAR. See `contract_log.md` for the full filing-by-filing record.

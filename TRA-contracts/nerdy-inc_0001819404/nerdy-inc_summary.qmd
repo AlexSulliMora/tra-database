@@ -1,0 +1,35 @@
+---
+title: "Nerdy Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["TPG Pace Tech Opportunities Corp.", "Nerdy Inc."]
+CIKs: ["0001819404", "0001819404"]
+status: Ongoing
+creation-date: 2021-09-20
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Full valuation allowance against U.S. federal DTAs; no TRA liability
+  recognized on balance sheet through FY 2025 (unrecognized $118.2M as of
+  2025-12-31). Amendment No. 1 (2022-03-25) replaced LIBOR with SOFR.
+---
+
+## TRA Timeline
+
+#### De-SPAC close and TRA execution
+
+- 2021-09-20: Business combination between TPG Pace Tech Opportunities Corp. and Live Learning Technologies LLC (Nerdy LLC) closes; PubCo renamed Nerdy Inc. executes the TRA with the Legacy Nerdy Holders (85% sharing of net realized tax benefits from Section 754 basis adjustments on future LLC-unit exchanges and imputed interest)
+- 2021-09-24: 8-K files the executed TRA as Exhibit 10.3
+
+#### Administrative amendment
+
+- 2022-03-25: Amendment No. 1 executed (LIBOR-to-SOFR replacement in the Agreed Rate, Default Rate, and Early Termination Rate definitions); filed as Exhibit 10.1 to the Q1 2022 10-Q
+
+## Explanation
+
+Nerdy Inc. emerged from the September 20, 2021 business combination between TPG Pace Tech Opportunities Corp. (a SPAC) and Live Learning Technologies LLC (parent of Varsity Tutors) and executed a Tax Receivable Agreement at closing obligating PubCo to pay 85% of net realized tax benefits from Section 754 basis step-ups arising from future Exchanges of LLC units for Class A common stock, plus imputed interest on TRA payments. The contract covers Exchange-driven basis adjustments only; no pre-IPO NOL component. A March 2022 Amendment No. 1 replaced LIBOR with SOFR in the rate definitions; no other amendments or terminations have occurred. Nerdy has carried a full valuation allowance against its U.S. federal DTAs since closing and has recognized no TRA liability on the balance sheet through FY 2025 (off-balance-sheet unrecognized TRA liability of $118.2M at December 31, 2025); no TRA payments have been made to date. See `contract_log.md` for the full filing-by-filing record.

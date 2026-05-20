@@ -1,0 +1,36 @@
+---
+title: "Sentinel Energy Services TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Sentinel Energy Services Inc."]
+CIKs: ["0001709768"]
+status: Terminated
+creation-date: 2018-10-18
+termination-date: 2019-02-12
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Form-of TRA only; never executed. SPAC's Strike Capital business combination was
+  mutually terminated on 2019-02-12 along with all ancillary agreements including
+  the form-of TRA. Sentinel subsequently liquidated after missing its 2019-11-07
+  charter deadline.
+---
+
+## TRA Timeline
+
+#### Announcement of business combination
+
+- 2018-10-18: Transaction Agreement and Plan of Merger signed with Strike Capital, LLC; form-of TRA attached as Exhibit E at 85% sharing rate covering Section 754 step-ups from exchanges of Company Units
+
+#### Termination
+
+- 2019-02-12: Transaction Agreement and all ancillary agreements (including the form-of TRA) terminated by mutual agreement; reported in 8-K Item 1.02
+- 2019-11-07: Sentinel fails to consummate an alternative business combination by its charter deadline and enters liquidation
+
+## Explanation
+
+Sentinel Energy Services Inc. was a SPAC that announced an Up-C business combination with Strike Capital, LLC on October 18, 2018, with a contemplated Tax Receivable Agreement (Exhibit E to the Transaction Agreement) at the standard 85% rate. The form-of TRA was never executed: the Transaction Agreement was terminated by mutual agreement on February 12, 2019, and the form-of TRA terminated automatically in accordance with its own terms. Sentinel then failed to find an alternative target by its November 7, 2019 charter deadline and entered liquidation. See `contract_log.md` for the form-of contract text and the termination 8-K reference.

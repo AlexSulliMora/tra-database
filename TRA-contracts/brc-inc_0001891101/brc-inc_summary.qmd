@@ -1,0 +1,30 @@
+---
+title: "BRC Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["BRC Inc."]
+CIKs: ["0001891101"]
+status: Ongoing
+creation-date: 2022-02-09
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  No TRA liability recorded: full valuation allowance against deferred tax assets driven by cumulative pre-tax losses.
+  Sterling New Investment Holdings LLC serves as Agent for the Continuing Unitholders of Authentic Brands LLC.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-02-09: SilverBox Engaged Merger Corp I business combination with Authentic Brands LLC closes; executed Tax Receivable Agreement dated February 9, 2022 between BRC Inc., Authentic Brands LLC, and Sterling New Investment Holdings LLC (Agent).
+- 2022-02-10: 8-K reports closing and files the executed TRA as Exhibit 10.2.
+
+## Explanation
+
+The TRA originates from BRC Inc.'s February 9, 2022 Up-C SPAC business combination, with Sterling New Investment Holdings LLC acting as Agent for the Continuing Unitholders of Authentic Brands LLC. BRC pays 85% of the Cumulative Net Realized Tax Benefit on basis step-ups from the redemption of preferred and Common Units at the Business Combination, future exchanges of Common Units for Class A stock, Blocker Corp pre-existing tax attributes, and imputed-interest deductions on TRA payments. No amendments, restatements, or terminations have been filed. BRC has not recorded a liability under the TRA because a full valuation allowance has been maintained against the underlying deferred tax assets through every annual report since execution; the contract remains in force and the initial Q1 2022 cancel signal was a valuation-allowance false positive. See `contract_log.md` for the same-contract analysis.

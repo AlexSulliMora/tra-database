@@ -1,0 +1,38 @@
+---
+title: "Cano Health, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Jaws Acquisition Corp.", "Cano Health, Inc."]
+CIKs: ["0001800682", "0001800682"]
+status: Terminated
+creation-date: 2021-06-03
+termination-date: 2024-06-28
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: pre-IPO holders
+notes: >-
+  85% to TRA Parties; remaining 15/85 share to Sponsor Parties (Jaws Sponsor LLC), so 100% of realized tax savings distributed.
+  Rejected under confirmed Chapter 11 plan; resulting damages claim subordinated under Section 510 and discharged; zero recovery to beneficiaries.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2021-01-25: S-4 attaches the form-of TRA as Annex I.
+- 2021-06-03: Cano-Jaws business combination closes; executed Tax Receivable Agreement dated June 3, 2021 between Cano Health, Inc., Primary Care (ITC) Intermediate Holdings, LLC, Jaws Sponsor LLC, and the TRA Parties.
+- 2021-06-09: 8-K reports closing of the Business Combination.
+- 2021-06-25: S-1 files the executed TRA as Exhibit 10.3.
+
+#### Chapter 11 rejection and discharge
+
+- 2024-02-04: Cano Health and subsidiaries file Chapter 11 in the U.S. Bankruptcy Court for the District of Delaware; 8-K filed 2024-02-05 reports the petition. The petition constitutes an early termination event under Article IV.
+- 2024-05-10: Q1 2024 10-Q records a $261.1M Early Termination Payment liability in Liabilities subject to compromise; Plan provides that the TRA shall be rejected and resulting claims subordinated under Section 510.
+- 2024-06-28: Plan confirmed and Debtors emerge; the TRA is rejected, the rejection-damages claim is subordinated, and subordinated claims are discharged with zero recovery.
+
+## Explanation
+
+The TRA originates from Cano Health's June 3, 2021 SPAC business combination with Jaws Acquisition Corp. and committed Cano Health to pay 85% of realized tax savings to the TRA Parties (with the residual 15% to Sponsor Parties, distributing 100% of realized benefits) on Section 754 basis step-ups from Class B Common Unit exchanges and other Business Combination-related tax attributes. The contract was rejected pursuant to the Plan confirmed on June 28, 2024 in Cano's Chapter 11 case; the $261.1M Early Termination Payment claim that arose at the February 4, 2024 petition was subordinated under Bankruptcy Code Section 510 and discharged on the Effective Date with zero recovery to TRA beneficiaries. The Confirmation Order with the confirmed Plan attached as Exhibit 2.1 is not present in the local download; the parent 8-K and Q1 2024 10-Q together provide a complete chain of evidence. See `contract_log.md` for the full filing record.

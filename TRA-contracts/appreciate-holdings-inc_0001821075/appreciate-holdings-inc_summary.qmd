@@ -1,0 +1,32 @@
+---
+title: "Appreciate Holdings TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["PropTech Investment Corporation II", "Appreciate Holdings, Inc."]
+CIKs: ["0001821075", "0001821075"]
+status: Ongoing
+creation-date: 2022-11-29
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  TRA Party Representative is Lake Street Landlords, LLC. Directory ends at
+  Feb 16, 2023 424B3 prospectus; later periodic filings and any post-close
+  termination events not verifiable from this download set.
+---
+
+## TRA Timeline
+
+#### SPAC business combination and TRA execution
+
+- 2022-05-17: Business Combination Agreement signed; form-of TRA attached as Exhibit 10.4 to BCA-announcement 8-K (state-by-state calculation method)
+- 2022-11-04: BCA Amendment No. 5 substitutes revised form-of TRA using a blended state-and-local tax rate instead of state-by-state with-and-without
+- 2022-11-29: Business combination closes; PTIC II renamed Appreciate Holdings; TRA executed (Exhibit 10.1 to closing 8-K)
+
+## Explanation
+
+Appreciate Holdings's Tax Receivable Agreement was executed on November 29, 2022 at the closing of the SPAC business combination between PropTech Investment Corporation II and RW National Holdings (Renters Warehouse), creating an Up-C structure with Appreciate Intermediate Holdings, LLC as the operating LLC. Appreciate is obligated to pay 85% of cash tax savings from (i) basis adjustments on the Initial Sale, on any St. Cloud Class B Unit redemptions, and on future taxable exchanges of Class B Units and Earn Out Units for Class A Shares or cash, and (ii) imputed-interest deductions on TRA payments themselves; Lake Street Landlords, LLC serves as TRA Party Representative for the Rolling Renters Warehouse Unitholders. The only substantive pre-execution change was a switch to a blended state-and-local tax rate calculation method introduced in BCA Amendment No. 5; no post-execution amendments or terminations appear. The directory ends at the February 16, 2023 final resale 424B3 prospectus, so the TRA's status beyond that date is not verifiable from this download set. See `contract_log.md` for the full filing-by-filing record.

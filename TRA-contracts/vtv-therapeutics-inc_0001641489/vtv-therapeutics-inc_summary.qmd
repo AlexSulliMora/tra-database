@@ -1,0 +1,32 @@
+---
+title: "vTv Therapeutics Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["vTv Therapeutics Inc."]
+CIKs: ["0001641489"]
+status: Ongoing
+creation-date: 2015-07-29
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: "Economically dormant: M&F TTP Holdings Two LLC exchanged its full 577,108-unit position on September 19, 2025, but vTv has a full valuation allowance and going-concern doubt and has recognized no TRA liability. The contract is in force; the underlying deferred tax assets are economically zero."
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2015-07-23: Form-of TRA filed as Exhibit 10.5 to S-1/A
+- 2015-07-29: vTv Therapeutics Up-C IPO closes; executed Tax Receivable Agreement filed at 85% to vTv Therapeutics Holdings, LLC (subsequently succeeded by M&F TTP Holdings Two LLC, a MacAndrews & Forbes vehicle), covering Section 754 basis step-ups from future LLC Unit exchanges, imputed interest, and tax benefits attributable to TRA payments themselves (8-K)
+
+#### Beneficiary exchange (no contract change)
+
+- 2025-09-19: M&F TTP Holdings Two LLC exchanges its entire 577,108-unit LLC position for Class A common stock; the exchange creates Section 754 basis step-ups within TRA coverage but no liability is recorded due to vTv's full valuation allowance and going-concern doubt
+
+## Explanation
+
+vTv Therapeutics Inc. executed an 85% Up-C Tax Receivable Agreement at its July 29, 2015 IPO close, originally with vTv Therapeutics Holdings, LLC (dissolved October 2015 and succeeded by MacAndrews & Forbes-affiliated M&F TTP Holdings Two LLC), covering Section 754 basis step-ups from future LLC Unit exchanges, imputed interest, and tax benefits on TRA payments. No amendment, restatement, or termination has been filed across eleven fiscal years of post-IPO disclosures. On September 19, 2025 MacAndrews exchanged its full 577,108-unit Up-C overhang for Class A common stock, triggering basis step-ups within TRA coverage; however, vTv is clinical-stage with no product revenue, carries a full valuation allowance on its deferred tax assets, and has disclosed substantial doubt about its ability to continue as a going concern, so no TRA liability has been recognized and no payments have been made. The contract is legally in force but economically dormant; the September 2025 exchange has crystallized the basis step-up but the corresponding deferred tax asset has zero economic value to a non-tax-paying issuer. See `contract_log.md` for the full filing record and the going-concern context.

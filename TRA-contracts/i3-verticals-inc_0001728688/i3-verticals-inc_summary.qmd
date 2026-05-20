@@ -1,0 +1,40 @@
+---
+title: "i3 Verticals, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["i3 Verticals, Inc."]
+CIKs: ["0001728688"]
+status: Ongoing
+creation-date: 2018-06-25
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Executed-version of the original 2018 TRA not separately filed on EDGAR; 10-K
+  exhibit indices incorporate the form-of by reference. November 2022 First
+  Amendment is a LIBOR-to-SOFR administrative cleanup.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2018-05-25: Form-of TRA filed as Exhibit 10.2 to the initial S-1
+- 2018-06-25: TRA executed at IPO close, 85% of cumulative net realized tax benefit to Continuing Equity Owners (Daily family, Harvey, Harrison, Wilds family and affiliated investment vehicles); executed instrument not separately filed on EDGAR but incorporated by reference
+
+#### Amendment No. 1: LIBOR-to-SOFR transition
+
+- 2022-11-16: First Amendment filed as Exhibit 10.30 to the FY2022 10-K; replaces LIBOR with Term SOFR + 10 bp spread in the Agreed Rate, Default Rate, and Early Termination Rate; no change to payment percentage or beneficiary roster
+
+#### Capital structure transitions (TRA unchanged)
+
+- 2024-09-20: Sale of Merchant Services Business to Payroc for ~$439.5M cash; not a change of control of i3 Verticals, Inc.; TRA continues
+- 2025-01-23: Up-C recapitalization (capital contribution and reverse unit split) following the Payroc sale to restore the one-to-one Common Unit/Class A share ratio
+
+## Explanation
+
+i3 Verticals executed its Tax Receivable Agreement at the June 2018 Up-C IPO, committing to pay 85% of the cumulative net realized tax benefit (from Section 754 basis step-ups on exchanges of LLC common units for Class A shares) to the Continuing Equity Owners. The executed instrument was not separately filed on EDGAR but is incorporated by reference to the S-1 form-of in successive 10-K exhibit indices. The November 2022 First Amendment swapped LIBOR for Term SOFR + 10 bp spread in the three floating-rate definitions; economic terms were unchanged. The September 2024 sale of the Merchant Services Business to Payroc and the January 2025 Up-C recapitalization were large operational events but did not trigger the TRA's change-of-control acceleration. The TRA is in force as of the FY2025 10-K, with a recognized liability of $34.9M (down from $39.2M at September 30, 2024 after a $10.0M FY2025 payment). See `contract_log.md` for the full filing-by-filing record.

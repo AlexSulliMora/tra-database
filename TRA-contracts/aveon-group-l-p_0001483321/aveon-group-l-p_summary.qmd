@@ -1,0 +1,36 @@
+---
+title: "Aveon Group L.P. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Aveon Group L.P.", "Aveon Holdings I GP Inc.", "Aveon Holdings I L.P."]
+CIKs: ["0001483321", "", ""]
+status: Terminated
+creation-date: 2010-08-10
+termination-date: 2011-09-30
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of TRA only; never executed because the IPO was withdrawn (Form RW
+  filed 2011-09-30). Directory date is the original S-1 filing date
+  (origin_date_unverified). Lump-sum substitute rate is 70%.
+---
+
+## TRA Timeline
+
+#### Up-C IPO registration
+
+- 2010-08-10: Original S-1 filed for the Up-C IPO
+- 2010-10-15: S-1/A Amendment No. 1 first attaches the form-of TRA as Exhibit 10.4
+- 2010-11-17: S-1/A Amendment No. 2 re-files the form-of TRA with affiliated entities redomiciled from Quebec to Delaware
+
+#### Registration withdrawal
+
+- 2011-09-30: Form RW (Registration Withdrawal) filed; IPO never closed and the TRA never executed
+
+## Explanation
+
+Aveon Group L.P. registered an Up-C IPO in August 2010 contemplating a Tax Receivable Agreement between Aveon Holdings I GP Inc. (the Corporate Taxpayer) and the Aveon Holdings I Limited Partners, paying 85% of cash tax savings from Section 743(b) and 734(b) basis step-ups on Partnership-Unit exchanges plus imputed-interest deductions (with a 70% lump-sum substitute on a Change in Tax Law). The form-of TRA was filed as Exhibit 10.4 to S-1/A Amendments Nos. 1 and 2 with blank preamble date and unsigned signature pages. The Registration Statement was never declared effective; Aveon withdrew the registration on September 30, 2011, and the contract was never executed. See `contract_log.md` for the full filing-by-filing record.

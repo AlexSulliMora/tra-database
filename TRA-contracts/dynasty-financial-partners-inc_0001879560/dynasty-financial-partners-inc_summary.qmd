@@ -1,0 +1,37 @@
+---
+title: "Dynasty Financial Partners Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Dynasty Financial Partners Inc."]
+CIKs: ["0001879560"]
+status: Terminated
+creation-date: 2022-01-27
+termination-date: 2022-12-19
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Form-of only; never executed. Creation date is the S-1/A filing date
+  of the exhibit; termination date is the Registration Withdrawal
+  Request (RW accession 0001104659-22-128136), which is not in the
+  firm directory.
+---
+
+## TRA Timeline
+
+#### Planned Up-C IPO and form-of TRA
+
+- 2021-09-03: Confidential DRS describes planned 85% Up-C TRA
+- 2022-01-19: First public S-1 filing under Registration No. 333-262245
+- 2022-01-27: Form-of TRA filed as Ex 10.6 to S-1/A No. 1 (unexecuted, preamble placeholders)
+
+#### Registration withdrawn
+
+- 2022-12-19: RW filed (accession 0001104659-22-128136); IPO abandoned, TRA never executed
+
+## Explanation
+
+Dynasty Financial Partners Inc. filed a planned Up-C IPO registration in 2021 and 2022 with an accompanying form-of Tax Receivable Agreement that would have paid 85% of realized tax benefits to existing OpCo members and their permitted transferees. The contract was designed to capture basis step-ups under Sections 704(c)(1)(B), 707, 732, 734(b), 737(c)(2), 743(b), 754, 755, and 1012 arising from the planned Initial Sale, Redemptions, and Direct Exchanges, plus pre-existing basis adjustments and imputed-interest deductions on TRA payments. The form-of TRA appeared only as Exhibit 10.6 to the January 27, 2022 S-1/A (placeholders `[bullet], 20[bullet]` in the preamble, blank signature pages), and no subsequent S-1/A refiled it. The IPO never closed: the firm filed a Registration Withdrawal Request on December 19, 2022 for Registration Statement No. 333-262245, fixing the TRA's status as never executed. See `contract_log.md` for the full filing-by-filing record.

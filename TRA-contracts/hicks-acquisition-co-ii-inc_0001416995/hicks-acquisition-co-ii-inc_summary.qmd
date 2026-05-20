@@ -1,0 +1,41 @@
+---
+title: "Hicks Acquisition Company II, Inc. TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Hicks Acquisition Company II, Inc.", "Paperweight Development Corp."]
+CIKs: ["0001416995", "0001144326"]
+status: Unknown
+creation-date: 2012-05-16
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: SPAC business combination
+counterparty-type: M&A sellers
+notes: >-
+  Never executed. SPAC business combination with Appleton Papers / Paperweight
+  Development Corp. was withdrawn before close; HACII deregistered August 2012.
+  Origination date 2012-05-16 reflects the Cross Purchase Agreement date that
+  the contemplated TRA would have keyed to.
+---
+
+## TRA Timeline
+
+#### Contemplated SPAC business combination
+
+- 2012-05-16: Cross Purchase Agreement signed for HACII to acquire Appleton Papers via conversion to Appvion LLC; TRA contemplated at 85% sharing
+- 2012-05-18: Form-of TRA filed as Exhibit A inside the Cross Purchase Agreement (Exhibit 2.2 to the 8-K)
+- 2012-06-29: S-4 filed with form-of TRA reproduced as annex
+- 2012-07-02: 424B5 prospectus filed
+
+#### Withdrawal
+
+- 2012-07-11: Proxy supplement discloses adjournment and proposed waiver request after redemptions threaten the $82M trust-cash closing condition
+- 2012-07-30: Three Form 25-NSE delisting notices filed
+- 2012-08-03: Registration withdrawal (RW) filed
+- 2012-08-09: Form 15-12G deregistration; no TRA ever executed
+
+## Explanation
+
+Hicks Acquisition Company II was a SPAC that on May 16, 2012 signed a Cross Purchase Agreement to combine with Appleton Papers via conversion to Appvion LLC, under which HACII would have entered into a Tax Receivable Agreement with Paperweight Development Corp. paying 85% of the cash tax savings from Section 754 basis step-ups (on exchanges of Appvion Class B units for HACII stock), imputed interest, and Section 704(c) remedial allocations. The form-of TRA was filed but never executed: redemptions threatened the trust-cash closing condition, Nasdaq listing problems followed, and HACII withdrew the registration statement and deregistered in August 2012. Status is Unknown in the sense that the TRA never came into legal existence; the directory captures the contemplated contract as a form-of only. See `contract_log.md` for the full filing-by-filing record.

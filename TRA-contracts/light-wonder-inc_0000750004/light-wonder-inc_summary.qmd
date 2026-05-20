@@ -1,0 +1,42 @@
+---
+title: "Light & Wonder, Inc. TRA (Beneficiary at SciPlay Corporation)"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Scientific Games Corporation", "Light & Wonder, Inc.", "SciPlay Corporation"]
+CIKs: ["0000750004", "0000750004", "0001760903"]
+status: Ongoing
+creation-date: 2019-05-07
+termination-date:
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: Beneficiary
+trigger-event-type: IPO
+counterparty-type: Other
+notes: >-
+  Parent-as-beneficiary structure. October 23 2023 SciPlay buy-out
+  closed without termination; three Section 4.1(b) waivers preserved
+  the TRA while declining change-of-control acceleration. Payments
+  now intercompany and eliminated in consolidation.
+---
+
+## TRA Timeline
+
+#### SciPlay Up-C IPO and TRA execution
+
+- 2019-05-07: TRA executed concurrent with SciPlay Up-C IPO; SciPlay Corporation (obligor) and SG Social Holding Company I and II (Scientific Games subsidiaries; later renamed LNW Social Holding I and II) as beneficiaries
+- 2019-05-08: 8-K Item 1.01 files the executed TRA as Exhibit 10.1
+
+#### Corporate rebrand
+
+- 2022-03: Scientific Games Corporation rebrands to Light & Wonder, Inc.; same CIK; SG Social Holding entities rename to LNW Social Holding I and II; no TRA amendment
+
+#### SciPlay take-private and Section 4.1(b) waivers
+
+- 2023-08-08: Merger Agreement signed for Light & Wonder to acquire SciPlay public minority; no TRA waivers at signing
+- 2023-10-23: Merger closes; three Section 4.1(b) waivers executed (one each by SciPlay Corporation, SciPlay Parent Company LLC, and LNW Social Holding Company I); waivers decline change-of-control acceleration while preserving the TRA in force
+- 2023+: Post-merger TRA payments continue but are intercompany and eliminated in consolidation
+
+## Explanation
+
+Scientific Games Corporation (renamed Light & Wonder, Inc. in March 2022) is the beneficiary side of a single TRA executed May 7, 2019 at the SciPlay Corporation Up-C IPO, under which SciPlay (the issuer) pays 85% of cash tax savings from IPO-time basis step-ups, exchange-driven basis step-ups, and TRA-payment-derived basis to two Scientific Games subsidiaries (renamed LNW Social Holding Company I and II after the rebrand). On October 23, 2023, Light & Wonder closed a take-private merger for SciPlay's public minority; rather than terminating the TRA via a separate instrument, the three parties each delivered a Section 4.1(b) waiver declining the change-of-control acceleration while expressly stating the TRA remains in full force and effect. The TRA now operates entirely intercompany within the Light & Wonder consolidated group, so payments are eliminated in consolidation and post-2023 10-Ks carry no TRA disclosure; pre-merger payments included $4M for fiscal 2022. The contract could re-emerge as a separate-entity obligation only if Light & Wonder spun off, sold, or re-IPO'd SciPlay. See `contract_log.md` for the full filing-by-filing record.

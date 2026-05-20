@@ -1,0 +1,40 @@
+---
+title: "Ranger Energy Services TRA"
+author: "tra-build-timeline skill"
+date: 2026-05-18
+company-names: ["Ranger Energy Services, Inc."]
+CIKs: ["0001699039"]
+status: Terminated
+creation-date: 2017-08-16
+termination-date: 2021-09-10
+tax-asset-type: [Basis Step-Up]
+sharing-ratio: "85%"
+parallel-tras: []
+role: PubCo
+trigger-event-type: IPO
+counterparty-type: pre-IPO holders
+notes: >-
+  Negotiated termination paid in stock (376,185 Class A shares) rather than
+  the Section 4.01 Early Termination Payment formula; $3.8M expense recognized
+  in 2021. Termination conditioned on Basic Energy Services asset-acquisition
+  private placement closing October 1, 2021.
+---
+
+## TRA Timeline
+
+#### Up-C IPO and TRA execution
+
+- 2017-06-14: S-1/A files form-of TRA as exhibit 10.3
+- 2017-08-16: Up-C IPO closes; TRA executed between Ranger Energy Services, Inc., pre-IPO members of RNGR Energy Services LLC, and CSL Capital Management as Agent, paying 85% of net cash tax savings
+- 2017-08-22: 8-K files the executed TRA as exhibit 10.2
+
+#### Negotiated termination at Basic Energy asset acquisition
+
+- 2021-09-10: TRA Termination and Settlement Agreement executed; TRA Holders accept 376,185 Class A shares (Ranger Holdings 79.32%, Torrent Holdings 16.56%, CSL Fund 3.30%, Bayou 0.81%) as full satisfaction; TRA Holders also redeem their LLC Units and Class B shares
+- 2021-09-16: 8-K announces the termination agreement
+- 2021-10-01: Basic Energy Services asset-acquisition private placement closes, satisfying the condition precedent
+- 2021-10-04: 8-K files the executed termination agreement as exhibit 10.4
+
+## Explanation
+
+Ranger Energy Services' Up-C IPO on August 16, 2017 produced a TRA paying 85% of cash tax savings from Section 754 basis step-ups (and imputed interest) to the pre-IPO LLC members, with CSL Capital Management as Agent. No amendments were filed. The TRA was terminated on September 10, 2021 via a standalone Tax Receivable Termination and Settlement Agreement, executed in connection with the Basic Energy Services Chapter 11 asset acquisition and the related private placement that closed October 1, 2021. The termination payment was a fixed 376,185 Class A shares paid pro rata to the TRA Holders, rather than the Section 4.01 Early Termination Payment formula; the TRA Holders concurrently redeemed their LLC Units and Class B shares, and $3.8M of expense was recognized in 2021. See `contract_log.md` for the full filing-by-filing record and the termination instrument's release language.
