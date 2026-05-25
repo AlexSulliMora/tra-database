@@ -5,14 +5,19 @@ See `.claude/skills/tra-classify/SKILL.md` for the full skill contract and
 `.claude/skills/tra-classify/references/signal-catalog.md` for the per-version
 signal definitions and classification rule.
 
-This file implements `--mode classify` (U5). The `--mode review-uncertain` (U6)
-and `--mode finalize` (U7) modes are stubbed and raise NotImplementedError.
+This file implements `--mode classify` (U5) and the cache-aware half of
+`--mode review-uncertain` (U6). The A4 inference itself is performed by the
+Claude Code orchestrator dispatching the `tra-reviewer` agent (defined at
+`.claude/agents/tra-reviewer.md`) on each cache-miss entry in the worklist
+this mode emits — the script does not call the Anthropic API directly.
+`--mode finalize` (U7) remains stubbed.
 """
 
 from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import re
 import sys
 from dataclasses import dataclass, field
@@ -446,12 +451,252 @@ def run_classify_mode(args: argparse.Namespace) -> int:
     return 1 if n_error else 0
 
 
-def run_review_uncertain_mode(args: argparse.Namespace) -> int:
-    """Stub — implemented in U6 (A4 reviewer subagent + cache driver)."""
-    raise NotImplementedError(
-        "--mode review-uncertain is implemented in U6 (next implementation unit). "
-        "Use --mode classify in the current build."
+# --- A4 cache schema (U6) ------------------------------------------------
+A4_CACHE_COLUMNS = [
+    "content_hash",
+    "reviewer_verdict",
+    "reviewer_rationale",
+    "reviewed_at",
+    "model_id",
+]
+
+A4_WORKLIST_COLUMNS = [
+    "row_index",
+    "cik",
+    "accession",
+    "filename",
+    "document_path",
+    "content_hash",
+]
+
+
+def sha256_file(path: Path) -> str:
+    """SHA-256 of a file's bytes. Reads in 1 MiB chunks (EX-10 docs are
+    small but the iterator keeps memory bounded regardless).
+    """
+    h = hashlib.sha256()
+    with path.open("rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def load_a4_cache(cache_csv: Path) -> dict[str, tuple[str, str]]:
+    """Load the A4 verdict cache. Returns {content_hash: (verdict, rationale)}.
+
+    Empty / missing cache file yields an empty dict; the caller is responsible
+    for ensuring the header exists before any append.
+    """
+    if not cache_csv.exists() or cache_csv.stat().st_size == 0:
+        return {}
+
+    df = pl.read_csv(cache_csv)
+    missing = set(A4_CACHE_COLUMNS) - set(df.columns)
+    if missing:
+        raise ValueError(
+            f"A4 cache at {cache_csv} missing required columns: {missing}; "
+            f"expected header: {','.join(A4_CACHE_COLUMNS)}"
+        )
+
+    cache: dict[str, tuple[str, str]] = {}
+    for row in df.iter_rows(named=True):
+        h = row["content_hash"]
+        verdict = row["reviewer_verdict"]
+        rationale = row["reviewer_rationale"]
+        # Skip rows where the cache entry was malformed (empty verdict). These
+        # would otherwise be silently copied to classifications-v<N>.csv and
+        # appear "done" when they're actually unresolved.
+        if not h or not verdict:
+            continue
+        cache[h] = (verdict, rationale or "")
+    return cache
+
+
+def write_a4_cache_header_if_new(cache_csv: Path) -> None:
+    """Write the cache header if cache_csv does not exist yet."""
+    if cache_csv.exists() and cache_csv.stat().st_size > 0:
+        return
+    cache_csv.parent.mkdir(parents=True, exist_ok=True)
+    with cache_csv.open("w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(A4_CACHE_COLUMNS)
+
+
+def resolve_document_path(
+    input_dir: Path,
+    cik: str,
+    accession: str,
+    filename: str,
+) -> Path:
+    """Reverse the layout pull_exhibits.py uses: `<input_dir>/<CIK>/<accession>_<filename>`.
+
+    CIK is treated as a directory name (stripped of leading zeros only if the
+    on-disk dir is unpadded; otherwise zero-padded). We try the padded form first
+    since pull_exhibits.py writes zero-padded directories.
+    """
+    leaf = f"{accession}_{filename}"
+    padded = input_dir / cik.zfill(10) / leaf
+    if padded.exists():
+        return padded
+    # Tolerate an unpadded CIK directory if a future puller writes it that way.
+    unpadded = input_dir / cik.lstrip("0") / leaf
+    if unpadded.exists():
+        return unpadded
+    raise FileNotFoundError(
+        f"document not found on disk for cik={cik} accession={accession} "
+        f"filename={filename}; tried {padded} and {unpadded}"
     )
+
+
+def run_review_uncertain_mode(args: argparse.Namespace) -> int:
+    """Cache-aware enumerator for A4 review.
+
+    For each `classification = uncertain` row in --output-csv whose
+    `reviewer_verdict` is empty:
+
+      1. Compute SHA-256 of the document on disk.
+      2. Look up the hash in --cache-csv.
+      3. On hit: copy `reviewer_verdict` + `reviewer_rationale` to the row.
+      4. On miss: add to the worklist.
+
+    The script then writes the updated --output-csv (cache-hit rows filled in)
+    and the worklist of misses to <output-csv-stem>-a4-worklist.csv (or the path
+    given by --worklist-csv).
+
+    The actual A4 inference happens outside this script: the Claude Code
+    orchestrator reads the worklist, dispatches the `tra-reviewer` agent per
+    row, parses the JSON verdict, and appends one row to --cache-csv per
+    dispatch (columns: content_hash, reviewer_verdict, reviewer_rationale,
+    reviewed_at, model_id). Re-running this mode then sees the new cache hits
+    and fills the classifications CSV.
+
+    Exit codes:
+      0 — all uncertain rows now have verdicts (cache fully covers them).
+      2 — worklist is non-empty; orchestrator must dispatch A4 on the misses.
+      1 — error (missing input, malformed cache, document not found, etc.).
+    """
+    output_csv = Path(args.output_csv)
+    cache_csv = Path(args.cache_csv)
+    input_dir = Path(args.input_dir)
+    worklist_csv = (
+        Path(args.worklist_csv)
+        if args.worklist_csv
+        else output_csv.with_name(f"{output_csv.stem}-a4-worklist.csv")
+    )
+
+    if not output_csv.exists():
+        sys.exit(f"classifications CSV not found: {output_csv}; run --mode classify first")
+    if not input_dir.is_dir():
+        sys.exit(f"input_dir not a directory: {input_dir}")
+
+    write_a4_cache_header_if_new(cache_csv)
+    cache = load_a4_cache(cache_csv)
+
+    # Load classifications and operate in-memory; rewrite the whole file at the
+    # end to apply cache hits in place. The file is small (~3K rows), so this
+    # is cheap; resume-on-interrupt is provided by the cache, not by partial
+    # writes to the classifications file.
+    df = pl.read_csv(output_csv, schema_overrides={"cik": pl.String})
+    missing_cols = set(OUTPUT_COLUMNS) - set(df.columns)
+    if missing_cols:
+        sys.exit(
+            f"classifications CSV missing required columns: {missing_cols}; "
+            f"regenerate with --mode classify"
+        )
+
+    rows = df.to_dicts()
+
+    n_uncertain = 0
+    n_already_filled = 0
+    n_cache_hit = 0
+    n_cache_miss = 0
+    n_a1_skipped = 0
+    worklist: list[dict[str, object]] = []
+
+    for idx, row in enumerate(rows):
+        if row.get("classification") != "uncertain":
+            continue
+        n_uncertain += 1
+
+        # Already resolved by a prior pass (or by A1 hand-edit).
+        if row.get("reviewer_verdict"):
+            n_already_filled += 1
+            continue
+
+        # A1 has flagged this row for human review; do not auto-process.
+        if str(row.get("needs_a1_review", "")).lower() == "true":
+            n_a1_skipped += 1
+            continue
+
+        cik = row["cik"]
+        accession = row["accession"]
+        filename = row["filename"]
+        try:
+            doc_path = resolve_document_path(input_dir, cik, accession, filename)
+        except FileNotFoundError as e:
+            print(f"ERROR: row {idx}: {e}", file=sys.stderr)
+            row["needs_a1_review"] = "true"
+            row["escalation_reason"] = "document file not found on disk"
+            continue
+
+        content_hash = sha256_file(doc_path)
+
+        cached = cache.get(content_hash)
+        if cached is not None:
+            verdict, rationale = cached
+            row["reviewer_verdict"] = verdict
+            row["reviewer_rationale"] = rationale
+            n_cache_hit += 1
+            continue
+
+        n_cache_miss += 1
+        worklist.append(
+            {
+                "row_index": idx,
+                "cik": cik,
+                "accession": accession,
+                "filename": filename,
+                "document_path": str(doc_path),
+                "content_hash": content_hash,
+            }
+        )
+
+    # Rewrite classifications CSV with cache hits applied.
+    pl.DataFrame(rows, schema=df.schema).write_csv(output_csv)
+
+    # Write the worklist (always — even if empty, so PM can see "nothing to do").
+    worklist_csv.parent.mkdir(parents=True, exist_ok=True)
+    with worklist_csv.open("w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=A4_WORKLIST_COLUMNS)
+        writer.writeheader()
+        for entry in worklist:
+            writer.writerow(entry)
+
+    # Summary.
+    print()
+    print(f"classifications CSV : {output_csv}")
+    print(f"A4 cache CSV        : {cache_csv}  ({len(cache)} cached verdicts)")
+    print(f"input_dir           : {input_dir}")
+    print(f"worklist CSV        : {worklist_csv}")
+    print(f"uncertain rows      : {n_uncertain}")
+    print(f"  already filled    : {n_already_filled}")
+    print(f"  needs A1 review   : {n_a1_skipped}")
+    print(f"  cache hits applied: {n_cache_hit}")
+    print(f"  cache misses      : {n_cache_miss}")
+
+    if n_cache_miss == 0:
+        print()
+        print("All uncertain rows resolved. Run --mode finalize when ready (U7).")
+        return 0
+
+    print()
+    print(
+        f"Next: orchestrator dispatches the `tra-reviewer` agent for each of "
+        f"the {n_cache_miss} worklist entries, appends one row per dispatch to "
+        f"{cache_csv} (columns: {','.join(A4_CACHE_COLUMNS)}), then re-runs "
+        f"this mode."
+    )
+    return 2
 
 
 def run_finalize_mode(args: argparse.Namespace) -> int:
@@ -502,6 +747,12 @@ def main() -> int:
         "--cache-csv",
         default="data/edgar-query/a4_verdicts_cache.csv",
         help="A4 verdict cache (used by --mode review-uncertain; default: data/edgar-query/a4_verdicts_cache.csv)",
+    )
+    parser.add_argument(
+        "--worklist-csv",
+        default=None,
+        help="Where --mode review-uncertain writes the cache-miss worklist "
+        "(default: alongside --output-csv with suffix '-a4-worklist.csv').",
     )
 
     args = parser.parse_args()
