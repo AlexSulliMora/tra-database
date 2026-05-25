@@ -2095,3 +2095,327 @@ lets push to github for now
 
 ### Dispatches
 
+
+### Coauthor
+
+<!-- transcript_path: /home/sulli/.claude/projects/-home-sulli-research-tra/1d894a68-8692-46c9-8093-c69c02b611af.jsonl -->
+Before pushing I need to check the current git state, since pushing is hard to reverse and I haven't verified it this session.
+
+Verified state: the repo `AlexSulliMora/tra-database` already exists, is private, has `origin` configured, and carries one baseline commit; `gh` is authenticated as AlexSulliMora. So this is a commit-and-push, not a fresh setup.
+
+Uncommitted work to go up: the `search.py` / `find_candidates.py` / `pull_exhibits.py` changes, a deleted notebook, the handoff doc, `coauthor/` updates, and `README.md` (modified, still describing the old pipeline per the handoff doc; committing as-is for a checkpoint).
+
+One blocker before any commit: `data/` is 1.8 GB across 3,029 files (the EDGAR exhibit dump), untracked and not gitignored. Committing it would bake 1.8 GB of regenerable data permanently into the repo's history.
+
+The user wants `TRA-contracts/` committed too. Before I do that I need to check its size, since it's the same "regenerable from EDGAR" category as the `data/` you just excluded for being 1.8 GB.
+
+`TRA-contracts/` is 356 MB, 1,977 files, no file over 30 MB, so it commits cleanly with no GitHub size problem. Proceeding: editing `.gitignore`, then staging.
+
+Staging is correct: 1,997 files, `data/` excluded, `TRA-contracts/` and `tmp/` included, no `__pycache__` or secrets. Committing and pushing now.
+
+The commit succeeded (1,997 files, `749cd76`), but the output was truncated before I could see the push result. Verifying the push landed.
+
+---
+
+## Turn 2026-05-24T19:57:12-07:00
+**Stage**: 03-work
+
+### User
+
+/compound-engineering:ce-plan
+
+### Dispatches
+
+
+## Turn 2026-05-24T19:59:24-07:00
+**Stage**: 03-work
+
+### User
+
+/compound-engineering:ce-brainstorm the existing work uses the `coauthor` plugin which I designed to be roughly analogous to `compound-engineering`. Read through the existing current subproject and help me create a plan to continue it (and double check existing work) with the compound-engineering workflow
+
+### Dispatches
+
+
+### Coauthor
+
+<!-- transcript_path: /home/sulli/.claude/projects/-home-sulli-research-tra/f67741e5-14ae-4100-b5c0-ed73332d73af.jsonl -->
+I'll start by reading the existing coauthor subproject to understand what's been done and what's pending.
+
+I've read through the existing subproject. Here's where things stand before I ask the key clarifying question:
+
+**Done and recorded:** S1 inventory, S2 skill relocation to `.claude/skills/` (six skills moved), S3 cleanup (29 paths deleted, .gitignore in place), S4 parquet conversion (rows 360/1635/8415 preserved), S5 README, S6 git init + push to private `AlexSulliMora/tra-database`.
+
+**In flight and contested:** S7a was reworked from the planned shape — `find_candidates.py` and `pull_exhibits.py` now operate per matched EX-10 document rather than per filing, yielding 3,025 docs on disk. S7b was built in `tmp/TRA-classify/` but **not accepted** — you flagged that "contains the phrase 'tax receivable agreement'" is not the same as "is a TRA," and noted the centered document title is the real discriminator.
+
+**Not started:** S7c rewrite of `tra-download-filings`, S7d markdown-read switch, S7e retire `tra-packet`, S7f script relocation, S7g `tra-refresh`, S8 systematic rerun.
+
+**Unresolved from prior reviews:** silent deletion of `scripts/sec_edgar/resolve_deferred_ciks.py` (not in signed-off inventory), `tests/__init__.py` orphan after test removal, pending task #142 (`tra-packet/SKILL.md` still references deleted `tra_deferred_review.csv`), README still describes old per-filing pull and retired `tra-packet`.
+
+The single load-bearing decision the plan hinges on is the classify-step direction you left open. Let me ask that first:
+
+Got it. The classify step is iterative human-in-the-loop development, output is a skill that decides TRA-or-not with an uncertain-review tier (Claude first, then you if needed). That reshapes the plan in a useful way — the classify step becomes its own development cycle rather than a one-shot.
+
+One more clarifying question before I draft the requirements doc:
+
+Priority ordering noted: (1) correct classification dominates, (2) replicability is the quality bar. Re-running S1–S4 from scratch is partly a regression test and partly a forcing function for the README and open-issue cleanup.
+
+Before drafting the requirements doc, let me read the synthesis and capture references that govern Phase 2.5 and Phase 3 output shape.
+
+---
+
+## Turn 2026-05-24T20:13:35-07:00
+**Stage**: 03-work
+
+### User
+
+one more thing, I'd like to have the new work done in a new folder, ideally on the windows side so I can use the claude desktop app. How should I go about doing this? it's ok if you create a minimal folder in the WSL environment and then I copy it over to the windows side too
+
+### Dispatches
+
+
+### Coauthor
+
+<!-- transcript_path: /home/sulli/.claude/projects/-home-sulli-research-tra/f67741e5-14ae-4100-b5c0-ed73332d73af.jsonl -->
+Logistics question first — let me figure out what's accessible from WSL on the Windows side before recommending.
+
+Three patterns, each viable. The Windows home is `C:\Users\Sulli\` which mounts in WSL at `/mnt/c/Users/Sulli/` — so I can write directly there from this session and skip the copy step entirely.
+
+**Pattern 1: Docs-only Windows folder.** Only the brainstorm + plan + review artifacts live on Windows. Classify-skill development and all pipeline runs stay in WSL with Claude Code at `~/research/tra/`. Cleanest separation; Claude desktop becomes the conversational/planning surface, Claude Code the execution surface. Downside: any time we discuss the classify skill, you copy code blocks between the two.
+
+**Pattern 2: Docs + classify-skill workspace on Windows (recommended).** Brainstorm/plan artifacts and the in-development `tra-classify` skill source (SKILL.md + scripts) both live in the Windows folder. You iterate on the skill in Claude desktop; when you want to test, `cp -r <windows>/skills/tra-classify ~/research/tra/.claude/skills/` (or symlink the WSL location at `~/research/tra/.claude/skills/tra-classify` to the Windows path) and run from WSL where the pixi env and data are. Paste run output back into the Claude desktop chat for the next iteration. Best fit for "iterative back-and-forth on the classifier."
+
+**Pattern 3: Full repo clone on Windows.** `git clone https://github.com/AlexSulliMora/tra-database.git` to `C:\Users\Sulli\research\tra\`, install pixi on Windows, sync data. Single source of truth, no fragmentation. Cost: pixi-on-Windows setup, ~3 GB of `data/edgar-query/exhibits/` + 321 firm dirs in `TRA-contracts/` to copy or regenerate, potential line-ending headaches across the WSL/Windows boundary.
+
+My recommendation is **Pattern 2** for this specific work: the classify skill is where the iteration concentrates and benefits most from Claude desktop's dialogue surface, while the heavy pipeline work (downloads, parquet builds, dashboard rendering) is fine to keep in WSL where it already runs.
+
+Proposed Windows location: `C:\Users\Sulli\research\tra-continuation\` (writable from WSL at `/mnt/c/Users/Sulli/research/tra-continuation/`). Initial contents I'd create after you confirm the brainstorm synthesis:
+
+```
+tra-continuation/
+├── README.md                 # orientation + bridge to WSL pipeline
+├── AGENTS.md                 # compound-engineering project rules
+├── docs/
+│   └── brainstorms/
+│       └── git-good-continuation-requirements.md
+└── skills/
+    └── tra-classify/         # populated when skill development begins
+```
+
+---
+
+## Turn 2026-05-24T20:19:55-07:00
+**Stage**: 03-work
+
+### User
+
+im leaning towards 2, but for extra context: the eventual plan is to just use windows side claude desktop and stop using WSL entirely; my original plan was to finish that coauthor subproject and then push to github, pull the repo on the windows side, and delete the WSL version (the subproject ended up taking longer than I anticipated); when the entire process is done, I want only the files required for recreating the database to be present, everything else should be wipded; I'm also ok with staying on WSL for this project, pushing to github, pulling the repo on windows side, and removing all of the WSL data. Given this, what do you think?
+
+### Dispatches
+
+
+### Coauthor
+
+<!-- transcript_path: /home/sulli/.claude/projects/-home-sulli-research-tra/f67741e5-14ae-4100-b5c0-ed73332d73af.jsonl -->
+Given the eventual Windows-only goal and the fact that the project is closer to done than to starting, I'd flip my recommendation: **don't create a Windows folder yet**. Keep the remaining work in WSL, ship the project, then do one clean migration at the end. Here's why:
+
+**Replicability does the data-sync work for free.** Priority #2 is fresh-tree reproducibility. The actual test of that is exactly the migration step: clone the repo on Windows, install pixi, regenerate the corpus by re-running the pipeline. If the pipeline doesn't reproduce on Windows from a clean clone, replicability failed regardless of where we developed it. Doing the migration at the end turns it into the acceptance test.
+
+**Fragmenting now adds work without buying much.** Pattern 2 means you'd be syncing classify-skill files between Windows and WSL every iteration cycle, plus maintaining the WSL pipeline for actual runs. The Claude desktop access is the only thing it gives you — and there's a cheaper way to get that without two trees (next point).
+
+**Claude desktop can read WSL files directly.** Windows exposes WSL filesystems at `\\wsl.localhost\Ubuntu\home\sulli\research\tra\` (try it in File Explorer first to confirm it resolves). Claude desktop's file connector should accept that path. If it does, you get desktop-app access to the WSL tree with zero duplication during development.
+
+**Concrete plan I'd propose:**
+
+1. New compound-engineering artifacts get written to the WSL repo: `~/research/tra/docs/brainstorms/git-good-continuation-requirements.md`, plus future `docs/plans/`, `docs/reviews/`. They commit and travel with the repo.
+2. The `tra-classify` skill gets developed at `~/research/tra/.claude/skills/tra-classify/` directly. No sync step.
+3. All verification, classification iteration, and S7c–S8 work runs from `~/research/tra/` as it has been.
+4. When git-good is done: push to GitHub. On Windows, `git clone https://github.com/AlexSulliMora/tra-database.git` into `C:\Users\Sulli\research\tra\`. Install pixi on Windows. Run the pipeline end-to-end on Windows to regenerate `TRA-contracts/` and the parquets. If it works, delete `~/research/tra/`. If anything Windows-specific breaks during the rerun, fix in place and push — that's the replicability bug you'd want caught anyway.
+
+**One uncertainty I can't verify from here:** whether Claude desktop on Windows actually accepts `\\wsl.localhost\...` paths in its file picker. If it doesn't and you really want Windows-side desktop access during this work, Pattern 2 is the fallback. I'd ask you to test the path first before we commit either way.
+
+Good. The synthesis I presented is unchanged by that decision — artifacts go under `~/research/tra/docs/brainstorms/` and `~/research/tra/docs/plans/`; classify skill at `~/research/tra/.claude/skills/tra-classify/`; coauthor `ca-*.md` files freeze as historical record. Migration to Windows happens after S8 ships, with the pipeline rerun as the replicability test.
+
+Writing the requirements doc now.
+
+---
+
+## Turn 2026-05-24T20:27:13-07:00
+**Stage**: 03-work
+
+### User
+
+/compound-engineering:ce-doc-review
+
+### Dispatches
+
+- Called `compound-engineering_ce-coherence-reviewer` at 2026-05-24T20:28:56-07:00
+- Called `compound-engineering_ce-feasibility-reviewer` at 2026-05-24T20:30:07-07:00
+- Called `compound-engineering_ce-product-lens-reviewer` at 2026-05-24T20:30:14-07:00
+- Called `compound-engineering_ce-scope-guardian-reviewer` at 2026-05-24T20:30:16-07:00
+- Called `compound-engineering_ce-adversarial-document-reviewer` at 2026-05-24T20:31:04-07:00
+- Called `compound-engineering_ce-learnings-researcher` at 2026-05-24T20:46:46-07:00
+- Called `compound-engineering_ce-spec-flow-analyzer` at 2026-05-24T20:48:49-07:00
+- Called `compound-engineering_ce-repo-research-analyst` at 2026-05-24T20:49:31-07:00
+- Called `compound-engineering_ce-coherence-reviewer` at 2026-05-24T21:10:41-07:00
+- Called `compound-engineering_ce-feasibility-reviewer` at 2026-05-24T21:11:58-07:00
+- Called `compound-engineering_ce-adversarial-document-reviewer` at 2026-05-24T21:12:16-07:00
+- Called `compound-engineering_ce-scope-guardian-reviewer` at 2026-05-24T21:21:51-07:00
+
+### Coauthor
+
+<!-- transcript_path: /home/sulli/.claude/projects/-home-sulli-research-tra/f67741e5-14ae-4100-b5c0-ed73332d73af.jsonl -->
+**Headless mode** detected. Plan path resolved.
+
+**Classification:** `plan` (frontmatter `type: feat`, `origin:` present, U-IDs U1–U14, per-unit fields). Origin: `docs/brainstorms/git-good-continuation-requirements.md`.
+
+**Review team:**
+- `ce-coherence-reviewer` (always-on)
+- `ce-feasibility-reviewer` (always-on)
+- `ce-scope-guardian-reviewer` — 14 implementation units (>8 threshold)
+- `ce-adversarial-document-reviewer` — plan introduces new architectural abstractions (A4 custom-agent + cache, forced_uncertain.csv mechanism, three-precondition migration gate)
+
+Skipping product-lens (origin present; premise validated upstream during brainstorm review), design-lens (no UI), security-lens (no new external auth/API surface).
+
+Dispatching 4 reviewers in parallel.
+
+Synthesizing. Applying safe_auto fix silently before returning the envelope.
+
+```
+Document review complete (headless mode).
+
+Applied 1 fix:
+- Key Technical Decisions, U6 Approach: Corrected custom-agent model identifier from `opus-4-7` to `claude-opus-4-7` (feasibility) — matches the verified format in ~/.claude/agents/tra-processor.md and the user's standing custom-agent-pattern memory; an invalid model id would either fail to register or silently fall back to a default model.
+
+Proposed fixes (concrete fix, requires user confirmation):
+
+[P2] Section: U6 — A4 reviewer subagent — Drop escalations-v<N>.csv parallel file (scope-guardian, confidence 75)
+  Why: R10 requires A4-vs-A1 disagreements escalate to A1 but does not specify a separate file; the parallel artifact must be maintained in sync with classifications-v<N>.csv and grows per-iteration. A1 is already inspecting classifications-v<N>.csv; rows marked ERROR_* or carrying a contradiction flag in that same file would satisfy R10 without a parallel artifact.
+  Suggested fix: Drop escalations-v<N>.csv. Add a boolean `needs_a1_review` column (or an `escalation_reason` string column) to classifications-v<N>.csv itself so A1's single inspection surface covers both verdicts and escalations.
+
+[P2] Section: U7 — Iteration mechanics — Simplify classifier_acceptance.md to flat log (scope-guardian, confidence 75)
+  Why: R10 requires only that the accepted classifier_version is recorded in classifier_acceptance.md with the user's sign-off. The plan adds a chronological structured-section format (iteration number, signal-catalog version, A4 escalation counts, A1 correction counts, status field, sign-off note) plus a finalize_acceptance.py parser. If the file format drifts, the script halts — a fragile dependency between a bespoke text format and a parser the origin doc never requested.
+  Suggested fix: Strip classifier_acceptance.md to a flat append-only log (one line per acceptance event: iteration, classifier_version, date, user note). Have finalize_acceptance.py parse only the classifier_version from the last line where status is `accepted`, or require the user to pass --classifier-version explicitly on the CLI.
+
+[P2] Section: U5/U6/U7 + Output Structure — Consolidate three scripts into single classify.py with --mode flag (scope-guardian, confidence 75)
+  Why: The plan places three scripts inside .claude/skills/tra-classify/scripts/ (classify.py, review_uncertain.py, finalize_acceptance.py). R7 requires the skill be invokable as a standalone deterministic program; nothing in origin requires three separate entry points. Three scripts scattered across units with shared state in a4_verdicts_cache.csv and classifications-v<N>.csv create a multi-entry-point API surface that SKILL.md must document and future contributors must understand holistically.
+  Suggested fix: Consolidate into a single classify.py with a --mode flag: --mode classify (U5), --mode review-uncertain (U6), --mode finalize (U7). One invocation pattern for the skill; eliminates multi-script coordination burden.
+
+Decisions (requires user judgment):
+
+[P0] Section: Key Technical Decisions (htm-to-md ordering); U9; U13 — tra-build-timeline depends on TRA-*/ subdirectory layout U9 removes (feasibility, confidence 100)
+  Why: U9 drops the "move to TRA-*/" step so htm-to-md and process-filings both operate on `<accession>/` only. But tra-build-timeline/SKILL.md is built around the TRA-*/ subdirectory layout: its firm_dir input contract requires "directory containing TRA-<date>/, contract_log.md, filing_notes.md"; its output filename is `<slug>_TRA-<date>_summary.qmd` for multi-TRA firms; the workflow reads each TRA-<date>[-<diff>]/ subdirectory as a separate TRA. U13's S8 runs tra-build-timeline (Step 5) after the new ordering eliminated those subdirectories — multi-TRA disambiguation and the summary filename convention break. An implementer reaching U13 would have to invent the new contract.
+  Suggested fix: Add an explicit unit (or extend U9) that rewrites tra-build-timeline/SKILL.md for the new flat-accession layout: name the new mechanism for distinguishing parallel TRAs at a firm (e.g., a logical TRA-id key inside contract_log.md), update the summary filename convention, update the firm_dir input spec. List tra-build-timeline in U9's `Files: Modify`.
+
+[P1] Section: Key Technical Decisions (A4 as custom agent); U6 Approach — Custom agent registration requires session restart between U6 and U7 (feasibility, confidence 100)
+  Why: The user's standing memory states explicitly: "Agent files written to disk require a Claude Code session restart to be addressable via `subagent_type`." The plan's F2 loop creates .claude/agents/tra-reviewer.md in U6 and immediately drives the iteration in U7 (review_uncertain.py dispatches A4) without acknowledging the session-restart barrier. The implementer running U6 and U7 back-to-back will find A4 not addressable; the silent fallback may be a generic-haiku dispatch, undermining the reliability premise of the whole F2 design.
+  Suggested fix: Add to U6 an explicit step: after creating .claude/agents/tra-reviewer.md, the user restarts the Claude Code session before U7 begins. Alternatively, document Option A (in-session Agent dispatch with `model: "opus"` override and inlined skill content) for the iteration runs that must happen pre-restart.
+
+[P1] Section: R14 vs. origin R14; Key Technical Decisions; U12 — R14 fallback source diverges from origin (coherence, confidence 100)
+  Why: The plan's R14 says "max `file_date` in `data/edgar-query/full-text.parquet`" while the origin's R14 says "max `filingDate` in `events.parquet`". The plan's Key Technical Decisions section documents this as an intentional correction (events.parquet doesn't carry filing dates, full-text.parquet does, and the column is `file_date`). The divergence is correct, but it is not noted as a deliberate deviation from the frozen origin. A reader returning to the origin doc and the plan together will see two different fallback specs without context.
+  Suggested fix: Add one sentence to the Key Technical Decisions entry for `last_refresh.json` fallback source: "This corrects the origin's R14 (events.parquet) which references a column the parquet does not carry; the plan-canonical source is `data/edgar-query/full-text.parquet`'s `file_date` column."
+
+[P1] Section: R16a; Open Questions — Origin R16a Outstanding Question on test shape omitted (coherence, confidence 75)
+  Why: Origin R16a included a footnote naming an outstanding question — "the Outstanding Question on test shape settles which mode is canonical" (whether Windows reproducibility includes or excludes the tra-refresh step). The plan strips this footnote, leaving "within tra-refresh-delta tolerance when applicable" without acknowledging the open choice. Implementers will diverge on whether U14 runs the live refresh or builds from on-disk only. AE5 is then ambiguous.
+  Suggested fix: Add an item to Open Questions → Deferred to Implementation: "Windows reproducibility test shape (origin R16a footnote): decide whether U14 runs the live tra-refresh (accept row-count delta documented in last_refresh.json) or rebuilds from existing on-disk exhibits (strict row-count match). Resolution during U14 execution."
+
+[P1] Section: Key Technical Decisions (A4 verdict caching); U6 — Content-hash cache key collides across accessions (adversarial, confidence 75)
+  Why: The cache keys on SHA-256 of document bytes. The same TRA contract routinely re-files verbatim across accessions (parent + LLC cross-filing; amendment-and-restatement re-attaching the original; 8-K Item 1.01 attaching an exhibit already filed). Under the current design, the cache returns one verdict — desirable for yes/no, but `reviewer_rationale` carries one filing's context that may be wrong for the others. More seriously, if A4's verdict depended on filing context (e.g., an amendment retitling a non-TRA), the content-hash cache cannot distinguish.
+  Suggested fix: Either (a) document explicitly that content-hash caching means verdicts are context-free and any context-dependent reading is out of scope, OR (b) key the cache on (content_hash, classifier_version), record the first-seen (cik, accession) in the cache row for audit, but do not let it gate the verdict.
+
+[P1] Section: R11, U7, U12 — classifier_version uniformity breaks on refresh (adversarial, confidence 75)
+  Why: R11 requires uniform classifier_version; U7 halts if violated. U12's tra-refresh runs the accepted classifier (version N) over new candidates. As long as classify.py is never edited post-acceptance, this is consistent — but the plan does not pin the classifier source against the accepted version. If anyone edits classify.py between F2 acceptance and a later refresh, refresh rows still carry classifier_version=N while running different code. The acceptance log records the version number; the version number is set by a CLI arg; nothing ties the arg to the code's actual behavior. Silent drift between accepted classifier and version label on refreshed rows.
+  Suggested fix: Either freeze the classifier source at acceptance (snapshot classify.py + signal-catalog.md under .claude/skills/tra-classify/accepted/v<N>/ and have finalize_acceptance.py / tra-refresh invoke that snapshot path), or derive classifier_version from a content hash of the script + signal catalog and refuse to write if it doesn't match the accepted version. The current --classifier-version flag is a manual label that can lie.
+
+[P2] Section: U8 Approach step (5) — IPO 8-K Item 1.01 detection mechanic unspecified (feasibility, confidence 75)
+  Why: U8 step (5) says "the IPO date is inferred from the earliest 8-K with Item 1.01 mentioning IPO." The sec_edgar API's list_filings_by_form returns filing metadata only — no 8-K items or item text. The implementer must fetch every 8-K body, parse out the Item 1.01 section, string-search for IPO language; the plan does not say how. The IPO-prospectus selection is a frozen prior-plan requirement and a non-trivial mechanic to invent at implementation time.
+  Suggested fix: Add a sub-step in U8 naming the detection mechanism: submissions API returns an `items` field per 8-K (e.g., "1.01,5.02"); filter on that for the cheap path, then fetch the document body for the subset matching `1.01` and do a bounded text scan for IPO language. State the search terms explicitly (e.g., "initial public offering", "IPO", "pricing of the Company's common stock").
+
+[P2] Section: Key Technical Decisions; U5; Risks table — forced_uncertain.csv no growth governance (adversarial, confidence 75)
+  Why: The escape hatch is unbounded. During F2 iteration under user pressure (A2 trying to converge), the path of least resistance is to add failing documents to forced_uncertain.csv rather than improve a signal. A4 becomes de-facto classifier on a growing fraction of corpus; deterministic coverage shrinks; the project's stated motivation (phrase-presence does not discriminate) re-emerges as a different failure shape (A4 nondeterminism on a growing fraction). The Risks table's mitigation routes convergence failure toward widening forced_uncertain — exactly the unguarded pressure direction.
+  Suggested fix: Add an explicit budget on forced_uncertain.csv size per iteration (e.g., must stay below X% of corpus; each addition requires a `reason` field beyond the header that distinguishes "irreducibly ambiguous" from "we gave up on a signal"). At F2 acceptance, surface the list's contents to A1 as part of the acceptance review.
+
+[P2] Section: Key Technical Decisions; U14; Risks table — WSL deletion gate is pure-trust procedural (adversarial, confidence 75)
+  Why: The three preconditions (R16a passes, S8 corpus re-accepted, F2 closed) are a checklist A1 mentally verifies before running `rm -rf ~/research/tra/`. If A1 misremembers, the WSL tree containing TRA-contracts/ companion metadata (contract_log.md, filing_notes.md) is destroyed. The rollback shape does not restore those local annotations because they were never committed (TRA-contracts/ is gitignored). Catastrophic, irreversible cost of skipping one mental checkbox.
+  Suggested fix: Write a short scripts/check_wsl_deletion_ready.sh (or python equivalent) that mechanically verifies the three preconditions before printing the rm -rf command for A1 to copy-paste: (i) reads classifier_acceptance.md and confirms most recent entry is accepted with Windows-replicability-confirmed marker, (ii) confirms outputs/tra-database/last_refresh.json on origin/main exists and was written by S8, (iii) confirms no draft iteration ahead of accepted. Makes the gate auditable rather than mental.
+
+[P2] Section: U13 — Firm-slug rename has no reconciliation mechanism (adversarial, confidence 75)
+  Why: U13 says "if a firm-slug changes (CIK matched a different name), the firm directory is treated as new and the old one stays untouched — A1 reconciles after." How A1 discovers a slug change is implicit: it requires noticing that two directories share a CIK suffix, or that an expected firm is missing. With ~321 firms, this is not reliably catchable by inspection. The S8 commit will include both old-slug and new-slug directories, the parquet build picks up whichever has `*_summary.qmd` files, dashboard silently shows whichever was processed last.
+  Suggested fix: Have U13's step (1) or (2) emit TRA-contracts/SLUG_DIFF_<rundate>.md listing: CIKs with both old-slug and new-slug directories present, CIKs in new corpus with no prior directory, prior-corpus CIKs absent from new corpus. Block on A1 acknowledging this file (touch SLUG_DIFF_<rundate>.acknowledged) before step (6) build_tra_database runs. Mechanical detection > trust that A1 spots a rename.
+
+[P2] Section: U13; Risks table — Re-acceptance rejection has undefined loop semantics (adversarial, confidence 75)
+  Why: U13's re-acceptance gate says "surface the diff to A1 for sign-off before proceeding"; Risks table says "loop re-opens if needed." What "loop re-opens" means operationally is unspecified: full F2 re-iteration (with A2 revisions) or A1 manually edits classifications.csv for new documents? F2 re-opening invalidates the frozen A4 cache; manual edits leave cache frozen but introduce non-classifier-derived verdicts violating R11's uniform-classifier_version constraint.
+  Suggested fix: Specify both branches: (a) if S8 diff is small (e.g., < 5 new documents AND no new CIKs), A1 may classify them inline by appending to forced_uncertain.csv + running A4, keeping F2 closed; (b) if larger or includes a new CIK that the v0–vN signals never saw, formally re-open F2 — increment classifier_version, unfreeze cache for new content hashes only (existing entries stay), run another iteration. Name the threshold rather than leaving "loop re-opens if needed" undefined.
+
+[P3] Section: Key Technical Decisions; U6 — A4 custom agent vs cache: where verdicts live is ambiguous (adversarial, confidence 75)
+  Why: Key Technical Decisions says the custom agent "centralizes the A4 verdict cache" and "retry / error-marker logic." U6 then assigns those to review_uncertain.py (a python driver). A custom agent in Claude Code is a markdown definition the model executes per-invocation; it cannot maintain persistent cache between dispatches — only python code outside the agent loop can. A reader implementing this could write cache logic inside tra-reviewer.md (where it will not persist) rather than in review_uncertain.py.
+  Suggested fix: Clarify in Key Technical Decisions that the custom agent is the dispatch endpoint (per-document JSON verdict producer) and review_uncertain.py is the cache/retry/error owner. The "centralizes" language belongs on the driver, not the agent.
+
+FYI observations (anchor 50, no decision required):
+
+[P2] Section: Open Questions → Deferred to Implementation; U7 — F2 non-convergence heuristics not anchored in unit (coherence, confidence 50)
+  Why: The deferred item acknowledges non-convergence but U7 and the F2 flowchart offer no procedural guidance for detecting and surfacing it. A2 will have to invent the heuristic at execution time.
+
+[P2] Section: Key Technical Decisions; U6, U12 — tra-refresh cache concurrency note (feasibility, confidence 50)
+  Why: Cache is a plain CSV with no commit hook or schema migration story. For current single-user sequential pattern this is fine; the implementer should know the format choice constrains future evolution.
+
+[P3] Section: U5; Key Technical Decisions — forced_uncertain.csv unjustified at plan-freeze (scope-guardian, confidence 50)
+  Why: R8 specifies only classification emission; forced_uncertain.csv was added in planning per a flow-analyzer finding. User signed off in Phase 2. Advisory only; the SKILL.md should clarify the file starts empty and populates only when needed.
+
+Residual concerns:
+
+- a4_verdicts_cache.csv grows unboundedly across refresh runs; no compaction policy. (adversarial)
+- A4 nondeterminism within F2-frozen set: cache is frozen at acceptance, but plan does not pin LLM model snapshot or temperature. EDGAR re-encoding whitespace could cause a cache miss on a verbatim re-fetched document. (adversarial)
+- Bounded-read window (80 KB title + 400 KB scan) preserved from rejected prior classifier; for multi-hundred-page S-1 with deep EX-10 TRA attachment, scan window may not reach the TRA. (adversarial)
+- Force-push as S8 rollback works while repo has only baseline + S8 commit; once any refresh commit lands, force-push to undo S8 also undoes refresh commits, breaking the "minimal commits" framing. (adversarial)
+- S8 re-acceptance gate diff tool unspecified; plan describes the gate's purpose but not the diff artifact's shape. (scope-guardian)
+- win-64 wheels in conda-forge: U2 surfaces this early, but resolution may require dropping/substituting a pinned dependency, not just lockfile regeneration. (feasibility)
+- file_date vs filingDate terminology mismatch is subtle but load-bearing; wrong column = silent zero-row fallback. (coherence)
+
+Deferred questions:
+
+- Which parquet source is canonical for R14's fallback: events.parquet (origin) or full-text.parquet (plan)? Is the difference intentional or a mistake? (coherence)
+- What is the canonical column name for filing date in the per-document EDGAR output parquets: file_date or filingDate? (coherence)
+- Is the Windows reproducibility test (U14 / R16a) meant to include or exclude the tra-refresh step, and should row-count variation due to new EDGAR filings be acceptable? (coherence)
+
+Dropped: 0 (anchors 0/25 suppressed)
+Restated: 0
+
+Review complete
+```
+
+---
+
+## Phase 5.3.9 Final Checks
+
+- Plan strengthened: model ID corrected silently; deviations from origin (R14 fallback source) and architectural commitments (A4 cache, forced_uncertain.csv, 3-precondition migration gate) made explicit during planning.
+- Planning boundary intact: no implementation code; per-unit fields name decisions, files, and test scenarios as required.
+- Origin decisions preserved: largely yes, but the headless review found one un-noted deviation (R14 fallback source diverges from origin's `events.parquet` → `full-text.parquet`) and one stripped footnote (R16a Outstanding Question on test shape). Both are P1 findings surfaced below.
+
+---
+
+Doc review applied 1 fix. 12 decisions, 3 proposed fixes, 3 FYI observations remain (1 at P0, 5 at P1).
+
+The P0 is structurally significant: **U9's "drop the move-to-TRA-*/-subdirectory step" decision breaks `tra-build-timeline`'s input contract** (which depends on `TRA-<date>/` subdirectories for multi-TRA firm disambiguation and summary filename construction). Without an explicit unit to rewrite `tra-build-timeline/SKILL.md` for the flat-accession layout, U13 will hit this immediately during S8.
+
+Plan ready at `/home/sulli/research/tra/docs/plans/2026-05-24-001-feat-git-good-continuation-plan.md`. What would you like to do next? (Pick a number or describe what you want.)
+
+1. **Start `/ce-work`** (recommended) — Begin implementing this plan in the current session.
+2. **Run deeper doc review** — Walk through the 15 remaining findings interactively (full ce-doc-review walkthrough); useful given the P0 + P1 cluster around U9/U6/U13.
+3. **Create Issue** — Create a tracked issue from this plan in your configured tracker (GitHub or Linear).
+4. **Open in Proof (web app)** — Open the plan in Every's Proof editor; iterate via comments or share a link.
+5. **Done for now** — Pause; the plan file is saved.
+
+Given the P0 around `tra-build-timeline` compatibility with U9 (which would cascade into U13 if unaddressed), I'd lean toward option 2 before ce-work — fixing it during the walkthrough is cheaper than discovering it mid-implementation.
+
+---
+
+## Turn 2026-05-24T21:33:30-07:00
+**Stage**: 03-work
+
+### User
+
+/compound-engineering:ce-doc-review
+
+### Dispatches
+
