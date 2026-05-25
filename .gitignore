@@ -3,8 +3,15 @@
 .tra_history_cache/
 sec-data-pqt/
 
-# EDGAR query output (regenerable from the pipeline; ~1.8 GB of exhibits)
-data/
+# EDGAR query output: bulk data regenerable from the pipeline (~1.8 GB of exhibits)
+data/edgar-query/exhibits/
+data/edgar-query/full-text.parquet
+data/edgar-query/pull-exhibits.log
+data/edgar-query/run.log
+# tra-classify user-state files under data/edgar-query/ stay tracked (not regenerable):
+# forced_uncertain.csv, classifier_acceptance.md, a4_verdicts_cache.csv,
+# classifications*.csv. No explicit allow-list needed — they aren't matched by
+# the ignore patterns above.
 
 # Python bytecode
 __pycache__/
