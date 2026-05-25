@@ -699,12 +699,206 @@ def run_review_uncertain_mode(args: argparse.Namespace) -> int:
     return 2
 
 
+# --- U7: finalize -------------------------------------------------------
+
+ACCEPTANCE_LINE_RE = re.compile(
+    r"^\s*(?P<date>\d{4}-\d{2}-\d{2})\s*\|\s*"
+    r"classifier_version\s*=\s*(?P<version>\d+)\s*\|\s*"
+    r"status\s*=\s*(?P<status>\w+)\s*\|"
+)
+
+
+def resolve_accepted_version(acceptance_log: Path) -> int:
+    """Scan classifier_acceptance.md from the end for the most recent
+    `status=accepted` line. Returns the accepted classifier_version. Halts
+    loudly if no accepted version exists.
+    """
+    if not acceptance_log.exists():
+        raise FileNotFoundError(
+            f"classifier_acceptance.md not found at {acceptance_log}; "
+            f"either create it with an `accepted` line or pass --classifier-version explicitly"
+        )
+
+    accepted_versions: list[int] = []
+    most_recent_status: str | None = None
+    most_recent_version: int | None = None
+
+    for line in acceptance_log.read_text().splitlines():
+        m = ACCEPTANCE_LINE_RE.match(line)
+        if not m:
+            continue
+        version = int(m.group("version"))
+        status = m.group("status")
+        most_recent_status = status
+        most_recent_version = version
+        if status == "accepted":
+            accepted_versions.append(version)
+
+    if not accepted_versions:
+        msg = (
+            f"no `status=accepted` entry in {acceptance_log}; "
+            f"the user must accept a classifier iteration before finalize can run"
+        )
+        if most_recent_version is not None:
+            msg += f" (most recent log entry: version {most_recent_version}, status {most_recent_status})"
+        raise ValueError(msg)
+
+    return accepted_versions[-1]
+
+
+def verify_uniform_classifier_version(
+    csv_path: Path, expected_version: int
+) -> None:
+    """Halt loudly if any row in csv_path has a classifier_version different
+    from expected_version.
+    """
+    df = pl.read_csv(csv_path, schema_overrides={"cik": pl.String})
+    versions = df["classifier_version"].unique().to_list()
+    if versions != [expected_version]:
+        offenders = df.filter(pl.col("classifier_version") != expected_version)
+        sample = offenders.head(5).to_dicts()
+        raise ValueError(
+            f"non-uniform classifier_version in {csv_path}: found {versions}, "
+            f"expected only [{expected_version}]; first 5 offending rows: {sample}"
+        )
+
+
+def link_or_copy(src: Path, dst: Path) -> str:
+    """Symlink `dst` -> `src`; on platforms where symlinks fail (Windows
+    without privilege), fall back to copy. Returns the strategy used.
+    """
+    import os
+    import shutil
+
+    if dst.exists() or dst.is_symlink():
+        dst.unlink()
+
+    try:
+        os.symlink(src.name, dst)  # relative symlink so it survives moves
+        return "symlink"
+    except (OSError, NotImplementedError):
+        shutil.copy2(src, dst)
+        return "copy"
+
+
 def run_finalize_mode(args: argparse.Namespace) -> int:
-    """Stub — implemented in U7 (iteration mechanics + acceptance tracking)."""
-    raise NotImplementedError(
-        "--mode finalize is implemented in U7 (next-next implementation unit). "
-        "Use --mode classify in the current build."
+    """End-to-end finalize: re-run classify + review-uncertain for the accepted
+    version, then link the result to classifications.csv.
+
+    1. Determine the accepted classifier_version (from --classifier-version,
+       else parsed from classifier_acceptance.md).
+    2. Run --mode classify against --input-dir with that version, writing
+       --output-csv (defaults to classifications-v<N>.csv alongside the
+       acceptance log).
+    3. Run --mode review-uncertain on the result. Halt if any cache misses
+       remain — the accepted set must be fully covered by the A4 cache.
+    4. Verify uniform classifier_version across all rows.
+    5. Symlink (or copy) the output to data/edgar-query/classifications.csv.
+
+    Exit codes:
+      0 — finalize succeeded; classifications.csv ready for downstream union.
+      1 — error (no accepted version, cache misses remain, version mismatch).
+    """
+    acceptance_log = Path(args.acceptance_log)
+    input_dir = Path(args.input_dir)
+    manifest_path = Path(args.manifest)
+    forced_uncertain_path = Path(args.forced_uncertain)
+    cache_csv = Path(args.cache_csv)
+
+    # Step 1: resolve the accepted version.
+    if args.classifier_version is not None:
+        version = args.classifier_version
+        print(f"finalize: using --classifier-version {version} (CLI override)")
+    else:
+        try:
+            version = resolve_accepted_version(acceptance_log)
+        except (FileNotFoundError, ValueError) as e:
+            sys.exit(f"finalize: {e}")
+        print(f"finalize: accepted classifier_version={version} (from {acceptance_log})")
+
+    # Default the intermediate output to classifications-v<N>.csv alongside
+    # the canonical classifications.csv path.
+    if args.output_csv:
+        intermediate_csv = Path(args.output_csv)
+    else:
+        intermediate_csv = (
+            acceptance_log.parent / f"classifications-v{version}.csv"
+        )
+    canonical_csv = acceptance_log.parent / "classifications.csv"
+    worklist_csv = intermediate_csv.with_name(
+        f"{intermediate_csv.stem}-a4-worklist.csv"
     )
+
+    # Step 2: run --mode classify end-to-end. We delete any pre-existing
+    # intermediate so the classify-mode resume logic doesn't skip rows that
+    # should be re-scored under the (presumably-updated) signal catalog.
+    if intermediate_csv.exists():
+        intermediate_csv.unlink()
+
+    classify_args = argparse.Namespace(
+        mode="classify",
+        input_dir=str(input_dir),
+        output_csv=str(intermediate_csv),
+        classifier_version=version,
+        forced_uncertain=str(forced_uncertain_path),
+        manifest=str(manifest_path),
+        cache_csv=str(cache_csv),
+        worklist_csv=None,
+        acceptance_log=str(acceptance_log),
+    )
+    print()
+    print(f"finalize step 2/4: --mode classify -> {intermediate_csv}")
+    rc = run_classify_mode(classify_args)
+    if rc != 0:
+        sys.exit(f"finalize: --mode classify returned non-zero exit code {rc}")
+
+    # Step 3: run --mode review-uncertain. Cache-misses-remaining is fatal
+    # because the accepted set must be fully covered by the A4 cache.
+    review_args = argparse.Namespace(
+        mode="review-uncertain",
+        input_dir=str(input_dir),
+        output_csv=str(intermediate_csv),
+        classifier_version=version,
+        forced_uncertain=str(forced_uncertain_path),
+        manifest=str(manifest_path),
+        cache_csv=str(cache_csv),
+        worklist_csv=str(worklist_csv),
+        acceptance_log=str(acceptance_log),
+    )
+    print()
+    print(f"finalize step 3/4: --mode review-uncertain on {intermediate_csv}")
+    rc = run_review_uncertain_mode(review_args)
+    if rc == 2:
+        sys.exit(
+            f"finalize: --mode review-uncertain reports cache misses on the "
+            f"accepted set; the A4 cache at {cache_csv} must fully cover the "
+            f"accepted set before finalize can complete. See {worklist_csv} "
+            f"for the unresolved rows."
+        )
+    if rc != 0:
+        sys.exit(f"finalize: --mode review-uncertain returned non-zero exit code {rc}")
+
+    # Step 4: verify uniform classifier_version and link to canonical name.
+    try:
+        verify_uniform_classifier_version(intermediate_csv, version)
+    except ValueError as e:
+        sys.exit(f"finalize: {e}")
+
+    strategy = link_or_copy(intermediate_csv, canonical_csv)
+    df = pl.read_csv(intermediate_csv, schema_overrides={"cik": pl.String})
+
+    print()
+    print(f"finalize step 4/4: {strategy} {canonical_csv} -> {intermediate_csv.name}")
+    print()
+    print(f"intermediate CSV   : {intermediate_csv}")
+    print(f"canonical CSV      : {canonical_csv}  ({strategy})")
+    print(f"classifier_version : {version} (uniform)")
+    print(f"rows               : {len(df)}")
+    classifications = df["classification"].value_counts(sort=True).to_dicts()
+    for entry in classifications:
+        print(f"  {entry['classification']:10s}: {entry['count']}")
+
+    return 0
 
 
 def main() -> int:
@@ -724,8 +918,10 @@ def main() -> int:
     )
     parser.add_argument(
         "--output-csv",
-        required=True,
-        help="Where to write classifications (e.g., data/edgar-query/classifications-v1.csv)",
+        default=None,
+        help="Where to write classifications (e.g., data/edgar-query/classifications-v1.csv). "
+        "Required for --mode classify and --mode review-uncertain; optional for --mode finalize "
+        "(defaults to classifications-v<N>.csv alongside the acceptance log).",
     )
     parser.add_argument(
         "--classifier-version",
@@ -754,12 +950,20 @@ def main() -> int:
         help="Where --mode review-uncertain writes the cache-miss worklist "
         "(default: alongside --output-csv with suffix '-a4-worklist.csv').",
     )
+    parser.add_argument(
+        "--acceptance-log",
+        default="data/edgar-query/classifier_acceptance.md",
+        help="Append-only log of classifier-iteration acceptance events "
+        "(read by --mode finalize; default: data/edgar-query/classifier_acceptance.md).",
+    )
 
     args = parser.parse_args()
 
     # Mode-specific required-arg validation.
     if args.mode in ("classify", "review-uncertain") and args.classifier_version is None:
         parser.error(f"--mode {args.mode} requires --classifier-version")
+    if args.mode in ("classify", "review-uncertain") and args.output_csv is None:
+        parser.error(f"--mode {args.mode} requires --output-csv")
 
     if args.mode == "classify":
         return run_classify_mode(args)
