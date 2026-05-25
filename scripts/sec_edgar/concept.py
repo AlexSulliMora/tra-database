@@ -2,9 +2,10 @@
 
 Endpoint: ``https://data.sec.gov/api/xbrl/companyconcept/CIK<10>/<taxonomy>/<concept>.json``
 
-Returns the time series of one XBRL fact for one company. Used by the
-tra-packet skill to verify TRA-related liability trajectories against
-primary-source XBRL data, supplementing the regex-based filing scan.
+Returns the time series of one XBRL fact for one company. Originally
+supported XBRL-based verification of TRA-related liability trajectories
+during the early scrape pipeline; currently unimported pending integration
+into the tra-refresh workflow.
 
 Companies who tagged with a custom (filer-specific) concept do not
 appear under the ``us-gaap`` taxonomy; the endpoint returns 404 in

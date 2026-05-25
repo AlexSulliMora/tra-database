@@ -110,7 +110,7 @@ Column-level documentation for `tras.parquet`, `events.parquet`, and `stock_by_d
 
 ## Skill catalog
 
-The pipeline's per-firm and per-filing work is carried out by seven Claude Code skills that live under `.claude/skills/` and load automatically when Claude Code is launched from the project root.
+The pipeline's per-firm and per-filing work is carried out by six Claude Code skills that live under `.claude/skills/` and load automatically when Claude Code is launched from the project root.
 
 | Skill | One-line description |
 |---|---|
@@ -120,4 +120,3 @@ The pipeline's per-firm and per-filing work is carried out by seven Claude Code 
 | `tra-build-timeline` | Per firm, write a concise `*_summary.qmd` with YAML frontmatter (status, dates, tax-asset type, sharing ratio, companies, CIKs, role, trigger-event tags), an event-grouped timeline, and a one-paragraph explanation of what happened. |
 | `tra-classify` | Classify EX-10 documents as TRA contracts / non-TRAs / uncertain; calls the `tra-reviewer` agent on uncertain cases. |
 | `tra-htm-to-md` | Convert each TRA contract `.htm` file in a firm directory to a clean `.md` companion via pandoc plus an LLM cleanup pass that strips recurring SEC HTML artifacts. Optionally also writes a `terms-summary.md` capturing four contractual term definitions. |
-| `tra-packet` | Assemble a per-firm evidence packet (timeline, source-cited filings, TOC of every TRA-mentioning filing) for human review of an ambiguous TRA status. Used downstream of the main pipeline for manual adjudication. |
