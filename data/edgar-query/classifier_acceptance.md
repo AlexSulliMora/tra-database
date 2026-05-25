@@ -24,3 +24,5 @@ determine which version to re-run end-to-end. Explicitly passing
 `--classifier-version N` on the CLI bypasses this lookup.
 
 ---
+
+2026-05-25 | classifier_version=2 | status=in_progress | F2 round 1: title-band S1 tightening + rule-4 demotion (see signal-catalog.md v2); 46/1805 uncertain rows reviewed by tra-reviewer (0 disagreements with v2); 10/10 hand-verified by user; remaining ~1759 uncertain rows pending A4 review

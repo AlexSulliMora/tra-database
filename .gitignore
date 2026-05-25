@@ -13,6 +13,11 @@ data/edgar-query/run.log
 # classifications*.csv. No explicit allow-list needed — they aren't matched by
 # the ignore patterns above.
 
+# Working / scratch artifacts (regenerable; out of repo)
+tmp/
+data/edgar-query/classifications-v*-a4-worklist.csv
+data/edgar-query/a4_reviews_audit.csv
+
 # Python bytecode
 __pycache__/
 *.pyc

@@ -57,34 +57,46 @@ PHRASE_VARIANTS = [
     re.compile(r"tax\s+receivables\s+agreements", re.IGNORECASE),
 ]
 
-# S1: centered-title detector. Both inline-style and CSS-class centering.
-# Inline: <p align="center">...</p>, <div style="text-align: center">...</div>,
-#         <center>...</center>, <h1 style="...text-align:center..."> etc.
-# CSS class: <p class="centered">...</p> where <style> defines .centered
-#            with text-align:center.
+# S1 (v2): centered-title detector. Requires that some non-empty centered
+# block within the leading TITLE_BAND_BYTES of the document contain the
+# phrase "TAX RECEIVABLE AGREEMENT". This band corresponds to the typical
+# title-block region (centered title + parties block + date), which sits
+# at offsets <~2000 in real SEC TRA HTML. Non-TRA documents that name the
+# phrase do so later (body text, defined-term sections, article headings)
+# at offsets >>5000, which the band excludes.
 TITLE_PHRASE_RE = re.compile(r"tax\s+receivable\s+agreement", re.IGNORECASE)
+TITLE_BAND_BYTES = 5000  # offset cutoff for S1 centered-block candidates
 
-# Inline-centering wrappers — heuristic: any tag with align="center" or
-# style containing text-align:center, OR <center> wrapper.
-INLINE_CENTER_RE = re.compile(
+# Locate any centered block (inline-style centering). One regex; we iterate
+# matches in document order and inspect the FIRST one only.
+INLINE_CENTERED_BLOCK_RE = re.compile(
     r"""(?:
-        <center[^>]*>(?:(?!</center>).)*?TAX\s+RECEIVABLE\s+AGREEMENT(?:(?!</center>).)*?</center>
+        <center[^>]*>(?P<center_content>(?:(?!</center>).)*?)</center>
         |
-        <(?:p|div|h\d|span)[^>]*?(?:align\s*=\s*["']?center|style\s*=\s*["'][^"']*text-align\s*:\s*center)[^>]*?>
-            (?:(?!</(?:p|div|h\d|span)>).)*?TAX\s+RECEIVABLE\s+AGREEMENT(?:(?!</(?:p|div|h\d|span)>).)*?
-        </(?:p|div|h\d|span)>
+        <(?P<inline_tag>p|div|h\d|span)
+            [^>]*?
+            (?:align\s*=\s*["']?center|style\s*=\s*["'][^"']*text-align\s*:\s*center)
+            [^>]*?>
+            (?P<inline_content>(?:(?!</(?:p|div|h\d|span)>).)*?)
+        </(?P=inline_tag)>
     )""",
     re.IGNORECASE | re.DOTALL | re.VERBOSE,
 )
 
 # CSS-class centering: detect <style>...text-align:center...</style> sections,
-# extract class names that center, then check whether the title phrase appears
-# in any tag carrying one of those classes.
+# extract class names that center, then locate tags carrying those classes.
 CSS_STYLE_BLOCK_RE = re.compile(r"<style[^>]*>(.*?)</style>", re.IGNORECASE | re.DOTALL)
 CSS_CENTERING_CLASS_RE = re.compile(
     r"\.([a-z][\w-]*)\s*\{[^}]*text-align\s*:\s*center[^}]*\}",
     re.IGNORECASE,
 )
+
+# Strip HTML tags to compare a centered block's plain text against the
+# title phrase. We tolerate `&nbsp;`, `&#160;`, line breaks, and other
+# decoration that real SEC HTML embeds inside the title block.
+_TAG_STRIP_RE = re.compile(r"<[^>]+>")
+_WS_COLLAPSE_RE = re.compile(r"\s+")
+_HTML_ENTITY_RE = re.compile(r"&(?:nbsp|#160|#xa0);", re.IGNORECASE)
 
 # S3: defined-term signals — each named individually so signals_matched
 # can carry the specific term that fired.
@@ -110,46 +122,81 @@ class ScanResult:
     defined_terms: list[str] = field(default_factory=list)
 
 
-def detect_centered_title(title_text: str) -> bool:
-    """True iff the title window contains a centered 'TAX RECEIVABLE AGREEMENT'.
-
-    Handles both inline-style centering (align="center", style="text-align:center",
-    <center> tags) and CSS-class centering (a class defined as text-align:center
-    in an in-document <style> block, applied to a tag containing the title phrase).
-
-    Returns False if the phrase is not centered (or not present at all).
+def _block_plain_text(block_inner_html: str) -> str:
+    """Strip HTML tags and decode common whitespace entities so we can match
+    a centered block's plain text against the TRA phrase.
     """
-    # Quick early-out: if the title phrase isn't anywhere in the window, no centering.
-    if not TITLE_PHRASE_RE.search(title_text):
-        return False
+    text = _HTML_ENTITY_RE.sub(" ", block_inner_html)
+    text = _TAG_STRIP_RE.sub("", text)
+    return _WS_COLLAPSE_RE.sub(" ", text).strip()
 
-    # Path 1: inline centering wrappers.
-    if INLINE_CENTER_RE.search(title_text):
-        return True
 
-    # Path 2: CSS-class centering. Find the set of class names declared
-    # text-align:center in any <style> block, then check whether any tag
-    # carrying one of those classes contains the title phrase.
+def _iter_centered_blocks(title_text: str):
+    """Yield (offset, plain_text) for every centered block in title_text,
+    covering both inline-style centering and CSS-class centering.
+
+    The function does NOT order results — callers (`detect_centered_title`)
+    sort by offset and take the first.
+    """
+    # Inline-style centering (align=center, style=text-align:center, <center>).
+    for m in INLINE_CENTERED_BLOCK_RE.finditer(title_text):
+        inner = m.group("center_content") or m.group("inline_content") or ""
+        yield m.start(), _block_plain_text(inner)
+
+    # CSS-class centering. Find class names declared text-align:center in any
+    # in-document <style> block, then locate tags carrying those classes.
     centering_classes: set[str] = set()
     for style_block in CSS_STYLE_BLOCK_RE.findall(title_text):
         centering_classes.update(
             m.group(1).lower() for m in CSS_CENTERING_CLASS_RE.finditer(style_block)
         )
-
-    if not centering_classes:
-        return False
-
-    # Build a per-class regex once and check for title-phrase-containing tags.
     for cls in centering_classes:
         class_tag_re = re.compile(
-            rf'<(?:p|div|h\d|span)[^>]*?class\s*=\s*["\'][^"\']*\b{re.escape(cls)}\b[^"\']*["\'][^>]*?>'
-            r"(?:(?!</(?:p|div|h\d|span)>).)*?TAX\s+RECEIVABLE\s+AGREEMENT"
-            r"(?:(?!</(?:p|div|h\d|span)>).)*?</(?:p|div|h\d|span)>",
+            rf'<(?P<class_tag>p|div|h\d|span)[^>]*?class\s*=\s*["\'][^"\']*\b{re.escape(cls)}\b[^"\']*["\'][^>]*?>'
+            r"(?P<class_content>(?:(?!</(?:p|div|h\d|span)>).)*?)"
+            r"</(?P=class_tag)>",
             re.IGNORECASE | re.DOTALL,
         )
-        if class_tag_re.search(title_text):
-            return True
+        for m in class_tag_re.finditer(title_text):
+            yield m.start(), _block_plain_text(m.group("class_content"))
 
+
+def detect_centered_title(title_text: str) -> bool:
+    """v2: True iff some non-empty centered block within the leading
+    TITLE_BAND_BYTES of `title_text` contains the phrase "TAX RECEIVABLE
+    AGREEMENT".
+
+    Earlier v1 returned True if ANY centered block in the full 80 KB title
+    window contained the phrase, which produced false positives on Tax
+    Matters Agreements and LLC agreements that name TRAs in centered
+    subsection headings or defined-term blocks far past the title (e.g.,
+    McKesson Tax Matters Agreement, TRA mention centered at offset 69026).
+
+    v2 restricts the test to the title-band (first ~5 KB of document
+    bytes), which empirically covers the title block, parties block, and
+    date but excludes body text and defined-term sections where non-TRA
+    contracts name TRAs. Real TRAs (and "FORM OF" TRAs filed as
+    registration-statement exhibits) have their centered TRA title block
+    at offset <2000.
+
+    Returns False if no non-empty centered block within the band contains
+    the phrase, or if there are no centered blocks at all.
+    """
+    # Quick early-out: if the title phrase isn't anywhere in the window,
+    # no centered block can contain it.
+    if not TITLE_PHRASE_RE.search(title_text):
+        return False
+
+    # SEC HTML routinely uses empty centered <p> blocks as vertical spacers
+    # (`<p style="text-align:center">&nbsp;</p>`). Empty blocks are skipped
+    # because they carry no title text to test against.
+    for offset, plain in _iter_centered_blocks(title_text):
+        if offset >= TITLE_BAND_BYTES:
+            continue
+        if not plain:
+            continue
+        if TITLE_PHRASE_RE.search(plain):
+            return True
     return False
 
 
@@ -191,15 +238,18 @@ def classify_signals(
     is_pdf: bool,
     is_forced_uncertain: bool,
 ) -> tuple[str, str]:
-    """Apply the v1 classification rule. Returns (classification, signals_matched).
+    """Apply the v2 classification rule. Returns (classification, signals_matched).
 
     Rule order (first match wins):
     1. forced_uncertain → uncertain
     2. PDF → uncertain (no text extraction)
-    3. centered_title → yes
-    4. phrase + at least one defined_term → yes
+    3. centered_title → yes  (v2: first centered block must contain TRA phrase)
+    4. phrase + at least one defined_term → uncertain  (v2: was 'yes' in v1)
     5. phrase alone → uncertain
     6. nothing matched → no
+
+    Compare against `references/signal-catalog.md` for the per-version
+    classification rule and rationale.
     """
     if is_forced_uncertain:
         return "uncertain", "forced_uncertain"
@@ -219,7 +269,10 @@ def classify_signals(
     if scan.centered_title:
         return "yes", signals_str
     if scan.phrase and scan.defined_terms:
-        return "yes", signals_str
+        # v2: demoted from yes to uncertain. Rule-4 hits in v1 were 8/8
+        # false-positive on the F2 round 1 spot-check (LLC agreements, Tax
+        # Matters Agreements, Purchase Agreements that mention TRAs).
+        return "uncertain", signals_str
     if scan.phrase:
         return "uncertain", signals_str
     return "no", ""
