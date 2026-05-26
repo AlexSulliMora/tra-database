@@ -14,10 +14,13 @@ Invocation::
         --output-root data/tra-mentions
 
 See ``docs/plans/2026-05-25-001-feat-phase-1-discovery-and-acquisition-plan.md``
-for the full design and unit breakdown. ``run_phase1`` will be re-exported
-here once U7 lands the driver module.
+for the full design and unit breakdown.
 """
 
 from __future__ import annotations
 
+from phase1_discovery.driver import run_phase1
+
 __version__ = "0.1.0"
+
+__all__ = ["run_phase1"]

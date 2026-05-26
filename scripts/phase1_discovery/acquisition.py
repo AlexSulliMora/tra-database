@@ -253,6 +253,7 @@ def acquire_filing(
     registry_df: pl.DataFrame,
     output_root: str | Path,
     client: EdgarClient,
+    done_set: set[tuple[str, str]] | None = None,
 ) -> list[dict[str, Any]]:
     """Acquire one accession's TRA-relevant documents.
 
@@ -269,6 +270,16 @@ def acquire_filing(
       - ``adsh`` (str, with dashes), ``primary_doc`` (str | None),
         ``ciks`` (list[str]), ``form`` (str), ``file_date`` (str
         ``YYYY-MM-DD``), ``phrase_variants_matched`` (str, pipe-joined).
+
+    ``done_set`` is an optional set of ``(accession, doc_filename)``
+    tuples already present in the persisted manifest with a terminal
+    ``fetch_status``. When provided, U7's driver passes the current
+    ``done_fetches(manifest)`` so this function can skip BOTH the HTTP
+    fetch AND the manifest re-emission for documents the persisted
+    manifest already records -- the caller will keep the existing
+    manifest row unchanged, so re-emitting would create a duplicate.
+    Documents not in ``done_set`` are processed normally (fetch or
+    on-disk re-emit).
     """
     output_root = Path(output_root)
     accession = accession_row["adsh"]
@@ -333,6 +344,13 @@ def acquire_filing(
         doc_description = row["description"] or ""
         url = f"{ARCHIVES_BASE}/{cik_unpadded}/{acc_nd}/{filename}"
         dest = firm_dir / filename
+
+        # R15 fast-path: if the persisted manifest already records a
+        # terminal row for this (accession, filename), skip both the
+        # fetch and the manifest re-emission. The driver keeps the
+        # existing manifest row untouched.
+        if done_set is not None and (accession, filename) in done_set:
+            continue
 
         if dest.exists():
             # File-tree-only re-emit: discovery-derived fields are NOT

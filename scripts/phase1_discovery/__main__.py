@@ -1,24 +1,31 @@
-"""CLI entrypoint stub for the Phase 1 discovery and acquisition pipeline.
+"""Phase 1 entry point: discover and acquire TRA-mentioning EDGAR filings.
 
-This stub exists so ``python -m phase1_discovery`` runs without an
-ImportError while later units of the Phase 1 plan are still in flight. U7
-replaces this with the full argparse-driven driver that orchestrates
-discovery, registry, and acquisition.
+Implements R14, R15, R16 of the Phase 1 brainstorm at
+docs/brainstorms/2026-05-25-phase-1-requirements.md.
+
+Invocation::
+
+    PYTHONPATH=scripts pixi run python -m phase1_discovery \\
+      --start 2001-01 --end 2026-05
+
+Defaults to start=2001-01, end=today. Idempotent on re-run: skips
+accessions already fetched in the manifest with terminal fetch_status.
+
+A ``--smoke-test`` flag runs the full end-to-end pipeline against live
+EDGAR for a known small window (2024-06) into a temp directory and
+asserts restart idempotency.
+
+This module is a thin shim over ``phase1_discovery.driver``; all logic
+lives in ``driver.py`` so it can be imported as a function
+(``from phase1_discovery import run_phase1``) without re-running
+``__main__``.
 """
 
 from __future__ import annotations
 
 import sys
 
-
-def main() -> int:
-    print(
-        "phase1_discovery: not yet implemented; "
-        "see docs/plans/2026-05-25-001-feat-phase-1-discovery-and-acquisition-plan.md",
-        flush=True,
-    )
-    return 0
-
+from phase1_discovery.driver import main
 
 if __name__ == "__main__":
     sys.exit(main())
