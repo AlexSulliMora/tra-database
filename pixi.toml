@@ -17,6 +17,7 @@ pytest = ">=8.0"
 jupyterlab = ">=4.0"
 ipykernel = ">=6.0"
 httpx = ">=0.28.1,<0.29"
+beautifulsoup4 = ">=4.14.3,<5"
 
 [pypi-dependencies]
 playwright = ">=1.60.0, <2"
