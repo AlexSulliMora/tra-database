@@ -1,0 +1,254 @@
+---
+title: "TRA workflow goal"
+subtitle: "What the end-state pipeline does, phase by phase"
+author: "tra project"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    code-fold: true
+---
+
+# Overview
+
+This document describes the intended end state of the TRA pipeline: what it does,
+not how. The pipeline starts from no data — a fresh project directory with no
+downloaded filings and no firm list — and ends with a structured database of
+every Tax Receivable Agreement disclosed on EDGAR, the public companies that
+pertain to each one, and human-readable timelines at both the firm level and the
+TRA level. The TRA-level timelines explicitly track contracts as they move
+between companies via acquisition, spin-off, beneficiary reassignment, or
+repurchase.
+
+The pipeline is organized into five phases. Phases 1 through 4 run end-to-end on
+the first build. Phase 5 is the incremental-refresh path that runs on a schedule
+once the initial build is in place.
+
+# Pipeline diagram
+
+```{mermaid}
+flowchart TD
+    A["EDGAR full‑text search"] --> B["Phase 1<br/>Discovery and acquisition"]
+    B --> C["data/tra‑mentions/"]
+    C --> D["Phase 2<br/>Per‑firm reading"]
+    D --> E["Phase 3<br/>Cross‑firm consolidation"]
+    E --> F1["Phase 4a<br/>Firm timelines"]
+    E --> F2["Phase 4b<br/>TRA timelines"]
+    E --> F3["Phase 4c<br/>Structured tables"]
+    F1 --> G["Phase 5<br/>Refresh"]
+    F2 --> G
+    F3 --> G
+    G -.->|new filings| A
+```
+
+# Phase 1: Discovery and acquisition
+
+**Goal:** discover every TRA-mentioning filing on EDGAR and download the
+relevant documents into per-firm directories.
+
+A single EDGAR full-text search step returns per-filing hits across the variants
+of "Tax Receivable Agreement", grouped by the filer's CIK. The same step filters
+those hits to filings within the form types we care about (8-K, 10-K, 10-Q,
+S-1, S-4, prospectus variants, proxy statements) and downloads the relevant
+documents per firm. For each filing, the step saves:
+
+- The primary document (the 8-K body, the 10-K body, the registration statement
+  body, etc.) so the per-firm reading agent in the next phase can understand the
+  business context — what transaction was happening, who the parties were,
+  whether the TRA was being created, amended, terminated, or merely mentioned.
+- Any EX-10.* exhibits that mention TRAs in the body. Exhibits that do not
+  mention TRAs are skipped.
+
+Filings whose only TRA mention is non-substantive boilerplate (negative-covenant
+carve-outs, generic enumeration of "Indebtedness" types) are still downloaded
+at this stage; the determination of whether the firm is a genuine TRA party
+happens in Phase 2 with the agent reading the body.
+
+The output is one directory per firm at `data/tra-mentions/<firm-slug>/`,
+containing the firm's downloaded filings indexed by accession number. The phase
+runs end-to-end on the first build, then incrementally during Phase 5 refresh
+to catch new firms and new filings since the previous run.
+
+**Deliverable:** a populated `data/tra-mentions/` tree with one subdirectory per
+discovered firm.
+
+# Phase 2: Per-firm reading
+
+**Goal:** for each firm, read its filings in chronological order and write a
+narrative log that explains what happened with the TRA at this company and
+classifies each filing's TRA exhibits by operative effect.
+
+For every firm directory, a dedicated agent reads the firm's filings one at a
+time, oldest first, and appends an entry to that firm's `filing-log.md`. Each
+entry explains:
+
+- What this filing was about — what transaction or disclosure prompted it.
+- Why the TRA is mentioned — whether the firm is establishing, amending,
+  terminating, repurchasing, settling, or merely referencing a TRA in passing.
+- The firm's role with respect to the TRA — whether it is the obligor (PubCo),
+  a beneficiary, an acquirer that has assumed someone else's TRA, a financing
+  arm, or a firm that mentioned a TRA without ever being a party to one.
+- Which exhibits in this filing are themselves TRA-class documents — original
+  contracts, amendments, restatements, terminations, repurchases, settlements,
+  or assignments — versus exhibits that merely reference TRAs.
+
+Each firm's `filing-log.md` carries a YAML frontmatter section that captures the
+firm-level summary (firm name, CIK, TRA relevance, TRA role) plus a
+machine-readable table of every TRA-class exhibit discovered across the firm's
+filings, with the operative-effect description for each. The narrative explains
+the story; the frontmatter and table make the file consumable by Phases 3 and 4.
+
+This phase is where the agent does the work an automated regex classifier cannot
+do: read the 8-K Item 1.01 body to see what the transaction is, follow the
+chronology across filings to understand whether a 2024 termination is unwinding
+a 2014 origination, recognize that an "Exchange and Termination Agreement"
+attached to a merger 8-K is a TRA termination even though its title does not
+contain the words "Tax Receivable Agreement". Section 11 of
+`tra-background.md` documents the substance-over-form rule that the agent
+applies.
+
+The agent works one firm at a time, sequentially. The `filing-log.md` itself
+serves as the agent's durable memory across long firm processing — when the
+agent's context fills, prior filings' narrative entries are still in the log
+and inform later decisions. The firm-level processing is independent across
+firms, so parallelism is at the firm level.
+
+**Deliverable:** one `filing-log.md` per firm, with frontmatter, narrative, and
+machine-readable exhibit table.
+
+# Phase 3: Cross-firm consolidation
+
+**Goal:** group TRA-class exhibits across firms by underlying contract, so the
+same contract appearing in multiple firms' filings is recognized as one
+contract that has moved between parties.
+
+A single TRA can appear under multiple CIKs over its lifetime:
+
+- The originating PubCo files the original TRA in its IPO 8-K.
+- An acquirer files the amendment or termination instrument when it buys the
+  PubCo.
+- A beneficiary discloses receipt of payments in its periodic filings even
+  though it never filed the contract itself.
+- A financing-arm subsidiary discloses related-party TRA-payment activity.
+
+Phase 3 walks all firms' `filing-log.md` files and groups TRA exhibits by the
+underlying contract. Two exhibits represent the same contract when their
+parties, effective date, payment terms, tax attributes, and termination
+provisions all match (Section 9 of `tra-background.md` carries the full
+criteria). When the agent's reading in Phase 2 already established the
+cross-CIK link (e.g., "this is the same TRA that originated at Acme PubCo and
+was assumed by BigCo at the 2024 merger"), Phase 3 honors that link. When the
+link is ambiguous, the consolidation step raises the case for manual review
+rather than guessing.
+
+The output is a contract-level index: one entry per distinct TRA, listing all
+firms that have ever been parties to it, and all exhibits across all firms that
+represent that contract in any state (original, amended, restated, terminated).
+
+**Deliverable:** a TRA index identifying every distinct contract and its
+cross-firm document set.
+
+# Phase 4: Output generation
+
+**Goal:** produce the three end-user deliverables — per-firm timelines, per-TRA
+timelines, and the structured database.
+
+This phase consumes the per-firm logs from Phase 2 and the cross-firm index from
+Phase 3, then emits three artifacts.
+
+## Per-firm timelines
+
+For each firm, a concise chronological summary of its TRA-related activity:
+which TRAs it is party to, in what role, with what payment activity, and how
+its position with respect to each TRA evolved. A firm with one TRA that
+originated at IPO and remained in force gets a short timeline; a firm that
+originated a TRA, was acquired, had the TRA transferred to the acquirer, and
+later disclosed beneficiary-side receipts gets a longer one.
+
+The firm timeline answers: *what is this company's TRA story?*
+
+## Per-TRA timelines
+
+For each distinct TRA identified in Phase 3, a chronological summary of the
+contract's lifecycle across all parties: origination, amendments, restatements,
+beneficiary reassignments, acquirer assumption, terminations or repurchases.
+When a TRA moves between firms (a beneficiary is acquired, an obligor merges
+into another company), the per-TRA timeline tracks the contract through the
+transition rather than fragmenting it across the per-firm views.
+
+The TRA timeline answers: *what is this contract's story?*
+
+## Structured database
+
+The same information rendered in structured tables for downstream analytical
+use. The tables are append-friendly so Phase 5 refreshes can extend them
+without rewriting history. The minimum set:
+
+- A TRA-level table: one row per distinct TRA, with originator, current
+  obligor, beneficiary identity, key dates, current status, and the four
+  standard contractual terms.
+- An events table: one row per TRA event (origination, amendment, restatement,
+  termination, repurchase, beneficiary change, acquirer assumption), with date
+  and source-filing citation.
+- A firm-TRA-role table: one row per (firm CIK, TRA id) pair, with the firm's
+  role (PubCo, beneficiary, acquirer, financing arm, never-executed) and the
+  date range over which it held that role.
+
+**Deliverable:** per-firm timeline files, per-TRA timeline files, and the
+structured database tables.
+
+# Phase 5: Refresh
+
+**Goal:** keep the database current as new filings appear on EDGAR over time,
+without rebuilding from scratch.
+
+The refresh path re-runs Phase 1 in incremental mode: query EDGAR for filings
+filed since the previous run, identify any new firms that have begun mentioning
+TRAs, download the new filings into the existing per-firm directories. For
+firms with new filings, the Phase 2 reading agent picks up where it left off —
+the existing `filing-log.md` provides the firm's history, and the agent
+appends new entries for the new filings only.
+
+Phases 3 and 4 then re-run against the updated logs to refresh the cross-firm
+index and the output artifacts. When a refresh introduces a new TRA-relevant
+event (a previously in-force TRA gets terminated, a new firm becomes a TRA
+party for the first time), the timelines and database tables update accordingly.
+
+**Deliverable:** an updated database state reflecting all EDGAR activity through
+the refresh date.
+
+# Order of skill / script invocation
+
+The mapping from phases to project skills and scripts. Skill design and exact
+script names may evolve; the conceptual order does not.
+
+| Phase | Skill or script | Output |
+|---|---|---|
+| 1. Discovery and acquisition | `tra-download-filings` (refactored to query EDGAR for TRA-mentioning filings, group by CIK, download primary docs alongside TRA-mentioning EX-10s; no Query C). | `data/tra-mentions/<firm-slug>/` populated. |
+| 2. Per-firm reading | A new per-firm reading skill that operates on one firm-slug directory at a time. | One `filing-log.md` per firm. |
+| 3. Cross-firm consolidation | An aggregation script that reads every `filing-log.md` and produces a contract-level index. | TRA index. |
+| 4a. HTML-to-markdown | `tra-htm-to-md` (converts TRA contract HTML to clean markdown for the human-readable timelines). | `.md` companion files for each contract. |
+| 4b. Per-firm timelines | A timeline-build script that consumes firm logs and contract-level index. | Per-firm timeline files. |
+| 4c. Per-TRA timelines | A timeline-build script that consumes the contract-level index. | Per-TRA timeline files. |
+| 4d. Database tables | A database-build script that emits the structured tables. | TRA, events, and firm-TRA-roles tables. |
+| 5. Refresh | A `tra-refresh` skill that orchestrates incremental re-runs of Phases 1 through 4. | Updated database state. |
+
+# Out of scope for this document
+
+This document is the conceptual end state. It does not specify:
+
+- File formats, library choices, or data-engineering details. Those decisions
+  live in the individual skill specifications.
+- How the reading agent prompts are written, or what its decision rule is.
+  Section 11 of `tra-background.md` carries the substance-over-form
+  classification rule that the agent must apply.
+- The exact CIK seed methodology, sampling decisions, or rate-limiting rules.
+  Those live in the discovery and download skill specifications.
+- Quality-assurance steps, manual-review interfaces, or how disagreements
+  between the agent and a human reviewer are handled. Those belong in a
+  separate quality-control document.
+
+The goal here is to make the end-to-end flow legible so that every implementation
+choice can be evaluated against whether it serves this flow.

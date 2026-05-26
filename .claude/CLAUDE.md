@@ -1,19 +1,41 @@
-# Project context
+# tra project context
 
-This file is written by `/coauthor:ca-01-scope` to `<cwd>/.claude/CLAUDE.md`. Operating rules (principles, response style, banned writing patterns, workflow stages, audit-log conventions) come from the coauthor plugin's canonical `CLAUDE.md`, loaded via the canonical at `/home/sulli/research/CLAUDE.md` (in scope via Claude Code's directory walk).
+Build a structured database of every Tax Receivable Agreement disclosed on
+EDGAR, the public companies that pertain to each one, and human-readable
+timelines at both the firm level and the per-TRA level.
 
-## Context
+## Key references
 
-- **Name:** tra
-- **One-line description:** Clean up the TRA workflow directory, relocate skills into the project tree, convert outputs to parquet, write a README, push to a private GitHub repo, then re-run the corpus build systematically.
-- **Slug:** 2026-05-18-git-good
-- **Goal:** Turn the working TRA pipeline into a self-contained, reproducible private GitHub repo with relocated skills, parquet outputs, a documented workflow, a new EDGAR refresh skill, and a second end-to-end pass on a fresh CIK seed list.
-- **Data:** Per-firm `*_summary.qmd` files under `TRA-contracts/` (321 firms, 360 TRAs); SEC EDGAR filings re-fetched during the rerun.
-- **Method summary:** Sequential cleanup (skill relocation, keep/delete pass, csv→parquet, README), git init + private GitHub push, skill edits, new `tra-refresh` skill, integration rerun from a fresh CIK seed list.
+- `docs/workflow-goal.qmd` — end-to-end pipeline (five phases from EDGAR
+  discovery to structured database).
+- `docs/tra-background.md` — TRA subject-matter reference (what a TRA is,
+  title patterns, anatomy, defining terminology, termination rules).
 
-The active project's artifacts live at `<cwd>/coauthor/<slug>/`. The text file `<cwd>/coauthor/CURRENT` carries the active slug; every skill resolves the project by reading it (override with `--project=<slug>`).
+## Environment
 
-## Prior projects
+Python managed by pixi. Run via `pixi run python ...` or `pixi run -- <cmd>`.
+The `pixi.toml` and `pixi.lock` live at the project root.
 
-- `2026-05-12-edgar-scrape` (2026-05-12): EDGAR scraper that collected TRA-mentioning filings into the per-firm corpus.
-- `2026-05-18-tra-database` (2026-05-18): Built `tras.csv`, `events.csv`, `stock_by_date.csv`, dashboard, and `SCHEMA.md` from the per-firm `*_summary.qmd` files.
+## Conventions
+
+- **Hyphens vs underscores.** Underscores only for Python-parsed names
+  (modules, functions, variables). Hyphens everywhere else (filenames, YAML
+  keys, enum values, CLI flags).
+- **Render verification.** `quarto render` does not verify browser-rendered
+  content (mermaid, KaTeX). Use `pixi run python scripts/render_html.py
+  <file.html>` to generate a PNG and verify visually before claiming a
+  rendered deliverable is ready.
+
+## Skills
+
+Local skills under `.claude/skills/`:
+
+- `sec-edgar` — SEC EDGAR API client (rate-limited, cache-aware).
+- `tra-download-filings` — download TRA-relevant filings per CIK.
+- `tra-process-filings` — classify TRA contracts within a firm directory.
+- `tra-build-timeline` — write per-firm TRA summary files.
+- `tra-htm-to-md` — convert TRA HTML to clean markdown.
+
+The pipeline architecture is in transition toward a per-firm narrative model
+(see `docs/workflow-goal.qmd`). Several of the skills above will be
+refactored or replaced as that architecture lands.

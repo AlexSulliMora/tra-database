@@ -8,15 +8,13 @@ data/edgar-query/exhibits/
 data/edgar-query/full-text.parquet
 data/edgar-query/pull-exhibits.log
 data/edgar-query/run.log
-# tra-classify user-state files under data/edgar-query/ stay tracked (not regenerable):
-# forced_uncertain.csv, classifier_acceptance.md, a4_verdicts_cache.csv,
-# classifications*.csv. No explicit allow-list needed — they aren't matched by
-# the ignore patterns above.
 
 # Working / scratch artifacts (regenerable; out of repo)
 tmp/
-data/edgar-query/classifications-v*-a4-worklist.csv
-data/edgar-query/a4_reviews_audit.csv
+
+# Quarto rendered output and bundled assets (regenerable from .qmd sources)
+docs/*.html
+docs/*_files/
 
 # Python bytecode
 __pycache__/
