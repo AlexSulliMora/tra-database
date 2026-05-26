@@ -32,11 +32,15 @@ SUBMISSIONS_BASE = "https://data.sec.gov/submissions"
 DEFAULT_MAX_AGE_S = 7 * 24 * 3600  # 7 days
 
 
-def _pad_cik(cik: str | int) -> str:
+def pad_cik(cik: str | int) -> str:
     s = str(cik).strip()
     if not s.isdigit():
         raise ValueError(f"CIK must be all digits, got {cik!r}")
     return s.zfill(10)
+
+
+# Backward-compatible alias; ``_pad_cik`` is the prior private name.
+_pad_cik = pad_cik
 
 
 def _recent_to_lazyframe(recent: dict) -> pl.LazyFrame:
@@ -71,7 +75,7 @@ def fetch_submissions(
     ``include_continuations=True``, the rows referenced under
     ``filings.files[]``.
     """
-    cik10 = _pad_cik(cik)
+    cik10 = pad_cik(cik)
     own_client = client is None
     cli = client if client is not None else EdgarClient()
     try:

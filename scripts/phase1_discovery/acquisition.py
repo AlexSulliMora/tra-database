@@ -36,62 +36,27 @@ import datetime as _dt
 import os
 import sys
 import tempfile
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
 import httpx
 import polars as pl
 
-from sec_edgar.archives import fetch_document, fetch_filing_index_html
+from sec_edgar.archives import (
+    ARCHIVES_BASE,
+    accession_no_dashes,
+    fetch_document,
+    fetch_filing_index_html,
+)
 from sec_edgar.client import EdgarClient
+from sec_edgar.submissions import pad_cik
 
+from phase1_discovery.manifest import MANIFEST_COLUMNS, _now_iso
 from phase1_discovery.queries import (
     EX10_FILE_TYPE_PATTERN,
     TRA_DESCRIPTION_REGEX,
 )
-
-
-# 14-field manifest schema (R11). Column order pinned for downstream
-# readers (Phase 2 and the U6 manifest module). Kept here as a local
-# tuple so acquisition can construct manifest rows without importing U6
-# (which has not yet been written at the time U5 lands).
-MANIFEST_FIELDS: tuple[str, ...] = (
-    "firm_slug",
-    "cik",
-    "accession",
-    "form",
-    "filed_date",
-    "doc_filename",
-    "doc_type",
-    "doc_description",
-    "url",
-    "phrase_variants_matched",
-    "exhibit_match_source",
-    "fetch_status",
-    "fetch_ts",
-    "byte_size",
-)
-
-ARCHIVES_BASE = "https://www.sec.gov/Archives/edgar/data"
-
-
-def _accession_no_dashes(accession: str) -> str:
-    """Strip dashes from an accession; validate 18-digit canonical form."""
-    s = accession.replace("-", "")
-    if len(s) != 18 or not s.isdigit():
-        raise ValueError(
-            f"accession must be 18 digits with dashes (e.g. "
-            f"0000320193-23-000106); got {accession!r}"
-        )
-    return s
-
-
-def _pad_cik(cik: str | int) -> str:
-    """Zero-pad to 10-digit canonical form."""
-    s = str(cik).strip().lstrip("0") or "0"
-    if not s.isdigit():
-        raise ValueError(f"CIK must be digits, got {cik!r}")
-    return s.zfill(10)
 
 
 def _unpadded_cik(cik_padded: str) -> str:
@@ -100,7 +65,11 @@ def _unpadded_cik(cik_padded: str) -> str:
 
 
 def _classify_status(exc: BaseException) -> str:
-    """Map a fetch exception to the manifest's ``fetch_status`` vocabulary."""
+    """Map a fetch exception to the manifest's ``fetch_status`` vocabulary.
+
+    Return values are members of ``manifest.FETCH_STATUS_VALUES``;
+    ``append_rows`` validates that on insert.
+    """
     if isinstance(exc, httpx.HTTPStatusError):
         code = exc.response.status_code
         if code == 404:
@@ -115,15 +84,6 @@ def _classify_status(exc: BaseException) -> str:
         # would surface as one of these.
         return "parse-error"
     return "other-error"
-
-
-def _now_iso() -> str:
-    """ISO-8601 UTC second-precision timestamp for manifest ``fetch_ts``."""
-    return (
-        _dt.datetime.now(tz=_dt.timezone.utc)
-        .replace(microsecond=0)
-        .isoformat()
-    )
 
 
 def _stat_iso(path: Path) -> str:
@@ -144,15 +104,15 @@ def _atomic_write_bytes(dest: Path, payload: bytes) -> None:
         raise
 
 
-def _lookup_firm_slug(registry_df: pl.DataFrame, cik_padded: str) -> str:
-    """Look up the slug for a CIK in the registry; raise if not present."""
-    matches = registry_df.filter(pl.col("cik") == cik_padded)
-    if matches.height == 0:
+def _lookup_firm_slug(slug_by_cik: dict[str, str], cik_padded: str) -> str:
+    """Look up the slug for a CIK in the prebuilt slug map; raise if absent."""
+    slug = slug_by_cik.get(cik_padded)
+    if slug is None:
         raise ValueError(
             f"CIK {cik_padded} not in registry; build_or_update_registry "
             f"must run before acquire_filing"
         )
-    return matches["slug"][0]
+    return slug
 
 
 def _select_targets(
@@ -229,10 +189,13 @@ def _select_targets(
                 primary_row = row
                 break
 
-    # If we found a primary row that isn't already in the EX-10 selection
-    # (impossible by construction since EX-10s are excluded above, but
-    # defended in case the heuristic changes), add it.
-    if primary_row is not None and primary_row["name"] not in selected:
+    # If we found a primary row, add it. By construction it can never
+    # already be in ``selected`` (the EX-10 classifier above only adds
+    # EX-10 rows, and the primary-row selectors above skip EX-10s).
+    if primary_row is not None:
+        assert primary_row["name"] not in selected, (
+            "_classify_documents invariant violated: primary row is also an EX-10"
+        )
         selected[primary_row["name"]] = {
             "row": primary_row,
             "source": "primary-doc",
@@ -250,7 +213,7 @@ def _select_targets(
 
 def acquire_filing(
     accession_row: dict[str, Any],
-    registry_df: pl.DataFrame,
+    slug_by_cik: dict[str, str],
     output_root: str | Path,
     client: EdgarClient,
     done_set: set[tuple[str, str]] | None = None,
@@ -271,6 +234,11 @@ def acquire_filing(
         ``ciks`` (list[str]), ``form`` (str), ``file_date`` (str
         ``YYYY-MM-DD``), ``phrase_variants_matched`` (str, pipe-joined).
 
+    ``slug_by_cik`` is a ``{cik_padded: slug}`` mapping the caller
+    builds once from the registry DataFrame; per-call O(1) lookup
+    avoids the O(n) polars filter that would otherwise be O(n^2) across
+    the full corpus.
+
     ``done_set`` is an optional set of ``(accession, doc_filename)``
     tuples already present in the persisted manifest with a terminal
     ``fetch_status``. When provided, U7's driver passes the current
@@ -283,16 +251,16 @@ def acquire_filing(
     """
     output_root = Path(output_root)
     accession = accession_row["adsh"]
-    acc_nd = _accession_no_dashes(accession)
+    acc_nd = accession_no_dashes(accession)
     ciks = accession_row.get("ciks") or []
     if not ciks:
         raise ValueError(
             f"accession_row for {accession!r} has empty 'ciks'; cannot "
             f"determine firm directory"
         )
-    cik_padded = _pad_cik(ciks[0])
+    cik_padded = pad_cik(ciks[0])
     cik_unpadded = _unpadded_cik(cik_padded)
-    firm_slug = _lookup_firm_slug(registry_df, cik_padded)
+    firm_slug = _lookup_firm_slug(slug_by_cik, cik_padded)
     form = accession_row.get("form") or ""
     filed_date = accession_row.get("file_date") or ""
     phrase_variants = accession_row.get("phrase_variants_matched") or ""
@@ -450,7 +418,8 @@ def _self_test() -> None:
     expected_8k = "f8k0719_repayholdings.htm"
     expected_tra_ex10 = "f8k0719ex10-2_repayhold.htm"
 
-    # Synthetic 1-row registry.
+    # Synthetic 1-row registry -> slug_by_cik dict (the production code
+    # path: driver builds the dict once before the acquisition loop).
     registry_df = pl.DataFrame(
         {
             "cik": [test_cik_padded],
@@ -471,6 +440,9 @@ def _self_test() -> None:
             "sic": pl.String,
         },
     )
+    slug_by_cik = dict(
+        zip(registry_df["cik"].to_list(), registry_df["slug"].to_list())
+    )
 
     # Synthetic accession_row. ``primary_doc`` points at the TRA EX-10
     # to exercise the phrase-match branch (the search hit landed on the
@@ -490,15 +462,15 @@ def _self_test() -> None:
     try:
         with EdgarClient() as client:
             rows = acquire_filing(
-                accession_row, registry_df, tmp_dir, client
+                accession_row, slug_by_cik, tmp_dir, client
             )
 
         # Basic shape.
         assert rows, "acquire_filing returned no manifest rows"
         for row in rows:
-            assert set(row.keys()) == set(MANIFEST_FIELDS), (
+            assert set(row.keys()) == set(MANIFEST_COLUMNS), (
                 f"manifest row keys {sorted(row.keys())} != "
-                f"MANIFEST_FIELDS {sorted(MANIFEST_FIELDS)}"
+                f"MANIFEST_COLUMNS {sorted(MANIFEST_COLUMNS)}"
             )
 
         sources = [r["exhibit_match_source"] for r in rows]
@@ -546,7 +518,7 @@ def _self_test() -> None:
             dest = (
                 tmp_dir
                 / f"repay-holdings-corp_{test_cik_padded}"
-                / _accession_no_dashes(test_accession)
+                / accession_no_dashes(test_accession)
                 / row["doc_filename"]
             )
             assert dest.exists(), f"expected file on disk: {dest}"
@@ -560,7 +532,7 @@ def _self_test() -> None:
         # source classification and the same byte_size.
         with EdgarClient() as client:
             rows2 = acquire_filing(
-                accession_row, registry_df, tmp_dir, client
+                accession_row, slug_by_cik, tmp_dir, client
             )
         assert len(rows2) == len(rows), (
             f"second-call row count {len(rows2)} != first-call {len(rows)}"
@@ -573,8 +545,6 @@ def _self_test() -> None:
             )
 
         # Report the source breakdown so the operator can spot-check.
-        from collections import Counter
-
         breakdown = Counter(sources)
         print(
             f"acquired {len(rows)} documents; "

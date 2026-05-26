@@ -50,7 +50,7 @@ def _strip_cik(cik: str | int) -> str:
     return s
 
 
-def _accession_no_dashes(accession: str) -> str:
+def accession_no_dashes(accession: str) -> str:
     s = accession.strip()
     out = s.replace("-", "")
     if len(out) != 18 or not out.isdigit():
@@ -61,8 +61,12 @@ def _accession_no_dashes(accession: str) -> str:
     return out
 
 
+# Backward-compatible alias; ``_accession_no_dashes`` is the prior private name.
+_accession_no_dashes = accession_no_dashes
+
+
 def _filing_dir(cik: str | int, accession: str) -> str:
-    return f"{_strip_cik(cik)}/{_accession_no_dashes(accession)}"
+    return f"{_strip_cik(cik)}/{accession_no_dashes(accession)}"
 
 
 def fetch_filing_index(
@@ -77,7 +81,7 @@ def fetch_filing_index(
     Columns at minimum: ``name``, ``type``, ``size``, ``last_modified``.
     """
     cik_n = _strip_cik(cik)
-    acc_nd = _accession_no_dashes(accession)
+    acc_nd = accession_no_dashes(accession)
     url = f"{ARCHIVES_BASE}/{cik_n}/{acc_nd}/index.json"
     cache_path = cache_root / cik_n / acc_nd / "index.json"
 
@@ -140,9 +144,9 @@ def fetch_filing_index_html(
     those fall back to ``class='tableFile'``.
     """
     cik_n = _strip_cik(cik)
-    acc_nd = _accession_no_dashes(accession)
+    acc_nd = accession_no_dashes(accession)
     # Accession-with-dashes is the original ``accession`` string after a
-    # canonicalization-safe round-trip via ``_accession_no_dashes`` (which
+    # canonicalization-safe round-trip via ``accession_no_dashes`` (which
     # validates length and digits-only). Reinsert the two dashes.
     acc_dashed = f"{acc_nd[:10]}-{acc_nd[10:12]}-{acc_nd[12:]}"
     url = f"{ARCHIVES_BASE}/{cik_n}/{acc_nd}/{acc_dashed}-index.htm"
@@ -239,7 +243,7 @@ def fetch_document(
     if "/" in filename or ".." in filename:
         raise ValueError(f"filename must be a leaf name, got {filename!r}")
     cik_n = _strip_cik(cik)
-    acc_nd = _accession_no_dashes(accession)
+    acc_nd = accession_no_dashes(accession)
     url = f"{ARCHIVES_BASE}/{cik_n}/{acc_nd}/{filename}"
     cache_path = cache_root / cik_n / acc_nd / filename
 

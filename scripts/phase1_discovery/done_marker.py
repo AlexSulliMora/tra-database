@@ -31,20 +31,12 @@ import yaml
 
 from phase1_discovery.manifest import (
     MANIFEST_SCHEMA,
+    _now_iso,
     write_manifest_atomic,
 )
 
 
 MARKER_PATH: Path = Path("data/tra-mentions/.phase1-done")
-
-
-def _now_iso() -> str:
-    """ISO-8601 UTC second-precision timestamp."""
-    return (
-        _dt.datetime.now(tz=_dt.timezone.utc)
-        .replace(microsecond=0)
-        .isoformat()
-    )
 
 
 def _sha256_file(path: Path) -> str:
@@ -61,14 +53,20 @@ def write_marker(
     end_date: str,
     manifest_path: str | Path,
     marker_path: str | Path | None = None,
+    manifest_rows: int | None = None,
 ) -> None:
     """Write the done-marker YAML at ``marker_path`` (default ``MARKER_PATH``).
 
-    Computes the manifest row count and the SHA-256 of the manifest
-    file bytes. The manifest must exist on disk at ``manifest_path``
-    before this is called -- ``write_marker`` is the last step of a
-    successful Phase 1 run, after the manifest has been atomically
-    committed.
+    Computes the SHA-256 of the manifest file bytes. The manifest must
+    exist on disk at ``manifest_path`` before this is called --
+    ``write_marker`` is the last step of a successful Phase 1 run,
+    after the manifest has been atomically committed.
+
+    ``manifest_rows`` is the row count to record in the marker. When
+    None (the default and the ``_self_test`` path), the manifest
+    parquet is re-read from disk to count rows. The driver passes
+    ``manifest_rows=len(manifest_df)`` to avoid re-reading a parquet
+    it already has in memory.
     """
     manifest_p = Path(manifest_path)
     if not manifest_p.exists():
@@ -77,12 +75,14 @@ def write_marker(
             f"called after the manifest is committed"
         )
 
-    df = pl.read_parquet(manifest_p)
+    if manifest_rows is None:
+        manifest_rows = int(pl.read_parquet(manifest_p).height)
+
     payload = {
         "start_date": start_date,
         "end_date": end_date,
         "manifest_path": str(manifest_path),
-        "manifest_rows": int(df.height),
+        "manifest_rows": int(manifest_rows),
         "manifest_sha256": _sha256_file(manifest_p),
         "completed_at": _now_iso(),
     }

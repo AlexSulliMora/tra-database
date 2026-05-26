@@ -26,6 +26,7 @@ contaminating the parquet (R16).
 
 from __future__ import annotations
 
+import datetime as _dt
 import os
 import sys
 import tempfile
@@ -102,14 +103,15 @@ def read_manifest(path: str | Path) -> pl.DataFrame:
     return pl.read_parquet(p)
 
 
-def write_manifest_atomic(df: pl.DataFrame, path: str | Path) -> None:
-    """Write the manifest to ``path`` via write-tmp-then-rename.
+def atomic_write_parquet(df: pl.DataFrame, path: str | Path) -> None:
+    """Write ``df`` to ``path`` via write-tmp-then-rename.
 
     ``os.replace`` is atomic on the same filesystem on POSIX and on
     Windows, so a crash mid-write either leaves the previous committed
-    manifest intact at ``path`` (rename has not yet happened) or the
-    new manifest committed (rename has happened). The temp file is
-    cleaned up on failure.
+    file intact at ``path`` (rename has not yet happened) or the new
+    file committed (rename has happened). The temp file is cleaned up
+    on failure. Generic across the manifest and the CIK registry; both
+    callers share this implementation.
     """
     dest = Path(path)
     dest.parent.mkdir(parents=True, exist_ok=True)
@@ -124,6 +126,19 @@ def write_manifest_atomic(df: pl.DataFrame, path: str | Path) -> None:
         except FileNotFoundError:
             pass
         raise
+
+
+# Backward-compatible alias for the manifest-specific original name.
+write_manifest_atomic = atomic_write_parquet
+
+
+def _now_iso() -> str:
+    """ISO-8601 UTC second-precision timestamp for manifest ``fetch_ts``."""
+    return (
+        _dt.datetime.now(tz=_dt.timezone.utc)
+        .replace(microsecond=0)
+        .isoformat()
+    )
 
 
 def done_fetches(manifest_df: pl.DataFrame) -> set[tuple[str, str]]:

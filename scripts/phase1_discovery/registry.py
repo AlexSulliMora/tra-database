@@ -27,7 +27,6 @@ from __future__ import annotations
 
 import csv
 import json
-import os
 import re
 import sys
 import tempfile
@@ -37,6 +36,8 @@ import polars as pl
 
 from sec_edgar.client import EdgarClient
 from sec_edgar.submissions import fetch_submissions
+
+from phase1_discovery.manifest import atomic_write_parquet
 
 
 # Polars schema for the registry parquet. Column order is part of the
@@ -175,23 +176,6 @@ def _flatten_discovery_ciks(discovery_df: pl.DataFrame) -> list[str]:
     return ordered
 
 
-def _atomic_write_parquet(df: pl.DataFrame, dest: Path) -> None:
-    """Write ``df`` to ``dest`` via write-tmp-then-rename for crash safety."""
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    fd, tmp_name = tempfile.mkstemp(
-        prefix=dest.name + ".tmp.",
-        dir=str(dest.parent),
-    )
-    os.close(fd)
-    tmp_path = Path(tmp_name)
-    try:
-        df.write_parquet(tmp_path)
-        os.replace(tmp_path, dest)
-    except Exception:
-        tmp_path.unlink(missing_ok=True)
-        raise
-
-
 def build_or_update_registry(
     discovery_df: pl.DataFrame,
     mergers_csv_path: str | Path,
@@ -311,7 +295,7 @@ def build_or_update_registry(
     else:
         combined = existing
 
-    _atomic_write_parquet(combined, registry_path)
+    atomic_write_parquet(combined, registry_path)
     print(
         f"build_or_update_registry: wrote {combined.height} rows -> {registry_path} "
         f"({len(new_rows)} new this run)",

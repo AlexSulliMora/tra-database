@@ -49,14 +49,6 @@ def _default_end_yyyymm() -> str:
     return f"{today.year:04d}-{today.month:02d}"
 
 
-def _pad_cik(cik: str | int) -> str:
-    """Zero-pad to 10-digit canonical form."""
-    s = str(cik).strip().lstrip("0") or "0"
-    if not s.isdigit():
-        raise ValueError(f"CIK must be digits, got {cik!r}")
-    return s.zfill(10)
-
-
 def _first_cik(row_ciks) -> str | None:
     """Pull the first CIK from a discovery row's ``ciks`` field, zero-padded."""
     if row_ciks is None:
@@ -139,6 +131,12 @@ def run_phase1(
         registry_df = build_or_update_registry(
             discovery_df, mergers_csv, registry_path, client
         )
+        # Build the {cik_padded: slug} dict once before the acquisition
+        # loop so each acquire_filing call is O(1) on slug lookup
+        # rather than O(n) on a polars filter of the full registry.
+        slug_by_cik: dict[str, str] = dict(
+            zip(registry_df["cik"].to_list(), registry_df["slug"].to_list())
+        )
 
         # Step 3: Acquisition. Group discovery rows by canonical
         # filing CIK (first CIK in each row's ``ciks`` list), then
@@ -196,7 +194,7 @@ def run_phase1(
                 for acc_row in firm_rows:
                     new_rows = acquire_filing(
                         acc_row,
-                        registry_df,
+                        slug_by_cik,
                         output_root,
                         client,
                         done_set=done_set,
@@ -231,6 +229,7 @@ def run_phase1(
             end_date,
             manifest_path,
             marker_path=done_marker_path,
+            manifest_rows=int(manifest_df.height),
         )
         print(
             f"run_phase1: wrote done marker -> {done_marker_path}",
@@ -356,8 +355,7 @@ def _self_test() -> int:
 
 def main() -> int:
     """argparse-driven CLI entry point."""
-    today = _dt.date.today()
-    default_end = f"{today.year:04d}-{today.month:02d}"
+    default_end = _default_end_yyyymm()
 
     parser = argparse.ArgumentParser(
         description=(
