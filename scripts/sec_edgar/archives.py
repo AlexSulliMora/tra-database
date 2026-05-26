@@ -28,7 +28,6 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Iterable
 
 import polars as pl
 from bs4 import BeautifulSoup
@@ -59,10 +58,6 @@ def accession_no_dashes(accession: str) -> str:
             f"0000320193-23-000106); got {accession!r}"
         )
     return out
-
-
-# Backward-compatible alias; ``_accession_no_dashes`` is the prior private name.
-_accession_no_dashes = accession_no_dashes
 
 
 def _filing_dir(cik: str | int, accession: str) -> str:

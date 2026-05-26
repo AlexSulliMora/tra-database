@@ -52,7 +52,11 @@ from sec_edgar.archives import (
 from sec_edgar.client import EdgarClient
 from sec_edgar.submissions import pad_cik
 
-from phase1_discovery.manifest import MANIFEST_COLUMNS, _now_iso
+from phase1_discovery.manifest import (
+    FETCH_STATUS_VALUES,
+    MANIFEST_COLUMNS,
+    _now_iso,
+)
 from phase1_discovery.queries import (
     EX10_FILE_TYPE_PATTERN,
     TRA_DESCRIPTION_REGEX,
@@ -413,6 +417,43 @@ def _self_test() -> None:
     plus one ``primary-doc`` on the 8-K body. No other EX-10s match the
     description regex, so no further documents are fetched.
     """
+    # ----------------------------------------------------------------
+    # Pure-function test for _classify_status (R7). Maps every
+    # exception branch to its expected fetch_status value and asserts
+    # the result is in FETCH_STATUS_VALUES so a typo in the mapping
+    # would fail loudly here rather than silently mis-label production
+    # failures.
+    # ----------------------------------------------------------------
+    def _http_err(status_code: int) -> httpx.HTTPStatusError:
+        req = httpx.Request("GET", "https://example.com")
+        resp = httpx.Response(status_code=status_code, request=req)
+        return httpx.HTTPStatusError(
+            f"HTTP {status_code}", request=req, response=resp
+        )
+
+    classify_cases = [
+        (_http_err(404), "not-found-404"),
+        (_http_err(403), "redacted-403"),
+        (_http_err(429), "rate-limited"),
+        (_http_err(500), "other-error"),
+        (ValueError("parse fail"), "parse-error"),
+        (KeyError("missing"), "parse-error"),
+        (RuntimeError("???"), "other-error"),
+    ]
+    for exc, expected in classify_cases:
+        actual = _classify_status(exc)
+        assert actual == expected, (
+            f"_classify_status({type(exc).__name__}) = {actual!r}, "
+            f"expected {expected!r}"
+        )
+        assert actual in FETCH_STATUS_VALUES, (
+            f"_classify_status returned {actual!r} which is not in "
+            f"FETCH_STATUS_VALUES {sorted(FETCH_STATUS_VALUES)}"
+        )
+    print(
+        f"_classify_status: {len(classify_cases)} branches OK", flush=True
+    )
+
     test_cik_padded = "0001720592"
     test_accession = "0001213900-19-013004"
     expected_8k = "f8k0719_repayholdings.htm"

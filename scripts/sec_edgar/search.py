@@ -65,7 +65,7 @@ def _hit_to_row(hit: dict) -> dict:
     # The full-text search response embeds the accession plus matching filename as
     # ``<accession>:<filename>`` in the ``_id`` field. Split on the first
     # colon so ``adsh`` is a bare accession the rest of the package can
-    # pass to forms.fetch_filing / archives._accession_no_dashes.
+    # pass to forms.fetch_filing / archives.accession_no_dashes.
     raw_id = hit.get("_id") or src.get("adsh") or ""
     if ":" in raw_id:
         adsh, primary_doc = raw_id.split(":", 1)

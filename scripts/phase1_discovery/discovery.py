@@ -28,11 +28,13 @@ from __future__ import annotations
 import sys
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
 
 import polars as pl
 
 from sec_edgar.client import EdgarClient
 
+from phase1_discovery.manifest import atomic_write_parquet
 from phase1_discovery.queries import ALL_QUERY_VARIANTS, ALLOWED_FORMS
 from phase1_discovery.windows import (
     WindowOverflowError,
@@ -127,6 +129,15 @@ def sweep_discovery(
     written as parquet to ``output_path`` and returned alongside the
     accumulated overflow errors.
 
+    Always re-runs regardless of whether ``output_path`` already exists.
+    Caching of redundant EDGAR calls is handled at the ``EdgarClient``
+    layer (per-query response cache keyed by the search params hash); a
+    fresh process invocation that re-issues the same queries pays only
+    the cache-hit cost. The discovery parquet itself is therefore
+    always rewritten via ``atomic_write_parquet`` -- the rewritten file
+    is the success signal, and a crashed run leaves the previous
+    committed parquet intact (atomic rename).
+
     ``start_date`` and ``end_date`` are ``YYYY-MM`` strings.
     """
     overflow_errors: list[WindowOverflowError] = []
@@ -164,8 +175,7 @@ def sweep_discovery(
             schema={col: pl.String for col in DISCOVERY_COLUMNS}
         )
         out = Path(output_path)
-        out.parent.mkdir(parents=True, exist_ok=True)
-        empty.write_parquet(out)
+        atomic_write_parquet(empty, out)
         return empty, overflow_errors
 
     all_hits = pl.concat(per_variant_frames, how="vertical_relaxed")
@@ -195,8 +205,7 @@ def sweep_discovery(
     )
 
     out = Path(output_path)
-    out.parent.mkdir(parents=True, exist_ok=True)
-    union_df.write_parquet(out)
+    atomic_write_parquet(union_df, out)
     print(
         f"sweep_discovery: wrote {union_df.height} rows -> {out} "
         f"({len(overflow_errors)} overflow errors)",
@@ -205,14 +214,147 @@ def sweep_discovery(
     return union_df, overflow_errors
 
 
+def _hit_row(
+    adsh: str,
+    primary_doc: str | None,
+    form: str,
+    variant: str,
+    file_type: str = "8-K",
+) -> dict:
+    """Build a synthetic per-variant hit row matching search_filings shape."""
+    return {
+        "adsh": adsh,
+        "primary_doc": primary_doc,
+        "ciks": ["0000000001"],
+        "form": form,
+        "file_type": file_type,
+        "display_names": "Acme Corp [CIK 0000000001]",
+        "file_date": "2024-06-01",
+        "snippet": "tax receivable agreement",
+        "_variant": variant,
+    }
+
+
 def _self_test() -> None:
     """Operator-invoked sanity check.
 
-    Runs a small live-EDGAR sweep over a single known month (June 2024)
-    into a tempfile so the real ``data/tra-mentions/discovery.parquet``
-    is not clobbered. Asserts the returned DataFrame has the expected
-    columns and prints OK on success.
+    Five synthetic ``_union_documents`` / form-filter scenarios + one
+    monkeypatched WindowOverflowError accumulator scenario + one
+    live-EDGAR smoke at the end.
     """
+    # Synthetic test 1: same (adsh, primary_doc), two distinct variants
+    # collapse to one row whose phrase_variants_matched joins both.
+    frame1 = pl.DataFrame(
+        [
+            _hit_row("acc-1", "d1.htm", "8-K", '"tax receivable agreement"'),
+            _hit_row("acc-1", "d1.htm", "8-K", "TRA"),
+        ],
+        schema_overrides={"ciks": pl.List(pl.String)},
+    )
+    u1 = _union_documents(frame1)
+    assert u1.height == 1, f"test 1: expected 1 row, got {u1.height}"
+    pvm1 = u1["phrase_variants_matched"][0]
+    assert '"tax receivable agreement"' in pvm1 and "TRA" in pvm1, (
+        f"test 1: variants not joined; got {pvm1!r}"
+    )
+    assert "|" in pvm1, f"test 1: pipe join missing; got {pvm1!r}"
+
+    # Synthetic test 2: same adsh, NULL primary_doc on two rows -> 1
+    # union row (the accession-scoped null-sentinel collapses them).
+    frame2 = pl.DataFrame(
+        [
+            _hit_row("acc-2", None, "8-K", '"tax receivable agreement"'),
+            _hit_row("acc-2", None, "8-K", '"tax receivable agreements"'),
+        ],
+        schema_overrides={"ciks": pl.List(pl.String)},
+    )
+    u2 = _union_documents(frame2)
+    assert u2.height == 1, f"test 2: NULL primary_doc collapse failed; got {u2.height} rows"
+
+    # Synthetic test 3: same adsh, two DISTINCT primary_doc values -> 2
+    # union rows (separate documents inside the same accession).
+    frame3 = pl.DataFrame(
+        [
+            _hit_row("acc-3", "ex10-1.htm", "8-K", '"tax receivable agreement"'),
+            _hit_row("acc-3", "ex10-2.htm", "8-K", '"tax receivable agreement"'),
+        ],
+        schema_overrides={"ciks": pl.List(pl.String)},
+    )
+    u3 = _union_documents(frame3)
+    assert u3.height == 2, f"test 3: expected 2 distinct documents, got {u3.height}"
+    assert set(u3["primary_doc"].to_list()) == {"ex10-1.htm", "ex10-2.htm"}
+
+    # Synthetic test 4: form post-filter -- 10-K/A and 10-K are kept,
+    # N-1A is dropped. Mirror sweep_discovery's filter step inline.
+    frame4 = pl.DataFrame(
+        [
+            _hit_row("acc-4a", "d.htm", "10-K", '"tax receivable agreement"'),
+            _hit_row("acc-4b", "d.htm", "10-K/A", '"tax receivable agreement"'),
+            _hit_row("acc-4c", "d.htm", "N-1A", '"tax receivable agreement"'),
+        ],
+        schema_overrides={"ciks": pl.List(pl.String)},
+    )
+    filtered = frame4.filter(pl.col("form").is_in(list(ALLOWED_FORMS)))
+    forms_kept = set(filtered["form"].to_list())
+    assert forms_kept == {"10-K", "10-K/A"}, (
+        f"test 4: expected {{'10-K', '10-K/A'}}, got {forms_kept}"
+    )
+
+    # Synthetic test 5: WindowOverflowError accumulator. Monkeypatch
+    # query_month_with_halving to raise on month 2024-07 and return a
+    # small frame for 2024-06. Run sweep_discovery over the two-month
+    # range and assert the error is captured AND the other month's
+    # results land in the returned DataFrame.
+    canned_lf_meta = pl.DataFrame(
+        [_hit_row("acc-june", "ex10-1.htm", "8-K", '"tax receivable agreement"')],
+        schema_overrides={"ciks": pl.List(pl.String)},
+    ).drop("_variant")
+
+    def fake_qmh(query, year, month, client, cache_max_age_s=None):
+        if (year, month) == (2024, 7):
+            raise WindowOverflowError(
+                f"synthetic overflow on {year}-{month:02d} for {query!r}"
+            )
+        # Return the canned frame only for the canonical phrase variant
+        # so the other 4 variants return empty; keeps the assertion below
+        # simple (1 union row, not 5).
+        if query == '"tax receivable agreement"':
+            return canned_lf_meta, {"relation": "eq", "fetched": 1, "total": 1}
+        empty = pl.DataFrame(
+            schema={
+                "adsh": pl.String,
+                "primary_doc": pl.String,
+                "ciks": pl.List(pl.String),
+                "form": pl.String,
+                "file_type": pl.String,
+                "display_names": pl.String,
+                "file_date": pl.String,
+                "snippet": pl.String,
+            }
+        )
+        return empty, {"relation": "eq", "fetched": 0, "total": 0}
+
+    this_module = sys.modules[__name__]
+    tmp5 = Path(tempfile.mkdtemp(prefix="phase1-discovery-r5-")) / "discovery.parquet"
+    try:
+        with patch.object(this_module, "query_month_with_halving", side_effect=fake_qmh):
+            # client is unused under the patch.
+            df5, errors5 = sweep_discovery("2024-06", "2024-07", client=None, output_path=str(tmp5))
+        assert len(errors5) >= 1, (
+            f"expected at least one WindowOverflowError accumulated; got {errors5}"
+        )
+        # Each of the 5 variants raises in 2024-07, so we accumulate 5
+        # overflow errors (one per variant call).
+        assert df5.height == 1, (
+            f"expected 1 union row from canned June hit; got {df5.height}"
+        )
+        assert df5["adsh"][0] == "acc-june"
+    finally:
+        tmp5.unlink(missing_ok=True)
+        tmp5.parent.rmdir()
+
+    # Live smoke: small sweep over June 2024 into a tempfile so the
+    # canonical data/tra-mentions/discovery.parquet is not clobbered.
     start = "2024-06"
     end = "2024-06"
     with tempfile.NamedTemporaryFile(

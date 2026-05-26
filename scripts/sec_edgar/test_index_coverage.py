@@ -23,9 +23,9 @@ import polars as pl
 
 from sec_edgar.archives import (
     ARCHIVES_BASE,
+    accession_no_dashes,
     fetch_document,
     fetch_filing_index,
-    _accession_no_dashes,
     _strip_cik,
 )
 from sec_edgar.client import EdgarClient
@@ -130,7 +130,7 @@ def sample_filings(cli: EdgarClient, rng: random.Random) -> list[dict]:
 def doc_local_dir(year: int, form: str, cik: str, accession: str) -> Path:
     form_lit = form.replace("-", "")  # 10-K -> 10K, 8-K -> 8K
     cik_padded = cik.zfill(10)
-    acc_nd = _accession_no_dashes(accession)
+    acc_nd = accession_no_dashes(accession)
     return FINDINGS_ROOT / f"{year}-{form_lit}" / cik_padded / acc_nd
 
 

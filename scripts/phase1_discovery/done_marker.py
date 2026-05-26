@@ -32,7 +32,7 @@ import yaml
 from phase1_discovery.manifest import (
     MANIFEST_SCHEMA,
     _now_iso,
-    write_manifest_atomic,
+    atomic_write_parquet,
 )
 
 
@@ -164,7 +164,7 @@ def _self_test() -> None:
             },
         ]
         df = pl.DataFrame(rows, schema=MANIFEST_SCHEMA)
-        write_manifest_atomic(df, manifest_path)
+        atomic_write_parquet(df, manifest_path)
 
         marker_path = tmp_dir / ".phase1-done"
 

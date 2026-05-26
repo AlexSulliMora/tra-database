@@ -21,7 +21,6 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Iterable
 
 import polars as pl
 
@@ -37,10 +36,6 @@ def pad_cik(cik: str | int) -> str:
     if not s.isdigit():
         raise ValueError(f"CIK must be all digits, got {cik!r}")
     return s.zfill(10)
-
-
-# Backward-compatible alias; ``_pad_cik`` is the prior private name.
-_pad_cik = pad_cik
 
 
 def _recent_to_lazyframe(recent: dict) -> pl.LazyFrame:

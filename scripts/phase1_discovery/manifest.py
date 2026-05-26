@@ -15,7 +15,7 @@ terminal -- a successful download and each of the five failure modes
 all count as "done" for restart purposes, so a re-run can skip the
 accession/filename pair without another HTTP call (R15).
 
-Writes are atomic: ``write_manifest_atomic`` writes to
+Writes are atomic: ``atomic_write_parquet`` writes to
 ``<path>.tmp.<pid>`` and then ``os.rename`` to ``<path>``, which is
 atomic on the same filesystem. ``append_rows`` validates the two
 controlled vocabularies on every row so a typo in the caller (e.g. a
@@ -31,6 +31,7 @@ import os
 import sys
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
 
 import polars as pl
 
@@ -126,10 +127,6 @@ def atomic_write_parquet(df: pl.DataFrame, path: str | Path) -> None:
         except FileNotFoundError:
             pass
         raise
-
-
-# Backward-compatible alias for the manifest-specific original name.
-write_manifest_atomic = atomic_write_parquet
 
 
 def _now_iso() -> str:
@@ -264,7 +261,7 @@ def _self_test() -> None:
         assert df.columns == list(MANIFEST_COLUMNS)
 
         path = tmp_dir / "manifest.parquet"
-        write_manifest_atomic(df, path)
+        atomic_write_parquet(df, path)
         assert path.exists()
         # No leftover .tmp.<pid>.
         leftover = list(tmp_dir.glob("manifest.parquet.tmp.*"))
@@ -344,27 +341,25 @@ def _self_test() -> None:
 
         # 5. Atomic write: a mid-write crash leaves the previous
         # committed manifest intact. Simulate by writing a known-good
-        # manifest, then attempting a write whose tmp step raises BEFORE
-        # the rename.
+        # manifest, then patching DataFrame.write_parquet to raise
+        # inside the tmp-write step (before the rename).
         committed_path = tmp_dir / "committed.parquet"
-        write_manifest_atomic(df, committed_path)
+        atomic_write_parquet(df, committed_path)
         original_bytes = committed_path.read_bytes()
 
-        # Patch DataFrame.write_parquet on a sentinel DF to raise. We
-        # exercise the same atomic-write code path with a deliberate
-        # exception inside the tmp-write step.
-        class _ExplodingDF:
-            def write_parquet(self, _p):
-                raise RuntimeError("simulated crash mid-write")
-
-        try:
-            write_manifest_atomic(_ExplodingDF(), committed_path)  # type: ignore[arg-type]
-        except RuntimeError as exc:
-            assert "simulated crash" in str(exc)
-        else:
-            raise AssertionError(
-                "write_manifest_atomic swallowed the simulated crash"
-            )
+        with patch.object(
+            pl.DataFrame,
+            "write_parquet",
+            side_effect=RuntimeError("simulated crash mid-write"),
+        ):
+            try:
+                atomic_write_parquet(df, committed_path)
+            except RuntimeError as exc:
+                assert "simulated crash" in str(exc)
+            else:
+                raise AssertionError(
+                    "atomic_write_parquet swallowed the simulated crash"
+                )
 
         # Original file untouched.
         assert committed_path.read_bytes() == original_bytes, (

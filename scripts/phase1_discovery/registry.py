@@ -21,6 +21,15 @@ do not match are warned about and skipped. Duplicate predecessors with the
 same successor are silently deduplicated; duplicate predecessors with
 conflicting successors raise ``ValueError``. An absent CSV file is a valid
 first-run state and produces an empty merger map without warning.
+
+The CSV must be FLATTENED -- the operator is responsible for collapsing
+transitive chains. If A->B is already on file and a B->C merger occurs,
+the operator updates the existing A->B row to A->C rather than appending
+a new B->C row. Phase 1 enforces this by rejecting any map where a
+successor also appears as a predecessor: that pattern signals an
+unflattened chain that would cause a one-hop merger-map lookup to
+return a dead intermediate. See the plan's Key Technical Decisions
+section.
 """
 
 from __future__ import annotations
@@ -31,6 +40,7 @@ import re
 import sys
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
 
 import polars as pl
 
@@ -51,6 +61,22 @@ REGISTRY_SCHEMA: dict[str, pl.DataType] = {
     "last_filing_date": pl.String,
     "sic": pl.String,
 }
+
+
+def _slugify(name: str) -> str:
+    """Lowercase ``name``, collapse non-alphanumeric runs to single hyphens.
+
+    Verbatim from scripts/tra_download.py::_slugify. Raises ``ValueError``
+    on a name that slugifies to the empty string (e.g. all-punctuation
+    input). Examples::
+
+        "Vince Holding Corp." -> "vince-holding-corp"
+        "PG&E Corporation"    -> "pg-e-corporation"
+    """
+    base = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    if not base:
+        raise ValueError(f"slug for name={name!r} is empty after slugify")
+    return base
 
 
 def _read_existing_registry(registry_path: Path) -> pl.DataFrame:
@@ -78,6 +104,14 @@ def _read_merger_map(mergers_csv_path: Path) -> dict[str, str]:
     silent dedupe on identical duplicates, and raises ``ValueError`` on
     duplicate predecessors with conflicting successors. Absent file
     returns an empty mapping with no warning (valid first-run state).
+
+    Also enforces the FLATTENED-CSV invariant: a successor must not
+    itself appear as a predecessor in the same map. The merger-map
+    lookup is one-hop only; if A->B and B->C both have rows, looking
+    up A returns the dead intermediate B. The operator's contract per
+    the plan's Key Technical Decisions is to update A->B in place to
+    A->C rather than append a second row. A violation raises
+    ``ValueError`` with the offending pair in the message.
     """
     if not mergers_csv_path.exists():
         return {}
@@ -130,6 +164,21 @@ def _read_merger_map(mergers_csv_path: Path) -> dict[str, str]:
                     f"to conflicting successors {merger_map[pred]} and {succ}"
                 )
             merger_map[pred] = succ
+    # Flattened-CSV invariant: a successor must NOT also be a predecessor
+    # in the same map. The one-hop lookup in build_or_update_registry
+    # would otherwise return a dead intermediate. The operator is
+    # responsible for collapsing A->B + B->C into A->C in place; see the
+    # plan's Key Technical Decisions section.
+    predecessors = set(merger_map.keys())
+    for pred, succ in merger_map.items():
+        if succ in predecessors:
+            raise ValueError(
+                f"merger CSV {mergers_csv_path} has unflattened chain: "
+                f"{pred} -> {succ}, but {succ} also has a row "
+                f"({succ} -> {merger_map[succ]}). Operator must flatten "
+                f"this chain by updating the {pred} row to point at the "
+                f"terminal successor -- see plan Key Technical Decisions."
+            )
     return merger_map
 
 
@@ -240,12 +289,12 @@ def build_or_update_registry(
                 f"static_dict={static_dict!r}"
             )
 
-        # Slug derivation -- verbatim from scripts/tra_download.py::_slugify.
-        base_slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
-        if not base_slug:
+        try:
+            base_slug = _slugify(name)
+        except ValueError as exc:
             raise ValueError(
                 f"slug for CIK {cik} (name={name!r}) is empty after slugify"
-            )
+            ) from exc
 
         slug = base_slug
         suffix = 2
@@ -307,11 +356,240 @@ def build_or_update_registry(
 def _self_test() -> None:
     """Operator-invoked sanity check against live EDGAR.
 
-    Builds a synthetic 3-row discovery DataFrame for three known TRA-filer
-    CIKs (Vince Holding, Surgery Partners, Parsley Energy), writes an
-    empty merger CSV, calls ``build_or_update_registry``, and asserts the
-    returned DataFrame is well-formed. Cleans up the temp directory.
+    Pure-function and error-path tests first; then a 3-CIK live
+    integration smoke at the end. Synthetic tests cover slug rules,
+    collision suffix, AE2 (merger CSV first-encounter), AE3 (existing
+    row lock), and every documented merger-map error path.
     """
+    # ----------------------------------------------------------------
+    # Slug-rule tests on _slugify.
+    # ----------------------------------------------------------------
+    assert _slugify("Vince Holding Corp.") == "vince-holding-corp", (
+        f"got {_slugify('Vince Holding Corp.')!r}"
+    )
+    assert _slugify("PG&E Corporation") == "pg-e-corporation", (
+        f"got {_slugify('PG&E Corporation')!r}"
+    )
+    # All-punctuation slugifies to empty -> raises ValueError.
+    raised_empty = False
+    try:
+        _slugify("!!!")
+    except ValueError:
+        raised_empty = True
+    assert raised_empty, "_slugify on all-punctuation should raise"
+
+    # ----------------------------------------------------------------
+    # _read_merger_map error-path tests.
+    # ----------------------------------------------------------------
+    err_tmp = Path(tempfile.mkdtemp(prefix="phase1-registry-mergers-"))
+    try:
+        # Non-existent path -> empty dict, no warning, no error.
+        absent = err_tmp / "does-not-exist.csv"
+        assert _read_merger_map(absent) == {}
+
+        # 8-digit (non-padded) CIK row -> logs warning, skips row.
+        short_csv = err_tmp / "short.csv"
+        short_csv.write_text(
+            "predecessor_cik,successor_cik\n12345678,0000000002\n",
+            encoding="utf-8",
+        )
+        # Should NOT raise; row is skipped.
+        result = _read_merger_map(short_csv)
+        assert result == {}, (
+            f"expected empty map after skipping short CIK row; got {result}"
+        )
+
+        # Two rows naming same predecessor with different successors -> ValueError.
+        conflict_csv = err_tmp / "conflict.csv"
+        conflict_csv.write_text(
+            "predecessor_cik,successor_cik\n"
+            "0000000001,0000000002\n"
+            "0000000001,0000000003\n",
+            encoding="utf-8",
+        )
+        raised_conflict = False
+        try:
+            _read_merger_map(conflict_csv)
+        except ValueError as exc:
+            raised_conflict = True
+            assert "conflicting successors" in str(exc), (
+                f"unexpected error message: {exc}"
+            )
+        assert raised_conflict, "conflict CSV should raise ValueError"
+
+        # Unflattened chain A->B and B->C in same CSV -> ValueError (R3).
+        unflattened_csv = err_tmp / "unflattened.csv"
+        unflattened_csv.write_text(
+            "predecessor_cik,successor_cik\n"
+            "0000000001,0000000002\n"
+            "0000000002,0000000003\n",
+            encoding="utf-8",
+        )
+        raised_chain = False
+        try:
+            _read_merger_map(unflattened_csv)
+        except ValueError as exc:
+            raised_chain = True
+            assert "unflattened chain" in str(exc), (
+                f"unexpected error message: {exc}"
+            )
+        assert raised_chain, "unflattened chain CSV should raise ValueError"
+
+        # Identical-duplicate row -> silently deduplicated.
+        dup_csv = err_tmp / "dup.csv"
+        dup_csv.write_text(
+            "predecessor_cik,successor_cik\n"
+            "0000000001,0000000002\n"
+            "0000000001,0000000002\n",
+            encoding="utf-8",
+        )
+        dup_map = _read_merger_map(dup_csv)
+        assert dup_map == {"0000000001": "0000000002"}, (
+            f"identical-dup CSV: got {dup_map}"
+        )
+    finally:
+        for child in err_tmp.iterdir():
+            child.unlink()
+        err_tmp.rmdir()
+
+    # ----------------------------------------------------------------
+    # AE2: merger CSV first-encounter applies successor's name to
+    # the predecessor's registry row.
+    # AE3: existing rows are never re-keyed even if the CSV grows.
+    # Both use a monkeypatched fetch_submissions so they avoid the live
+    # network and run deterministically.
+    # ----------------------------------------------------------------
+
+    # Canned static_dicts keyed by zero-padded CIK so the patched
+    # fetch_submissions can return the right name for each call.
+    canned_submissions = {
+        "0000000001": ("Predecessor Corp.", "2010-01-01", "2020-12-31"),
+        "0000000002": ("Successor Holdings", "2018-06-01", "2025-01-01"),
+        "0000000003": ("Third Co.", "2015-01-01", "2024-01-01"),
+    }
+
+    def fake_fetch(cik, client=None, cache_root=None, cache_max_age_s=None):
+        name, first, last = canned_submissions[cik]
+        lf = pl.LazyFrame(
+            {"filingDate": [first, last]},
+            schema={"filingDate": pl.String},
+        )
+        static = {"name": name, "formerNames": [], "sic": "6199"}
+        return lf, static
+
+    ae_tmp = Path(tempfile.mkdtemp(prefix="phase1-registry-ae-"))
+    try:
+        # AE2: discovery has the predecessor CIK only; merger CSV maps
+        # 0000000001 -> 0000000002. After build_or_update_registry, the
+        # predecessor's row should carry the SUCCESSOR's name + slug,
+        # but the row's ``cik`` column is the originally-discovered CIK.
+        ae2_csv = ae_tmp / "ae2-mergers.csv"
+        ae2_csv.write_text(
+            "predecessor_cik,successor_cik\n0000000001,0000000002\n",
+            encoding="utf-8",
+        )
+        ae2_registry = ae_tmp / "ae2-registry.parquet"
+        discovery_ae2 = pl.DataFrame(
+            {
+                "adsh": ["acc-ae2"],
+                "primary_doc": ["doc.htm"],
+                "ciks": [["0000000001"]],
+            },
+            schema={
+                "adsh": pl.String,
+                "primary_doc": pl.String,
+                "ciks": pl.List(pl.String),
+            },
+        )
+        this_module = sys.modules[__name__]
+        with patch.object(this_module, "fetch_submissions", side_effect=fake_fetch):
+            ae2_result = build_or_update_registry(
+                discovery_ae2, ae2_csv, ae2_registry, client=None
+            )
+        assert ae2_result.height == 1
+        ae2_row = ae2_result.row(0, named=True)
+        assert ae2_row["cik"] == "0000000001", (
+            f"AE2: registry row's CIK should be the discovered (predecessor) CIK; "
+            f"got {ae2_row['cik']!r}"
+        )
+        assert ae2_row["current_name"] == "Successor Holdings", (
+            f"AE2: registry row should carry SUCCESSOR's name; got {ae2_row['current_name']!r}"
+        )
+        assert ae2_row["slug"] == "successor-holdings", (
+            f"AE2: slug should derive from successor name; got {ae2_row['slug']!r}"
+        )
+
+        # AE3: existing-row lock. Persist the AE2 registry, then update
+        # the CSV to map 0000000001 -> 0000000003 (a different
+        # successor). Re-run with no new CIKs in discovery -- the
+        # existing 0000000001 row should be byte-identical.
+        ae3_csv = ae_tmp / "ae3-mergers.csv"
+        ae3_csv.write_text(
+            "predecessor_cik,successor_cik\n0000000001,0000000003\n",
+            encoding="utf-8",
+        )
+        # Re-run with same discovery_df (no new CIKs).
+        original_bytes = ae2_registry.read_bytes()
+        with patch.object(this_module, "fetch_submissions", side_effect=fake_fetch):
+            ae3_result = build_or_update_registry(
+                discovery_ae2, ae3_csv, ae2_registry, client=None
+            )
+        assert ae3_result.height == 1
+        ae3_row = ae3_result.row(0, named=True)
+        assert ae3_row == ae2_row, (
+            f"AE3: existing row was modified across re-run with new merger CSV. "
+            f"before={ae2_row} after={ae3_row}"
+        )
+        # On-disk bytes should also be unchanged (no rewrite needed
+        # since no new rows, but atomic_write_parquet does rewrite --
+        # so we accept byte difference here and only require the row
+        # dict to be unchanged, which we just checked).
+        del original_bytes
+
+        # ----------------------------------------------------------------
+        # Collision suffix: two distinct CIKs that produce the same base
+        # slug -> first gets bare, second gets "-2".
+        # ----------------------------------------------------------------
+        canned_submissions["0000000004"] = ("Acme Corp", "2010-01-01", "2020-01-01")
+        canned_submissions["0000000005"] = ("ACME Corp.", "2011-01-01", "2021-01-01")
+        coll_csv = ae_tmp / "coll-mergers.csv"
+        coll_csv.write_text(
+            "predecessor_cik,successor_cik\n", encoding="utf-8"
+        )
+        coll_registry = ae_tmp / "coll-registry.parquet"
+        discovery_coll = pl.DataFrame(
+            {
+                "adsh": ["a", "b"],
+                "primary_doc": ["d", "d"],
+                "ciks": [["0000000004"], ["0000000005"]],
+            },
+            schema={
+                "adsh": pl.String,
+                "primary_doc": pl.String,
+                "ciks": pl.List(pl.String),
+            },
+        )
+        with patch.object(this_module, "fetch_submissions", side_effect=fake_fetch):
+            coll_result = build_or_update_registry(
+                discovery_coll, coll_csv, coll_registry, client=None
+            )
+        coll_map = {
+            r["cik"]: r["slug"] for r in coll_result.iter_rows(named=True)
+        }
+        assert coll_map.get("0000000004") == "acme-corp", (
+            f"first encounter should get bare slug; got {coll_map}"
+        )
+        assert coll_map.get("0000000005") == "acme-corp-2", (
+            f"second encounter should get -2 suffix; got {coll_map}"
+        )
+    finally:
+        for child in ae_tmp.iterdir():
+            child.unlink()
+        ae_tmp.rmdir()
+
+    # ----------------------------------------------------------------
+    # Live integration smoke (existing test, kept as-is).
+    # ----------------------------------------------------------------
     test_ciks = [
         "0001579298",  # Vince Holding Corp
         "0001638833",  # Surgery Partners

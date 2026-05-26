@@ -22,6 +22,7 @@ import calendar
 import sys
 import time
 from collections.abc import Iterator
+from unittest.mock import patch
 
 import httpx
 import polars as pl
@@ -109,7 +110,6 @@ def _search_with_retry(
     attempts, 1.5s backoff between them; non-5xx HTTP errors raise on
     the first failure.
     """
-    last_exc: Exception | None = None
     for attempt in range(max_attempts):
         try:
             return search_filings(
@@ -120,15 +120,10 @@ def _search_with_retry(
                 cache_max_age_s=cache_max_age_s,
             )
         except httpx.HTTPStatusError as exc:
-            last_exc = exc
             if exc.response.status_code >= 500 and attempt < max_attempts - 1:
                 time.sleep(backoff_s)
                 continue
             raise
-    # Unreachable: the loop either returns or re-raises. Defensive.
-    raise RuntimeError(
-        f"_search_with_retry exhausted {max_attempts} attempts"
-    ) from last_exc
 
 
 def _is_overflow(meta: dict) -> bool:
@@ -257,6 +252,94 @@ def _self_test() -> None:
     assert _merge_relation("eq", "eq") == "eq"
     assert _merge_relation("eq", "gte") == "gte"
     assert _merge_relation("gte", "eq") == "gte"
+
+    # Synthetic halving test: monkeypatch _search_with_retry so the
+    # month call reports overflow and the two biweekly halves each
+    # return a small non-overflow result. Assert the merged meta
+    # carries ``halved=True`` and the returned DataFrame combines both
+    # halves' rows.
+    #
+    # The patch returns (LazyFrame, meta_dict) shaped like
+    # search_filings. We script the per-call return values via a
+    # side_effect list: call 1 (full month) overflows, calls 2 and 3
+    # (biweekly halves) return small frames.
+    month_lf = pl.LazyFrame(
+        {"adsh": ["m1"]},
+        schema={"adsh": pl.String},
+    )
+    half1_lf = pl.LazyFrame(
+        {"adsh": ["h1a", "h1b"]},
+        schema={"adsh": pl.String},
+    )
+    half2_lf = pl.LazyFrame(
+        {"adsh": ["h2a"]},
+        schema={"adsh": pl.String},
+    )
+    halving_returns = [
+        (month_lf, {"relation": "gte", "fetched": 9500, "total": 10000, "hit_cap": False}),
+        (half1_lf, {"relation": "eq", "fetched": 2, "total": 2, "hit_cap": False}),
+        (half2_lf, {"relation": "eq", "fetched": 1, "total": 1, "hit_cap": False}),
+    ]
+    # When this module is invoked as ``python -m phase1_discovery.windows``
+    # the running module is registered as both ``__main__`` and
+    # ``phase1_discovery.windows``. ``query_month_with_halving`` resolves
+    # ``_search_with_retry`` in whichever module dict it lives in at
+    # call time -- which under ``-m`` is the ``__main__`` copy. Patch the
+    # current module's globals directly so the lookup hits our side_effect
+    # regardless of import path.
+    this_module = sys.modules[__name__]
+    with patch.object(
+        this_module, "_search_with_retry", side_effect=halving_returns
+    ):
+        df, meta = query_month_with_halving(
+            "synthetic-overflow", 2024, 6, client=None  # client unused under patch
+        )
+    assert meta.get("halved") is True, (
+        f"expected halved=True after biweekly split; meta={meta}"
+    )
+    assert df.height == 3, (
+        f"expected 3 rows from concatenated biweekly halves; got {df.height}"
+    )
+    assert set(df["adsh"].to_list()) == {"h1a", "h1b", "h2a"}, (
+        f"expected the two halves to be concatenated; got {df['adsh'].to_list()}"
+    )
+    assert meta["fetched"] == 3, (
+        f"merged fetched should sum biweekly halves; got {meta['fetched']}"
+    )
+    assert meta["relation"] == "eq", (
+        f"both halves were 'eq' so merged relation should be 'eq'; got {meta['relation']!r}"
+    )
+
+    # Synthetic both-halves-overflow test: month overflows, then both
+    # biweekly halves also overflow -> WindowOverflowError.
+    both_overflow_returns = [
+        (month_lf, {"relation": "gte", "fetched": 10000, "total": 10000, "hit_cap": True}),
+        (half1_lf, {"relation": "gte", "fetched": 9600, "total": 10000, "hit_cap": False}),
+        # The second biweekly call should not happen, but provide a fallback
+        # in case the implementation reorders -- it should still raise on
+        # the first overflowing half.
+        (half2_lf, {"relation": "gte", "fetched": 9700, "total": 10000, "hit_cap": False}),
+    ]
+    raised = False
+    with patch.object(
+        this_module, "_search_with_retry", side_effect=both_overflow_returns
+    ):
+        try:
+            query_month_with_halving(
+                "synthetic-both-overflow", 2024, 6, client=None
+            )
+        except WindowOverflowError as exc:
+            raised = True
+            msg = str(exc)
+            assert "2024-06" in msg, (
+                f"WindowOverflowError message should name the failing month; "
+                f"got {msg!r}"
+            )
+            assert "synthetic-both-overflow" in msg, (
+                f"WindowOverflowError message should name the failing query; "
+                f"got {msg!r}"
+            )
+    assert raised, "query_month_with_halving did not raise on double-overflow"
 
     # ONE live-network call: a known small window for the canonical
     # phrase variant. June 2024 is well under the 10k cap for the

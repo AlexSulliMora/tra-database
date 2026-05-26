@@ -38,7 +38,7 @@ from phase1_discovery.manifest import (
     append_rows,
     done_fetches,
     read_manifest,
-    write_manifest_atomic,
+    atomic_write_parquet,
 )
 from phase1_discovery.registry import build_or_update_registry
 
@@ -202,7 +202,7 @@ def run_phase1(
                     firm_new_rows.extend(new_rows)
                 if firm_new_rows:
                     manifest_df = append_rows(manifest_df, firm_new_rows)
-                    write_manifest_atomic(manifest_df, manifest_path)
+                    atomic_write_parquet(manifest_df, manifest_path)
                     # Bring done_set up to date so subsequent firms in
                     # the same run also see what we just persisted.
                     for r in firm_new_rows:
@@ -219,7 +219,7 @@ def run_phase1(
         # were appended (e.g., an empty discovery sweep). The done
         # marker requires a manifest file to hash.
         if not manifest_path.exists():
-            write_manifest_atomic(manifest_df, manifest_path)
+            atomic_write_parquet(manifest_df, manifest_path)
 
         # Step 4: Done marker. R14: written only on full success at
         # the end of the run.
