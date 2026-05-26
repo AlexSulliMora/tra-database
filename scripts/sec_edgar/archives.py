@@ -3,10 +3,17 @@
 Fetches primary filing documents from
 ``https://www.sec.gov/Archives/edgar/data/<CIK>/<accession-no-dashes>/<filename>``.
 
-Two operations:
+Three operations:
 
 - :func:`fetch_filing_index` reads the filing's ``index.json``, which
-  lists every document in the submission.
+  lists every document in the submission (filename, file-icon hint,
+  size, last-modified). The ``type`` column from ``index.json`` is a
+  file-icon hint (``text.gif``, ``image2.gif``), NOT the exhibit class.
+- :func:`fetch_filing_index_html` reads the filing's per-accession
+  HTML index page and parses its Documents table; this exposes the
+  real exhibit ``Type`` (``EX-10.1``, ``EX-99``, ...) and the
+  ``Description`` column that callers like Phase 1 acquisition need
+  but which ``index.json`` does not carry.
 - :func:`fetch_document` reads a named document from the filing folder.
 
 Binary content (PDF, ZIP) is returned as ``bytes``; text content (HTML,
@@ -24,6 +31,7 @@ from pathlib import Path
 from typing import Iterable
 
 import polars as pl
+from bs4 import BeautifulSoup
 
 from sec_edgar.client import EdgarClient
 
@@ -91,6 +99,127 @@ def fetch_filing_index(
     if not items:
         return pl.LazyFrame(schema={"name": pl.String})
     return pl.DataFrame(items).lazy()
+
+
+# Polars schema for fetch_filing_index_html's return value. Column order
+# is part of the contract with callers (Phase 1 acquisition pins on it).
+_INDEX_HTML_SCHEMA: dict[str, pl.DataType] = {
+    "seq": pl.Int64,
+    "description": pl.String,
+    "name": pl.String,
+    "type": pl.String,
+    "size": pl.String,
+}
+
+
+def fetch_filing_index_html(
+    cik: str | int,
+    accession: str,
+    client: EdgarClient | None = None,
+    cache_root: Path = CACHE_ROOT,
+    cache_max_age_s: float = DEFAULT_MAX_AGE_S,
+) -> pl.DataFrame:
+    """Fetch and parse the per-accession HTML filing-index page.
+
+    Returns a polars DataFrame with one row per document in the filing,
+    columns ``seq`` (Int64; null for rows where EDGAR leaves Seq blank,
+    e.g. the bottom ``Complete submission text file`` row), ``description``
+    (str), ``name`` (str), ``type`` (str), ``size`` (str). The ``type``
+    column holds the real exhibit class (``EX-10.1``, ``EX-99.1``,
+    ``8-K``, ``GRAPHIC``), distinct from :func:`fetch_filing_index`'s
+    ``type`` which is a file-icon hint.
+
+    The HTML page is fetched from the canonical
+    ``<accession-with-dashes>-index.htm`` URL form (not the directory-
+    listing form, which 301-redirects to add a trailing slash and
+    interacts badly with the URL-keyed response cache).
+
+    Parses both the ``summary='Document Format Files'`` table and the
+    ``summary='Data Files'`` table (XBRL extension files), concatenated.
+    A handful of historical filings predate the ``summary`` attribute;
+    those fall back to ``class='tableFile'``.
+    """
+    cik_n = _strip_cik(cik)
+    acc_nd = _accession_no_dashes(accession)
+    # Accession-with-dashes is the original ``accession`` string after a
+    # canonicalization-safe round-trip via ``_accession_no_dashes`` (which
+    # validates length and digits-only). Reinsert the two dashes.
+    acc_dashed = f"{acc_nd[:10]}-{acc_nd[10:12]}-{acc_nd[12:]}"
+    url = f"{ARCHIVES_BASE}/{cik_n}/{acc_nd}/{acc_dashed}-index.htm"
+    cache_path = cache_root / cik_n / acc_nd / "index.htm"
+
+    own = client is None
+    cli = client if client is not None else EdgarClient()
+    try:
+        body, _meta = cli.get(
+            url, cache_path=cache_path, cache_max_age_s=cache_max_age_s
+        )
+    finally:
+        if own:
+            cli.close()
+
+    soup = BeautifulSoup(body, "html.parser")
+
+    # Preferred: locate tables by ``summary`` attribute. Empirically the
+    # filings index page has two: 'Document Format Files' (primary doc +
+    # exhibits) and 'Data Files' (XBRL). Both share the same column
+    # order, so we parse and concatenate.
+    candidate_tables: list = []
+    for summ in ("Document Format Files", "Data Files"):
+        t = soup.find("table", summary=summ)
+        if t is not None:
+            candidate_tables.append(t)
+    # Fallback: any ``class='tableFile'`` not already collected. This
+    # covers older filings that may lack the ``summary`` attribute.
+    if not candidate_tables:
+        for t in soup.find_all("table", class_="tableFile"):
+            candidate_tables.append(t)
+    if not candidate_tables:
+        raise ValueError(
+            f"no Documents table found in index HTML at {url}"
+        )
+
+    rows: list[dict] = []
+    for table in candidate_tables:
+        for tr in table.find_all("tr"):
+            cells = tr.find_all("td")
+            if len(cells) < 5:
+                # Header row (th cells) or malformed row -- skip.
+                continue
+            seq_raw = cells[0].get_text(strip=True)
+            try:
+                seq: int | None = int(seq_raw) if seq_raw else None
+            except ValueError:
+                seq = None
+            description = cells[1].get_text(strip=True)
+            # Prefer the anchor text (clean filename); fall back to the
+            # cell text. The Document cell sometimes contains an iXBRL
+            # link with a styled span suffix; the anchor text is the
+            # canonical filename without that decoration.
+            doc_cell = cells[2]
+            anchor = doc_cell.find("a")
+            if anchor is not None:
+                name = anchor.get_text(strip=True)
+                if not name:
+                    href = anchor.get("href", "")
+                    name = href.rsplit("/", 1)[-1] if href else ""
+            else:
+                name = doc_cell.get_text(strip=True)
+            typ = cells[3].get_text(strip=True)
+            size = cells[4].get_text(strip=True)
+            rows.append(
+                {
+                    "seq": seq,
+                    "description": description,
+                    "name": name,
+                    "type": typ,
+                    "size": size,
+                }
+            )
+
+    if not rows:
+        return pl.DataFrame(schema=_INDEX_HTML_SCHEMA)
+    return pl.DataFrame(rows, schema=_INDEX_HTML_SCHEMA)
 
 
 def fetch_document(
