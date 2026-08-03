@@ -18,6 +18,9 @@ jupyterlab = ">=4.0"
 ipykernel = ">=6.0"
 httpx = ">=0.28.1,<0.29"
 beautifulsoup4 = ">=4.14.3,<5"
+edgartools = ">=5.31.1,<6"
+python-dotenv = ">=1.2.2,<2"
 
 [pypi-dependencies]
 playwright = ">=1.60.0, <2"
+sec2md = ">=0.1.23, <0.2"

@@ -28,12 +28,13 @@ PHRASE_VARIANTS: tuple[str, str, str, str] = (
     '"tax receivables agreements"',
 )
 
-# Fifth query variant (R1): the bare token "TRA". Passed to EDGAR full-
-# text search as a single unquoted token; the search backend treats it
-# as a whole-word match, which is the desired semantics (we want
-# "TRA" the acronym, not the substring inside "transfer" or
-# "transaction").
-TRA_TOKEN_QUERY: str = "TRA"
+# Fifth query variant (R1): the acronym "TRA" sent as an EDGAR phrase
+# query with embedded quotation marks (``q='"TRA"'``). Unquoted single
+# tokens are subject to EDGAR full-text-search tokenization that returns
+# unrelated matches (e.g., JPMorgan 424B2 prospectus supplements where
+# "TRA" appears as a ticker or CUSIP fragment); the quoted form forces
+# whole-word matching on the exact 3-character string.
+TRA_TOKEN_QUERY: str = '"TRA"'
 
 # Union of all 5 query variants used by the discovery sweep (R1).
 ALL_QUERY_VARIANTS: tuple[str, ...] = (*PHRASE_VARIANTS, TRA_TOKEN_QUERY)
@@ -105,7 +106,11 @@ def _self_test() -> None:
         '"tax receivables agreement"',
         '"tax receivables agreements"',
     )
-    assert TRA_TOKEN_QUERY == "TRA"
+    assert TRA_TOKEN_QUERY == '"TRA"', (
+        "TRA token query must include embedded double quotes so EDGAR "
+        "full-text search treats it as a phrase match, not a tokenized "
+        f"single word; got {TRA_TOKEN_QUERY!r}"
+    )
     assert ALL_QUERY_VARIANTS[-1] == TRA_TOKEN_QUERY
 
     # R4: the enumerated list contains 24 forms. (The brainstorm's

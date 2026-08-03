@@ -10,6 +10,12 @@ timelines at both the firm level and the per-TRA level.
   discovery to structured database).
 - `docs/tra-background.md` — TRA subject-matter reference (what a TRA is,
   title patterns, anatomy, defining terminology, termination rules).
+- `.claude/skills/sec-edgar/` — authoritative reference for everything
+  EDGAR-related: full-text search query syntax (including the phrase-quoting
+  rule — `q='"TRA"'` not `q="TRA"`), Submissions API shape, archives
+  retrieval, rate limits, the 10,000-result hard cap, caching conventions.
+  Read this skill before writing any new EDGAR query code or changing how
+  an existing query is constructed.
 
 ## Environment
 

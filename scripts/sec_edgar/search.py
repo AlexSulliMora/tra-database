@@ -38,7 +38,14 @@ CACHE_ROOT = Path(".tra_history_cache/edgar_search")
 EDGAR_FULLTEXT_URL = "https://efts.sec.gov/LATEST/search-index"
 DEFAULT_MAX_AGE_S = 24 * 3600  # 1 day; search index is live
 PAGE_CAP = 10000  # SEC: from + size <= 10000
-PAGE_SIZE = 100  # SEC documented maximum
+# SEC documented maximum is 100, but the FTS backend returns 500
+# Internal Server Error deterministically for short-phrase queries
+# (e.g. ``q='"TRA"'``) at certain offset/size combinations around 200-299
+# with size=100. Halving to 50 dodges the bug at the cost of an extra
+# paginated request per ~100 results. Verified 2026-05-26 against
+# ``q='"TRA"'`` for 2024-02 where size=100 at offset=200 returns 500
+# and size=50 at the same offset returns 200.
+PAGE_SIZE = 50
 
 # Columns the caller can rely on. Some hits may not carry every field;
 # missing values come through as nulls.
