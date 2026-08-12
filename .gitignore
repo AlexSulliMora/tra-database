@@ -6,6 +6,9 @@ sec-data-pqt/
 # EDGAR query output (regenerable from the pipeline; ~1.8 GB of exhibits)
 data/
 
+# no longer needed; has broken paths for windows machines
+coauthor/
+
 # Python bytecode
 __pycache__/
 *.pyc
