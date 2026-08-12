@@ -1,7 +1,6 @@
 # Local caches (regenerable; out of repo)
 .pixi/
 .tra_history_cache/
-sec-data-pqt/
 
 # EDGAR query output: bulk data regenerable from the pipeline (~1.8 GB of exhibits)
 data/edgar-query/exhibits/
@@ -11,6 +10,7 @@ data/edgar-query/run.log
 
 # Working / scratch artifacts (regenerable; out of repo)
 tmp/
+coauthor/
 
 # Quarto rendered output and bundled assets (regenerable from .qmd sources)
 docs/*.html
